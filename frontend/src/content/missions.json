@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mission_1",
+    "title": "Journey to the Taj Mahal",
+    "route_from": "Delhi",
+    "route_to": "Agra",
+    "xp_reward": 50,
+    "coin_reward": 20,
+    "order": 1
+  },
+  {
+    "id": "mission_2",
+    "title": "The Mighty Ganges",
+    "route_from": "Agra",
+    "route_to": "Varanasi",
+    "xp_reward": 60,
+    "coin_reward": 25,
+    "order": 2
+  },
+  {
+    "id": "mission_3",
+    "title": "Land of Spices",
+    "route_from": "Varanasi",
+    "route_to": "Kerala",
+    "xp_reward": 70,
+    "coin_reward": 30,
+    "order": 3
+  }
+]

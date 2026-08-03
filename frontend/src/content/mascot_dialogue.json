@@ -1,0 +1,76 @@
+{
+  "city_landmarks": {
+    "Delhi": {
+      "image": "/assets/monuments/india-gate.svg",
+      "title": "India Gate"
+    },
+    "Agra": {
+      "image": "/assets/monuments/taj-mahal.svg",
+      "title": "The Taj Mahal"
+    },
+    "Varanasi": {
+      "image": "/assets/monuments/ganga-ghats.svg",
+      "title": "Ganga Ghats"
+    },
+    "Kerala": {
+      "image": "/assets/monuments/kerala-backwaters.svg",
+      "title": "Kerala Backwaters"
+    }
+  },
+  "missions": {
+    "mission_1": {
+      "city": "Agra",
+      "welcome": "Namaste! Welcome to Agra, home of the magnificent Taj Mahal!",
+      "facts": [
+        "Did you know? The Taj Mahal changes color depending on the time of day!",
+        "The Taj Mahal is made of white marble and took over 20 years to build."
+      ],
+      "monument": {
+        "title": "The Taj Mahal",
+        "location": "Agra, Uttar Pradesh",
+        "description": "One of the Seven Wonders of the World, built on the banks of the Yamuna River. Known worldwide for its beautiful white marble dome and gardens.",
+        "badge": "🕌 Landmark Unlocked!",
+        "image": "/assets/monuments/taj-mahal.svg",
+        "xp_bonus": 50
+      }
+    },
+    "mission_2": {
+      "city": "Varanasi",
+      "welcome": "Har Har Gange! We have arrived at ancient Varanasi on the banks of the holy River Ganga!",
+      "facts": [
+        "Varanasi is one of the oldest continuously inhabited cities in the world!",
+        "Thousands of earthen lamps are floated on the Ganga river during Dev Deepawali."
+      ],
+      "monument": {
+        "title": "Ganga Ghats of Varanasi",
+        "location": "Varanasi, Uttar Pradesh",
+        "description": "Historic riverfront steps along the sacred River Ganga, famous for evening Ganga Aarti ceremonies and rich cultural heritage.",
+        "badge": "🌊 Sacred River Unlocked!",
+        "image": "/assets/monuments/ganga-ghats.svg",
+        "xp_bonus": 60
+      }
+    },
+    "mission_3": {
+      "city": "Kerala",
+      "welcome": "Swagatham! Welcome to Kerala — God's Own Country, land of coconuts and spices!",
+      "facts": [
+        "Kerala grows over 70% of India's spices, including black pepper known as 'Black Gold'!",
+        "Kathakali dancers wear colorful face paint and elaborate costumes to tell ancient stories."
+      ],
+      "monument": {
+        "title": "Kerala Backwaters & Spice Hills",
+        "location": "Kerala, South India",
+        "description": "A serene network of interconnected canals, rivers, and lakes surrounded by lush palm groves and aromatic spice plantations.",
+        "badge": "🌴 Paradise Unlocked!",
+        "image": "/assets/monuments/kerala-backwaters.svg",
+        "xp_bonus": 70
+      }
+    }
+  },
+  "generic_celebrations": [
+    "Shabash! Excellent answer!",
+    "Wah! Brilliant work class!",
+    "Kya baat hai! That's correct!",
+    "Fantastic! You got it right!"
+  ]
+}

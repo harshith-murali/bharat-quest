@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q1_1",
+    "mission_id": "mission_1",
+    "text": "The Taj Mahal is located in which Indian city?",
+    "options": ["Delhi", "Agra", "Jaipur", "Lucknow"],
+    "correct_option": 1,
+    "xp_value": 10
+  },
+  {
+    "id": "q1_2",
+    "mission_id": "mission_1",
+    "text": "The Taj Mahal was built by which Mughal Emperor?",
+    "options": ["Akbar", "Babur", "Shah Jahan", "Aurangzeb"],
+    "correct_option": 2,
+    "xp_value": 10
+  },
+  {
+    "id": "q1_3",
+    "mission_id": "mission_1",
+    "text": "What is the national bird of India?",
+    "options": ["Eagle", "Sparrow", "Crow", "Peacock"],
+    "correct_option": 3,
+    "xp_value": 10
+  },
+  {
+    "id": "q1_4",
+    "mission_id": "mission_1",
+    "text": "Which river flows through Delhi?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Narmada"],
+    "correct_option": 1,
+    "xp_value": 10
+  },
+  {
+    "id": "q1_5",
+    "mission_id": "mission_1",
+    "text": "What is the national animal of India?",
+    "options": ["Lion", "Elephant", "Tiger", "Deer"],
+    "correct_option": 2,
+    "xp_value": 10
+  },
+  {
+    "id": "q2_1",
+    "mission_id": "mission_2",
+    "text": "The River Ganga starts from which place?",
+    "options": ["Gangotri", "Haridwar", "Rishikesh", "Prayagraj"],
+    "correct_option": 0,
+    "xp_value": 10
+  },
+  {
+    "id": "q2_2",
+    "mission_id": "mission_2",
+    "text": "Varanasi is also known by which name?",
+    "options": ["Madurai", "Kashi", "Patna", "Mathura"],
+    "correct_option": 1,
+    "xp_value": 10
+  },
+  {
+    "id": "q2_3",
+    "mission_id": "mission_2",
+    "text": "Which festival is celebrated by floating lamps on the Ganga river?",
+    "options": ["Holi", "Diwali", "Dev Deepawali", "Baisakhi"],
+    "correct_option": 2,
+    "xp_value": 10
+  },
+  {
+    "id": "q2_4",
+    "mission_id": "mission_2",
+    "text": "The Ganga river finally meets which ocean or sea?",
+    "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Pacific Ocean"],
+    "correct_option": 2,
+    "xp_value": 10
+  },
+  {
+    "id": "q2_5",
+    "mission_id": "mission_2",
+    "text": "Which state is Varanasi in?",
+    "options": ["Bihar", "Madhya Pradesh", "Uttarakhand", "Uttar Pradesh"],
+    "correct_option": 3,
+    "xp_value": 10
+  },
+  {
+    "id": "q3_1",
+    "mission_id": "mission_3",
+    "text": "Which state in India is famous for growing the most spices?",
+    "options": ["Maharashtra", "Kerala", "Rajasthan", "Punjab"],
+    "correct_option": 1,
+    "xp_value": 10
+  },
+  {
+    "id": "q3_2",
+    "mission_id": "mission_3",
+    "text": "What is the state animal of Kerala?",
+    "options": ["Tiger", "Deer", "Elephant", "Peacock"],
+    "correct_option": 2,
+    "xp_value": 10
+  },
+  {
+    "id": "q3_3",
+    "mission_id": "mission_3",
+    "text": "Which famous dance form comes from Kerala?",
+    "options": ["Bharatanatyam", "Kathak", "Kathakali", "Odissi"],
+    "correct_option": 2,
+    "xp_value": 10
+  },
+  {
+    "id": "q3_4",
+    "mission_id": "mission_3",
+    "text": "Which spice is known as 'Black Gold' and is grown a lot in Kerala?",
+    "options": ["Turmeric", "Cardamom", "Pepper", "Cinnamon"],
+    "correct_option": 2,
+    "xp_value": 10
+  },
+  {
+    "id": "q3_5",
+    "mission_id": "mission_3",
+    "text": "Kerala is known as the 'Land of' what?",
+    "options": ["Deserts", "Coconut Trees", "Mountains", "Waterfalls"],
+    "correct_option": 1,
+    "xp_value": 10
+  }
+]

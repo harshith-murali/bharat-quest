@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Env
+.env
+.env.local
+
+# Editor
+.DS_Store
+.vscode/settings.json
+*.swp
+
+# Logs
+*.log
+pino-pretty.log
+
+# Frontend build
+frontend/dist/
+
+# TS build output
+backend/dist/
