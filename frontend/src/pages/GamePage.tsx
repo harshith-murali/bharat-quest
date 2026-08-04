@@ -341,6 +341,8 @@ export default function GamePage() {
             <MascotCanvas
               state={mascotState}
               dialogueText={mascotDialogue}
+              modelPath={currentMission?.mascot_model}
+              mascotName={currentMission?.mascot_name}
             />
 
             {/* Quiz Card or Ready Prompt */}

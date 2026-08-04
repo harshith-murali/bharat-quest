@@ -47,6 +47,8 @@ export interface Mission {
   xp_reward: number;
   coin_reward: number;
   order: number;
+  mascot_model?: string;
+  mascot_name?: string;
 }
 
 export interface Question {

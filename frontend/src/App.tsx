@@ -5,6 +5,7 @@ import HomeScreen from './pages/HomeScreen';
 import MapScreen from './pages/MapScreen';
 import QuizScreen from './pages/QuizScreen';
 import LeaderboardPage from './pages/LeaderboardPage';
+import CarPreviewPage from './pages/CarPreviewPage';
 import SessionInitializer from './components/SessionInitializer';
 
 function LegacyGameRedirect() {
@@ -44,6 +45,7 @@ export default function App() {
           />
           <Route path="/game/:sectionId" element={<LegacyGameRedirect />} />
           <Route path="/leaderboard/:sectionId" element={<LeaderboardPage />} />
+          <Route path="/car-preview" element={<CarPreviewPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </SessionProvider>

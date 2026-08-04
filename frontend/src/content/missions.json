@@ -6,7 +6,9 @@
     "route_to": "Agra",
     "xp_reward": 50,
     "coin_reward": 20,
-    "order": 1
+    "order": 1,
+    "mascot_model": "/models/mascot-placeholder.glb",
+    "mascot_name": "Sheru the Tiger"
   },
   {
     "id": "mission_2",
@@ -15,7 +17,9 @@
     "route_to": "Varanasi",
     "xp_reward": 60,
     "coin_reward": 25,
-    "order": 2
+    "order": 2,
+    "mascot_model": "/models/mascot-placeholder.glb",
+    "mascot_name": "Ganga the Crane"
   },
   {
     "id": "mission_3",
@@ -24,6 +28,8 @@
     "route_to": "Kerala",
     "xp_reward": 70,
     "coin_reward": 30,
-    "order": 3
+    "order": 3,
+    "mascot_model": "/Animals_Farm_Dog_1_2_Base.glb",
+    "mascot_name": "Appu the Elephant"
   }
 ]

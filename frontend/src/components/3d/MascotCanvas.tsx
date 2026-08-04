@@ -8,9 +8,17 @@ interface Props {
   state: MascotState;
   dialogueText?: string;
   onDialogueComplete?: () => void;
+  modelPath?: string;
+  mascotName?: string;
 }
 
-export default function MascotCanvas({ state: mascotState, dialogueText, onDialogueComplete }: Props) {
+export default function MascotCanvas({ 
+  state: mascotState, 
+  dialogueText, 
+  onDialogueComplete,
+  modelPath = '/models/mascot-placeholder.glb',
+  mascotName = 'Bharat AI Mascot'
+}: Props) {
   const [displayedText, setDisplayedText] = useState('');
 
   // Fixed deterministic typewriter effect (prevents word merging like 'bankssof')
@@ -89,7 +97,7 @@ export default function MascotCanvas({ state: mascotState, dialogueText, onDialo
           <directionalLight position={[5, 10, 7]} intensity={1.8} />
           <pointLight position={[-5, 5, -5]} intensity={0.6} />
           <Suspense fallback={null}>
-            <Mascot state={mascotState} />
+            <Mascot state={mascotState} modelPath={modelPath} />
           </Suspense>
         </Canvas>
 
@@ -112,7 +120,7 @@ export default function MascotCanvas({ state: mascotState, dialogueText, onDialo
             padding: '2px 0',
           }}
         >
-          BHARAT MASCOT 🐶
+          {mascotName.toUpperCase()}
         </div>
       </div>
 
@@ -121,7 +129,7 @@ export default function MascotCanvas({ state: mascotState, dialogueText, onDialo
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '0.4rem' }}>
           <div className="flex items-center gap-1">
             <span style={{ fontFamily: 'var(--font-display)', fontWeight: 900, fontSize: '1.05rem', color: 'var(--color-saffron)' }}>
-              Bharat AI Mascot
+              {mascotName}
             </span>
             <span style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', fontWeight: 700 }}>
               (NCERT Verified Guide)
