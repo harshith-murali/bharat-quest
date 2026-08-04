@@ -5,7 +5,7 @@ import { MascotState } from './MascotCanvas';
 
 interface MascotProps {
   state: MascotState;
-  modelPath: string;
+  modelPath?: string;
   scale?: [number, number, number];
   position?: [number, number, number];
   rotation?: [number, number, number];
@@ -13,7 +13,7 @@ interface MascotProps {
 
 export default function Mascot({
   state,
-  modelPath,
+  modelPath = '/models/mascot-placeholder.glb',
   scale = [1.8, 1.8, 1.8],
   position = [0, -0.75, 0],
   rotation = [0, Math.PI * 0.15, 0],

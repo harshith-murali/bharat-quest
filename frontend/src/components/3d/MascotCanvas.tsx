@@ -1,6 +1,7 @@
 import { useState, useEffect, Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import Mascot from './Mascot';
+import ErrorBoundary from '../ErrorBoundary';
 
 export type MascotState = 'idle' | 'talk' | 'celebrate' | 'sulk';
 
@@ -89,17 +90,19 @@ export default function MascotCanvas({
           position: 'relative',
         }}
       >
-        <Canvas
-          camera={{ position: [0, 0, 3.2], fov: 45 }}
-          style={{ width: '100%', height: '100%' }}
-        >
-          <ambientLight intensity={1.6} />
-          <directionalLight position={[5, 10, 7]} intensity={1.8} />
-          <pointLight position={[-5, 5, -5]} intensity={0.6} />
-          <Suspense fallback={null}>
-            <Mascot state={mascotState} modelPath={modelPath} />
-          </Suspense>
-        </Canvas>
+        <ErrorBoundary>
+          <Canvas
+            camera={{ position: [0, 0, 3.2], fov: 45 }}
+            style={{ width: '100%', height: '100%' }}
+          >
+            <ambientLight intensity={1.6} />
+            <directionalLight position={[5, 10, 7]} intensity={1.8} />
+            <pointLight position={[-5, 5, -5]} intensity={0.6} />
+            <Suspense fallback={null}>
+              <Mascot state={mascotState} modelPath={modelPath} />
+            </Suspense>
+          </Canvas>
+        </ErrorBoundary>
 
         {/* Name Tag */}
         <div

@@ -8,6 +8,7 @@ import IconRail from '../components/IconRail';
 import RosterDrawer from '../components/RosterDrawer';
 import Mascot from '../components/3d/Mascot';
 import QuizCard from '../components/QuizCard';
+import ErrorBoundary from '../components/ErrorBoundary';
 
 import mascotData from '../content/mascot_dialogue.json';
 
@@ -23,6 +24,7 @@ export default function QuizScreen() {
   const { sectionId } = useParams<{ sectionId: string }>();
   const {
     state,
+    currentMission,
     currentQuestion,
     currentStudent,
     spinNext,
@@ -138,14 +140,16 @@ export default function QuizScreen() {
                 position: 'relative',
               }}
             >
-              <Canvas camera={{ position: [0, 0, 3.2], fov: 45 }} style={{ width: '100%', height: '100%' }}>
-                <ambientLight intensity={1.6} />
-                <directionalLight position={[5, 10, 7]} intensity={1.8} />
-                <pointLight position={[-5, 5, -5]} intensity={0.6} />
-                <Suspense fallback={null}>
-                  <Mascot state={mascotState} />
-                </Suspense>
-              </Canvas>
+              <ErrorBoundary>
+                <Canvas camera={{ position: [0, 0, 3.2], fov: 45 }} style={{ width: '100%', height: '100%' }}>
+                  <ambientLight intensity={1.6} />
+                  <directionalLight position={[5, 10, 7]} intensity={1.8} />
+                  <pointLight position={[-5, 5, -5]} intensity={0.6} />
+                  <Suspense fallback={null}>
+                    <Mascot state={mascotState} modelPath={currentMission?.mascot_model || '/models/mascot-placeholder.glb'} />
+                  </Suspense>
+                </Canvas>
+              </ErrorBoundary>
 
               {/* Name Tag with Emotion Indicator */}
               <div
