@@ -11,7 +11,7 @@ interface CarAnimatorProps {
 }
 
 // Improved Low-Poly 3D Car Component
-function Enhanced3DCar({
+export function Enhanced3DCar({
   headingAngle,
   steeringAngle,
   isTravelling,
