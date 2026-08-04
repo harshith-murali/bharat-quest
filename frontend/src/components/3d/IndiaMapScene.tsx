@@ -116,6 +116,7 @@ export default function IndiaMapScene({
       <img
         src="/india_map.png"
         alt="India Map"
+        loading="lazy"
         style={{
           position: 'absolute',
           inset: 0,
@@ -123,6 +124,7 @@ export default function IndiaMapScene({
           height: '100%',
           objectFit: 'fill',
           pointerEvents: 'none',
+          opacity: 0.9,
         }}
       />
 
