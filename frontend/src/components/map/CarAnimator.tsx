@@ -200,7 +200,7 @@ export default function CarAnimator({
         }
 
         if (containerRef.current) {
-          containerRef.current.style.transform = \`translate3d(\${point.x - 40}px, \${point.y - 40}px, 0)\`;
+          containerRef.current.style.transform = `translate3d(${point.x - 40}px, ${point.y - 40}px, 0)`;
         }
       }
 

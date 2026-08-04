@@ -135,7 +135,6 @@ function PreviewCar({ autoRotate }: { autoRotate: boolean }) {
 
 export default function CarPreviewPage() {
   const [autoRotate, setAutoRotate] = useState(true);
-  const [showSpecs, setShowSpecs] = useState(true);
 
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', background: '#05070a' }}>
@@ -176,7 +175,7 @@ export default function CarPreviewPage() {
           <Canvas camera={{ position: [0, 1.5, 3.5], fov: 45 }}>
             <ambientLight intensity={1.8} />
             <directionalLight position={[5, 10, 7]} intensity={2} castShadow />
-            <Enhanced3DCar headingAngle={0} steeringAngle={autoRotate ? 0.2 : 0} isTravelling={autoRotate} />
+            <PreviewCar autoRotate={autoRotate} />
             <OrbitControls autoRotate={autoRotate} autoRotateSpeed={4} />
             <Preload all />
           </Canvas>
