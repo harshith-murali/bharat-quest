@@ -2,7 +2,7 @@ import { useState, useEffect, Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import Mascot from './Mascot';
 
-export type MascotState = 'idle' | 'talk' | 'celebrate';
+export type MascotState = 'idle' | 'talk' | 'celebrate' | 'sulk';
 
 interface Props {
   state: MascotState;
@@ -139,15 +139,16 @@ export default function MascotCanvas({
           <span
             style={{
               fontSize: '0.7rem',
-              background: mascotState === 'celebrate' ? '#10b981' : 'var(--color-surface-2)',
-              color: mascotState === 'celebrate' ? '#1a0a00' : 'var(--color-text-secondary)',
+              background: mascotState === 'celebrate' ? '#10b981' : mascotState === 'sulk' ? '#ef4444' : 'var(--color-surface-2)',
+              color: mascotState === 'celebrate' ? '#1a0a00' : mascotState === 'sulk' ? '#fff' : 'var(--color-text-secondary)',
               padding: '3px 10px',
               borderRadius: 99,
               fontWeight: 800,
               letterSpacing: '0.5px',
+              transition: 'all 0.3s ease',
             }}
           >
-            {mascotState.toUpperCase()}
+            {mascotState === 'celebrate' ? '✨ CELEBRATE' : mascotState === 'sulk' ? '😔 SULK' : mascotState.toUpperCase()}
           </span>
         </div>
 

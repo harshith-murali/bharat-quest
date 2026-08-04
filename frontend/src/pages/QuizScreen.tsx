@@ -29,7 +29,7 @@ export default function QuizScreen() {
   } = useSession();
 
   // Mascot State
-  const [mascotState, setMascotState] = useState<'idle' | 'talk' | 'celebrate'>('idle');
+  const [mascotState, setMascotState] = useState<'idle' | 'talk' | 'celebrate' | 'sulk'>('idle');
   const [mascotDialogue, setMascotDialogue] = useState<string>('');
 
   // Drawers & Modals
@@ -49,8 +49,8 @@ export default function QuizScreen() {
         setMascotState('celebrate');
         setTimeout(() => setMascotState('idle'), 4200);
       } else {
-        setMascotDialogue(`Ah, almost ${studentName}! The correct answer was: "${correctAnswerText}". Keep going! 💪`);
-        setMascotState('talk');
+        setMascotDialogue(`Ohhh, that's not quite right ${studentName}! The correct answer was: "${correctAnswerText}". Don't worry, you'll get the next one! 💪`);
+        setMascotState('sulk');
         setTimeout(() => setMascotState('idle'), 4200);
       }
     },
@@ -147,7 +147,7 @@ export default function QuizScreen() {
                 </Suspense>
               </Canvas>
 
-              {/* Name Tag */}
+              {/* Name Tag with Emotion Indicator */}
               <div
                 style={{
                   position: 'absolute',
@@ -157,16 +157,17 @@ export default function QuizScreen() {
                   textAlign: 'center',
                   fontSize: '12px',
                   fontWeight: 900,
-                  color: 'var(--color-gold)',
+                  color: mascotState === 'celebrate' ? '#10b981' : mascotState === 'sulk' ? '#ef4444' : 'var(--color-gold)',
                   fontFamily: 'var(--font-display)',
-                  background: 'rgba(15, 20, 34, 0.85)',
+                  background: mascotState === 'celebrate' ? 'rgba(16, 185, 129, 0.2)' : mascotState === 'sulk' ? 'rgba(239, 68, 68, 0.2)' : 'rgba(15, 20, 34, 0.85)',
                   backdropFilter: 'blur(8px)',
                   padding: '4px 12px',
                   borderRadius: '10px',
-                  border: '1px solid rgba(255,193,7,0.3)',
+                  border: mascotState === 'celebrate' ? '1px solid rgba(16, 185, 129, 0.5)' : mascotState === 'sulk' ? '1px solid rgba(239, 68, 68, 0.5)' : '1px solid rgba(255,193,7,0.3)',
+                  transition: 'all 0.3s ease',
                 }}
               >
-                BHARAT MASCOT 🐶 ({mascotState.toUpperCase()})
+                BHARAT MASCOT 🐶 ({mascotState === 'celebrate' ? '✨ CELEBRATING' : mascotState === 'sulk' ? '😔 SULKING' : mascotState.toUpperCase()})
               </div>
             </div>
 
