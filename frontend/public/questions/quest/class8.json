@@ -1,0 +1,1672 @@
+[
+  {
+    "id": "c8_0001",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Which of the following is a renewable resource?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Petroleum",
+      "Natural gas"
+    ],
+    "answer": "Solar energy",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 15
+  },
+  {
+    "id": "c8_0003",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Hydroelectric power is generated from what?",
+    "options": [
+      "Flowing water",
+      "Coal",
+      "Natural gas",
+      "Oil"
+    ],
+    "answer": "Flowing water",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 19
+  },
+  {
+    "id": "c8_0004",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Minerals",
+    "question": "Which minerals are abundant in India?",
+    "options": [
+      "Iron, copper, and bauxite",
+      "Gold and silver only",
+      "Diamonds only",
+      "Uranium only"
+    ],
+    "answer": "Iron, copper, and bauxite",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 25
+  },
+  {
+    "id": "c8_0005",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Minerals",
+    "question": "Which state is rich in iron ore?",
+    "options": [
+      "Jharkhand",
+      "Kerala",
+      "Punjab",
+      "Himachal Pradesh"
+    ],
+    "answer": "Jharkhand",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 27
+  },
+  {
+    "id": "c8_0006",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Forests",
+    "question": "Which state has the largest forest cover?",
+    "options": [
+      "Madhya Pradesh",
+      "Assam",
+      "Odisha",
+      "Chhattisgarh"
+    ],
+    "answer": "Madhya Pradesh",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 30
+  },
+  {
+    "id": "c8_0007",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Forests",
+    "question": "Tropical rainforests are found in which regions?",
+    "options": [
+      "Northeast India and Western Ghats",
+      "Thar Desert",
+      "Deccan Plateau",
+      "Indo-Gangetic Plain"
+    ],
+    "answer": "Northeast India and Western Ghats",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 32
+  },
+  {
+    "id": "c8_0008",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Power",
+    "question": "Hydroelectric power plants are built on what?",
+    "options": [
+      "Rivers",
+      "Oceans",
+      "Mountains",
+      "Underground"
+    ],
+    "answer": "Rivers",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 35
+  },
+  {
+    "id": "c8_0009",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Power",
+    "question": "Thermal power plants use which fuel?",
+    "options": [
+      "Coal and natural gas",
+      "Wind",
+      "Solar",
+      "Geothermal"
+    ],
+    "answer": "Coal and natural gas",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 37
+  },
+  {
+    "id": "c8_0010",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "Who founded the Mughal Empire?",
+    "options": [
+      "Babar",
+      "Akbar",
+      "Aurangzeb",
+      "Humayun"
+    ],
+    "answer": "Babar",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 50,
+    "state": "Delhi"
+  },
+  {
+    "id": "c8_0011",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "In which year did Babar invade India?",
+    "options": [
+      "1526",
+      "1525",
+      "1527",
+      "1528"
+    ],
+    "answer": "1526",
+    "difficulty": "hard",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 52
+  },
+  {
+    "id": "c8_0012",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "Which Mughal emperor made administrative reforms?",
+    "options": [
+      "Akbar",
+      "Babar",
+      "Aurangzeb",
+      "Shah Jahan"
+    ],
+    "answer": "Akbar",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 55
+  },
+  {
+    "id": "c8_0013",
+    "class": 8,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "Which national park is located in Ladakh?",
+    "options": [
+      "Hemis",
+      "Jim Corbett",
+      "Kaziranga",
+      "Periyar"
+    ],
+    "answer": "Hemis",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 78,
+    "state": "Ladakh"
+  },
+  {
+    "id": "c8_0014",
+    "class": 8,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "Jim Corbett National Park is in which state?",
+    "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Assam",
+      "Punjab"
+    ],
+    "answer": "Uttarakhand",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 80
+  },
+  {
+    "id": "c8_0015",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "When did India gain independence?",
+    "options": [
+      "1947",
+      "1945",
+      "1950",
+      "1952"
+    ],
+    "answer": "1947",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 100
+  },
+  {
+    "id": "c8_0016",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 105
+  },
+  {
+    "id": "c8_0017",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "What does Diwali celebrate?",
+    "options": [
+      "Victory of good over evil",
+      "Harvest season",
+      "Independence",
+      "New Year"
+    ],
+    "answer": "Victory of good over evil",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 95
+  },
+  {
+    "id": "c8_0018",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Holi marks which season?",
+    "options": [
+      "Spring arrival",
+      "Summer solstice",
+      "Winter season",
+      "Monsoon onset"
+    ],
+    "answer": "Spring arrival",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 97
+  },
+  {
+    "id": "c8_0019",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "What is the primary coast of Kerala?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Coral Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 35,
+    "state": "Kerala"
+  },
+  {
+    "id": "c8_0020",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "Which coast experiences the monsoon first?",
+    "options": [
+      "Western coast",
+      "Eastern coast",
+      "Northern coast",
+      "Southern coast"
+    ],
+    "answer": "Western coast",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 36,
+    "state": "Kerala"
+  },
+  {
+    "id": "c8_0021",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which mountains separate India from Nepal?",
+    "options": [
+      "Himalayas",
+      "Western Ghats",
+      "Vindhya",
+      "Satpura"
+    ],
+    "answer": "Himalayas",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 40
+  },
+  {
+    "id": "c8_0022",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "What is the height range of the Himalayas?",
+    "options": [
+      "3000-7000 meters",
+      "1000-2000 meters",
+      "500-1500 meters",
+      "8000-9000 meters"
+    ],
+    "answer": "3000-7000 meters",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 42
+  },
+  {
+    "id": "c8_0023",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Nilgiris are part of which mountain range?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Aravalli",
+      "Vindhya"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 50,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c8_0024",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river is known for its delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Narmada",
+      "Godavari"
+    ],
+    "answer": "Ganges",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 60,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c8_0025",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Brahmaputra flows through which valley?",
+    "options": [
+      "Assam Valley",
+      "Kullu Valley",
+      "Kashmir Valley",
+      "Deccan Valley"
+    ],
+    "answer": "Assam Valley",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 65,
+    "state": "Assam"
+  },
+  {
+    "id": "c8_0026",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river forms the Sundarbans delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Meghna",
+      "Mahanadi"
+    ],
+    "answer": "Ganges",
+    "difficulty": "hard",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 70,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c8_0027",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which season brings moisture to South India?",
+    "options": [
+      "Northeast monsoon",
+      "Southwest monsoon",
+      "Summer wind",
+      "Trade wind"
+    ],
+    "answer": "Northeast monsoon",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 80
+  },
+  {
+    "id": "c8_0028",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "What is the average annual rainfall in Western Ghats?",
+    "options": [
+      "More than 200 cm",
+      "50-100 cm",
+      "100-150 cm",
+      "Less than 50 cm"
+    ],
+    "answer": "More than 200 cm",
+    "difficulty": "hard",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 85
+  },
+  {
+    "id": "c8_0029",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Where is bauxite mining prominent?",
+    "options": [
+      "Odisha",
+      "Karnataka",
+      "Gujarat",
+      "Rajasthan"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 90,
+    "state": "Odisha"
+  },
+  {
+    "id": "c8_0030",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Which state produces maximum coal?",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Assam",
+      "Manipur"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 95,
+    "state": "Odisha"
+  },
+  {
+    "id": "c8_0031",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Limestone reserves are found in which state?",
+    "options": [
+      "Rajasthan",
+      "Himachal Pradesh",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 100,
+    "state": "Rajasthan"
+  },
+  {
+    "id": "c8_0033",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Pala Empire was based in which region?",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": "Bihar",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 115,
+    "state": "Bihar"
+  },
+  {
+    "id": "c8_0034",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Which Chola king conquered Sri Lanka?",
+    "options": [
+      "Rajendra Chola",
+      "Rajaraja Chola",
+      "Kulottunga",
+      "Parantaka"
+    ],
+    "answer": "Rajendra Chola",
+    "difficulty": "hard",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 120,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c8_0035",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Vijayanagara Empire was based in which state?",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "answer": "Karnataka",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 125,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c8_0036",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "Which Mughal emperor built Fatehpur Sikri?",
+    "options": [
+      "Akbar",
+      "Babar",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "answer": "Akbar",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 130,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c8_0037",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Battle of Plassey was fought in which state?",
+    "options": [
+      "West Bengal",
+      "Bihar",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "answer": "West Bengal",
+    "difficulty": "hard",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 140,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c8_0038",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who led the Revolt of 1857 in Central India?",
+    "options": [
+      "Rani Lakshmibai",
+      "Tipu Sultan",
+      "Bhagat Singh",
+      "Surya Sen"
+    ],
+    "answer": "Rani Lakshmibai",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 145
+  },
+  {
+    "id": "c8_0039",
+    "class": 8,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "Which national park is known for one-horned rhinos?",
+    "options": [
+      "Kaziranga",
+      "Manas",
+      "Dudhwa",
+      "Corbett"
+    ],
+    "answer": "Kaziranga",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 150,
+    "state": "Assam"
+  },
+  {
+    "id": "c8_0040",
+    "class": 8,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "The Periyar lake is an important water body in which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Goa"
+    ],
+    "answer": "Kerala",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 155,
+    "state": "Kerala"
+  },
+  {
+    "id": "c8_0041",
+    "class": 8,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "Which animal is found only in the Western Ghats?",
+    "options": [
+      "Lion-tailed macaque",
+      "Asiatic elephant",
+      "Bengal tiger",
+      "Indian bison"
+    ],
+    "answer": "Lion-tailed macaque",
+    "difficulty": "hard",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 160,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c8_0042",
+    "class": 8,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "The Great Indian Bustard is found in which habitat?",
+    "options": [
+      "Grasslands",
+      "Forests",
+      "Wetlands",
+      "Desert"
+    ],
+    "answer": "Grasslands",
+    "difficulty": "medium",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 165
+  },
+  {
+    "id": "c8_0043",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Which dance form originated in Odisha?",
+    "options": [
+      "Odissi",
+      "Kathak",
+      "Kuchipudi",
+      "Manipuri"
+    ],
+    "answer": "Odissi",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 170,
+    "state": "Odisha"
+  },
+  {
+    "id": "c8_0044",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Kuchipudi dance originated in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Karnataka",
+      "Telangana"
+    ],
+    "answer": "Andhra Pradesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 175,
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "c8_0045",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Manipuri dance is the classical dance of which state?",
+    "options": [
+      "Manipur",
+      "Assam",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "Manipur",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 180
+  },
+  {
+    "id": "c8_0046",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Which temple is known as the 'Golden Temple'?",
+    "options": [
+      "Harmandir Sahib",
+      "Meenakshi Temple",
+      "Jagannath Temple",
+      "Kashi Vishwanath"
+    ],
+    "answer": "Harmandir Sahib",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 185
+  },
+  {
+    "id": "c8_0047",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Meenakshi Temple is located in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Telangana"
+    ],
+    "answer": "Tamil Nadu",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 190,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c8_0048",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Soil",
+    "question": "Red soil is characteristic of which regions?",
+    "options": [
+      "South and Southeast India",
+      "North India",
+      "Western coast",
+      "Northeast India"
+    ],
+    "answer": "South and Southeast India",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 53
+  },
+  {
+    "id": "c8_0049",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Vindhya Range separates which two regions?",
+    "options": [
+      "North and South India",
+      "East and West",
+      "Plains and Plateaus",
+      "Mountains and Plains"
+    ],
+    "answer": "North and South India",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 57
+  },
+  {
+    "id": "c8_0050",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Cauvery River disputes are between which two states?",
+    "options": [
+      "Tamil Nadu and Karnataka",
+      "Karnataka and Telangana",
+      "Tamil Nadu and Andhra Pradesh",
+      "Karnataka and Andhra Pradesh"
+    ],
+    "answer": "Tamil Nadu and Karnataka",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 61,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c8_0051",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "Which state has the longest coastline?",
+    "options": [
+      "Gujarat",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "answer": "Gujarat",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 65,
+    "state": "Gujarat"
+  },
+  {
+    "id": "c8_0052",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Forests",
+    "question": "Which type of forest is found in the Western Ghats?",
+    "options": [
+      "Tropical evergreen forest",
+      "Dry deciduous",
+      "Temperate",
+      "Scrubland"
+    ],
+    "answer": "Tropical evergreen forest",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 69,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c8_0053",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Indus Valley Civilization was discovered in which year?",
+    "options": [
+      "1921",
+      "1901",
+      "1941",
+      "1911"
+    ],
+    "answer": "1921",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 73,
+    "state": "Punjab"
+  },
+  {
+    "id": "c8_0054",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "How many Vedas are there?",
+    "options": [
+      "Four",
+      "Three",
+      "Five",
+      "Two"
+    ],
+    "answer": "Four",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 77
+  },
+  {
+    "id": "c8_0055",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Which famous text was written by Kautilya?",
+    "options": [
+      "Arthashastra",
+      "Ramayana",
+      "Mahabharata",
+      "Bhagavad Gita"
+    ],
+    "answer": "Arthashastra",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 81
+  },
+  {
+    "id": "c8_0056",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Gupta Empire is considered the 'Golden Age' of India. True or False?",
+    "options": [
+      "True",
+      "False",
+      "Partially",
+      "Cannot say"
+    ],
+    "answer": "True",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 85
+  },
+  {
+    "id": "c8_0057",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Harsha ruled from which city?",
+    "options": [
+      "Kannauj",
+      "Ujjain",
+      "Pataliputra",
+      "Varanasi"
+    ],
+    "answer": "Kannauj",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 89
+  },
+  {
+    "id": "c8_0058",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Muhammad of Ghori defeated which Indian king at Tarain?",
+    "options": [
+      "Prithviraj Chauhan",
+      "Jaichand",
+      "Bhima II",
+      "Mularaja"
+    ],
+    "answer": "Prithviraj Chauhan",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 93
+  },
+  {
+    "id": "c8_0059",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Akbar was how old when he ascended the throne?",
+    "options": [
+      "13 years old",
+      "18 years old",
+      "21 years old",
+      "25 years old"
+    ],
+    "answer": "13 years old",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 97
+  },
+  {
+    "id": "c8_0060",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Aurangzeb reigned for how many years?",
+    "options": [
+      "49 years",
+      "40 years",
+      "50 years",
+      "45 years"
+    ],
+    "answer": "49 years",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 101
+  },
+  {
+    "id": "c8_0061",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Maratha Empire was founded by which king?",
+    "options": [
+      "Shivaji",
+      "Baji Rao",
+      "Balaji Rao",
+      "Madhav Rao"
+    ],
+    "answer": "Shivaji",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 105
+  },
+  {
+    "id": "c8_0062",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Sepoy Mutiny occurred in which year?",
+    "options": [
+      "1857",
+      "1858",
+      "1856",
+      "1859"
+    ],
+    "answer": "1857",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 109
+  },
+  {
+    "id": "c8_0063",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who was the first President of the Indian National Congress?",
+    "options": [
+      "Womesh Chandra Banerjee",
+      "Surendranath Banerjee",
+      "Dadabhai Naoroji",
+      "Keshab Chandra Sen"
+    ],
+    "answer": "Womesh Chandra Banerjee",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 113
+  },
+  {
+    "id": "c8_0064",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Quit India Movement was launched in which year?",
+    "options": [
+      "1942",
+      "1941",
+      "1943",
+      "1940"
+    ],
+    "answer": "1942",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 117
+  },
+  {
+    "id": "c8_0065",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Mohiniattam dance originated in which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": "Kerala",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 121,
+    "state": "Kerala"
+  },
+  {
+    "id": "c8_0066",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Architecture",
+    "question": "The Taj Mahal was built for which empress?",
+    "options": [
+      "Mumtaz Mahal",
+      "Nur Jahan",
+      "Jahanara",
+      "Akbarabai"
+    ],
+    "answer": "Mumtaz Mahal",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 125
+  },
+  {
+    "id": "c8_0067",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "The Golden Temple is associated with which religion?",
+    "options": [
+      "Sikhism",
+      "Hinduism",
+      "Buddhism",
+      "Jainism"
+    ],
+    "answer": "Sikhism",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 129,
+    "state": "Punjab"
+  },
+  {
+    "id": "c8_0068",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Durga Puja is primarily celebrated in which state?",
+    "options": [
+      "West Bengal",
+      "Odisha",
+      "Assam",
+      "Jharkhand"
+    ],
+    "answer": "West Bengal",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 133,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c8_0069",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Literature",
+    "question": "The Ramayan was written by which sage?",
+    "options": [
+      "Valmiki",
+      "Vyasa",
+      "Agastya",
+      "Vishvamitra"
+    ],
+    "answer": "Valmiki",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 137
+  },
+  {
+    "id": "c8_0070",
+    "class": 8,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Constitution",
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Rajendra Prasad"
+    ],
+    "answer": "B.R. Ambedkar",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 141
+  },
+  {
+    "id": "c8_0071",
+    "class": 8,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Executive",
+    "question": "Who is the head of the Executive in India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Chief Minister",
+      "Governor"
+    ],
+    "answer": "President",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 145
+  },
+  {
+    "id": "c8_0072",
+    "class": 8,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Executive",
+    "question": "The Cabinet is headed by whom?",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Vice-President",
+      "Speaker"
+    ],
+    "answer": "Prime Minister",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 149
+  },
+  {
+    "id": "c8_0073",
+    "class": 8,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "How many members does the Lok Sabha have?",
+    "options": [
+      "545",
+      "250",
+      "500",
+      "600"
+    ],
+    "answer": "545",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 153
+  },
+  {
+    "id": "c8_0074",
+    "class": 8,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Judiciary",
+    "question": "How many judges does the Supreme Court have?",
+    "options": [
+      "31",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": "31",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 157
+  },
+  {
+    "id": "c8_0075",
+    "class": 8,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Elections",
+    "question": "Universal Adult Suffrage in India means every citizen above which age can vote?",
+    "options": [
+      "18 years",
+      "21 years",
+      "25 years",
+      "30 years"
+    ],
+    "answer": "18 years",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 161
+  },
+  {
+    "id": "c8_0076",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Economics",
+    "question": "India's GDP is based on which sectors primarily?",
+    "options": [
+      "Agriculture and services",
+      "Manufacturing only",
+      "Agriculture only",
+      "Services only"
+    ],
+    "answer": "Agriculture and services",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 165
+  },
+  {
+    "id": "c8_0077",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Economics",
+    "question": "Which state is known as the 'Silicon Valley of India'?",
+    "options": [
+      "Karnataka",
+      "Maharashtra",
+      "Gujarat",
+      "Andhra Pradesh"
+    ],
+    "answer": "Karnataka",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 169,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c8_0078",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Location",
+    "question": "India lies between which latitudes?",
+    "options": [
+      "8°4' N and 35°6' N",
+      "5° N and 40° N",
+      "10° N and 30° N",
+      "15° N and 30° N"
+    ],
+    "answer": "8°4' N and 35°6' N",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 50
+  },
+  {
+    "id": "c8_0079",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Brahmaputra is also called what?",
+    "options": [
+      "Tsangpo",
+      "Mekong",
+      "Irrawaddy",
+      "Salween"
+    ],
+    "answer": "Tsangpo",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 51
+  },
+  {
+    "id": "c8_0080",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Himalayas stretch for approximately how many km?",
+    "options": [
+      "2400 km",
+      "2000 km",
+      "3000 km",
+      "1500 km"
+    ],
+    "answer": "2400 km",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 52
+  },
+  {
+    "id": "c8_0081",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Cardamom Hills are located in which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": "Kerala",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 53,
+    "state": "Kerala"
+  },
+  {
+    "id": "c8_0082",
+    "class": 8,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Forests",
+    "question": "Sal forest is predominantly found in which region?",
+    "options": [
+      "Central India",
+      "Southern India",
+      "Northeastern India",
+      "Northern Plains"
+    ],
+    "answer": "Central India",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 54
+  },
+  {
+    "id": "c8_0083",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Vedic period is divided into how many phases?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Two",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 55
+  },
+  {
+    "id": "c8_0084",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Mauryan Empire covered how much area of India?",
+    "options": [
+      "Greater than 2 million sq km",
+      "1 million sq km",
+      "1.5 million sq km",
+      "3 million sq km"
+    ],
+    "answer": "Greater than 2 million sq km",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 56
+  },
+  {
+    "id": "c8_0085",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Chola Dynasty was known for which period?",
+    "options": [
+      "Bronze Age",
+      "Iron Age",
+      "Stone Age",
+      "Medieval"
+    ],
+    "answer": "Bronze Age",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 57
+  },
+  {
+    "id": "c8_0086",
+    "class": 8,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The First War of Independence was led by whom?",
+    "options": [
+      "Sepoys",
+      "Zamindars",
+      "Peasants",
+      "Landlords"
+    ],
+    "answer": "Sepoys",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 58
+  },
+  {
+    "id": "c8_0087",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "The Bharat Natyam dance has how many mudras?",
+    "options": [
+      "108",
+      "64",
+      "32",
+      "56"
+    ],
+    "answer": "108",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 59
+  },
+  {
+    "id": "c8_0088",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Music",
+    "question": "Raag Bhairav is typically sung in which time of the day?",
+    "options": [
+      "Early morning",
+      "Afternoon",
+      "Evening",
+      "Night"
+    ],
+    "answer": "Early morning",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 60
+  },
+  {
+    "id": "c8_0089",
+    "class": 8,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Art",
+    "question": "The Ellora Caves are famous for which type of construction?",
+    "options": [
+      "Rock-cut architecture",
+      "Brick construction",
+      "Stone construction",
+      "Wooden architecture"
+    ],
+    "answer": "Rock-cut architecture",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 61,
+    "state": "Maharashtra"
+  },
+  {
+    "id": "c8_0090",
+    "class": 8,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Rights",
+    "question": "The Fundamental Rights are guaranteed under which article?",
+    "options": [
+      "12-35",
+      "1-11",
+      "36-51",
+      "52-68"
+    ],
+    "answer": "12-35",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 62
+  },
+  {
+    "id": "c8_0091",
+    "class": 8,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Executive",
+    "question": "The Vice-President of India is elected by whom?",
+    "options": [
+      "Electoral College",
+      "Direct vote",
+      "Parliament",
+      "People"
+    ],
+    "answer": "Electoral College",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 63
+  },
+  {
+    "id": "c8_0092",
+    "class": 8,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Rights",
+    "question": "Right to Equality is granted under which article?",
+    "options": [
+      "Article 14",
+      "Article 15",
+      "Article 16",
+      "Article 13"
+    ],
+    "answer": "Article 14",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 64
+  },
+  {
+    "id": "c8_0093",
+    "class": 8,
+    "subject": "Economics",
+    "category": "India",
+    "chapter": "Taxation",
+    "question": "GST was implemented in India in which year?",
+    "options": [
+      "2017",
+      "2016",
+      "2018",
+      "2015"
+    ],
+    "answer": "2017",
+    "difficulty": "easy",
+    "source": "NCERT Class 8 Textbook",
+    "source_page": 65
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_hp_001",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Himachal Pradesh lies in which part of the Himalayas?",
+    "options": [
+      "North-western Himalayas",
+      "Western Ghats",
+      "Aravalli Hills",
+      "Eastern Himalayas"
+    ],
+    "answer": "North-western Himalayas",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – How to Reach Himachal Pradesh"
+  },
+  {
+    "id": "quest_hp_002",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which region lies to the east of Himachal Pradesh?",
+    "options": [
+      "Tibetan Plateau",
+      "Thar Desert",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "answer": "Tibetan Plateau",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – How to Reach Himachal Pradesh"
+  },
+  {
+    "id": "quest_hp_003",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two neighbouring states are mentioned to the west of Himachal Pradesh?",
+    "options": [
+      "Uttar Pradesh and Madhya Pradesh",
+      "Bihar and Jharkhand",
+      "Gujarat and Rajasthan",
+      "Punjab and Haryana"
+    ],
+    "answer": "Punjab and Haryana",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – How to Reach Himachal Pradesh"
+  },
+  {
+    "id": "quest_hp_004",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which type of landscape is found in parts of Himachal Pradesh?",
+    "options": [
+      "High-altitude cold desert",
+      "Coastal mangrove",
+      "Tropical island",
+      "Salt marsh"
+    ],
+    "answer": "High-altitude cold desert",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Official State Tourism Website"
+  },
+  {
+    "id": "quest_hp_005",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital of Himachal Pradesh?",
+    "options": [
+      "Dharamshala",
+      "Manali",
+      "Kullu",
+      "Shimla"
+    ],
+    "answer": "Shimla",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Shimla"
+  },
+  {
+    "id": "quest_hp_006",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Shimla declared by the British in 1864?",
+    "options": [
+      "The Summer Capital of India",
+      "The winter capital of India",
+      "A military port",
+      "The capital of Punjab"
+    ],
+    "answer": "The Summer Capital of India",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Shimla"
+  },
+  {
+    "id": "quest_hp_007",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which colonial-era building in Shimla is now the Indian Institute of Advanced Study?",
+    "options": [
+      "Viceregal Lodge",
+      "Gorton Castle",
+      "Christ Church",
+      "Barnes Court"
+    ],
+    "answer": "Viceregal Lodge",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Shimla"
+  },
+  {
+    "id": "quest_hp_008",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which important political discussions related to India's partition took place at Viceregal Lodge?",
+    "options": [
+      "Discussions between the Viceroy and leaders of the freedom struggle",
+      "Discussions about the Mughal Empire",
+      "Discussions about the Green Revolution",
+      "Discussions about the Harappan cities"
+    ],
+    "answer": "Discussions between the Viceroy and leaders of the freedom struggle",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Shimla"
+  },
+  {
+    "id": "quest_hp_009",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many tunnels does the Kalka–Shimla railway line have according to Himachal Tourism?",
+    "options": [
+      "102",
+      "12",
+      "202",
+      "52"
+    ],
+    "answer": "102",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Shimla"
+  },
+  {
+    "id": "quest_hp_010",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which church is a prominent neo-Gothic landmark on Shimla's Ridge?",
+    "options": [
+      "St. Mary's Church",
+      "St. Paul's Cathedral",
+      "St. John's Church",
+      "Christ Church"
+    ],
+    "answer": "Christ Church",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Shimla"
+  },
+  {
+    "id": "quest_hp_011",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Manali is situated in the valley of which river?",
+    "options": [
+      "Sutlej",
+      "Ravi",
+      "Beas",
+      "Chenab"
+    ],
+    "answer": "Beas",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Manali"
+  },
+  {
+    "id": "quest_hp_012",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which pass lies above Manali and is associated with the source of glacial water feeding the Beas?",
+    "options": [
+      "Nathu La",
+      "Khardung La",
+      "Zoji La",
+      "Rohtang Pass"
+    ],
+    "answer": "Rohtang Pass",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Manali"
+  },
+  {
+    "id": "quest_hp_013",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Manali is a well-known landmark?",
+    "options": [
+      "Hidimba Devi Temple",
+      "Jwalamukhi Temple",
+      "Raghunath Temple",
+      "Bajreshwari Devi Temple"
+    ],
+    "answer": "Hidimba Devi Temple",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Official State Tourism Website"
+  },
+  {
+    "id": "quest_hp_014",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which rare animal is listed among wildlife that may be seen in the Manali Wildlife Sanctuary?",
+    "options": [
+      "Snow leopard",
+      "Asiatic lion",
+      "One-horned rhinoceros",
+      "Blackbuck"
+    ],
+    "answer": "Snow leopard",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Manali"
+  },
+  {
+    "id": "quest_hp_015",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Kullu popularly known as because of its many village deities?",
+    "options": [
+      "Land of Deserts",
+      "Land of Gods (Devta)",
+      "Land of Palaces",
+      "Land of Lakes"
+    ],
+    "answer": "Land of Gods (Devta)",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Kullu"
+  },
+  {
+    "id": "quest_hp_016",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Kullu founded as a capital according to Himachal Tourism?",
+    "options": [
+      "1860",
+      "1660",
+      "1060",
+      "1760"
+    ],
+    "answer": "1660",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Kullu"
+  },
+  {
+    "id": "quest_hp_017",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival brings many village deities to Kullu in October?",
+    "options": [
+      "Minjar Mela",
+      "Kullu Dussehra",
+      "Lavi Fair",
+      "Holi"
+    ],
+    "answer": "Kullu Dussehra",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Kullu"
+  },
+  {
+    "id": "quest_hp_018",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How long does the Kullu Dussehra festival last according to the tourism source?",
+    "options": [
+      "One day",
+      "One week",
+      "One month",
+      "Three days"
+    ],
+    "answer": "One week",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kullu"
+  },
+  {
+    "id": "quest_hp_019",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park in Kullu is a UNESCO World Heritage Site?",
+    "options": [
+      "Kibber Wildlife Sanctuary",
+      "Pin Valley National Park",
+      "Manali Wildlife Sanctuary",
+      "Great Himalayan National Park"
+    ],
+    "answer": "Great Himalayan National Park",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kullu"
+  },
+  {
+    "id": "quest_hp_020",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which three rivers/streams are identified as originating within the Great Himalayan National Park?",
+    "options": [
+      "Yamuna, Ganga and Alaknanda",
+      "Parvati, Tirthan and Jiwa Nallah",
+      "Chenab, Ravi and Tawi",
+      "Beas, Ravi and Sutlej"
+    ],
+    "answer": "Parvati, Tirthan and Jiwa Nallah",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Kullu"
+  },
+  {
+    "id": "quest_hp_021",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain range lies behind Dharamshala?",
+    "options": [
+      "Aravalli",
+      "Pir Panjal",
+      "Dhauladhar",
+      "Nilgiri"
+    ],
+    "answer": "Dhauladhar",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Dharamshala"
+  },
+  {
+    "id": "quest_hp_022",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which area of Dharamshala is often called 'Little Lhasa'?",
+    "options": [
+      "McLeod Ganj",
+      "Kotwali Bazar",
+      "Palampur",
+      "Kangra Fort"
+    ],
+    "answer": "McLeod Ganj",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Dharamshala"
+  },
+  {
+    "id": "quest_hp_023",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why did a large Tibetan population settle around Dharamshala?",
+    "options": [
+      "A Mughal emperor moved them there",
+      "They migrated there for coastal trade",
+      "The 14th Dalai Lama came to McLeod Ganj in exile after the Tibetan uprising of 1959",
+      "They were invited for the Green Revolution"
+    ],
+    "answer": "The 14th Dalai Lama came to McLeod Ganj in exile after the Tibetan uprising of 1959",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Dharamshala"
+  },
+  {
+    "id": "quest_hp_024",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which annual fair is held in Upper Dharamshala in August?",
+    "options": [
+      "Fulaich",
+      "Minjar Mela",
+      "Kullu Dussehra",
+      "Dal Fair"
+    ],
+    "answer": "Dal Fair",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Dharamshala"
+  },
+  {
+    "id": "quest_hp_025",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient royal dynasty is associated with Kangra?",
+    "options": [
+      "Rashtrakuta dynasty",
+      "Chola dynasty",
+      "Pala dynasty",
+      "Katoch dynasty"
+    ],
+    "answer": "Katoch dynasty",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_026",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Kangra known as in the Mahabharata tradition mentioned by Himachal Tourism?",
+    "options": [
+      "Indraprastha",
+      "Magadha",
+      "Trigarta",
+      "Avanti"
+    ],
+    "answer": "Trigarta",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_027",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal emperor's army laid siege to Kangra Fort in 1615?",
+    "options": [
+      "Babur",
+      "Shah Jahan",
+      "Akbar",
+      "Aurangzeb"
+    ],
+    "answer": "Akbar",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_028",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Kangra school of painting?",
+    "options": [
+      "A method of farming",
+      "A type of folk dance",
+      "A style of temple architecture",
+      "A famous style of miniature painting"
+    ],
+    "answer": "A famous style of miniature painting",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_029",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which rock-cut temple complex near Kangra contains 15 Indo-Aryan style temples?",
+    "options": [
+      "Khajuraho Temples",
+      "Ellora Caves",
+      "Masroor Rock-cut Temples",
+      "Ajanta Caves"
+    ],
+    "answer": "Masroor Rock-cut Temples",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_030",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Maharana Pratap Sagar?",
+    "options": [
+      "A mountain pass",
+      "A large manmade lake formed by the Pong Dam on the Beas",
+      "A river near Chamba",
+      "A natural lake in Shimla"
+    ],
+    "answer": "A large manmade lake formed by the Pong Dam on the Beas",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_031",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple at Jwalamukhi is famous for an eternally burning flame?",
+    "options": [
+      "Jwala Mata Temple",
+      "Bajreshwari Devi Temple",
+      "Chamunda Devi Temple",
+      "Baijnath Temple"
+    ],
+    "answer": "Jwala Mata Temple",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_032",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Kangra is associated with Lord Shiva and is counted among the 12 Jyotirlingas?",
+    "options": [
+      "Jwala Mata Temple",
+      "Chamunda Devi Temple",
+      "Bajreshwari Devi Temple",
+      "Baijnath Temple"
+    ],
+    "answer": "Baijnath Temple",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kangra"
+  },
+  {
+    "id": "quest_hp_033",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded the town of Chamba in 920 AD according to Himachal Tourism?",
+    "options": [
+      "Raja Ranjit Singh",
+      "Raja Sahil Varman",
+      "Raja Sansar Chand",
+      "Raja Joginder Sen"
+    ],
+    "answer": "Raja Sahil Varman",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Chamba"
+  },
+  {
+    "id": "quest_hp_034",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On the bank of which river is Chamba town situated?",
+    "options": [
+      "Beas",
+      "Sutlej",
+      "Chenab",
+      "Ravi"
+    ],
+    "answer": "Ravi",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Chamba"
+  },
+  {
+    "id": "quest_hp_035",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which embroidered craft is especially associated with Chamba?",
+    "options": [
+      "Chamba Rumal",
+      "Pashmina",
+      "Kangra Shawl",
+      "Kullu Cap"
+    ],
+    "answer": "Chamba Rumal",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Chamba"
+  },
+  {
+    "id": "quest_hp_036",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which annual fair is held at Chamba's Chaugan?",
+    "options": [
+      "Dal Fair",
+      "Fulaich",
+      "Kullu Dussehra",
+      "Minjar Mela"
+    ],
+    "answer": "Minjar Mela",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Chamba"
+  },
+  {
+    "id": "quest_hp_037",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two major mountain ranges meet around the Chamba region according to the tourism source?",
+    "options": [
+      "Aravalli and Vindhya",
+      "Western and Eastern Ghats",
+      "Satpura and Nilgiri",
+      "Dhauladhar and Zanskar"
+    ],
+    "answer": "Dhauladhar and Zanskar",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Chamba"
+  },
+  {
+    "id": "quest_hp_038",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded Dalhousie as a summer retreat in 1850?",
+    "options": [
+      "Lord Mountbatten",
+      "Lord Wellesley",
+      "Lord Curzon",
+      "Lord Dalhousie"
+    ],
+    "answer": "Lord Dalhousie",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Dalhousie"
+  },
+  {
+    "id": "quest_hp_039",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What kind of architecture is especially visible in Dalhousie?",
+    "options": [
+      "Harappan urban planning",
+      "Colonial architecture and churches",
+      "Chola temple architecture",
+      "Mughal palace architecture"
+    ],
+    "answer": "Colonial architecture and churches",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Dalhousie"
+  },
+  {
+    "id": "quest_hp_040",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which village in Kinnaur is described as India's last village on the Indo-Tibet border?",
+    "options": [
+      "Sangla",
+      "Kalpa",
+      "Chitkul",
+      "Nako"
+    ],
+    "answer": "Chitkul",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Kinnaur"
+  },
+  {
+    "id": "quest_hp_041",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows through Sangla Valley?",
+    "options": [
+      "Sutlej",
+      "Baspa",
+      "Ravi",
+      "Beas"
+    ],
+    "answer": "Baspa",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kinnaur"
+  },
+  {
+    "id": "quest_hp_042",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fair is celebrated in Kinnaur in mid-September?",
+    "options": [
+      "Kullu Dussehra",
+      "Minjar",
+      "Fulaich",
+      "Dal Fair"
+    ],
+    "answer": "Fulaich",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kinnaur"
+  },
+  {
+    "id": "quest_hp_043",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which peak is seen from Reckong Peo and is traditionally associated with Lord Shiva?",
+    "options": [
+      "Dhauladhar",
+      "Rohtang",
+      "Kinner Kailash",
+      "Shrikhand Mahadev"
+    ],
+    "answer": "Kinner Kailash",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kinnaur"
+  },
+  {
+    "id": "quest_hp_044",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which village in Kinnaur has a small lake and a highly revered Buddhist monastery?",
+    "options": [
+      "Kalpa",
+      "Nako",
+      "Sangla",
+      "Chitkul"
+    ],
+    "answer": "Nako",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Kinnaur"
+  },
+  {
+    "id": "quest_hp_045",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the name Spiti loosely mean according to Himachal Tourism?",
+    "options": [
+      "The snowy land",
+      "The land of rivers",
+      "The middle land",
+      "The high land"
+    ],
+    "answer": "The middle land",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Spiti Valley"
+  },
+  {
+    "id": "quest_hp_046",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of region is Spiti?",
+    "options": [
+      "Mangrove delta",
+      "Coastal plain",
+      "Cold desert",
+      "Tropical rainforest"
+    ],
+    "answer": "Cold desert",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Spiti Valley"
+  },
+  {
+    "id": "quest_hp_047",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religion has a strong influence on everyday life in Spiti?",
+    "options": [
+      "Zoroastrianism",
+      "Jainism",
+      "Buddhism",
+      "Sikhism"
+    ],
+    "answer": "Buddhism",
+    "difficulty": "easy",
+    "source": "Himachal Tourism – Spiti Valley"
+  },
+  {
+    "id": "quest_hp_048",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which objects are commonly seen across Spiti as part of its Buddhist culture?",
+    "options": [
+      "Church bells and minarets",
+      "Mani stones, chortens and prayer flags",
+      "Stupas only in cities",
+      "Mughal arches and domes"
+    ],
+    "answer": "Mani stones, chortens and prayer flags",
+    "difficulty": "medium",
+    "source": "Himachal Tourism – Spiti Valley"
+  },
+  {
+    "id": "quest_hp_049",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which wildlife sanctuary in Spiti is described as India's only cold desert wildlife sanctuary?",
+    "options": [
+      "Kibber Wildlife Sanctuary",
+      "Manali Wildlife Sanctuary",
+      "Great Himalayan National Park",
+      "Chail Wildlife Sanctuary"
+    ],
+    "answer": "Kibber Wildlife Sanctuary",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Wildlife Sanctuaries"
+  },
+  {
+    "id": "quest_hp_050",
+    "state": "Himachal Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the approximate altitude range of Kibber Wildlife Sanctuary?",
+    "options": [
+      "1,000 m to 2,000 m",
+      "3,600 m to 6,700 m",
+      "500 m to 1,000 m",
+      "7,000 m to 9,000 m"
+    ],
+    "answer": "3,600 m to 6,700 m",
+    "difficulty": "hard",
+    "source": "Himachal Tourism – Wildlife Sanctuaries"
+  }
+]

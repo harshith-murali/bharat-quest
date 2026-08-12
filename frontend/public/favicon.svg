@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bharat Quest">
+  <title>Bharat Quest</title>
+
+  <!-- Rounded tile background -->
+  <rect width="64" height="64" rx="14" fill="#0d111e"/>
+
+  <!-- Tricolour arc, evoking the journey across India -->
+  <g fill="none" stroke-linecap="round" stroke-width="5">
+    <path d="M12 20 A 22 22 0 0 1 52 20" stroke="#ff9933"/>
+    <path d="M10 32 H 54" stroke="#f8fafc" stroke-width="4"/>
+    <path d="M12 44 A 22 22 0 0 0 52 44" stroke="#10b981"/>
+  </g>
+
+  <!-- Ashoka-chakra style hub at the centre -->
+  <circle cx="32" cy="32" r="7.5" fill="none" stroke="#4f5bd5" stroke-width="3"/>
+  <circle cx="32" cy="32" r="2.4" fill="#4f5bd5"/>
+
+  <!-- Location pin marking the current quest state -->
+  <path d="M46 12c2.9 0 5.2 2.3 5.2 5.2 0 3.9-5.2 9.4-5.2 9.4s-5.2-5.5-5.2-9.4c0-2.9 2.3-5.2 5.2-5.2z"
+        fill="#ffc107" stroke="#0d111e" stroke-width="1.6"/>
+  <circle cx="46" cy="17.2" r="1.9" fill="#0d111e"/>
+</svg>

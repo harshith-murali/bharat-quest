@@ -70,8 +70,6 @@ export default function LeaderboardPage() {
 
         {/* Game HUD Status Bar Badges */}
         <div className="flex items-center gap-2">
-          <span className="hud-pill hud-pill-coin">🪙 5,200</span>
-          <span className="hud-pill hud-pill-gem">💎 320</span>
           <span className={`badge ${state.isOnline ? 'badge-online' : 'badge-offline'}`}>
             {state.isOnline ? '🟢 Online' : '🔴 Offline'}
           </span>

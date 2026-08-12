@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_tn_001",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three monuments make up the Great Living Chola Temples?",
+    "options": [
+      "Ramanathaswamy, Meenakshi and Airavatesvara",
+      "Kailasanatha, Shore Temple and Brihadeeshwara",
+      "Shore Temple, Brihadeeshwara and Meenakshi Temple",
+      "Brihadeeshwara at Thanjavur, Gangaikondacholeeswaram and Airavatesvara"
+    ],
+    "answer": "Brihadeeshwara at Thanjavur, Gangaikondacholeeswaram and Airavatesvara",
+    "difficulty": "medium",
+    "source": "Incredible India – Tamil Nadu"
+  },
+  {
+    "id": "quest_tn_002",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which UNESCO World Heritage site is associated with the Nilgiri Mountain Railway?",
+    "options": [
+      "Rameswaram Railway",
+      "Pamban Bridge",
+      "Chennai Central",
+      "Nilgiri Mountain Railway"
+    ],
+    "answer": "Nilgiri Mountain Railway",
+    "difficulty": "easy",
+    "source": "Incredible India – Tamil Nadu"
+  },
+  {
+    "id": "quest_tn_003",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural tradition is highlighted as a major feature of Tamil Nadu's temples?",
+    "options": [
+      "Mughal architecture",
+      "Nagara architecture",
+      "Gothic architecture",
+      "Dravidian architecture"
+    ],
+    "answer": "Dravidian architecture",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Temples"
+  },
+  {
+    "id": "quest_tn_004",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty patronised the monuments of Mahabalipuram?",
+    "options": [
+      "Chera dynasty",
+      "Pallava dynasty",
+      "Pandya dynasty",
+      "Chola dynasty"
+    ],
+    "answer": "Pallava dynasty",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_005",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Pallava ruler is associated with the name Mamallapuram?",
+    "options": [
+      "Rajendra Chola I",
+      "Narasimha Varman I",
+      "Mahendravarman II",
+      "Rajaraja Chola I"
+    ],
+    "answer": "Narasimha Varman I",
+    "difficulty": "medium",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_006",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Shore Temple primarily associated with?",
+    "options": [
+      "Chola bronze casting",
+      "Pallava architecture",
+      "Nayaka palace architecture",
+      "Pandya rock art"
+    ],
+    "answer": "Pallava architecture",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_007",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deities are represented by the three shrines of the Shore Temple according to Tamil Nadu Tourism?",
+    "options": [
+      "One each for Shiva, Vishnu and Brahma",
+      "All three for Shiva",
+      "Two for Vishnu and one for Shiva",
+      "Two for Shiva and one for Vishnu"
+    ],
+    "answer": "Two for Shiva and one for Vishnu",
+    "difficulty": "medium",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_008",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What are the Pancha Rathas?",
+    "options": [
+      "Five monolithic chariots/rathas",
+      "Five cave temples",
+      "Five royal palaces",
+      "Five Buddhist stupas"
+    ],
+    "answer": "Five monolithic chariots/rathas",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_009",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "To whom are the Pancha Rathas traditionally dedicated?",
+    "options": [
+      "The five Pandava brothers",
+      "The five Chola kings",
+      "The five sages",
+      "The five Pallava kings"
+    ],
+    "answer": "The five Pandava brothers",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_010",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monument at Mahabalipuram is also called the Descent of the Ganges?",
+    "options": [
+      "Arjuna's Penance",
+      "Shore Temple",
+      "Varaha Cave",
+      "Krishna's Butterball"
+    ],
+    "answer": "Arjuna's Penance",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_011",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On which coast is Mahabalipuram located?",
+    "options": [
+      "Kanyakumari Coast",
+      "Konkan Coast",
+      "Malabar Coast",
+      "Coromandel Coast"
+    ],
+    "answer": "Coromandel Coast",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_012",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Mahabalipuram was a major seaport of which ancient kingdom?",
+    "options": [
+      "Chera kingdom",
+      "Pandya kingdom",
+      "Chola kingdom",
+      "Pallava kingdom"
+    ],
+    "answer": "Pallava kingdom",
+    "difficulty": "medium",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_013",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is special about many of Mahabalipuram's monuments?",
+    "options": [
+      "They are built entirely of marble",
+      "They are underground structures",
+      "They are made entirely of wood",
+      "They are carved from single rocks"
+    ],
+    "answer": "They are carved from single rocks",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_014",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which giant rock at Mahabalipuram is famous for appearing to balance on a hillside?",
+    "options": [
+      "Nandi Rock",
+      "Pallava Stone",
+      "Krishna's Butterball",
+      "Arjuna's Rock"
+    ],
+    "answer": "Krishna's Butterball",
+    "difficulty": "easy",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_015",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient trading connection is evidenced by coins found at Mahabalipuram?",
+    "options": [
+      "Trade with Portuguese",
+      "Trade with Mughals",
+      "Trade with Romans",
+      "Trade with British"
+    ],
+    "answer": "Trade with Romans",
+    "difficulty": "hard",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_016",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which annual festival takes place at Mahabalipuram Beach and showcases classical dance?",
+    "options": [
+      "Pallava Utsav",
+      "Kanyakumari Festival",
+      "Mamallapuram Dance Festival",
+      "Chola Festival"
+    ],
+    "answer": "Mamallapuram Dance Festival",
+    "difficulty": "medium",
+    "source": "Incredible India – Mamallapuram"
+  },
+  {
+    "id": "quest_tn_017",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which century was the Brihadeeshwara Temple at Thanjavur built?",
+    "options": [
+      "7th century",
+      "15th century",
+      "18th century",
+      "11th century"
+    ],
+    "answer": "11th century",
+    "difficulty": "medium",
+    "source": "Incredible India – Great Living Chola Temples"
+  },
+  {
+    "id": "quest_tn_018",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Chola ruler is associated with the Brihadeeshwara Temple at Thanjavur?",
+    "options": [
+      "Rajaraja Chola I",
+      "Rajendra Chola I",
+      "Kulothunga Chola III",
+      "Karikala Chola"
+    ],
+    "answer": "Rajaraja Chola I",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Thanjavur"
+  },
+  {
+    "id": "quest_tn_019",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is also known as the Big Temple?",
+    "options": [
+      "Airavatesvara Temple",
+      "Shore Temple",
+      "Brihadeeshwara Temple",
+      "Meenakshi Amman Temple"
+    ],
+    "answer": "Brihadeeshwara Temple",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Thanjavur"
+  },
+  {
+    "id": "quest_tn_020",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple at Darasuram is part of the Great Living Chola Temples?",
+    "options": [
+      "Airavatesvara Temple",
+      "Kailasanatha Temple",
+      "Kapaleeshwarar Temple",
+      "Ramanathaswamy Temple"
+    ],
+    "answer": "Airavatesvara Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Great Living Chola Temples"
+  },
+  {
+    "id": "quest_tn_021",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which city is home to Gangaikondacholeeswaram Temple?",
+    "options": [
+      "Rameswaram",
+      "Ariyalur",
+      "Madurai",
+      "Kanchipuram"
+    ],
+    "answer": "Ariyalur",
+    "difficulty": "medium",
+    "source": "Incredible India – Great Living Chola Temples"
+  },
+  {
+    "id": "quest_tn_022",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do the Great Living Chola Temples showcase?",
+    "options": [
+      "Chola architectural and artistic excellence",
+      "Buddhist cave painting",
+      "British colonial architecture",
+      "Mughal court culture"
+    ],
+    "answer": "Chola architectural and artistic excellence",
+    "difficulty": "easy",
+    "source": "Incredible India – Great Living Chola Temples"
+  },
+  {
+    "id": "quest_tn_023",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous temple is the main heritage landmark of Madurai?",
+    "options": [
+      "Kailasanatha Temple",
+      "Brihadeeshwara Temple",
+      "Meenakshi Amman Temple",
+      "Ramanathaswamy Temple"
+    ],
+    "answer": "Meenakshi Amman Temple",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Madurai"
+  },
+  {
+    "id": "quest_tn_024",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which goddess is the Meenakshi Amman Temple dedicated to?",
+    "options": [
+      "Meenakshi",
+      "Lakshmi",
+      "Saraswati",
+      "Durga"
+    ],
+    "answer": "Meenakshi",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Madurai"
+  },
+  {
+    "id": "quest_tn_025",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is worshipped alongside Meenakshi at the temple?",
+    "options": [
+      "Sundareswarar (Shiva)",
+      "Murugan",
+      "Brahma",
+      "Vishnu"
+    ],
+    "answer": "Sundareswarar (Shiva)",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Madurai"
+  },
+  {
+    "id": "quest_tn_026",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river is associated with Madurai?",
+    "options": [
+      "Tamiraparani",
+      "Kaveri",
+      "Palar",
+      "Vaigai"
+    ],
+    "answer": "Vaigai",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Madurai"
+  },
+  {
+    "id": "quest_tn_027",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous temple is located at Rameswaram?",
+    "options": [
+      "Brihadeeshwara Temple",
+      "Ramanathaswamy Temple",
+      "Meenakshi Amman Temple",
+      "Shore Temple"
+    ],
+    "answer": "Ramanathaswamy Temple",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Rameswaram"
+  },
+  {
+    "id": "quest_tn_028",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Ramanathaswamy Temple is dedicated to which deity?",
+    "options": [
+      "Lord Murugan",
+      "Lord Vishnu",
+      "Lord Shiva",
+      "Lord Krishna"
+    ],
+    "answer": "Lord Shiva",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Rameswaram"
+  },
+  {
+    "id": "quest_tn_029",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Ramanathaswamy Temple especially famous for?",
+    "options": [
+      "Its long pillared corridors",
+      "Its Buddhist stupas",
+      "Its monolithic chariots",
+      "Its rock paintings"
+    ],
+    "answer": "Its long pillared corridors",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Rameswaram"
+  },
+  {
+    "id": "quest_tn_030",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Rameswaram is located on which island?",
+    "options": [
+      "Majuli Island",
+      "Diu Island",
+      "Pamban Island",
+      "Elephanta Island"
+    ],
+    "answer": "Pamban Island",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Rameswaram"
+  },
+  {
+    "id": "quest_tn_031",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At which end of mainland India is Kanyakumari located?",
+    "options": [
+      "Northernmost tip",
+      "Westernmost tip",
+      "Easternmost tip",
+      "Southernmost tip"
+    ],
+    "answer": "Southernmost tip",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Kanyakumari"
+  },
+  {
+    "id": "quest_tn_032",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which three water bodies meet at Kanyakumari according to Tamil Nadu Tourism?",
+    "options": [
+      "Bay of Bengal, Andaman Sea and Arabian Sea",
+      "Arabian Sea, Bay of Bengal and Indian Ocean",
+      "Indian Ocean, Gulf of Kutch and Bay of Bengal",
+      "Arabian Sea, Red Sea and Indian Ocean"
+    ],
+    "answer": "Arabian Sea, Bay of Bengal and Indian Ocean",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Kanyakumari"
+  },
+  {
+    "id": "quest_tn_033",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monument at Kanyakumari commemorates Swami Vivekananda?",
+    "options": [
+      "Thiruvalluvar Statue",
+      "Gandhi Memorial",
+      "Vivekananda Rock Memorial",
+      "Vivekananda House"
+    ],
+    "answer": "Vivekananda Rock Memorial",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Kanyakumari"
+  },
+  {
+    "id": "quest_tn_034",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous statue stands offshore near Kanyakumari?",
+    "options": [
+      "Statue of Unity",
+      "Dhyana Buddha",
+      "Thiruvalluvar Statue",
+      "Gomateshwara"
+    ],
+    "answer": "Thiruvalluvar Statue",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Kanyakumari"
+  },
+  {
+    "id": "quest_tn_035",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What natural event is Kanyakumari especially famous for viewing over the sea?",
+    "options": [
+      "Sunrise and sunset",
+      "Desert sunset",
+      "Aurora",
+      "Snowfall"
+    ],
+    "answer": "Sunrise and sunset",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Kanyakumari"
+  },
+  {
+    "id": "quest_tn_036",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Kanchipuram especially famous for?",
+    "options": [
+      "Temples and silk sarees",
+      "Rock shelters",
+      "Backwaters",
+      "Tea plantations"
+    ],
+    "answer": "Temples and silk sarees",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Kanchipuram"
+  },
+  {
+    "id": "quest_tn_037",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is a major Pallava monument in Kanchipuram?",
+    "options": [
+      "Shore Temple",
+      "Kailasanatha Temple",
+      "Ramanathaswamy Temple",
+      "Meenakshi Temple"
+    ],
+    "answer": "Kailasanatha Temple",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Kanchipuram"
+  },
+  {
+    "id": "quest_tn_038",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty made Kanchipuram an important centre of architecture and learning?",
+    "options": [
+      "Pallavas",
+      "Mughals",
+      "Cholas",
+      "Marathas"
+    ],
+    "answer": "Pallavas",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Kanchipuram"
+  },
+  {
+    "id": "quest_tn_039",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which craft tradition is strongly associated with Kanchipuram?",
+    "options": [
+      "Silk weaving",
+      "Iron craft",
+      "Pattachitra",
+      "Wood carving"
+    ],
+    "answer": "Silk weaving",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Kanchipuram"
+  },
+  {
+    "id": "quest_tn_040",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hill station is also known as Ooty?",
+    "options": [
+      "Kodaikanal",
+      "Udhagamandalam",
+      "Yercaud",
+      "Coonoor"
+    ],
+    "answer": "Udhagamandalam",
+    "difficulty": "easy",
+    "source": "Incredible India – Nilgiri Mountain Railway / Ooty"
+  },
+  {
+    "id": "quest_tn_041",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which railway is famous for connecting Mettupalayam, Coonoor and Ooty?",
+    "options": [
+      "Konkan Railway",
+      "Kalka-Shimla Railway",
+      "Darjeeling Himalayan Railway",
+      "Nilgiri Mountain Railway"
+    ],
+    "answer": "Nilgiri Mountain Railway",
+    "difficulty": "easy",
+    "source": "Incredible India – Nilgiri Mountain Railway / Ooty"
+  },
+  {
+    "id": "quest_tn_042",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What UNESCO recognition does the Nilgiri Mountain Railway have?",
+    "options": [
+      "UNESCO Creative City status",
+      "World Heritage status as part of the Mountain Railways of India",
+      "Ramsar status",
+      "Biosphere Reserve status"
+    ],
+    "answer": "World Heritage status as part of the Mountain Railways of India",
+    "difficulty": "medium",
+    "source": "Incredible India – Nilgiri Mountain Railway / Ooty"
+  },
+  {
+    "id": "quest_tn_043",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain range is home to Ooty?",
+    "options": [
+      "Vindhya Range",
+      "Aravalli Hills",
+      "Nilgiri Hills",
+      "Satpura Range"
+    ],
+    "answer": "Nilgiri Hills",
+    "difficulty": "easy",
+    "source": "Incredible India – Nilgiri Mountain Railway / Ooty"
+  },
+  {
+    "id": "quest_tn_044",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is the capital of Tamil Nadu?",
+    "options": [
+      "Madurai",
+      "Chennai",
+      "Thanjavur",
+      "Coimbatore"
+    ],
+    "answer": "Chennai",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Chennai"
+  },
+  {
+    "id": "quest_tn_045",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which famous urban beach is located in Chennai?",
+    "options": [
+      "Digha Beach",
+      "Marina Beach",
+      "Juhu Beach",
+      "Puri Beach"
+    ],
+    "answer": "Marina Beach",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Chennai"
+  },
+  {
+    "id": "quest_tn_046",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which colonial fort is a major historic landmark of Chennai?",
+    "options": [
+      "Fort Aguada",
+      "Fort St. George",
+      "Fort Kochi",
+      "Bekal Fort"
+    ],
+    "answer": "Fort St. George",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Chennai"
+  },
+  {
+    "id": "quest_tn_047",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which island temple complex is located near Tiruchirappalli?",
+    "options": [
+      "Meenakshi Temple",
+      "Sri Ranganathaswamy Temple at Srirangam",
+      "Shore Temple",
+      "Ramanathaswamy Temple"
+    ],
+    "answer": "Sri Ranganathaswamy Temple at Srirangam",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Tiruchirappalli"
+  },
+  {
+    "id": "quest_tn_048",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which river surrounds the island of Srirangam?",
+    "options": [
+      "Palar",
+      "Vaigai",
+      "Kaveri",
+      "Tamiraparani"
+    ],
+    "answer": "Kaveri",
+    "difficulty": "medium",
+    "source": "Tamil Nadu Tourism – Tiruchirappalli"
+  },
+  {
+    "id": "quest_tn_049",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which rock formation dominates the historic centre of Tiruchirappalli?",
+    "options": [
+      "Gingee Fort",
+      "Vellore Fort",
+      "Fort St. George",
+      "Rockfort"
+    ],
+    "answer": "Rockfort",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Tiruchirappalli"
+  },
+  {
+    "id": "quest_tn_050",
+    "state": "Tamil Nadu",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which sanctuary is associated with elephants and tigers in the Nilgiri region?",
+    "options": [
+      "Point Calimere",
+      "Guindy National Park",
+      "Mudumalai Wildlife Sanctuary",
+      "Vedanthangal Bird Sanctuary"
+    ],
+    "answer": "Mudumalai Wildlife Sanctuary",
+    "difficulty": "easy",
+    "source": "Tamil Nadu Tourism – Nilgiri / Mudumalai"
+  }
+]

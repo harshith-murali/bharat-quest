@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_goa_001",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which sea lies along Goa's coast?",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Andaman Sea",
+      "Lakshadweep Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "Goa Tourism Development Corporation – Goa"
+  },
+  {
+    "id": "quest_goa_002",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is the capital of Goa?",
+    "options": [
+      "Margao",
+      "Vasco da Gama",
+      "Panaji",
+      "Old Goa"
+    ],
+    "answer": "Panaji",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Panaji"
+  },
+  {
+    "id": "quest_goa_003",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river and sea meet near Fort Aguada?",
+    "options": [
+      "Mandovi River and Arabian Sea",
+      "Sal River and Arabian Sea",
+      "Mandovi River and Bay of Bengal",
+      "Zuari River and Bay of Bengal"
+    ],
+    "answer": "Mandovi River and Arabian Sea",
+    "difficulty": "medium",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_004",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city was the Portuguese capital of Goa until the mid-18th century?",
+    "options": [
+      "Margao",
+      "Old Goa",
+      "Vasco da Gama",
+      "Panaji"
+    ],
+    "answer": "Old Goa",
+    "difficulty": "easy",
+    "source": "GTDC – Old Goa Heritage"
+  },
+  {
+    "id": "quest_goa_005",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Old Goa recognized as?",
+    "options": [
+      "Tiger Reserve",
+      "UNESCO World Heritage Site",
+      "Biosphere Reserve",
+      "Ramsar Site"
+    ],
+    "answer": "UNESCO World Heritage Site",
+    "difficulty": "easy",
+    "source": "Goa Tourism Development Corporation – Goa"
+  },
+  {
+    "id": "quest_goa_006",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why was the capital moved from Old Goa to Panaji?",
+    "options": [
+      "The Portuguese lost the city",
+      "A new port was required",
+      "Old Goa was affected by a plague",
+      "A war destroyed Old Goa"
+    ],
+    "answer": "Old Goa was affected by a plague",
+    "difficulty": "medium",
+    "source": "GTDC – Old Goa Heritage"
+  },
+  {
+    "id": "quest_goa_007",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural traditions are visible in Old Goa's heritage buildings?",
+    "options": [
+      "Renaissance, Baroque and Portuguese Manueline",
+      "Dravidian and Nagara",
+      "Mughal and Rajput",
+      "Buddhist and Jain"
+    ],
+    "answer": "Renaissance, Baroque and Portuguese Manueline",
+    "difficulty": "medium",
+    "source": "Goa Tourism Development Corporation – Goa"
+  },
+  {
+    "id": "quest_goa_008",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'Bom Jesus' mean?",
+    "options": [
+      "Holy Cross",
+      "House of Prayer",
+      "Saint of Goa",
+      "Good Jesus or Infant Jesus"
+    ],
+    "answer": "Good Jesus or Infant Jesus",
+    "difficulty": "easy",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_009",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Whose mortal remains are enshrined in the Basilica of Bom Jesus?",
+    "options": [
+      "St. Anthony",
+      "St. Catherine",
+      "St. Ignatius of Loyola",
+      "St. Francis Xavier"
+    ],
+    "answer": "St. Francis Xavier",
+    "difficulty": "easy",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_010",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "When was the foundation stone of the Basilica of Bom Jesus laid?",
+    "options": [
+      "24 November 1594",
+      "15 May 1605",
+      "15 May 1594",
+      "24 November 1605"
+    ],
+    "answer": "24 November 1594",
+    "difficulty": "hard",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_011",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the Basilica of Bom Jesus completed and consecrated?",
+    "options": [
+      "1946",
+      "1605",
+      "1594",
+      "1585"
+    ],
+    "answer": "1605",
+    "difficulty": "medium",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_012",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural style is especially associated with the Basilica of Bom Jesus?",
+    "options": [
+      "Mughal",
+      "Dravidian",
+      "Baroque",
+      "Gothic"
+    ],
+    "answer": "Baroque",
+    "difficulty": "easy",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_013",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural styles are combined on the Basilica's façade?",
+    "options": [
+      "Romanesque, Gothic and Tudor",
+      "Doric, Ionic, Corinthian and Composite",
+      "Nagara, Dravidian and Vesara",
+      "Mughal, Rajput and Gothic"
+    ],
+    "answer": "Doric, Ionic, Corinthian and Composite",
+    "difficulty": "hard",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_014",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "In which year was the Basilica of Bom Jesus raised to the status of a minor basilica?",
+    "options": [
+      "1605",
+      "1594",
+      "1970",
+      "1946"
+    ],
+    "answer": "1946",
+    "difficulty": "medium",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_015",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is notable about the Basilica's exterior façade?",
+    "options": [
+      "It is painted blue",
+      "It is made entirely of marble",
+      "It is not covered with plaster",
+      "It is covered entirely with gold"
+    ],
+    "answer": "It is not covered with plaster",
+    "difficulty": "easy",
+    "source": "GTDC – Basilica of Bom Jesus"
+  },
+  {
+    "id": "quest_goa_016",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "To whom is the Se Cathedral dedicated?",
+    "options": [
+      "St. Francis Xavier",
+      "St. Ignatius",
+      "St. Catherine",
+      "St. Anthony"
+    ],
+    "answer": "St. Catherine",
+    "difficulty": "easy",
+    "source": "GTDC – Se Cathedral"
+  },
+  {
+    "id": "quest_goa_017",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What victory does the Se Cathedral commemorate?",
+    "options": [
+      "The Portuguese arrival in India",
+      "The liberation of Goa",
+      "A naval victory over Britain",
+      "Afonso Albuquerque's victory"
+    ],
+    "answer": "Afonso Albuquerque's victory",
+    "difficulty": "medium",
+    "source": "GTDC – Se Cathedral"
+  },
+  {
+    "id": "quest_goa_018",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What distinction does the Se Cathedral have according to GTDC?",
+    "options": [
+      "It is India's first basilica",
+      "It is the largest church in Asia",
+      "It is Goa's smallest church",
+      "It is the oldest church in India"
+    ],
+    "answer": "It is the largest church in Asia",
+    "difficulty": "easy",
+    "source": "GTDC – Se Cathedral"
+  },
+  {
+    "id": "quest_goa_019",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous feature is associated with the Se Cathedral's bell?",
+    "options": [
+      "Golden Bell",
+      "Royal Bell",
+      "Augustinian Bell",
+      "Portuguese Bell"
+    ],
+    "answer": "Golden Bell",
+    "difficulty": "medium",
+    "source": "GTDC – Se Cathedral"
+  },
+  {
+    "id": "quest_goa_020",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which colonial power built Fort Aguada?",
+    "options": [
+      "Dutch",
+      "French",
+      "British",
+      "Portuguese"
+    ],
+    "answer": "Portuguese",
+    "difficulty": "easy",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_021",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the name 'Aguada' relate to?",
+    "options": [
+      "A place where water is collected",
+      "A fortified hill",
+      "A lighthouse",
+      "A trading port"
+    ],
+    "answer": "A place where water is collected",
+    "difficulty": "medium",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_022",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What provided Fort Aguada with its constant supply of drinking water?",
+    "options": [
+      "A fresh-water spring",
+      "Rainwater only",
+      "The Mandovi River",
+      "A nearby lake"
+    ],
+    "answer": "A fresh-water spring",
+    "difficulty": "easy",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_023",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What type of architecture is Fort Aguada an example of?",
+    "options": [
+      "Rajput fort architecture",
+      "Portuguese military architecture",
+      "Mughal palace architecture",
+      "Buddhist architecture"
+    ],
+    "answer": "Portuguese military architecture",
+    "difficulty": "easy",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_024",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What material was mainly used to build Fort Aguada?",
+    "options": [
+      "Laterite stone",
+      "White marble",
+      "Sandstone",
+      "Granite"
+    ],
+    "answer": "Laterite stone",
+    "difficulty": "easy",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_025",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Approximately how much water could Fort Aguada's huge cistern store?",
+    "options": [
+      "Over 200,000 gallons",
+      "Over 20,000 gallons",
+      "Over 2,000,000 gallons",
+      "Over 20,000,000 gallons"
+    ],
+    "answer": "Over 2,000,000 gallons",
+    "difficulty": "hard",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_026",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the original Aguada lighthouse built?",
+    "options": [
+      "1664",
+      "1764",
+      "1864",
+      "1964"
+    ],
+    "answer": "1864",
+    "difficulty": "medium",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_027",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What distinction is given to the original Aguada lighthouse?",
+    "options": [
+      "Largest lighthouse in Asia",
+      "First lighthouse in Goa",
+      "Oldest of its kind in Asia",
+      "Tallest lighthouse in India"
+    ],
+    "answer": "Oldest of its kind in Asia",
+    "difficulty": "medium",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_028",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which fort area was converted into a jail during the Salazar administration?",
+    "options": [
+      "Chapora",
+      "Reis Magos",
+      "Cabo de Rama",
+      "Aguada"
+    ],
+    "answer": "Aguada",
+    "difficulty": "medium",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_029",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which date is commemorated at Fort Aguada in memory of Goa's freedom struggle?",
+    "options": [
+      "19 December",
+      "26 January",
+      "18 June",
+      "15 August"
+    ],
+    "answer": "18 June",
+    "difficulty": "hard",
+    "source": "GTDC – Fort Aguada"
+  },
+  {
+    "id": "quest_goa_030",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Old Goa presents Goa's archaeological heritage?",
+    "options": [
+      "Goa State Museum",
+      "Archaeological Museum",
+      "Maritime Museum",
+      "Christian Art Museum"
+    ],
+    "answer": "Archaeological Museum",
+    "difficulty": "easy",
+    "source": "GTDC – Old Goa Heritage"
+  },
+  {
+    "id": "quest_goa_031",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Old Goa preserves Goa's Christian artistic heritage?",
+    "options": [
+      "Modern Art Museum",
+      "Archaeological Museum",
+      "Heritage Museum",
+      "Christian Art Museum"
+    ],
+    "answer": "Christian Art Museum",
+    "difficulty": "easy",
+    "source": "GTDC – Old Goa Heritage"
+  },
+  {
+    "id": "quest_goa_032",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built the Viceroy's Arch according to GTDC?",
+    "options": [
+      "Afonso Albuquerque",
+      "Vasco da Gama",
+      "Dom Jeronimo Mascarenhas",
+      "Francisco da Gama"
+    ],
+    "answer": "Francisco da Gama",
+    "difficulty": "medium",
+    "source": "GTDC – Old Goa Heritage"
+  },
+  {
+    "id": "quest_goa_033",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who was Francisco da Gama?",
+    "options": [
+      "Governor of Panaji",
+      "Brother of St. Francis Xavier",
+      "Son of Afonso Albuquerque",
+      "Grandson of Vasco da Gama"
+    ],
+    "answer": "Grandson of Vasco da Gama",
+    "difficulty": "medium",
+    "source": "GTDC – Old Goa Heritage"
+  },
+  {
+    "id": "quest_goa_034",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which emblem appears on the river-facing side of the Viceroy's Arch?",
+    "options": [
+      "A tiger emblem",
+      "A ship emblem",
+      "A lion emblem",
+      "A deer emblem"
+    ],
+    "answer": "A deer emblem",
+    "difficulty": "hard",
+    "source": "GTDC – Old Goa Heritage"
+  },
+  {
+    "id": "quest_goa_035",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which three forts are identified by GTDC among Goa's major vantage points?",
+    "options": [
+      "Aguada, Reis Magos and Cabo de Rama",
+      "Aguada, Raigad and Sindhudurg",
+      "Chapora, Raigad and Pratapgad",
+      "Cabo de Rama, Gwalior and Aguada"
+    ],
+    "answer": "Aguada, Reis Magos and Cabo de Rama",
+    "difficulty": "medium",
+    "source": "GTDC – Forts of Goa"
+  },
+  {
+    "id": "quest_goa_036",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Why were forts important in Goa's history?",
+    "options": [
+      "Goa had no natural defences",
+      "Goa's coastal location and natural harbours made it a target for invasions",
+      "They were built only for tourism",
+      "They were used only as temples"
+    ],
+    "answer": "Goa's coastal location and natural harbours made it a target for invasions",
+    "difficulty": "medium",
+    "source": "GTDC – Forts of Goa"
+  },
+  {
+    "id": "quest_goa_037",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fort is located at the confluence of the Mandovi River and Arabian Sea?",
+    "options": [
+      "Chapora Fort",
+      "Cabo de Rama Fort",
+      "Fort Aguada",
+      "Reis Magos Fort"
+    ],
+    "answer": "Fort Aguada",
+    "difficulty": "easy",
+    "source": "GTDC – Forts of Goa"
+  },
+  {
+    "id": "quest_goa_038",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which famous waterfall is located in Goa's interior?",
+    "options": [
+      "Chitrakote Falls",
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Hundru Falls"
+    ],
+    "answer": "Dudhsagar Falls",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Dudhsagar Falls"
+  },
+  {
+    "id": "quest_goa_039",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the name Dudhsagar mean?",
+    "options": [
+      "River of gold",
+      "Sea of milk",
+      "White river",
+      "Water of the gods"
+    ],
+    "answer": "Sea of milk",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Dudhsagar Falls"
+  },
+  {
+    "id": "quest_goa_040",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain range is associated with Dudhsagar Falls?",
+    "options": [
+      "Western Ghats",
+      "Aravallis",
+      "Vindhyas",
+      "Eastern Ghats"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "medium",
+    "source": "Goa Tourism – Dudhsagar Falls"
+  },
+  {
+    "id": "quest_goa_041",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which fort is located at the southern tip of Goa?",
+    "options": [
+      "Chapora Fort",
+      "Cabo de Rama Fort",
+      "Aguada Fort",
+      "Reis Magos Fort"
+    ],
+    "answer": "Cabo de Rama Fort",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Cabo de Rama Fort"
+  },
+  {
+    "id": "quest_goa_042",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which epic figure is associated with the name Cabo de Rama according to the traditional story?",
+    "options": [
+      "Rama",
+      "Hanuman",
+      "Arjuna",
+      "Krishna"
+    ],
+    "answer": "Rama",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Cabo de Rama Fort"
+  },
+  {
+    "id": "quest_goa_043",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of location is Cabo de Rama Fort known for?",
+    "options": [
+      "A hill beside a lake",
+      "A cliff overlooking the Arabian Sea",
+      "A river island",
+      "A forest cave"
+    ],
+    "answer": "A cliff overlooking the Arabian Sea",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Cabo de Rama Fort"
+  },
+  {
+    "id": "quest_goa_044",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which church is the prominent landmark of Panaji's central square?",
+    "options": [
+      "St. Cajetan Church",
+      "Our Lady of Immaculate Conception Church",
+      "Se Cathedral",
+      "Basilica of Bom Jesus"
+    ],
+    "answer": "Our Lady of Immaculate Conception Church",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Panaji"
+  },
+  {
+    "id": "quest_goa_045",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is distinctive about the stairway of Our Lady of Immaculate Conception Church?",
+    "options": [
+      "A spiral stone staircase",
+      "A wooden bridge",
+      "A circular ramp",
+      "A symmetrical zigzagging stairway"
+    ],
+    "answer": "A symmetrical zigzagging stairway",
+    "difficulty": "medium",
+    "source": "Goa Tourism – Panaji"
+  },
+  {
+    "id": "quest_goa_046",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which heavy bell is housed in the belfry of Our Lady of Immaculate Conception Church?",
+    "options": [
+      "Golden Bell",
+      "Viceroy's bell",
+      "Bom Jesus bell",
+      "Augustinian bell"
+    ],
+    "answer": "Augustinian bell",
+    "difficulty": "medium",
+    "source": "Goa Tourism Development Corporation – Goa"
+  },
+  {
+    "id": "quest_goa_047",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum showcases traditional Goan craft and cultural objects?",
+    "options": [
+      "Christian Art Museum",
+      "Archaeological Museum",
+      "Indian Museum",
+      "Goa Chitra Museum"
+    ],
+    "answer": "Goa Chitra Museum",
+    "difficulty": "easy",
+    "source": "Goa Tourism – Goa Chitra Museum"
+  },
+  {
+    "id": "quest_goa_048",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which broad heritage is central to Goa's historic identity in the official tourism material?",
+    "options": [
+      "A blend of Indian and Portuguese influences",
+      "Only Mughal influence",
+      "Only British influence",
+      "Only Buddhist influence"
+    ],
+    "answer": "A blend of Indian and Portuguese influences",
+    "difficulty": "medium",
+    "source": "Goa Tourism Development Corporation – Goa"
+  },
+  {
+    "id": "quest_goa_049",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which church in Old Goa is described as the most imposing of the churches there?",
+    "options": [
+      "Se Cathedral",
+      "Church of St. Cajetan",
+      "Basilica of Bom Jesus",
+      "Church of St. Francis of Assisi"
+    ],
+    "answer": "Se Cathedral",
+    "difficulty": "easy",
+    "source": "GTDC – Se Cathedral"
+  },
+  {
+    "id": "quest_goa_050",
+    "state": "Goa",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which saint is regarded as Goa's patron saint in the official tourism material?",
+    "options": [
+      "St. Catherine",
+      "St. Anthony",
+      "St. Francis Xavier",
+      "St. Ignatius of Loyola"
+    ],
+    "answer": "St. Francis Xavier",
+    "difficulty": "easy",
+    "source": "GTDC – Basilica of Bom Jesus"
+  }
+]

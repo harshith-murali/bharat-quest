@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_uttarakhand_001",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two major rivers of India have their sources in Uttarakhand according to the state tourism site?",
+    "options": [
+      "Mahanadi and Kaveri",
+      "Narmada and Tapi",
+      "Godavari and Krishna",
+      "Ganga and Yamuna"
+    ],
+    "answer": "Ganga and Yamuna",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_uttarakhand_002",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which types of forests are mentioned among Uttarakhand's natural vegetation?",
+    "options": [
+      "Coconut and palm forests",
+      "Sandalwood and bamboo forests only",
+      "Mangrove and teak forests",
+      "Oak, rhododendron, deodar and pine forests"
+    ],
+    "answer": "Oak, rhododendron, deodar and pine forests",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_uttarakhand_003",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately what percentage of Uttarakhand's geographical area is described as having dense forest cover?",
+    "options": [
+      "15.43%",
+      "45.43%",
+      "65.43%",
+      "25.43%"
+    ],
+    "answer": "45.43%",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_uttarakhand_004",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain peaks are highlighted by Uttarakhand Tourism?",
+    "options": [
+      "Aravalli, Abu and Guru Shikhar",
+      "Nanda Devi, Badrinath and Kamet",
+      "Kanchenjunga, Everest and Annapurna",
+      "Dhauladhar, Pir Panjal and Rohtang"
+    ],
+    "answer": "Nanda Devi, Badrinath and Kamet",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_uttarakhand_005",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which four shrines make up Uttarakhand's Char Dham Yatra?",
+    "options": [
+      "Haridwar, Rishikesh, Nainital and Mussoorie",
+      "Badrinath, Puri, Dwarka and Rameswaram",
+      "Kedarnath, Amarnath, Somnath and Dwarka",
+      "Yamunotri, Gangotri, Kedarnath and Badrinath"
+    ],
+    "answer": "Yamunotri, Gangotri, Kedarnath and Badrinath",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_006",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'Char Dham' mean?",
+    "options": [
+      "Four mountain peaks",
+      "Four holy destinations",
+      "Four temples in one city",
+      "Four rivers"
+    ],
+    "answer": "Four holy destinations",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_007",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "In which direction is the Char Dham Yatra traditionally completed?",
+    "options": [
+      "East to west only",
+      "South to north only",
+      "Clockwise",
+      "Anti-clockwise"
+    ],
+    "answer": "Clockwise",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_008",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which shrine is dedicated to Goddess Yamuna?",
+    "options": [
+      "Yamunotri",
+      "Kedarnath",
+      "Gangotri",
+      "Badrinath"
+    ],
+    "answer": "Yamunotri",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_009",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which shrine is dedicated to Goddess Ganga?",
+    "options": [
+      "Kedarnath",
+      "Yamunotri",
+      "Gangotri",
+      "Badrinath"
+    ],
+    "answer": "Gangotri",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_010",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Char Dham shrine is dedicated to Lord Shiva?",
+    "options": [
+      "Gangotri",
+      "Yamunotri",
+      "Badrinath",
+      "Kedarnath"
+    ],
+    "answer": "Kedarnath",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_011",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Char Dham shrine is dedicated to Lord Vishnu?",
+    "options": [
+      "Yamunotri",
+      "Badrinath",
+      "Kedarnath",
+      "Gangotri"
+    ],
+    "answer": "Badrinath",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_012",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Char Dham shrine lies in Rudraprayag district?",
+    "options": [
+      "Gangotri",
+      "Yamunotri",
+      "Kedarnath",
+      "Badrinath"
+    ],
+    "answer": "Kedarnath",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_013",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Char Dham shrine lies in Uttarkashi district and is close to the source of the Yamuna?",
+    "options": [
+      "Gangotri",
+      "Kedarnath",
+      "Yamunotri",
+      "Badrinath"
+    ],
+    "answer": "Yamunotri",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Char Dham"
+  },
+  {
+    "id": "quest_uttarakhand_014",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Haridwar's name mean according to Uttarakhand Tourism?",
+    "options": [
+      "Gateway to the gods",
+      "City of lakes",
+      "Land of flowers",
+      "Gateway to the Himalayas"
+    ],
+    "answer": "Gateway to the gods",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Haridwar"
+  },
+  {
+    "id": "quest_uttarakhand_015",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where does the Ganga enter the Indo-Gangetic plains at Haridwar?",
+    "options": [
+      "In the Thar Desert",
+      "At the Arabian Sea",
+      "At the Bay of Bengal",
+      "At the foothills of the Himalayas"
+    ],
+    "answer": "At the foothills of the Himalayas",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Haridwar"
+  },
+  {
+    "id": "quest_uttarakhand_016",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How often is the Kumbh Mela held at Haridwar?",
+    "options": [
+      "Every 12 years",
+      "Every 4 years",
+      "Every 6 years",
+      "Every 10 years"
+    ],
+    "answer": "Every 12 years",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Haridwar"
+  },
+  {
+    "id": "quest_uttarakhand_017",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How often is the Ardh Kumbh organised at Haridwar?",
+    "options": [
+      "Every 3 years",
+      "Every 10 years",
+      "Every 6 years",
+      "Every 12 years"
+    ],
+    "answer": "Every 6 years",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Haridwar"
+  },
+  {
+    "id": "quest_uttarakhand_018",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which five places form the Panch Tirth of Haridwar?",
+    "options": [
+      "Gangadwara, Kushwart, Kankhal, Bilwa Tirtha and Neel Parvat",
+      "Kankhal, Rishikesh, Mussoorie, Dehradun and Nainital",
+      "Har Ki Pauri, Rishikesh, Badrinath, Kedarnath and Gangotri",
+      "Mansa Devi, Naina Devi, Jwala Devi, Chandi Devi and Yamunotri"
+    ],
+    "answer": "Gangadwara, Kushwart, Kankhal, Bilwa Tirtha and Neel Parvat",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Haridwar"
+  },
+  {
+    "id": "quest_uttarakhand_019",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Rishikesh commonly called?",
+    "options": [
+      "The city of palaces",
+      "The gateway to deserts",
+      "The lake district",
+      "The yoga capital of the world"
+    ],
+    "answer": "The yoga capital of the world",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Rishikesh"
+  },
+  {
+    "id": "quest_uttarakhand_020",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows through Rishikesh?",
+    "options": [
+      "Yamuna",
+      "Alaknanda",
+      "Ganga",
+      "Saraswati"
+    ],
+    "answer": "Ganga",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Rishikesh"
+  },
+  {
+    "id": "quest_uttarakhand_021",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which annual event is organised in Rishikesh and attracts yoga enthusiasts?",
+    "options": [
+      "Kullu Dussehra",
+      "Surajkund Mela",
+      "Kumbh Mela",
+      "International Yoga Festival"
+    ],
+    "answer": "International Yoga Festival",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Rishikesh"
+  },
+  {
+    "id": "quest_uttarakhand_022",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Rishikesh is described as a gateway to which Himalayan region?",
+    "options": [
+      "Trans-Himalayas",
+      "Eastern Himalayas",
+      "Kumaon Himalayas only",
+      "Garhwal Himalayas"
+    ],
+    "answer": "Garhwal Himalayas",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Rishikesh"
+  },
+  {
+    "id": "quest_uttarakhand_023",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What kind of institutions are Rishikesh's ashrams known for?",
+    "options": [
+      "Yoga, meditation and philosophical studies",
+      "Only military training",
+      "Only mountain farming",
+      "Only textile production"
+    ],
+    "answer": "Yoga, meditation and philosophical studies",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Rishikesh"
+  },
+  {
+    "id": "quest_uttarakhand_024",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Nainital popularly known as?",
+    "options": [
+      "The Land of Five Rivers",
+      "The Lake District",
+      "The Pink City",
+      "The City of Temples"
+    ],
+    "answer": "The Lake District",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_025",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Around what altitude is Nainital situated?",
+    "options": [
+      "About 2,000 metres",
+      "About 4,500 metres",
+      "About 6,000 metres",
+      "About 500 metres"
+    ],
+    "answer": "About 2,000 metres",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_026",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How many hills surround Nainital according to the official tourism source?",
+    "options": [
+      "Seven",
+      "Five",
+      "Nine",
+      "Twelve"
+    ],
+    "answer": "Seven",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_027",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the name of the lake at the centre of Nainital?",
+    "options": [
+      "Sattal",
+      "Naini Lake",
+      "Bhimtal",
+      "Dal Lake"
+    ],
+    "answer": "Naini Lake",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_028",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple stands on the edge of Naini Lake?",
+    "options": [
+      "Naina Devi Temple",
+      "Jwala Devi Temple",
+      "Kedarnath Temple",
+      "Badrinath Temple"
+    ],
+    "answer": "Naina Devi Temple",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_029",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Nainital during the British era?",
+    "options": [
+      "Summer capital of the United Provinces",
+      "Capital of Punjab",
+      "Capital of the Mughal Empire",
+      "Winter capital of India"
+    ],
+    "answer": "Summer capital of the United Provinces",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_030",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which conservationist and author was born in Nainital?",
+    "options": [
+      "Ruskin Bond",
+      "Rudyard Kipling",
+      "Jim Corbett",
+      "R.K. Narayan"
+    ],
+    "answer": "Jim Corbett",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_031",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park near Nainital is named after Jim Corbett?",
+    "options": [
+      "Valley of Flowers National Park",
+      "Rajaji National Park",
+      "Nanda Devi National Park",
+      "Jim Corbett National Park"
+    ],
+    "answer": "Jim Corbett National Park",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Nainital"
+  },
+  {
+    "id": "quest_uttarakhand_032",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "In which district is Valley of Flowers National Park located?",
+    "options": [
+      "Haridwar",
+      "Nainital",
+      "Dehradun",
+      "Chamoli"
+    ],
+    "answer": "Chamoli",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_033",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the approximate area of Valley of Flowers National Park?",
+    "options": [
+      "187 sq km",
+      "870 sq km",
+      "87 sq km",
+      "27 sq km"
+    ],
+    "answer": "87 sq km",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_034",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What international designation does Valley of Flowers have?",
+    "options": [
+      "Tiger Reserve",
+      "Ramsar Site only",
+      "UNESCO World Heritage Site",
+      "Biosphere Reserve only"
+    ],
+    "answer": "UNESCO World Heritage Site",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_035",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At approximately what altitude is Valley of Flowers situated?",
+    "options": [
+      "800 metres",
+      "5,600 metres",
+      "1,200 metres",
+      "3,600 metres"
+    ],
+    "answer": "3,600 metres",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_036",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "About how many species of flowers are highlighted in Valley of Flowers?",
+    "options": [
+      "Over 60",
+      "Over 100",
+      "Over 6,000",
+      "Over 600"
+    ],
+    "answer": "Over 600",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_037",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which rare animal is listed among the wildlife of Valley of Flowers?",
+    "options": [
+      "Snow leopard",
+      "Blackbuck",
+      "One-horned rhinoceros",
+      "Asiatic lion"
+    ],
+    "answer": "Snow leopard",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_038",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year is the Valley of Flowers believed to have been discovered by British mountaineers?",
+    "options": [
+      "1931",
+      "1901",
+      "1947",
+      "1911"
+    ],
+    "answer": "1931",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_039",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who led the group of British mountaineers who chanced upon the Valley of Flowers?",
+    "options": [
+      "George Everest",
+      "Frank S. Smythe",
+      "Jim Corbett",
+      "William Moorcroft"
+    ],
+    "answer": "Frank S. Smythe",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_040",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What kind of pilgrimage site is Hemkund Sahib?",
+    "options": [
+      "A Buddhist monastery",
+      "A Sikh pilgrimage site",
+      "A Jain pilgrimage site",
+      "A Hindu Char Dham shrine"
+    ],
+    "answer": "A Sikh pilgrimage site",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_041",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Sikh Guru is believed to have meditated at Hemkund Sahib?",
+    "options": [
+      "Guru Arjan Dev",
+      "Guru Gobind Singh",
+      "Guru Nanak Dev",
+      "Guru Tegh Bahadur"
+    ],
+    "answer": "Guru Gobind Singh",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_042",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At approximately what altitude is Hemkund Sahib located?",
+    "options": [
+      "6,000 metres",
+      "4,632 metres",
+      "3,000 metres",
+      "2,000 metres"
+    ],
+    "answer": "4,632 metres",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_043",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two rivers meet at Govindghat?",
+    "options": [
+      "Alaknanda and Lakshman Ganga",
+      "Ganga and Yamuna",
+      "Bhagirathi and Alaknanda",
+      "Yamuna and Tons"
+    ],
+    "answer": "Alaknanda and Lakshman Ganga",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_044",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Govindghat is the starting point for treks to which two major destinations?",
+    "options": [
+      "Nainital and Mussoorie",
+      "Yamunotri and Gangotri",
+      "Hemkund Sahib and Valley of Flowers",
+      "Kedarnath and Badrinath"
+    ],
+    "answer": "Hemkund Sahib and Valley of Flowers",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_045",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which town is the winter seat of Lord Badri?",
+    "options": [
+      "Joshimath",
+      "Rishikesh",
+      "Mussoorie",
+      "Haridwar"
+    ],
+    "answer": "Joshimath",
+    "difficulty": "hard",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_046",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which popular cable car connects Joshimath and Auli?",
+    "options": [
+      "Rishikesh–Auli ropeway",
+      "Badrinath–Auli ropeway",
+      "Joshimath–Auli ropeway",
+      "Haridwar–Auli ropeway"
+    ],
+    "answer": "Joshimath–Auli ropeway",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_047",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which settlement is described as the last settlement on the road to Tibet?",
+    "options": [
+      "Govindghat",
+      "Joshimath",
+      "Mana",
+      "Ghangaria"
+    ],
+    "answer": "Mana",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_048",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park is adjacent to Valley of Flowers National Park?",
+    "options": [
+      "Kedarnath National Park",
+      "Nanda Devi National Park",
+      "Rajaji National Park",
+      "Jim Corbett National Park"
+    ],
+    "answer": "Nanda Devi National Park",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Valley of Flowers"
+  },
+  {
+    "id": "quest_uttarakhand_049",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which high-altitude destination is highlighted by Uttarakhand Tourism as a popular skiing destination?",
+    "options": [
+      "Nainital",
+      "Auli",
+      "Rishikesh",
+      "Haridwar"
+    ],
+    "answer": "Auli",
+    "difficulty": "easy",
+    "source": "Uttarakhand Tourism – Auli"
+  },
+  {
+    "id": "quest_uttarakhand_050",
+    "state": "Uttarakhand",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain peak can be viewed from Auli according to Uttarakhand Tourism?",
+    "options": [
+      "Anamudi",
+      "Nanda Devi",
+      "Kanchenjunga",
+      "Guru Shikhar"
+    ],
+    "answer": "Nanda Devi",
+    "difficulty": "medium",
+    "source": "Uttarakhand Tourism – Auli"
+  }
+]

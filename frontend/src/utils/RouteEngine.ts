@@ -107,3 +107,45 @@ export function generateSvgPathString(points: Point2D[]): string {
 
   return d;
 }
+
+// Deterministic simple hash function for seeded route generation
+export function hashSeed(str: string): number {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = (hash << 5) - hash + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash);
+}
+
+/**
+ * Generate a deterministic curved quadratic Bezier path string between two 2D points,
+ * seeded by classroomId + sourceState + destState.
+ */
+export function generateSeededRoutePath(
+  p1: Point2D,
+  p2: Point2D,
+  seedStr: string
+): string {
+  if (!p1 || !p2) return '';
+  const dx = p2.x - p1.x;
+  const dy = p2.y - p1.y;
+  const len = Math.sqrt(dx * dx + dy * dy);
+  if (len < 2) return `M ${p1.x} ${p1.y} L ${p2.x} ${p2.y}`;
+
+  const mx = (p1.x + p2.x) / 2;
+  const my = (p1.y + p2.y) / 2;
+
+  const px = -dy / len;
+  const py = dx / len;
+
+  const h = hashSeed(seedStr);
+  const factor = ((h % 100) / 100 - 0.5) * 2; // -1 to 1
+  const maxOffset = Math.min(len * 0.35, 45);
+  const offset = factor * maxOffset;
+
+  const cx = mx + px * offset;
+  const cy = my + py * offset;
+
+  return `M ${p1.x.toFixed(1)} ${p1.y.toFixed(1)} Q ${cx.toFixed(1)} ${cy.toFixed(1)} ${p2.x.toFixed(1)} ${p2.y.toFixed(1)}`;
+}

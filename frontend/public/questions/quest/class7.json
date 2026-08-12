@@ -1,0 +1,1647 @@
+[
+  {
+    "id": "c7_0001",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "What is the highest peak in India?",
+    "options": [
+      "Kangchenjunga",
+      "Mount Everest",
+      "Nanda Devi",
+      "Dhaulagiri"
+    ],
+    "answer": "Kangchenjunga",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 18,
+    "state": "Sikkim"
+  },
+  {
+    "id": "c7_0002",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "In which state is Kangchenjunga located?",
+    "options": [
+      "Sikkim",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Sikkim",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 19,
+    "state": "Sikkim"
+  },
+  {
+    "id": "c7_0003",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "How were the Himalayas formed?",
+    "options": [
+      "Collision of tectonic plates",
+      "Volcanic activity",
+      "Erosion",
+      "Wind action"
+    ],
+    "answer": "Collision of tectonic plates",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 20
+  },
+  {
+    "id": "c7_0004",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which mountain range is the oldest in India?",
+    "options": [
+      "Aravalli",
+      "Himalayas",
+      "Western Ghats",
+      "Eastern Ghats"
+    ],
+    "answer": "Aravalli",
+    "difficulty": "hard",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 22
+  },
+  {
+    "id": "c7_0005",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Plains",
+    "question": "The Indo-Gangetic Plain is formed by which rivers?",
+    "options": [
+      "Ganges and tributaries",
+      "Brahmaputra",
+      "Godavari",
+      "Narmada"
+    ],
+    "answer": "Ganges and tributaries",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 22,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0006",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Plains",
+    "question": "The Indo-Gangetic Plain is known for what?",
+    "options": [
+      "High fertility and agriculture",
+      "Deserts",
+      "Plateaus",
+      "Forests"
+    ],
+    "answer": "High fertility and agriculture",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 24
+  },
+  {
+    "id": "c7_0007",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Plains",
+    "question": "Which river flows through the Indo-Gangetic Plain?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Indus",
+      "Narmada"
+    ],
+    "answer": "Ganges",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 26
+  },
+  {
+    "id": "c7_0008",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Monsoons",
+    "question": "Which monsoon brings most rainfall to India?",
+    "options": [
+      "Southwest monsoon",
+      "Northeast monsoon",
+      "Winter monsoon",
+      "Summer monsoon"
+    ],
+    "answer": "Southwest monsoon",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 55,
+    "state": "Kerala"
+  },
+  {
+    "id": "c7_0009",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Monsoons",
+    "question": "During which months do Southwest monsoons occur?",
+    "options": [
+      "June to September",
+      "March to May",
+      "October to December",
+      "January to February"
+    ],
+    "answer": "June to September",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 56
+  },
+  {
+    "id": "c7_0010",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Monsoons",
+    "question": "When does the retreating monsoon occur?",
+    "options": [
+      "October-November",
+      "June-July",
+      "December-January",
+      "February-March"
+    ],
+    "answer": "October-November",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 58
+  },
+  {
+    "id": "c7_0011",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "Who built the Taj Mahal?",
+    "options": [
+      "Shah Jahan",
+      "Akbar",
+      "Aurangzeb",
+      "Babar"
+    ],
+    "answer": "Shah Jahan",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 85,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0012",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "In which city is the Taj Mahal located?",
+    "options": [
+      "Agra",
+      "Delhi",
+      "Fatehpur Sikri",
+      "Lahore"
+    ],
+    "answer": "Agra",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 86,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0013",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "The Taj Mahal was built for whom?",
+    "options": [
+      "Mumtaz Mahal",
+      "Nur Jahan",
+      "Jahanara",
+      "Arjumand"
+    ],
+    "answer": "Mumtaz Mahal",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 88
+  },
+  {
+    "id": "c7_0014",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Bharatanatyam originated in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Odisha",
+      "Madhya Pradesh"
+    ],
+    "answer": "Tamil Nadu",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 110,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c7_0015",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Kathakali is the classical dance of which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha",
+      "Karnataka"
+    ],
+    "answer": "Kerala",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 112,
+    "state": "Kerala"
+  },
+  {
+    "id": "c7_0016",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "What is the primary coast of Kerala?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Coral Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 35,
+    "state": "Kerala"
+  },
+  {
+    "id": "c7_0017",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "Which coast experiences the monsoon first?",
+    "options": [
+      "Western coast",
+      "Eastern coast",
+      "Northern coast",
+      "Southern coast"
+    ],
+    "answer": "Western coast",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 36,
+    "state": "Kerala"
+  },
+  {
+    "id": "c7_0018",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which mountains separate India from Nepal?",
+    "options": [
+      "Himalayas",
+      "Western Ghats",
+      "Vindhya",
+      "Satpura"
+    ],
+    "answer": "Himalayas",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 40
+  },
+  {
+    "id": "c7_0019",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "What is the height range of the Himalayas?",
+    "options": [
+      "3000-7000 meters",
+      "1000-2000 meters",
+      "500-1500 meters",
+      "8000-9000 meters"
+    ],
+    "answer": "3000-7000 meters",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 42
+  },
+  {
+    "id": "c7_0020",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Nilgiris are part of which mountain range?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Aravalli",
+      "Vindhya"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 50,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c7_0021",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river is known for its delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Narmada",
+      "Godavari"
+    ],
+    "answer": "Ganges",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 60,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0022",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Brahmaputra flows through which valley?",
+    "options": [
+      "Assam Valley",
+      "Kullu Valley",
+      "Kashmir Valley",
+      "Deccan Valley"
+    ],
+    "answer": "Assam Valley",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 65,
+    "state": "Assam"
+  },
+  {
+    "id": "c7_0023",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river forms the Sundarbans delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Meghna",
+      "Mahanadi"
+    ],
+    "answer": "Ganges",
+    "difficulty": "hard",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 70,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c7_0024",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which season brings moisture to South India?",
+    "options": [
+      "Northeast monsoon",
+      "Southwest monsoon",
+      "Summer wind",
+      "Trade wind"
+    ],
+    "answer": "Northeast monsoon",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 80
+  },
+  {
+    "id": "c7_0025",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "What is the average annual rainfall in Western Ghats?",
+    "options": [
+      "More than 200 cm",
+      "50-100 cm",
+      "100-150 cm",
+      "Less than 50 cm"
+    ],
+    "answer": "More than 200 cm",
+    "difficulty": "hard",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 85
+  },
+  {
+    "id": "c7_0026",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Where is bauxite mining prominent?",
+    "options": [
+      "Odisha",
+      "Karnataka",
+      "Gujarat",
+      "Rajasthan"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 90,
+    "state": "Odisha"
+  },
+  {
+    "id": "c7_0027",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Which state produces maximum coal?",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Assam",
+      "Manipur"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 95,
+    "state": "Odisha"
+  },
+  {
+    "id": "c7_0028",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Limestone reserves are found in which state?",
+    "options": [
+      "Rajasthan",
+      "Himachal Pradesh",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 100,
+    "state": "Rajasthan"
+  },
+  {
+    "id": "c7_0030",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Pala Empire was based in which region?",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": "Bihar",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 115,
+    "state": "Bihar"
+  },
+  {
+    "id": "c7_0031",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Which Chola king conquered Sri Lanka?",
+    "options": [
+      "Rajendra Chola",
+      "Rajaraja Chola",
+      "Kulottunga",
+      "Parantaka"
+    ],
+    "answer": "Rajendra Chola",
+    "difficulty": "hard",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 120,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c7_0032",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Vijayanagara Empire was based in which state?",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "answer": "Karnataka",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 125,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c7_0033",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "Which Mughal emperor built Fatehpur Sikri?",
+    "options": [
+      "Akbar",
+      "Babar",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "answer": "Akbar",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 130,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0034",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Battle of Plassey was fought in which state?",
+    "options": [
+      "West Bengal",
+      "Bihar",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "answer": "West Bengal",
+    "difficulty": "hard",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 140,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c7_0035",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who led the Revolt of 1857 in Central India?",
+    "options": [
+      "Rani Lakshmibai",
+      "Tipu Sultan",
+      "Bhagat Singh",
+      "Surya Sen"
+    ],
+    "answer": "Rani Lakshmibai",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 145
+  },
+  {
+    "id": "c7_0036",
+    "class": 7,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "Which national park is known for one-horned rhinos?",
+    "options": [
+      "Kaziranga",
+      "Manas",
+      "Dudhwa",
+      "Corbett"
+    ],
+    "answer": "Kaziranga",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 150,
+    "state": "Assam"
+  },
+  {
+    "id": "c7_0037",
+    "class": 7,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "The Periyar lake is an important water body in which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Goa"
+    ],
+    "answer": "Kerala",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 155,
+    "state": "Kerala"
+  },
+  {
+    "id": "c7_0038",
+    "class": 7,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "Which animal is found only in the Western Ghats?",
+    "options": [
+      "Lion-tailed macaque",
+      "Asiatic elephant",
+      "Bengal tiger",
+      "Indian bison"
+    ],
+    "answer": "Lion-tailed macaque",
+    "difficulty": "hard",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 160,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c7_0039",
+    "class": 7,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "The Great Indian Bustard is found in which habitat?",
+    "options": [
+      "Grasslands",
+      "Forests",
+      "Wetlands",
+      "Desert"
+    ],
+    "answer": "Grasslands",
+    "difficulty": "medium",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 165
+  },
+  {
+    "id": "c7_0040",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Which dance form originated in Odisha?",
+    "options": [
+      "Odissi",
+      "Kathak",
+      "Kuchipudi",
+      "Manipuri"
+    ],
+    "answer": "Odissi",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 170,
+    "state": "Odisha"
+  },
+  {
+    "id": "c7_0041",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Kuchipudi dance originated in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Karnataka",
+      "Telangana"
+    ],
+    "answer": "Andhra Pradesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 175,
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "c7_0042",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Manipuri dance is the classical dance of which state?",
+    "options": [
+      "Manipur",
+      "Assam",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "Manipur",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 180
+  },
+  {
+    "id": "c7_0043",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Which temple is known as the 'Golden Temple'?",
+    "options": [
+      "Harmandir Sahib",
+      "Meenakshi Temple",
+      "Jagannath Temple",
+      "Kashi Vishwanath"
+    ],
+    "answer": "Harmandir Sahib",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 185
+  },
+  {
+    "id": "c7_0044",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Meenakshi Temple is located in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Telangana"
+    ],
+    "answer": "Tamil Nadu",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 190,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c7_0045",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Soil",
+    "question": "The Black Soil region is primarily found in which part of India?",
+    "options": [
+      "Deccan Plateau",
+      "Indo-Gangetic Plain",
+      "Coastal regions",
+      "Northern plains"
+    ],
+    "answer": "Deccan Plateau",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 52
+  },
+  {
+    "id": "c7_0046",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Plains",
+    "question": "Which plain is known as the 'Granary of India'?",
+    "options": [
+      "Indo-Gangetic Plain",
+      "Deccan Plateau",
+      "Coastal Plain",
+      "Thar Desert"
+    ],
+    "answer": "Indo-Gangetic Plain",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 56
+  },
+  {
+    "id": "c7_0047",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river has the largest drainage basin in India?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Godavari",
+      "Krishna"
+    ],
+    "answer": "Ganges",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 60,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0048",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "What is the total length of India's coastline?",
+    "options": [
+      "Approximately 7500 km",
+      "5000 km",
+      "10000 km",
+      "6000 km"
+    ],
+    "answer": "Approximately 7500 km",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 64
+  },
+  {
+    "id": "c7_0049",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Islands",
+    "question": "The Lakshadweep Islands are located in which sea?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Coral Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 68
+  },
+  {
+    "id": "c7_0050",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Which ancient city was the capital of the Mauryan Empire?",
+    "options": [
+      "Pataliputra",
+      "Ujjain",
+      "Varanasi",
+      "Taxila"
+    ],
+    "answer": "Pataliputra",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 72,
+    "state": "Bihar"
+  },
+  {
+    "id": "c7_0051",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "King Dasaratha was the father of which prince?",
+    "options": [
+      "Rama",
+      "Parikshit",
+      "Vikrama",
+      "Ashoka"
+    ],
+    "answer": "Rama",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 76
+  },
+  {
+    "id": "c7_0052",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Chandragupta Maurya's teacher was which philosopher?",
+    "options": [
+      "Kautilya",
+      "Bhaskar",
+      "Aryabhata",
+      "Kalidasa"
+    ],
+    "answer": "Kautilya",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 80,
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "c7_0053",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Ashoka fought the Kalinga War in which state?",
+    "options": [
+      "Odisha",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Bihar"
+    ],
+    "answer": "Odisha",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 84,
+    "state": "Odisha"
+  },
+  {
+    "id": "c7_0054",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Which famous playwright lived during the Gupta period?",
+    "options": [
+      "Kalidasa",
+      "Banabhatta",
+      "Dandin",
+      "Subandhu"
+    ],
+    "answer": "Kalidasa",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 88
+  },
+  {
+    "id": "c7_0055",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Which was the first dynasty of the Delhi Sultanate?",
+    "options": [
+      "Mamluk",
+      "Khilji",
+      "Tughlaq",
+      "Sayyid"
+    ],
+    "answer": "Mamluk",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 92,
+    "state": "Delhi"
+  },
+  {
+    "id": "c7_0056",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Babar defeated which Indian ruler at the Battle of Panipat?",
+    "options": [
+      "Ibrahim Lodi",
+      "Sikandar Lodi",
+      "Rana Sanga",
+      "Raja Vikrama"
+    ],
+    "answer": "Ibrahim Lodi",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 96,
+    "state": "Delhi"
+  },
+  {
+    "id": "c7_0057",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Taj Mahal was constructed over how many years?",
+    "options": [
+      "22 years",
+      "15 years",
+      "30 years",
+      "10 years"
+    ],
+    "answer": "22 years",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 100,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0058",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Battle of Talikota was fought between which rulers?",
+    "options": [
+      "Vijayanagara and Deccan Sultanates",
+      "Marathas and Mughals",
+      "Rajputs and Mughals",
+      "Sikhs and Mughals"
+    ],
+    "answer": "Vijayanagara and Deccan Sultanates",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 104
+  },
+  {
+    "id": "c7_0059",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who defeated Siraj-ud-Daulah at Plassey?",
+    "options": [
+      "Robert Clive",
+      "Warren Hastings",
+      "Cornwallis",
+      "Wellesley"
+    ],
+    "answer": "Robert Clive",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 108
+  },
+  {
+    "id": "c7_0060",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Indian National Congress was founded in which year?",
+    "options": [
+      "1885",
+      "1880",
+      "1890",
+      "1875"
+    ],
+    "answer": "1885",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 112
+  },
+  {
+    "id": "c7_0061",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who led the Salt March?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Abul Kalam Azad"
+    ],
+    "answer": "Mahatma Gandhi",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 116
+  },
+  {
+    "id": "c7_0062",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Kuchipudi dance is a solo performance. True or False?",
+    "options": [
+      "False",
+      "True",
+      "Partially",
+      "Cannot say"
+    ],
+    "answer": "False",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 120,
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "c7_0063",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Architecture",
+    "question": "The Taj Mahal was built by which emperor?",
+    "options": [
+      "Shah Jahan",
+      "Akbar",
+      "Jahangir",
+      "Aurangzeb"
+    ],
+    "answer": "Shah Jahan",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 124,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c7_0064",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "The Jagannath Temple is located in which state?",
+    "options": [
+      "Odisha",
+      "Andhra Pradesh",
+      "Jharkhand",
+      "West Bengal"
+    ],
+    "answer": "Odisha",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 128,
+    "state": "Odisha"
+  },
+  {
+    "id": "c7_0065",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Pongal is a harvest festival celebrated in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Telangana"
+    ],
+    "answer": "Tamil Nadu",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 132,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c7_0066",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Languages",
+    "question": "How many official languages are recognized in India?",
+    "options": [
+      "22",
+      "18",
+      "24",
+      "20"
+    ],
+    "answer": "22",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 136
+  },
+  {
+    "id": "c7_0067",
+    "class": 7,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Constitution",
+    "question": "India's Constitution was framed by which body?",
+    "options": [
+      "Constituent Assembly",
+      "Parliament",
+      "Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "answer": "Constituent Assembly",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 140
+  },
+  {
+    "id": "c7_0068",
+    "class": 7,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Constitution",
+    "question": "The Preamble of the Indian Constitution begins with which word?",
+    "options": [
+      "We",
+      "The",
+      "India",
+      "This"
+    ],
+    "answer": "We",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 144
+  },
+  {
+    "id": "c7_0069",
+    "class": 7,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Executive",
+    "question": "The Council of Ministers is responsible to which body?",
+    "options": [
+      "Lok Sabha",
+      "President",
+      "Rajya Sabha",
+      "Parliament"
+    ],
+    "answer": "Lok Sabha",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 148
+  },
+  {
+    "id": "c7_0070",
+    "class": 7,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "The Upper House of Parliament is called what?",
+    "options": [
+      "Rajya Sabha",
+      "Lok Sabha",
+      "Assembly",
+      "Council"
+    ],
+    "answer": "Rajya Sabha",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 152
+  },
+  {
+    "id": "c7_0071",
+    "class": 7,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Judiciary",
+    "question": "The highest court in India is what?",
+    "options": [
+      "Supreme Court",
+      "High Court",
+      "District Court",
+      "Session Court"
+    ],
+    "answer": "Supreme Court",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 156
+  },
+  {
+    "id": "c7_0072",
+    "class": 7,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Judiciary",
+    "question": "The term of a High Court judge is how many years?",
+    "options": [
+      "65 years of age",
+      "60 years of age",
+      "70 years of age",
+      "Fixed term"
+    ],
+    "answer": "65 years of age",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 160
+  },
+  {
+    "id": "c7_0073",
+    "class": 7,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Elections",
+    "question": "State Assemblies have how many members normally?",
+    "options": [
+      "Varies by state",
+      "100",
+      "500",
+      "200"
+    ],
+    "answer": "Varies by state",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 164
+  },
+  {
+    "id": "c7_0074",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Economics",
+    "question": "The Green Revolution in India started in which decade?",
+    "options": [
+      "1960s",
+      "1950s",
+      "1970s",
+      "1980s"
+    ],
+    "answer": "1960s",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 168
+  },
+  {
+    "id": "c7_0075",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Location",
+    "question": "The equator passes through how many Indian territories?",
+    "options": [
+      "None",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "None",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 50
+  },
+  {
+    "id": "c7_0076",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "How many major rivers flow in India?",
+    "options": [
+      "12",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "12",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 51
+  },
+  {
+    "id": "c7_0077",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Cauvery originates from which plateau?",
+    "options": [
+      "Western Ghats",
+      "Nilgiri",
+      "Cardamom Hills",
+      "Deccan Plateau"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 52,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c7_0078",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Nilgiri Hills are part of which mountain range?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Satpura",
+      "Vindhya"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 53,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c7_0079",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Forests",
+    "question": "Teak is found in which type of forest?",
+    "options": [
+      "Deciduous forest",
+      "Evergreen",
+      "Mangrove",
+      "Scrub"
+    ],
+    "answer": "Deciduous forest",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 54
+  },
+  {
+    "id": "c7_0080",
+    "class": 7,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which region experiences the lowest rainfall?",
+    "options": [
+      "Leh",
+      "Meghalaya",
+      "Assam",
+      "Malabar"
+    ],
+    "answer": "Leh",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 55,
+    "state": "Ladakh"
+  },
+  {
+    "id": "c7_0081",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Mahavira belonged to which religion?",
+    "options": [
+      "Jainism",
+      "Buddhism",
+      "Hinduism",
+      "Sikhism"
+    ],
+    "answer": "Jainism",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 56
+  },
+  {
+    "id": "c7_0082",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Nalanda University was founded in which century?",
+    "options": [
+      "5th century",
+      "4th century",
+      "6th century",
+      "3rd century"
+    ],
+    "answer": "5th century",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 57
+  },
+  {
+    "id": "c7_0083",
+    "class": 7,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Carnatic Wars were fought between whom?",
+    "options": [
+      "British and French",
+      "British and Dutch",
+      "French and Portuguese",
+      "British and Spanish"
+    ],
+    "answer": "British and French",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 58
+  },
+  {
+    "id": "c7_0084",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Manipuri dance is performed in groups. True or False?",
+    "options": [
+      "True",
+      "False",
+      "Partially",
+      "Cannot say"
+    ],
+    "answer": "True",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 59
+  },
+  {
+    "id": "c7_0085",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Music",
+    "question": "The Bansuri is associated with which deity?",
+    "options": [
+      "Krishna",
+      "Shiva",
+      "Vishnu",
+      "Brahma"
+    ],
+    "answer": "Krishna",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 60
+  },
+  {
+    "id": "c7_0086",
+    "class": 7,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Art",
+    "question": "The Ajanta Caves are known for which art form?",
+    "options": [
+      "Painting",
+      "Sculpture",
+      "Architecture",
+      "Carving"
+    ],
+    "answer": "Painting",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 61,
+    "state": "Maharashtra"
+  },
+  {
+    "id": "c7_0087",
+    "class": 7,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Constitution",
+    "question": "How many Schedules does the Indian Constitution have?",
+    "options": [
+      "12",
+      "10",
+      "8",
+      "15"
+    ],
+    "answer": "12",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 62
+  },
+  {
+    "id": "c7_0088",
+    "class": 7,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "States",
+    "question": "A state can have only one Chief Minister. True or False?",
+    "options": [
+      "True",
+      "False",
+      "Depends on state",
+      "Cannot say"
+    ],
+    "answer": "True",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 63
+  },
+  {
+    "id": "c7_0089",
+    "class": 7,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Rights",
+    "question": "Which article abolishes untouchability?",
+    "options": [
+      "Article 17",
+      "Article 15",
+      "Article 19",
+      "Article 21"
+    ],
+    "answer": "Article 17",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 64
+  },
+  {
+    "id": "c7_0090",
+    "class": 7,
+    "subject": "Economics",
+    "category": "India",
+    "chapter": "Taxation",
+    "question": "Which is the service tax rate in India?",
+    "options": [
+      "18%",
+      "15%",
+      "12%",
+      "20%"
+    ],
+    "answer": "18%",
+    "difficulty": "easy",
+    "source": "NCERT Class 7 Textbook",
+    "source_page": 65
+  }
+]

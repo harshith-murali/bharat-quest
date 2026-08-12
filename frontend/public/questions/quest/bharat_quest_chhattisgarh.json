@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_chhattisgarh_001",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital city of Chhattisgarh?",
+    "options": [
+      "Durg",
+      "Jagdalpur",
+      "Bilaspur",
+      "Raipur"
+    ],
+    "answer": "Raipur",
+    "difficulty": "easy",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_002",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which region of Chhattisgarh is described as a tribal heartland?",
+    "options": [
+      "Mewar",
+      "Mithila",
+      "Malwa",
+      "Bastar"
+    ],
+    "answer": "Bastar",
+    "difficulty": "easy",
+    "source": "Incredible India – Jagdalpur"
+  },
+  {
+    "id": "quest_chhattisgarh_003",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city is described as the urban heart of the tribal Bastar region?",
+    "options": [
+      "Jagdalpur",
+      "Raipur",
+      "Durg",
+      "Bilaspur"
+    ],
+    "answer": "Jagdalpur",
+    "difficulty": "easy",
+    "source": "Incredible India – Jagdalpur"
+  },
+  {
+    "id": "quest_chhattisgarh_004",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which university in Chhattisgarh is described as India's first university dedicated to music, dance, theatre and fine arts?",
+    "options": [
+      "Hidayatullah National Law University",
+      "Pt. Ravishankar Shukla University",
+      "Indira Kala Sangeet Vishwavidyalaya",
+      "Central University of Chhattisgarh"
+    ],
+    "answer": "Indira Kala Sangeet Vishwavidyalaya",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_005",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Chhattisgarh is described as the birthplace of which saint?",
+    "options": [
+      "Guru Nanak",
+      "Saint Vallabhacharya",
+      "Kabir",
+      "Tulsidas"
+    ],
+    "answer": "Saint Vallabhacharya",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_006",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows through Chhattisgarh's Raipur region and is associated with the state's major river systems?",
+    "options": [
+      "Ganga",
+      "Mahanadi",
+      "Yamuna",
+      "Narmada"
+    ],
+    "answer": "Mahanadi",
+    "difficulty": "medium",
+    "source": "Incredible India – Raipur"
+  },
+  {
+    "id": "quest_chhattisgarh_007",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfall is known as the 'Niagara of India'?",
+    "options": [
+      "Chitrakote Waterfalls",
+      "Tirathgarh Waterfalls",
+      "Ghatarani Waterfalls",
+      "Shankhini-Dankini Waterfalls"
+    ],
+    "answer": "Chitrakote Waterfalls",
+    "difficulty": "easy",
+    "source": "Incredible India – Chitrakote Waterfalls"
+  },
+  {
+    "id": "quest_chhattisgarh_008",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "In which district is Chitrakote Waterfalls located?",
+    "options": [
+      "Bastar",
+      "Durg",
+      "Raipur",
+      "Bilaspur"
+    ],
+    "answer": "Bastar",
+    "difficulty": "easy",
+    "source": "Incredible India – Chitrakote Waterfalls"
+  },
+  {
+    "id": "quest_chhattisgarh_009",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river forms Chitrakote Waterfalls?",
+    "options": [
+      "Indravati",
+      "Mahanadi",
+      "Shivnath",
+      "Hasdeo"
+    ],
+    "answer": "Indravati",
+    "difficulty": "medium",
+    "source": "Incredible India – Raipur"
+  },
+  {
+    "id": "quest_chhattisgarh_010",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What shape is Chitrakote Waterfalls famous for?",
+    "options": [
+      "Horseshoe shape",
+      "Circular shape",
+      "Straight wall",
+      "Step pyramid"
+    ],
+    "answer": "Horseshoe shape",
+    "difficulty": "easy",
+    "source": "Incredible India – Chitrakote Waterfalls"
+  },
+  {
+    "id": "quest_chhattisgarh_011",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how wide is Chitrakote Waterfalls during the monsoon season?",
+    "options": [
+      "Nearly 300 metres",
+      "Nearly 30 metres",
+      "Nearly 1 kilometre",
+      "Nearly 100 metres"
+    ],
+    "answer": "Nearly 300 metres",
+    "difficulty": "hard",
+    "source": "Incredible India – Chitrakote Waterfalls"
+  },
+  {
+    "id": "quest_chhattisgarh_012",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What distinction does Chitrakote have according to Incredible India?",
+    "options": [
+      "India's widest waterfall",
+      "India's oldest waterfall",
+      "India's highest waterfall",
+      "India's longest waterfall"
+    ],
+    "answer": "India's widest waterfall",
+    "difficulty": "medium",
+    "source": "Incredible India – Chitrakote Waterfalls"
+  },
+  {
+    "id": "quest_chhattisgarh_013",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is held annually near Chitrakote in July?",
+    "options": [
+      "Goncha Festival",
+      "Bastar Lokotsav",
+      "Bhoramdeo Festival",
+      "Hareli"
+    ],
+    "answer": "Goncha Festival",
+    "difficulty": "easy",
+    "source": "Incredible India – Chitrakote Waterfalls"
+  },
+  {
+    "id": "quest_chhattisgarh_014",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which rare bird may be seen around the biodiversity-rich Chitrakote forests?",
+    "options": [
+      "Indian Roller",
+      "Bastar Hill Myna",
+      "Sarus Crane",
+      "Great Indian Bustard"
+    ],
+    "answer": "Bastar Hill Myna",
+    "difficulty": "hard",
+    "source": "Incredible India – Chitrakote Waterfalls"
+  },
+  {
+    "id": "quest_chhattisgarh_015",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Jagdalpur showcases the culture of indigenous tribes?",
+    "options": [
+      "Coin Museum",
+      "Science Museum",
+      "Anthropological Museum",
+      "Rail Museum"
+    ],
+    "answer": "Anthropological Museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Jagdalpur"
+  },
+  {
+    "id": "quest_chhattisgarh_016",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which palace is located beside the Danteshwari Temple in Jagdalpur?",
+    "options": [
+      "Bilaspur Palace",
+      "Kanker Palace",
+      "Raipur Palace",
+      "Bastar Palace"
+    ],
+    "answer": "Bastar Palace",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh Chronicles"
+  },
+  {
+    "id": "quest_chhattisgarh_017",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which artificial lake in Jagdalpur is described as Chhattisgarh's largest?",
+    "options": [
+      "Dalpat Sagar",
+      "Bhoj Tal",
+      "Kharun Lake",
+      "Ganga Sagar"
+    ],
+    "answer": "Dalpat Sagar",
+    "difficulty": "easy",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_018",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "How old is Dalpat Sagar described as being?",
+    "options": [
+      "About 40 years",
+      "About 1,000 years",
+      "About 400 years",
+      "About 100 years"
+    ],
+    "answer": "About 400 years",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_019",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Why was Dalpat Sagar originally constructed?",
+    "options": [
+      "For river navigation",
+      "To generate electricity",
+      "For fishing only",
+      "To harness rainwater"
+    ],
+    "answer": "To harness rainwater",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_020",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which communities are specifically mentioned as part of Bastar's tribal heritage at the Goncha Festival?",
+    "options": [
+      "Gujjars, Meenas and Garasias",
+      "Bhils, Todas and Khasis",
+      "Murias, Gonds and Bhatras",
+      "Santhals, Nagas and Bodos"
+    ],
+    "answer": "Murias, Gonds and Bhatras",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh Festivals"
+  },
+  {
+    "id": "quest_chhattisgarh_021",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park near Jagdalpur is an Asian Biosphere Reserve?",
+    "options": [
+      "Sanjay National Park",
+      "Indravati National Park",
+      "Kanger Valley National Park",
+      "Achanakmar National Park"
+    ],
+    "answer": "Kanger Valley National Park",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_022",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfalls are located within Kanger Valley National Park?",
+    "options": [
+      "Doodhadhari Falls",
+      "Tirathgarh Waterfalls",
+      "Chitrakote Waterfalls",
+      "Ghatarani Waterfalls"
+    ],
+    "answer": "Tirathgarh Waterfalls",
+    "difficulty": "easy",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_023",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Why is Tirathgarh Waterfall called 'The Milky Falls'?",
+    "options": [
+      "Because it is surrounded by dairy farms",
+      "Because of its white, cascading appearance",
+      "Because milk is offered there",
+      "Because its water is naturally white"
+    ],
+    "answer": "Because of its white, cascading appearance",
+    "difficulty": "easy",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_024",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "About how high is Tirathgarh Waterfall?",
+    "options": [
+      "Approximately 300 feet",
+      "Approximately 1,000 feet",
+      "Approximately 100 feet",
+      "Approximately 30 feet"
+    ],
+    "answer": "Approximately 300 feet",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_025",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How far beneath the earth's surface are Kailash and Kutumsar Caves described as being?",
+    "options": [
+      "350 metres",
+      "35 metres",
+      "135 metres",
+      "5 metres"
+    ],
+    "answer": "35 metres",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_026",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What distinction do Kailash and Kutumsar Caves have according to Incredible India?",
+    "options": [
+      "They are the world's highest caves",
+      "They are India's deepest caves",
+      "They are India's oldest caves",
+      "They are the world's second-longest natural caves"
+    ],
+    "answer": "They are the world's second-longest natural caves",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_027",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What sacred feature is found at the end of Kutumsar Caves?",
+    "options": [
+      "A Jain shrine",
+      "A monastery",
+      "A Buddha statue",
+      "A Shivalinga"
+    ],
+    "answer": "A Shivalinga",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_028",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is revered as the divine embodiment of Shakti in Dantewada?",
+    "options": [
+      "Mahamaya Temple",
+      "Bhoramdeo Temple",
+      "Brahma Temple",
+      "Danteshwari Temple"
+    ],
+    "answer": "Danteshwari Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Danteshwari Temple"
+  },
+  {
+    "id": "quest_chhattisgarh_029",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "To which century does Danteshwari Temple date according to Incredible India?",
+    "options": [
+      "20th century",
+      "14th century",
+      "7th century",
+      "18th century"
+    ],
+    "answer": "14th century",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_030",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural influence is visible in Danteshwari Temple?",
+    "options": [
+      "Mughal architecture",
+      "Rajput architecture",
+      "South Indian architecture",
+      "European Gothic architecture"
+    ],
+    "answer": "South Indian architecture",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_031",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain range is highlighted in the Dantewada travel route?",
+    "options": [
+      "Vindhya Range",
+      "Nilgiri Range",
+      "Aravalli Range",
+      "Bailadila Mountain Range"
+    ],
+    "answer": "Bailadila Mountain Range",
+    "difficulty": "medium",
+    "source": "Incredible India – Dantewada"
+  },
+  {
+    "id": "quest_chhattisgarh_032",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which waterfalls are highlighted in the Dantewada route?",
+    "options": [
+      "Chitrakote-Tirathgarh Waterfalls",
+      "Shankhini-Dankini Waterfalls",
+      "Ghaghri-Lodh Waterfalls",
+      "Hundru-Dassam Waterfalls"
+    ],
+    "answer": "Shankhini-Dankini Waterfalls",
+    "difficulty": "medium",
+    "source": "Incredible India – Dantewada"
+  },
+  {
+    "id": "quest_chhattisgarh_033",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is known as the 'Khajuraho of Chhattisgarh'?",
+    "options": [
+      "Danteshwari Temple",
+      "Mahamaya Temple",
+      "Bhoramdeo Temple",
+      "Lingaraj Temple"
+    ],
+    "answer": "Bhoramdeo Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Bhoramdeo Temple"
+  },
+  {
+    "id": "quest_chhattisgarh_034",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is Bhoramdeo Temple dedicated to?",
+    "options": [
+      "Lord Surya",
+      "Lord Rama",
+      "Lord Shiva",
+      "Lord Vishnu"
+    ],
+    "answer": "Lord Shiva",
+    "difficulty": "easy",
+    "source": "Incredible India – Bhoramdeo Temple"
+  },
+  {
+    "id": "quest_chhattisgarh_035",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Between which centuries was Bhoramdeo Temple built according to Incredible India?",
+    "options": [
+      "18th to 20th century AD",
+      "1st to 3rd century AD",
+      "13th to 15th century AD",
+      "7th to 11th century AD"
+    ],
+    "answer": "7th to 11th century AD",
+    "difficulty": "hard",
+    "source": "Incredible India – Bhoramdeo Temple"
+  },
+  {
+    "id": "quest_chhattisgarh_036",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty is associated with the construction of Bhoramdeo Temple in the source?",
+    "options": [
+      "Nag dynasty",
+      "Maurya dynasty",
+      "Gupta dynasty",
+      "Mughal dynasty"
+    ],
+    "answer": "Nag dynasty",
+    "difficulty": "hard",
+    "source": "Incredible India – Bhoramdeo Temple"
+  },
+  {
+    "id": "quest_chhattisgarh_037",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous temple does Bhoramdeo resemble architecturally according to the source?",
+    "options": [
+      "Jagannath Temple",
+      "Konark Sun Temple",
+      "Kashi Vishwanath Temple",
+      "Brihadisvara Temple"
+    ],
+    "answer": "Konark Sun Temple",
+    "difficulty": "medium",
+    "source": "Incredible India – Bhoramdeo Temple"
+  },
+  {
+    "id": "quest_chhattisgarh_038",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which craft is especially associated with Bastar and uses wrought iron?",
+    "options": [
+      "Blue pottery",
+      "Bastar iron craft",
+      "Phulkari",
+      "Pattachitra"
+    ],
+    "answer": "Bastar iron craft",
+    "difficulty": "easy",
+    "source": "Incredible India – Bastar Iron Craft"
+  },
+  {
+    "id": "quest_chhattisgarh_039",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Bastar iron craft made from?",
+    "options": [
+      "White marble",
+      "Bamboo only",
+      "Recycled scrap iron",
+      "Clay"
+    ],
+    "answer": "Recycled scrap iron",
+    "difficulty": "medium",
+    "source": "Incredible India – Bastar Iron Craft"
+  },
+  {
+    "id": "quest_chhattisgarh_040",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tool is used by Bastar ironsmiths to hammer hot iron?",
+    "options": [
+      "Muthli (hammer)",
+      "Chenni",
+      "Dhukna Sar",
+      "Chimta"
+    ],
+    "answer": "Muthli (hammer)",
+    "difficulty": "hard",
+    "source": "Incredible India – Bastar Iron Craft"
+  },
+  {
+    "id": "quest_chhattisgarh_041",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Bastar craft uses local woods and has been preserved since the 10th century AD?",
+    "options": [
+      "Glass craft",
+      "Terracotta craft",
+      "Stone craft",
+      "Wooden craft"
+    ],
+    "answer": "Wooden craft",
+    "difficulty": "medium",
+    "source": "Incredible India – Bastar Wooden Craft"
+  },
+  {
+    "id": "quest_chhattisgarh_042",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which wood is mentioned among those used by Bastar wooden artisans?",
+    "options": [
+      "Sandalwood only",
+      "Deodar",
+      "Teak",
+      "Cedar"
+    ],
+    "answer": "Teak",
+    "difficulty": "easy",
+    "source": "Incredible India – Bastar Wooden Craft"
+  },
+  {
+    "id": "quest_chhattisgarh_043",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do Bastar wooden crafts often depict?",
+    "options": [
+      "Tribal daily life, dancing and rituals",
+      "Only religious buildings",
+      "Only royal portraits",
+      "Only animals"
+    ],
+    "answer": "Tribal daily life, dancing and rituals",
+    "difficulty": "medium",
+    "source": "Incredible India – Bastar Wooden Craft"
+  },
+  {
+    "id": "quest_chhattisgarh_044",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which products are made through Bastar wooden craft?",
+    "options": [
+      "Only musical instruments",
+      "Idols, wall panels and furniture",
+      "Only boats",
+      "Only jewellery"
+    ],
+    "answer": "Idols, wall panels and furniture",
+    "difficulty": "easy",
+    "source": "Incredible India – Bastar Wooden Craft"
+  },
+  {
+    "id": "quest_chhattisgarh_045",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Chhattisgarh festival derives its name from 'Haryali', meaning greenery?",
+    "options": [
+      "Pat Jatra",
+      "Goncha",
+      "Bastar Lokotsav",
+      "Hareli"
+    ],
+    "answer": "Hareli",
+    "difficulty": "easy",
+    "source": "Incredible India – Chhattisgarh Festivals"
+  },
+  {
+    "id": "quest_chhattisgarh_046",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival marks the commencement of preparations for the 75-day Bastar Dussehra?",
+    "options": [
+      "Goncha",
+      "Hareli",
+      "Pat Jatra",
+      "Bhoramdeo Festival"
+    ],
+    "answer": "Pat Jatra",
+    "difficulty": "medium",
+    "source": "Incredible India – Chhattisgarh Festivals"
+  },
+  {
+    "id": "quest_chhattisgarh_047",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Pat Jatra revolve around?",
+    "options": [
+      "Camel trading",
+      "Worship of the Ganga",
+      "Veneration of Sal tree wood",
+      "Boat races"
+    ],
+    "answer": "Veneration of Sal tree wood",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh Festivals"
+  },
+  {
+    "id": "quest_chhattisgarh_048",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How long does Bastar Dussehra last according to Incredible India?",
+    "options": [
+      "100 days",
+      "30 days",
+      "15 days",
+      "75 days"
+    ],
+    "answer": "75 days",
+    "difficulty": "easy",
+    "source": "Incredible India – Chhattisgarh Festivals"
+  },
+  {
+    "id": "quest_chhattisgarh_049",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which tiger reserve in Bilaspur district received Project Tiger designation in 2009?",
+    "options": [
+      "Indravati Tiger Reserve",
+      "Achanakmar Tiger Reserve",
+      "Udanti-Sitanadi Tiger Reserve",
+      "Kanha Tiger Reserve"
+    ],
+    "answer": "Achanakmar Tiger Reserve",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh"
+  },
+  {
+    "id": "quest_chhattisgarh_050",
+    "state": "Chhattisgarh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What area of Achanakmar Tiger Reserve is given in Incredible India's facts?",
+    "options": [
+      "257 square kilometres",
+      "57 square kilometres",
+      "1,557 square kilometres",
+      "557 square kilometres"
+    ],
+    "answer": "557 square kilometres",
+    "difficulty": "hard",
+    "source": "Incredible India – Chhattisgarh"
+  }
+]

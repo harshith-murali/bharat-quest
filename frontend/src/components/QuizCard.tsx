@@ -18,18 +18,30 @@ export default function QuizCard({ question, studentName, studentAvatar, onCorre
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [xpPopVisible, setXpPopVisible] = useState(false);
 
+  const [shuffledOptions, setShuffledOptions] = useState<{ text: string; originalIndex: number }[]>([]);
+
   useEffect(() => {
     setAnswerState('idle');
     setSelectedOption(null);
     setXpPopVisible(false);
-  }, [question.id]);
 
-  async function handleAnswer(optionIndex: number) {
+    const opts = (question.options || []).map((text, originalIndex) => ({ text, originalIndex }));
+    for (let i = opts.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [opts[i], opts[j]] = [opts[j], opts[i]];
+    }
+    setShuffledOptions(opts);
+  }, [question.id, question.options]);
+
+  async function handleAnswer(displayIdx: number) {
     if (answerState !== 'idle') return;
 
-    const correct = optionIndex === question.correct_option;
+    const selectedItem = shuffledOptions[displayIdx];
+    if (!selectedItem) return;
+
+    const correct = selectedItem.originalIndex === question.correct_option;
     const correctAnswerText = question.options[question.correct_option] || '';
-    setSelectedOption(optionIndex);
+    setSelectedOption(displayIdx);
     setAnswerState(correct ? 'correct' : 'wrong');
 
     if (correct) {
@@ -145,11 +157,11 @@ export default function QuizCard({ question, studentName, studentAvatar, onCorre
         </p>
       </div>
 
-      {/* 4 Option Buttons */}
+      {/* 4 Option Buttons (Shuffled at Runtime) */}
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem' }}>
-        {question.options.map((option, idx) => {
+        {shuffledOptions.map((optItem, idx) => {
           const isSelected = selectedOption === idx;
-          const isCorrect = idx === question.correct_option;
+          const isCorrect = optItem.originalIndex === question.correct_option;
           const answered = answerState !== 'idle';
 
           let bg = 'var(--color-surface-2)';
@@ -245,7 +257,7 @@ export default function QuizCard({ question, studentName, studentAvatar, onCorre
                   lineHeight: 1.35,
                 }}
               >
-                {option}
+                {optItem.text}
               </span>
             </button>
           );

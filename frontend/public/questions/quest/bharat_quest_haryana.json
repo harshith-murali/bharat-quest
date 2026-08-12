@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_haryana_001",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain ranges are found in Haryana according to Incredible India?",
+    "options": [
+      "Vindhya and Satpura",
+      "Shivalik Hills and Aravalli Range",
+      "Himalayas and Western Ghats",
+      "Nilgiri and Anaimalai"
+    ],
+    "answer": "Shivalik Hills and Aravalli Range",
+    "difficulty": "easy",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_002",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which plain is mentioned among Haryana's major landscapes?",
+    "options": [
+      "Yamuna-Ghaggar plain",
+      "Konkan plain",
+      "Ganga-Brahmaputra delta",
+      "Malwa plateau"
+    ],
+    "answer": "Yamuna-Ghaggar plain",
+    "difficulty": "medium",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_003",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of landscape occurs in southwestern Haryana?",
+    "options": [
+      "Semi-desert sandy plain",
+      "Tropical rainforest",
+      "Coastal plain",
+      "High mountain valley"
+    ],
+    "answer": "Semi-desert sandy plain",
+    "difficulty": "easy",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_004",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which range forms part of Haryana's northeastern landscape?",
+    "options": [
+      "Eastern Ghats",
+      "Aravalli Range",
+      "Pir Panjal",
+      "Shivalik Hills"
+    ],
+    "answer": "Shivalik Hills",
+    "difficulty": "easy",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_005",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Kurukshetra is famously associated with which epic?",
+    "options": [
+      "Ramayana",
+      "Mahabharata",
+      "Rajatarangini",
+      "Silappatikaram"
+    ],
+    "answer": "Mahabharata",
+    "difficulty": "easy",
+    "source": "Incredible India – Kurukshetra"
+  },
+  {
+    "id": "quest_haryana_006",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which teaching is traditionally associated with Lord Krishna and Arjuna at Jyotisar?",
+    "options": [
+      "Bhagavad Gita",
+      "Natya Shastra",
+      "Arthashastra",
+      "Yoga Sutras"
+    ],
+    "answer": "Bhagavad Gita",
+    "difficulty": "easy",
+    "source": "Incredible India – Kurukshetra"
+  },
+  {
+    "id": "quest_haryana_007",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which sacred site in Kurukshetra is believed to be the place where Krishna delivered the Bhagavad Gita?",
+    "options": [
+      "Sheikh Chilli's Tomb",
+      "Brahma Sarovar",
+      "Jyotisar",
+      "Sannihit Sarovar"
+    ],
+    "answer": "Jyotisar",
+    "difficulty": "easy",
+    "source": "Incredible India – Kurukshetra"
+  },
+  {
+    "id": "quest_haryana_008",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which large water tank is a major pilgrimage site in Kurukshetra?",
+    "options": [
+      "Damdama Lake",
+      "Surajkund",
+      "Sukhna Lake",
+      "Brahma Sarovar"
+    ],
+    "answer": "Brahma Sarovar",
+    "difficulty": "easy",
+    "source": "Incredible India – Brahma Sarovar"
+  },
+  {
+    "id": "quest_haryana_009",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What kind of water body is Brahma Sarovar described as?",
+    "options": [
+      "A large man-made pond",
+      "A sea inlet",
+      "A natural glacier lake",
+      "A river"
+    ],
+    "answer": "A large man-made pond",
+    "difficulty": "medium",
+    "source": "Incredible India – Brahma Sarovar"
+  },
+  {
+    "id": "quest_haryana_010",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What are the approximate dimensions of Brahma Sarovar given by Incredible India?",
+    "options": [
+      "10,000 ft long and 5,000 ft broad",
+      "500 ft long and 200 ft broad",
+      "3,600 ft long and 1,500 ft broad",
+      "1,000 ft long and 500 ft broad"
+    ],
+    "answer": "3,600 ft long and 1,500 ft broad",
+    "difficulty": "hard",
+    "source": "Incredible India – Brahma Sarovar"
+  },
+  {
+    "id": "quest_haryana_011",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which sacred tank is believed to be the meeting point of seven Saraswati rivers?",
+    "options": [
+      "Brahma Sarovar",
+      "Sannihit Sarovar",
+      "Damdama Lake",
+      "Surajkund"
+    ],
+    "answer": "Sannihit Sarovar",
+    "difficulty": "medium",
+    "source": "Incredible India – Kurukshetra"
+  },
+  {
+    "id": "quest_haryana_012",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Kurukshetra is one of the 51 Shakti Peeths?",
+    "options": [
+      "Sheetla Mata Temple",
+      "Mansa Devi Temple",
+      "Bhadrakali Temple",
+      "Jwala Ji Temple"
+    ],
+    "answer": "Bhadrakali Temple",
+    "difficulty": "medium",
+    "source": "Incredible India – Kurukshetra"
+  },
+  {
+    "id": "quest_haryana_013",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal-era monument in Kurukshetra is dedicated to the Sufi saint Sheikh Chilli Jalal?",
+    "options": [
+      "Ibrahim Lodhi's Tomb",
+      "Sheikh Chilli's Tomb",
+      "Kabuli Bagh Mosque",
+      "Raja Nahar Singh Palace"
+    ],
+    "answer": "Sheikh Chilli's Tomb",
+    "difficulty": "medium",
+    "source": "Incredible India – Kurukshetra"
+  },
+  {
+    "id": "quest_haryana_014",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Kurukshetra showcases Haryanvi folk costumes, ornaments, instruments and crafts?",
+    "options": [
+      "Calico Museum",
+      "Salar Jung Museum",
+      "Partition Museum",
+      "Dharohar Museum"
+    ],
+    "answer": "Dharohar Museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Dharohar Museum"
+  },
+  {
+    "id": "quest_haryana_015",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which sanctuary near Kurukshetra is described as a haven for diverse birdlife?",
+    "options": [
+      "Kalesar National Park",
+      "Saraswati Sanctuary",
+      "Sultanpur National Park",
+      "Keoladeo National Park"
+    ],
+    "answer": "Saraswati Sanctuary",
+    "difficulty": "medium",
+    "source": "Incredible India – Kurukshetra"
+  },
+  {
+    "id": "quest_haryana_016",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which place in Kurukshetra is associated with observing solar eclipses and large pilgrim gatherings?",
+    "options": [
+      "Dharohar Museum",
+      "Sheikh Chilli's Tomb",
+      "Brahma Sarovar",
+      "Jyotisar"
+    ],
+    "answer": "Brahma Sarovar",
+    "difficulty": "medium",
+    "source": "Incredible India – Brahma Sarovar"
+  },
+  {
+    "id": "quest_haryana_017",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "How many major battles were fought at Panipat?",
+    "options": [
+      "Four",
+      "Three",
+      "Two",
+      "Five"
+    ],
+    "answer": "Three",
+    "difficulty": "easy",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_018",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who defeated Ibrahim Lodi in the First Battle of Panipat in 1526?",
+    "options": [
+      "Akbar",
+      "Sher Shah Suri",
+      "Babur",
+      "Ahmad Shah Abdali"
+    ],
+    "answer": "Babur",
+    "difficulty": "easy",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_019",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What major historical consequence followed the First Battle of Panipat?",
+    "options": [
+      "It created Haryana",
+      "It founded the Maratha Empire",
+      "It laid the foundation of the Mughal Empire",
+      "It ended the British rule"
+    ],
+    "answer": "It laid the foundation of the Mughal Empire",
+    "difficulty": "medium",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_020",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who defeated Hemu's forces in the Second Battle of Panipat in 1556?",
+    "options": [
+      "Sikh forces",
+      "Maratha forces",
+      "Akbar's forces",
+      "Babur's forces"
+    ],
+    "answer": "Akbar's forces",
+    "difficulty": "medium",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_021",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ruler led the Afghan forces in the Third Battle of Panipat in 1761?",
+    "options": [
+      "Ibrahim Lodi",
+      "Ahmad Shah Abdali",
+      "Babur",
+      "Akbar"
+    ],
+    "answer": "Ahmad Shah Abdali",
+    "difficulty": "medium",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_022",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What nickname does Panipat have because of its traditional weaving industry?",
+    "options": [
+      "City of Temples",
+      "Pink City",
+      "City of Lakes",
+      "City of Weavers"
+    ],
+    "answer": "City of Weavers",
+    "difficulty": "easy",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_023",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which textile products are especially associated with Panipat?",
+    "options": [
+      "Carpets, rugs and durries",
+      "Silk saris only",
+      "Pashmina shawls only",
+      "Kanjeevaram sarees"
+    ],
+    "answer": "Carpets, rugs and durries",
+    "difficulty": "easy",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_024",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which mosque was built by Babur after his victory at the First Battle of Panipat?",
+    "options": [
+      "Jama Masjid",
+      "Moti Masjid",
+      "Quwwat-ul-Islam Mosque",
+      "Kabuli Bagh Mosque"
+    ],
+    "answer": "Kabuli Bagh Mosque",
+    "difficulty": "easy",
+    "source": "Incredible India – Kabuli Bagh Mosque"
+  },
+  {
+    "id": "quest_haryana_025",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ruler is buried at the Ibrahim Lodhi Tomb in Panipat?",
+    "options": [
+      "Ibrahim Lodhi",
+      "Hemu",
+      "Babur",
+      "Ahmad Shah Abdali"
+    ],
+    "answer": "Ibrahim Lodhi",
+    "difficulty": "easy",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_026",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which memorial commemorates Hemu, who fought Akbar's forces in the Second Battle of Panipat?",
+    "options": [
+      "Kala Amb Memorial",
+      "Kabuli Bagh",
+      "Hemu's Samadhi Sthal",
+      "Panipat War Memorial"
+    ],
+    "answer": "Hemu's Samadhi Sthal",
+    "difficulty": "medium",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_027",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is the Kala Amb Memorial associated with?",
+    "options": [
+      "The Revolt of 1857",
+      "The martyrs of the Third Battle of Panipat",
+      "The First Battle of Panipat only",
+      "The Battle of Plassey"
+    ],
+    "answer": "The martyrs of the Third Battle of Panipat",
+    "difficulty": "medium",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_028",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What stood at the site that gave the Kala Amb Memorial its name?",
+    "options": [
+      "A banyan tree",
+      "A neem tree",
+      "A black mango tree",
+      "A peepal tree"
+    ],
+    "answer": "A black mango tree",
+    "difficulty": "medium",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_029",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which road passes through Panipat?",
+    "options": [
+      "East Coast Road",
+      "Konkan Road",
+      "Golden Quadrilateral only",
+      "Grand Trunk Road"
+    ],
+    "answer": "Grand Trunk Road",
+    "difficulty": "easy",
+    "source": "Incredible India – Panipat"
+  },
+  {
+    "id": "quest_haryana_030",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built the Surajkund reservoir in the 10th century according to Incredible India?",
+    "options": [
+      "Babur",
+      "Raja Nahar Singh",
+      "Firoz Shah Tughlaq",
+      "King Suraj Pal of the Tomar dynasty"
+    ],
+    "answer": "King Suraj Pal of the Tomar dynasty",
+    "difficulty": "hard",
+    "source": "Incredible India – Surajkund Lake"
+  },
+  {
+    "id": "quest_haryana_031",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the name Surajkund mean?",
+    "options": [
+      "Lake of Flowers",
+      "Lake of the Moon",
+      "Lake of Kings",
+      "Lake of the Sun"
+    ],
+    "answer": "Lake of the Sun",
+    "difficulty": "easy",
+    "source": "Incredible India – Surajkund Lake"
+  },
+  {
+    "id": "quest_haryana_032",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What was Surajkund designed to do?",
+    "options": [
+      "Generate electricity",
+      "Support river navigation",
+      "Harvest rainwater",
+      "Store seawater"
+    ],
+    "answer": "Harvest rainwater",
+    "difficulty": "medium",
+    "source": "Incredible India – Surajkund Lake"
+  },
+  {
+    "id": "quest_haryana_033",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which annual fair is held at Surajkund?",
+    "options": [
+      "Haryana Food Mela",
+      "Surajkund International Crafts Mela",
+      "Kurukshetra Gita Fair",
+      "Surajkund Mango Mela"
+    ],
+    "answer": "Surajkund International Crafts Mela",
+    "difficulty": "easy",
+    "source": "Incredible India – Surajkund Lake"
+  },
+  {
+    "id": "quest_haryana_034",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the Surajkund International Crafts Mela showcase?",
+    "options": [
+      "Only books",
+      "Only modern technology",
+      "Only sports equipment",
+      "Crafts, textiles and traditional wares"
+    ],
+    "answer": "Crafts, textiles and traditional wares",
+    "difficulty": "easy",
+    "source": "Incredible India – Surajkund Lake"
+  },
+  {
+    "id": "quest_haryana_035",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who was the ruler of Ballabhgarh associated with Raja Nahar Singh Palace?",
+    "options": [
+      "Raja Suraj Pal",
+      "Raja Nahar Singh",
+      "Baba Ala Singh",
+      "Raja Sahil Varman"
+    ],
+    "answer": "Raja Nahar Singh",
+    "difficulty": "medium",
+    "source": "Incredible India – Raja Nahar Singh Palace"
+  },
+  {
+    "id": "quest_haryana_036",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What role did Raja Nahar Singh play in India's history according to the source?",
+    "options": [
+      "He founded Kurukshetra",
+      "He played a role in the struggle for Independence",
+      "He founded the Mughal Empire",
+      "He led the First Battle of Panipat"
+    ],
+    "answer": "He played a role in the struggle for Independence",
+    "difficulty": "medium",
+    "source": "Incredible India – Raja Nahar Singh Palace"
+  },
+  {
+    "id": "quest_haryana_037",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival brings folk dances, music and art exhibitions to Raja Nahar Singh Palace?",
+    "options": [
+      "Kullu Dussehra",
+      "Hemis Tsechu",
+      "Surajkund Mela",
+      "Kartik Cultural Festival"
+    ],
+    "answer": "Kartik Cultural Festival",
+    "difficulty": "medium",
+    "source": "Incredible India – Raja Nahar Singh Palace"
+  },
+  {
+    "id": "quest_haryana_038",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is Sultanpur National Park located?",
+    "options": [
+      "Gurugram district",
+      "Kurukshetra district",
+      "Panipat district",
+      "Hisar district"
+    ],
+    "answer": "Gurugram district",
+    "difficulty": "easy",
+    "source": "Incredible India – Sultanpur National Park / Bird Sanctuary"
+  },
+  {
+    "id": "quest_haryana_039",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Sultanpur National Park especially known for?",
+    "options": [
+      "Resident and migratory birds",
+      "Snow leopards",
+      "Tigers",
+      "Asiatic lions"
+    ],
+    "answer": "Resident and migratory birds",
+    "difficulty": "easy",
+    "source": "Incredible India – Sultanpur National Park / Bird Sanctuary"
+  },
+  {
+    "id": "quest_haryana_040",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how many bird species are said to be present at Sultanpur National Park?",
+    "options": [
+      "Over 250",
+      "Over 1,000",
+      "Over 50",
+      "Over 25"
+    ],
+    "answer": "Over 250",
+    "difficulty": "medium",
+    "source": "Incredible India – Sultanpur National Park / Bird Sanctuary"
+  },
+  {
+    "id": "quest_haryana_041",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which season is particularly suitable for seeing migratory birds at Sultanpur?",
+    "options": [
+      "Summer",
+      "Winter",
+      "Spring only",
+      "Monsoon only"
+    ],
+    "answer": "Winter",
+    "difficulty": "easy",
+    "source": "Incredible India – Sultanpur National Park / Bird Sanctuary"
+  },
+  {
+    "id": "quest_haryana_042",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which bird is specifically mentioned among the species seen at Sultanpur?",
+    "options": [
+      "Hornbill only",
+      "Sarus crane only",
+      "Peacock only",
+      "Greater flamingo"
+    ],
+    "answer": "Greater flamingo",
+    "difficulty": "medium",
+    "source": "Incredible India – Sultanpur National Park / Bird Sanctuary"
+  },
+  {
+    "id": "quest_haryana_043",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is another name for Pinjore Gardens?",
+    "options": [
+      "Shalimar Gardens",
+      "Yadavindra Gardens",
+      "Lodhi Gardens",
+      "Mughal Gardens"
+    ],
+    "answer": "Yadavindra Gardens",
+    "difficulty": "easy",
+    "source": "Incredible India – Haryana Heritage Trail / Pinjore Gardens"
+  },
+  {
+    "id": "quest_haryana_044",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What style influenced the design of Pinjore Gardens?",
+    "options": [
+      "Mughal-inspired garden design",
+      "Dravidian temple design",
+      "European Gothic design",
+      "Rajput fort design"
+    ],
+    "answer": "Mughal-inspired garden design",
+    "difficulty": "medium",
+    "source": "Incredible India – Haryana Heritage Trail / Pinjore Gardens"
+  },
+  {
+    "id": "quest_haryana_045",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Where is the annual Mango Mela organised by Haryana Tourism?",
+    "options": [
+      "Sultanpur National Park",
+      "Brahma Sarovar, Kurukshetra",
+      "Yadavindra Gardens, Pinjore",
+      "Qila Mubarak, Patiala"
+    ],
+    "answer": "Yadavindra Gardens, Pinjore",
+    "difficulty": "easy",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_046",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is held at Pinjore Gardens every December according to Haryana Tourism?",
+    "options": [
+      "Pinjore Heritage Festival",
+      "Mango Mela",
+      "Surajkund Crafts Mela",
+      "Gita Jayanti"
+    ],
+    "answer": "Pinjore Heritage Festival",
+    "difficulty": "medium",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_047",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is notable about the Cactus Garden in Panchkula?",
+    "options": [
+      "It contains only medicinal herbs",
+      "It is a bird sanctuary",
+      "It is India's largest rose garden",
+      "It preserves more than 3,500 species of cacti"
+    ],
+    "answer": "It preserves more than 3,500 species of cacti",
+    "difficulty": "hard",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_048",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hills are associated with Morni Hills?",
+    "options": [
+      "Shivalik range",
+      "Aravalli range",
+      "Vindhya range",
+      "Nilgiri range"
+    ],
+    "answer": "Shivalik range",
+    "difficulty": "easy",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_049",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river is associated with the Morni Hills landscape?",
+    "options": [
+      "Yamuna",
+      "Ravi",
+      "Ghaggar",
+      "Sutlej"
+    ],
+    "answer": "Ghaggar",
+    "difficulty": "medium",
+    "source": "Incredible India – Haryana"
+  },
+  {
+    "id": "quest_haryana_050",
+    "state": "Haryana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What natural feature is found as two lakes in the Morni Hills?",
+    "options": [
+      "Two glaciers",
+      "Two caves",
+      "Two waterfalls",
+      "Two lakes separated by a small hillock"
+    ],
+    "answer": "Two lakes separated by a small hillock",
+    "difficulty": "medium",
+    "source": "Incredible India – Haryana"
+  }
+]

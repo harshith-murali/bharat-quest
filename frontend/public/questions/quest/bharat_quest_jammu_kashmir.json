@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_jk_001",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is famous for Dal Lake in Jammu & Kashmir?",
+    "options": [
+      "Pahalgam",
+      "Gulmarg",
+      "Srinagar",
+      "Jammu"
+    ],
+    "answer": "Srinagar",
+    "difficulty": "easy",
+    "source": "Incredible India – Srinagar"
+  },
+  {
+    "id": "quest_jk_002",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is described as the jewel of Srinagar?",
+    "options": [
+      "Dal Lake",
+      "Wular Lake",
+      "Mansar Lake",
+      "Nagin Lake"
+    ],
+    "answer": "Dal Lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Dal Lake"
+  },
+  {
+    "id": "quest_jk_003",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What traditional boats are famous on Dal Lake?",
+    "options": [
+      "Ferries",
+      "Catamarans",
+      "Houseboats only",
+      "Shikaras"
+    ],
+    "answer": "Shikaras",
+    "difficulty": "easy",
+    "source": "Incredible India – Dal Lake"
+  },
+  {
+    "id": "quest_jk_004",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What type of accommodation is especially associated with Dal Lake?",
+    "options": [
+      "Tree houses",
+      "Huts made of stone",
+      "Houseboats",
+      "Tents only"
+    ],
+    "answer": "Houseboats",
+    "difficulty": "easy",
+    "source": "Incredible India – Dal Lake"
+  },
+  {
+    "id": "quest_jk_005",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which of these is one of Srinagar's famous Mughal Gardens?",
+    "options": [
+      "Pinjore Garden",
+      "Lalbagh",
+      "Brindavan Garden",
+      "Shalimar Bagh"
+    ],
+    "answer": "Shalimar Bagh",
+    "difficulty": "easy",
+    "source": "Incredible India – Srinagar"
+  },
+  {
+    "id": "quest_jk_006",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Srinagar garden is also known as the Garden of Pleasure?",
+    "options": [
+      "Pari Mahal",
+      "Nishat Bagh",
+      "Chashme Shahi",
+      "Shalimar Bagh"
+    ],
+    "answer": "Nishat Bagh",
+    "difficulty": "medium",
+    "source": "Incredible India – Srinagar"
+  },
+  {
+    "id": "quest_jk_007",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which shrine in Srinagar houses a relic believed to be a hair of Prophet Muhammad?",
+    "options": [
+      "Hazratbal Shrine",
+      "Raghunath Temple",
+      "Shankaracharya Temple",
+      "Bahu Temple"
+    ],
+    "answer": "Hazratbal Shrine",
+    "difficulty": "medium",
+    "source": "Incredible India – Srinagar"
+  },
+  {
+    "id": "quest_jk_008",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Srinagar mosque is noted for its wooden architecture?",
+    "options": [
+      "Raghunath Temple",
+      "Shah Hamdan Mosque",
+      "Jamia Masjid",
+      "Hazratbal Mosque"
+    ],
+    "answer": "Jamia Masjid",
+    "difficulty": "medium",
+    "source": "Incredible India – Srinagar"
+  },
+  {
+    "id": "quest_jk_009",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional Kashmiri tea is mentioned by Incredible India?",
+    "options": [
+      "Butter tea",
+      "Kahwa",
+      "Masala chai",
+      "Lemon tea"
+    ],
+    "answer": "Kahwa",
+    "difficulty": "easy",
+    "source": "Incredible India – Srinagar"
+  },
+  {
+    "id": "quest_jk_010",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What are the floating gardens of Dal Lake made from?",
+    "options": [
+      "Stone and clay",
+      "Wood and metal",
+      "Sand and gravel",
+      "Matted vegetation and soil"
+    ],
+    "answer": "Matted vegetation and soil",
+    "difficulty": "hard",
+    "source": "Incredible India – Dal Lake"
+  },
+  {
+    "id": "quest_jk_011",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is described as the Lesser Dal and lies east of Dal Lake?",
+    "options": [
+      "Mansar Lake",
+      "Surinsar Lake",
+      "Nagin Lake",
+      "Wular Lake"
+    ],
+    "answer": "Nagin Lake",
+    "difficulty": "medium",
+    "source": "Incredible India – Dal Lake"
+  },
+  {
+    "id": "quest_jk_012",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What unusual service is located on the western edge of Dal Lake?",
+    "options": [
+      "A floating railway station",
+      "A floating hospital",
+      "A floating school",
+      "A floating post office"
+    ],
+    "answer": "A floating post office",
+    "difficulty": "medium",
+    "source": "Incredible India – Dal Lake"
+  },
+  {
+    "id": "quest_jk_013",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal emperor is associated with Shalimar Bagh in the Srinagar source?",
+    "options": [
+      "Jehangir",
+      "Babur",
+      "Akbar",
+      "Aurangzeb"
+    ],
+    "answer": "Jehangir",
+    "difficulty": "medium",
+    "source": "Incredible India – Srinagar"
+  },
+  {
+    "id": "quest_jk_014",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Srinagar site is located on a hill and is dedicated to Lord Shiva?",
+    "options": [
+      "Shankaracharya Temple",
+      "Pari Mahal",
+      "Jamia Masjid",
+      "Hazratbal Shrine"
+    ],
+    "answer": "Shankaracharya Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Shankaracharya Temple"
+  },
+  {
+    "id": "quest_jk_015",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On which hill does the Shankaracharya Temple stand?",
+    "options": [
+      "Gopadri Hill",
+      "Nanga Parbat",
+      "Trikuta Hill",
+      "Apharwat Hill"
+    ],
+    "answer": "Gopadri Hill",
+    "difficulty": "medium",
+    "source": "Incredible India – Shankaracharya Temple"
+  },
+  {
+    "id": "quest_jk_016",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Gulmarg is located in which mountain range?",
+    "options": [
+      "Nilgiri Hills",
+      "Eastern Ghats",
+      "Aravalli range",
+      "Pir Panjal range"
+    ],
+    "answer": "Pir Panjal range",
+    "difficulty": "medium",
+    "source": "Incredible India – Gulmarg"
+  },
+  {
+    "id": "quest_jk_017",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the name Gulmarg relate to in the source?",
+    "options": [
+      "A valley of rivers",
+      "A meadow associated with flowers",
+      "A lake of snow",
+      "A mountain fort"
+    ],
+    "answer": "A meadow associated with flowers",
+    "difficulty": "easy",
+    "source": "Incredible India – Gulmarg"
+  },
+  {
+    "id": "quest_jk_018",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal emperor is mentioned as having been captivated by Gulmarg?",
+    "options": [
+      "Shah Jahan",
+      "Akbar",
+      "Aurangzeb",
+      "Jehangir"
+    ],
+    "answer": "Jehangir",
+    "difficulty": "medium",
+    "source": "Incredible India – Gulmarg"
+  },
+  {
+    "id": "quest_jk_019",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which shrine in Gulmarg is dedicated to the Sufi saint Baba Payam-Din?",
+    "options": [
+      "Hazratbal Shrine",
+      "Raghunath Temple",
+      "Ziarat of Baba Reshi",
+      "Shankaracharya Temple"
+    ],
+    "answer": "Ziarat of Baba Reshi",
+    "difficulty": "hard",
+    "source": "Incredible India – Gulmarg"
+  },
+  {
+    "id": "quest_jk_020",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What happens to Alpathar Lake in winter according to the source?",
+    "options": [
+      "It turns into a river",
+      "It becomes a salt lake",
+      "It dries completely",
+      "It freezes"
+    ],
+    "answer": "It freezes",
+    "difficulty": "medium",
+    "source": "Incredible India – Gulmarg"
+  },
+  {
+    "id": "quest_jk_021",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which activity is especially associated with Gulmarg's snowy slopes?",
+    "options": [
+      "Desert safari",
+      "Skiing",
+      "Scuba diving",
+      "Camel racing"
+    ],
+    "answer": "Skiing",
+    "difficulty": "easy",
+    "source": "Incredible India – Kashmir: A Quick and Handy Travel Guide"
+  },
+  {
+    "id": "quest_jk_022",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place is described as being cradled by the Himalayas and associated with the Lidder River?",
+    "options": [
+      "Patnitop",
+      "Jammu",
+      "Srinagar",
+      "Pahalgam"
+    ],
+    "answer": "Pahalgam",
+    "difficulty": "medium",
+    "source": "Incredible India – Pahalgam"
+  },
+  {
+    "id": "quest_jk_023",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows through Pahalgam according to Incredible India?",
+    "options": [
+      "Jhelum River",
+      "Tawi River",
+      "Lidder River",
+      "Chenab River"
+    ],
+    "answer": "Lidder River",
+    "difficulty": "medium",
+    "source": "Incredible India – Pahalgam"
+  },
+  {
+    "id": "quest_jk_024",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which pilgrimage journey is strongly associated with Pahalgam in the source?",
+    "options": [
+      "Amarnath Yatra",
+      "Char Dham Yatra",
+      "Kailash Mansarovar Yatra",
+      "Vaishno Devi Yatra"
+    ],
+    "answer": "Amarnath Yatra",
+    "difficulty": "easy",
+    "source": "Incredible India – Pahalgam"
+  },
+  {
+    "id": "quest_jk_025",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place is described as a scenic valley where trekking and adventure activities are popular?",
+    "options": [
+      "Katra",
+      "Akhnoor",
+      "Jammu",
+      "Pahalgam"
+    ],
+    "answer": "Pahalgam",
+    "difficulty": "easy",
+    "source": "Incredible India – Pahalgam"
+  },
+  {
+    "id": "quest_jk_026",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place is known for snow, skiing and trekking and is included in the Kashmir tourism guide?",
+    "options": [
+      "Mansar",
+      "Sonmarg",
+      "Katra",
+      "Akhnoor"
+    ],
+    "answer": "Sonmarg",
+    "difficulty": "easy",
+    "source": "Incredible India – Kashmir: A Quick and Handy Travel Guide"
+  },
+  {
+    "id": "quest_jk_027",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows beside Jammu city according to the Jammu Tourism source?",
+    "options": [
+      "Jhelum River",
+      "Chenab River",
+      "Lidder River",
+      "Tawi River"
+    ],
+    "answer": "Tawi River",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism Jammu – Jammu City"
+  },
+  {
+    "id": "quest_jk_028",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Jammu popularly called because of its many temples?",
+    "options": [
+      "City of Lakes",
+      "Pink City",
+      "Golden City",
+      "City of Temples"
+    ],
+    "answer": "City of Temples",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism Jammu – Jammu City"
+  },
+  {
+    "id": "quest_jk_029",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fort is located near Jammu and overlooks the Chenab River?",
+    "options": [
+      "Akhnoor Fort",
+      "Bahu Fort",
+      "Red Fort",
+      "Chingus Fort"
+    ],
+    "answer": "Akhnoor Fort",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism Jammu – Akhnoor Fort"
+  },
+  {
+    "id": "quest_jk_030",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On which river bank is Akhnoor Fort situated?",
+    "options": [
+      "Tawi River",
+      "Lidder River",
+      "Chenab River",
+      "Jhelum River"
+    ],
+    "answer": "Chenab River",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism Jammu – Akhnoor Fort"
+  },
+  {
+    "id": "quest_jk_031",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Jammu complex is described as the largest temple complex in Northern India?",
+    "options": [
+      "Sudh Mahadev Temple",
+      "Jain Shwetambar Temple",
+      "Raghunath Mandir",
+      "Bahu Temple"
+    ],
+    "answer": "Raghunath Mandir",
+    "difficulty": "hard",
+    "source": "Directorate of Tourism Jammu – Shrines of Jammu City"
+  },
+  {
+    "id": "quest_jk_032",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built the main Raghunath Mandir in Jammu according to the Jammu Tourism source?",
+    "options": [
+      "Maharaja Ranbir Singh",
+      "Maharaja Pratap Singh",
+      "Maharaja Gulab Singh",
+      "Raja Jamboo Lochan"
+    ],
+    "answer": "Maharaja Ranbir Singh",
+    "difficulty": "hard",
+    "source": "Directorate of Tourism Jammu – Shrines of Jammu City"
+  },
+  {
+    "id": "quest_jk_033",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which palace complex is listed among Jammu's important heritage sites?",
+    "options": [
+      "Lal Mahal",
+      "Mysore Palace",
+      "Mubarak Mandi Palace",
+      "City Palace Jaipur"
+    ],
+    "answer": "Mubarak Mandi Palace",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism Jammu – Monuments & Heritage"
+  },
+  {
+    "id": "quest_jk_034",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fort and garden complex is listed among Jammu's heritage attractions?",
+    "options": [
+      "Gwalior Fort and Jai Vilas",
+      "Amber Fort and Jal Mahal",
+      "Aguada Fort and Garden",
+      "Bahu Fort and Bag-e-Bahu"
+    ],
+    "answer": "Bahu Fort and Bag-e-Bahu",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism Jammu – Monuments & Heritage"
+  },
+  {
+    "id": "quest_jk_035",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which temples at Krimchi are identified as ninth- to tenth-century heritage sites?",
+    "options": [
+      "Chola Temples",
+      "Dilwara Temples",
+      "Khajuraho Temples",
+      "Krimchi Temples"
+    ],
+    "answer": "Krimchi Temples",
+    "difficulty": "hard",
+    "source": "Directorate of Tourism Jammu – Jammu City"
+  },
+  {
+    "id": "quest_jk_036",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which memorial in Jammu honours soldiers who died in wars fought in J&K since independence?",
+    "options": [
+      "Vijay Stambh",
+      "Balidan Stambh",
+      "India Gate",
+      "National War Memorial"
+    ],
+    "answer": "Balidan Stambh",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism Jammu – Jammu City"
+  },
+  {
+    "id": "quest_jk_037",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Patnitop is situated in which mountain range according to Incredible India?",
+    "options": [
+      "Himalayas only",
+      "Pir Panjal range",
+      "Vindhya range",
+      "Aravalli range"
+    ],
+    "answer": "Pir Panjal range",
+    "difficulty": "medium",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_038",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What kind of landscape surrounds Patnitop?",
+    "options": [
+      "Desert dunes",
+      "Mangrove forests",
+      "Deodar trees, pines and dense woods",
+      "Tropical grasslands"
+    ],
+    "answer": "Deodar trees, pines and dense woods",
+    "difficulty": "easy",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_039",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which ancient temple in Patnitop is associated with a legend of Lord Shiva and Goddess Parvati?",
+    "options": [
+      "Naag Mandir",
+      "Bahu Temple",
+      "Hazratbal Shrine",
+      "Raghunath Temple"
+    ],
+    "answer": "Naag Mandir",
+    "difficulty": "medium",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_040",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the Dr Syama Prasad Mookerjee Tunnel also called?",
+    "options": [
+      "Kashmir Gateway Tunnel",
+      "Patnitop Tunnel",
+      "Chenab Tunnel",
+      "Jammu Tunnel"
+    ],
+    "answer": "Patnitop Tunnel",
+    "difficulty": "medium",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_041",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the length of the Dr Syama Prasad Mookerjee Tunnel given by Incredible India?",
+    "options": [
+      "30 km",
+      "18 km",
+      "9.28 km",
+      "5.5 km"
+    ],
+    "answer": "9.28 km",
+    "difficulty": "hard",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_042",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What distance does the Patnitop Tunnel reduce between Jammu and Srinagar according to the source?",
+    "options": [
+      "50 km",
+      "30 km",
+      "9 km",
+      "100 km"
+    ],
+    "answer": "30 km",
+    "difficulty": "hard",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_043",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which activity is mentioned as a winter attraction at Patnitop?",
+    "options": [
+      "Skiing",
+      "Surfing",
+      "Scuba diving",
+      "Camel riding"
+    ],
+    "answer": "Skiing",
+    "difficulty": "easy",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_044",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many steps are currently described for Billo Ki Powri?",
+    "options": [
+      "270",
+      "400",
+      "600",
+      "100"
+    ],
+    "answer": "270",
+    "difficulty": "hard",
+    "source": "Incredible India – Patnitop"
+  },
+  {
+    "id": "quest_jk_045",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which protected natural area is listed among Srinagar's attractions?",
+    "options": [
+      "Kaziranga National Park",
+      "Ranthambore National Park",
+      "Dachigam National Park",
+      "Gir National Park"
+    ],
+    "answer": "Dachigam National Park",
+    "difficulty": "easy",
+    "source": "Incredible India – Jammu and Kashmir"
+  },
+  {
+    "id": "quest_jk_046",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which animal is mentioned as being found in the Gulmarg Biosphere Reserve?",
+    "options": [
+      "One-horned rhinoceros",
+      "Musk deer",
+      "Asiatic lion",
+      "Blackbuck"
+    ],
+    "answer": "Musk deer",
+    "difficulty": "medium",
+    "source": "Incredible India – Gulmarg Biosphere Reserve"
+  },
+  {
+    "id": "quest_jk_047",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the area of the Gulmarg Biosphere Reserve given by Incredible India?",
+    "options": [
+      "180 square kilometres",
+      "18 square kilometres",
+      "280 square kilometres",
+      "80 square kilometres"
+    ],
+    "answer": "180 square kilometres",
+    "difficulty": "hard",
+    "source": "Incredible India – Gulmarg Biosphere Reserve"
+  },
+  {
+    "id": "quest_jk_048",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which valley is highlighted by Incredible India as a lesser-known treasure north of Srinagar?",
+    "options": [
+      "Spiti Valley",
+      "Kangra Valley",
+      "Gurez Valley",
+      "Nubra Valley"
+    ],
+    "answer": "Gurez Valley",
+    "difficulty": "medium",
+    "source": "Incredible India – Jammu and Kashmir"
+  },
+  {
+    "id": "quest_jk_049",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river is highlighted along with Gurez and Bangus valleys in the J&K tourism source?",
+    "options": [
+      "Narmada",
+      "Kishanganga",
+      "Lidder",
+      "Tawi"
+    ],
+    "answer": "Kishanganga",
+    "difficulty": "hard",
+    "source": "Incredible India – Jammu and Kashmir"
+  },
+  {
+    "id": "quest_jk_050",
+    "state": "Jammu & Kashmir",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional Kashmiri product is mentioned among the handicrafts sold in Srinagar's old city?",
+    "options": [
+      "Phulkari",
+      "Pashmina shawls",
+      "Banarasi brocade",
+      "Kanjeevaram silk"
+    ],
+    "answer": "Pashmina shawls",
+    "difficulty": "medium",
+    "source": "Incredible India – Srinagar"
+  }
+]

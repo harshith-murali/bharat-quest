@@ -1,0 +1,886 @@
+[
+  {
+    "id": "quest_tr_001",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital city of Tripura?",
+    "options": [
+      "Kailashahar",
+      "Udaipur",
+      "Agartala",
+      "Dharmanagar"
+    ],
+    "answer": "Agartala",
+    "difficulty": "easy",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_002",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which is the major airport serving Tripura?",
+    "options": [
+      "Lokpriya Gopinath Bordoloi Airport",
+      "Dimapur Airport",
+      "Maharaja Bir Bikram Airport",
+      "Kangla Airport"
+    ],
+    "answer": "Maharaja Bir Bikram Airport",
+    "difficulty": "easy",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_003",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "The Jampui Hills, known for their orange orchards, sit at an altitude of about how many feet above sea level?",
+    "options": [
+      "1,000 feet",
+      "3,000 feet",
+      "5,000 feet",
+      "2,000 feet"
+    ],
+    "answer": "3,000 feet",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_004",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Dumboor Lake is formed at the confluence of which two rivers?",
+    "options": [
+      "Khowai and Muhuri",
+      "Raima and Sarma",
+      "Manu and Dhalai",
+      "Gomati and Howrah"
+    ],
+    "answer": "Raima and Sarma",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_005",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Sepahijala Wildlife Sanctuary, near Agartala, covers an area of approximately how many square kilometers?",
+    "options": [
+      "18.5 sq km",
+      "100 sq km",
+      "50 sq km",
+      "25 sq km"
+    ],
+    "answer": "18.5 sq km",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_006",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "According to Tripura's ancient court chronicle, the Rajmala, how many kings are said to have ruled the region?",
+    "options": [
+      "86",
+      "51",
+      "286",
+      "186"
+    ],
+    "answer": "186",
+    "difficulty": "hard",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_007",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is the name of Tripura's celebrated ancient court chronicle that records its royal history?",
+    "options": [
+      "Rajmala",
+      "Ain-i-Akbari",
+      "Rajatarangini",
+      "Kalika Purana"
+    ],
+    "answer": "Rajmala",
+    "difficulty": "medium",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_008",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "The name \"Tripura\" is believed to have originated from which Hindu goddess?",
+    "options": [
+      "Tripura Sundari",
+      "Durga",
+      "Kamakhya",
+      "Kali"
+    ],
+    "answer": "Tripura Sundari",
+    "difficulty": "easy",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_009",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Ujjayanta Palace in Agartala was built by which Maharaja?",
+    "options": [
+      "Dhanya Manikya",
+      "Birbikram Kishore Manikya",
+      "Birendra Kishore Manikya",
+      "Radha Kishore Manikya"
+    ],
+    "answer": "Radha Kishore Manikya",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_010",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which years was Ujjayanta Palace constructed?",
+    "options": [
+      "1901-1905",
+      "1917-1920",
+      "1897-1901",
+      "1880-1885"
+    ],
+    "answer": "1897-1901",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_011",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Kunjaban Palace, built in 1917, is also known by what other name?",
+    "options": [
+      "Malancha Niwas",
+      "Old Rajbari",
+      "Pushpabanta Palace",
+      "Andar Mahal"
+    ],
+    "answer": "Pushpabanta Palace",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_012",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Bengali poet stayed at Kunjaban Palace during his seventh and last visit to Tripura in 1926?",
+    "options": [
+      "Jibanananda Das",
+      "Kazi Nazrul Islam",
+      "Sukanta Bhattacharya",
+      "Rabindranath Tagore"
+    ],
+    "answer": "Rabindranath Tagore",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_013",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Neermahal, the lake palace, was built in 1930 by which Maharaja?",
+    "options": [
+      "Radha Kishore Manikya",
+      "Birbikram Kishore Manikya Bahadur",
+      "Govinda Manikya",
+      "Dhanya Manikya"
+    ],
+    "answer": "Birbikram Kishore Manikya Bahadur",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_014",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which construction company built the Neermahal palace?",
+    "options": [
+      "Martin & Burn Co.",
+      "Jessop & Co.",
+      "Larsen & Toubro",
+      "Gammon India"
+    ],
+    "answer": "Martin & Burn Co.",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_015",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Maharaja shifted the Tripura capital from Udaipur to Old Agartala amid conflict with Shamser Gazi?",
+    "options": [
+      "Govinda Manikya",
+      "Krishna Manikya",
+      "Dhanya Manikya",
+      "Birendra Kishore Manikya"
+    ],
+    "answer": "Krishna Manikya",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_016",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "History",
+    "question": "The Tripura Sundari Temple at Udaipur was built in 1501 AD by which Maharaja?",
+    "options": [
+      "Krishna Manikya",
+      "Govinda Manikya",
+      "Dhanya Manikya",
+      "Radha Kishore Manikya"
+    ],
+    "answer": "Dhanya Manikya",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_017",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "The Tripura Sundari Temple is regarded as one of how many Shakti Peethas of Hindu tradition?",
+    "options": [
+      "18",
+      "51",
+      "12",
+      "108"
+    ],
+    "answer": "51",
+    "difficulty": "easy",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_018",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "About how many distinct indigenous tribal communities live in Tripura?",
+    "options": [
+      "24",
+      "9",
+      "19",
+      "14"
+    ],
+    "answer": "19",
+    "difficulty": "medium",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_019",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Riha and Risa, woven by tribal women, are traditional Tripuri items of which craft?",
+    "options": [
+      "Pottery",
+      "Bamboo furniture",
+      "Handloom weaving",
+      "Wood carving"
+    ],
+    "answer": "Handloom weaving",
+    "difficulty": "medium",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_020",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Tripura's traditional craftsmanship is especially known for products made from which two materials?",
+    "options": [
+      "Cane and bamboo",
+      "Silk and cotton",
+      "Brass and copper",
+      "Clay and stone"
+    ],
+    "answer": "Cane and bamboo",
+    "difficulty": "easy",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_021",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Food",
+    "question": "Which traditional rice beer is associated with Tripura's tribal communities?",
+    "options": [
+      "Toddy",
+      "Chuak",
+      "Handia",
+      "Feni"
+    ],
+    "answer": "Chuak",
+    "difficulty": "medium",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_022",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Food",
+    "question": "Which chutney is a notable, distinctive part of Tripuri cuisine?",
+    "options": [
+      "Bhut jolokia chutney",
+      "Mosdeng serma",
+      "Bamboo shoot pickle",
+      "Nga pyaye"
+    ],
+    "answer": "Mosdeng serma",
+    "difficulty": "hard",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_023",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Food",
+    "question": "Which fish curry, seasoned with mustard seeds and green chillies, is a well-known dish of Tripura?",
+    "options": [
+      "Hilsa fish curry",
+      "Rohu fish curry",
+      "Pomfret fish curry",
+      "Catla fish curry"
+    ],
+    "answer": "Hilsa fish curry",
+    "difficulty": "easy",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_024",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "The central dome of Ujjayanta Palace rises to a height of how many feet?",
+    "options": [
+      "100 feet",
+      "60 feet",
+      "75 feet",
+      "86 feet"
+    ],
+    "answer": "86 feet",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_025",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Neermahal's domes show a combination of which two architectural styles?",
+    "options": [
+      "Hindu and Mughal",
+      "Mughal and Gothic",
+      "Colonial and Hindu",
+      "Buddhist and Mughal"
+    ],
+    "answer": "Hindu and Mughal",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_026",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Neermahal is popularly referred to by which nickname?",
+    "options": [
+      "Summer Fort",
+      "Water Fort",
+      "Lake Palace of Tripura",
+      "Floating Palace"
+    ],
+    "answer": "Lake Palace of Tripura",
+    "difficulty": "easy",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_027",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Neermahal Palace stands in the middle of which natural lake?",
+    "options": [
+      "Kalyan Sagar",
+      "Kamalasagar",
+      "Rudrasagar",
+      "Amarsagar"
+    ],
+    "answer": "Rudrasagar",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_028",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which animal is the main wildlife attraction of Trishna Wildlife Sanctuary?",
+    "options": [
+      "Elephant",
+      "Bison",
+      "Tiger",
+      "Leopard"
+    ],
+    "answer": "Bison",
+    "difficulty": "easy",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_029",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which is the largest wildlife sanctuary in Tripura?",
+    "options": [
+      "Trishna Wildlife Sanctuary",
+      "Rowa Wildlife Sanctuary",
+      "Sepahijala Wildlife Sanctuary",
+      "Gumti Wildlife Sanctuary"
+    ],
+    "answer": "Gumti Wildlife Sanctuary",
+    "difficulty": "medium",
+    "source": "Destinations - Tripura Tourism",
+    "source_url": "https://tripuratourism.gov.in/destination.php"
+  },
+  {
+    "id": "quest_tr_030",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "In which year was the Rowa Wildlife Sanctuary notified by the Tripura Forest Department?",
+    "options": [
+      "1998",
+      "1978",
+      "1988",
+      "2004"
+    ],
+    "answer": "1988",
+    "difficulty": "hard",
+    "source": "Destinations - Tripura Tourism",
+    "source_url": "https://tripuratourism.gov.in/destination.php"
+  },
+  {
+    "id": "quest_tr_031",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Dumboor Lake, a charming water body in Amarpur sub-division, is dotted with how many islands?",
+    "options": [
+      "28",
+      "48",
+      "18",
+      "68"
+    ],
+    "answer": "48",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_032",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "The rare spectacled monkey is a notable resident of which Tripura sanctuary?",
+    "options": [
+      "Gumti",
+      "Rowa",
+      "Trishna",
+      "Sepahijala"
+    ],
+    "answer": "Sepahijala",
+    "difficulty": "easy",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_033",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which unusual insectivorous plant is highlighted as part of Tripura's unique flora?",
+    "options": [
+      "Bladderwort",
+      "Venus Flytrap",
+      "Sundew",
+      "Pitcher Plant"
+    ],
+    "answer": "Pitcher Plant",
+    "difficulty": "medium",
+    "source": "Incredible India - Tripura",
+    "source_url": "https://www.incredibleindia.gov.in/en/tripura"
+  },
+  {
+    "id": "quest_tr_034",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "The Kharchi festival involves worship of how many gods?",
+    "options": [
+      "Ten",
+      "Twenty-one",
+      "Seven",
+      "Fourteen"
+    ],
+    "answer": "Fourteen",
+    "difficulty": "easy",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_035",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "In which month does the week-long Kharchi festival take place?",
+    "options": [
+      "July",
+      "April",
+      "December",
+      "September"
+    ],
+    "answer": "July",
+    "difficulty": "medium",
+    "source": "Fairs and Festivals - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/fairs-and-festivals"
+  },
+  {
+    "id": "quest_tr_036",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Garia, a major festival of the Tripuri community symbolizing devotion and prosperity, is celebrated in which month?",
+    "options": [
+      "April",
+      "November",
+      "January",
+      "August"
+    ],
+    "answer": "April",
+    "difficulty": "easy",
+    "source": "Fairs and Festivals - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/fairs-and-festivals"
+  },
+  {
+    "id": "quest_tr_037",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "The priest who performs the puja during the Garia festival is known by what title?",
+    "options": [
+      "Purohit",
+      "Deodha",
+      "Panda",
+      "Ochai"
+    ],
+    "answer": "Ochai",
+    "difficulty": "hard",
+    "source": "Fairs and Festivals - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/fairs-and-festivals"
+  },
+  {
+    "id": "quest_tr_038",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Bijhu, the biggest festival of the Chakma tribe, begins on the last day of which Bengali calendar month?",
+    "options": [
+      "Chaitra",
+      "Ashwin",
+      "Baisakh",
+      "Ashadha"
+    ],
+    "answer": "Chaitra",
+    "difficulty": "medium",
+    "source": "Fairs and Festivals - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/fairs-and-festivals"
+  },
+  {
+    "id": "quest_tr_039",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which historic Buddhist temple in Agartala becomes the centre of Buddha Purnima celebrations?",
+    "options": [
+      "Mahamuni Temple",
+      "Venuban Vihar",
+      "Kamalasagar Temple",
+      "Jagannath Temple"
+    ],
+    "answer": "Venuban Vihar",
+    "difficulty": "medium",
+    "source": "Fairs and Festivals - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/fairs-and-festivals"
+  },
+  {
+    "id": "quest_tr_040",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Tirthamukh, site of the Poush Sankranti mela and a hydel project, is associated with the origin of which river?",
+    "options": [
+      "Khowai",
+      "Gomati",
+      "Howrah",
+      "Muhuri"
+    ],
+    "answer": "Gomati",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_041",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "During the Mog community's Owa festival, what do devotees release into the river in the evening?",
+    "options": [
+      "Clay idols",
+      "Lit lamps",
+      "Flower garlands",
+      "Paper and toy boats"
+    ],
+    "answer": "Paper and toy boats",
+    "difficulty": "medium",
+    "source": "Fairs and Festivals - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/fairs-and-festivals"
+  },
+  {
+    "id": "quest_tr_042",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Monuments",
+    "question": "Which archaeological site near Kailashahar is famous for its giant rock-cut sculptures, including a huge Shiva head?",
+    "options": [
+      "Kamalasagar",
+      "Deotamura",
+      "Unakoti",
+      "Pilak"
+    ],
+    "answer": "Unakoti",
+    "difficulty": "easy",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_043",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Monuments",
+    "question": "According to local legend, what does the name \"Unakoti\" mean?",
+    "options": [
+      "City of a thousand gods",
+      "Home of Shiva",
+      "The eternal shrine",
+      "One less than a crore"
+    ],
+    "answer": "One less than a crore",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_044",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Monuments",
+    "question": "Pilak, an important archaeological site in South Tripura, primarily reveals ruins linked to which religion, alongside signs of Hinduism?",
+    "options": [
+      "Buddhism",
+      "Sikhism",
+      "Zoroastrianism",
+      "Jainism"
+    ],
+    "answer": "Buddhism",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_045",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Monuments",
+    "question": "Deotamura, also called Chabimura, is famous for rock carvings located on the bank of which river?",
+    "options": [
+      "Khowai",
+      "Gomati",
+      "Howrah",
+      "Muhuri"
+    ],
+    "answer": "Gomati",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_046",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Kamalasagar, a scenic lake on the Bangladesh border, was excavated in the 15th century by which Maharaja?",
+    "options": [
+      "Radha Kishore Manikya",
+      "Krishna Manikya",
+      "Dhanya Manikya",
+      "Govinda Manikya"
+    ],
+    "answer": "Dhanya Manikya",
+    "difficulty": "hard",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_047",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Tripura's Heritage Park, showcasing miniatures of the state's major heritage sites, is located in which area of Agartala?",
+    "options": [
+      "Old Agartala",
+      "Khayerpur",
+      "Melaghar",
+      "Kunjaban"
+    ],
+    "answer": "Kunjaban",
+    "difficulty": "medium",
+    "source": "Places of Interest - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/places-interest"
+  },
+  {
+    "id": "quest_tr_048",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Gunabati group of temples was built in the name of which Maharani?",
+    "options": [
+      "Maharani Kanchan Prava",
+      "Rani Tripura Sundari",
+      "Rani Bhanumati",
+      "Maharani Gunabati"
+    ],
+    "answer": "Maharani Gunabati",
+    "difficulty": "hard",
+    "source": "Destinations - Tripura Tourism",
+    "source_url": "https://tripuratourism.gov.in/destination.php"
+  },
+  {
+    "id": "quest_tr_049",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Traditional Arts",
+    "question": "Hojagiri, a folk dance performed while balancing on an earthen pitcher, belongs to which community?",
+    "options": [
+      "Reang",
+      "Garo",
+      "Mog",
+      "Chakma"
+    ],
+    "answer": "Reang",
+    "difficulty": "easy",
+    "source": "Folk Dances - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/folk-dances"
+  },
+  {
+    "id": "quest_tr_050",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Traditional Arts",
+    "question": "The Garia dance of the Tripuri community is closely tied to which form of cultivation?",
+    "options": [
+      "Jhum (shifting) cultivation",
+      "Terrace farming",
+      "Bamboo farming",
+      "Tea plantation"
+    ],
+    "answer": "Jhum (shifting) cultivation",
+    "difficulty": "medium",
+    "source": "Folk Dances - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/folk-dances"
+  },
+  {
+    "id": "quest_tr_051",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Traditional Arts",
+    "question": "The Wangala dance of the Garo community is performed to mark which occasion?",
+    "options": [
+      "The New Year",
+      "The first rice-eating ceremony",
+      "A wedding ceremony",
+      "The sowing season"
+    ],
+    "answer": "The first rice-eating ceremony",
+    "difficulty": "medium",
+    "source": "Folk Dances - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/folk-dances"
+  },
+  {
+    "id": "quest_tr_052",
+    "state": "Tripura",
+    "category": "Quest",
+    "topic": "Traditional Arts",
+    "question": "The Cheraw (bamboo) dance is traditionally performed by relatives to support a woman in the final stage of which life event?",
+    "options": [
+      "Coming-of-age ritual",
+      "Harvest ceremony",
+      "Pregnancy",
+      "Marriage"
+    ],
+    "answer": "Pregnancy",
+    "difficulty": "hard",
+    "source": "Folk Dances - Tripura State Portal",
+    "source_url": "https://tripura.gov.in/folk-dances"
+  }
+]

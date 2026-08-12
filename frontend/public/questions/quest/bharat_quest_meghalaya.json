@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "quest_ml_001",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the name Meghalaya mean?",
+    "options": [
+      "Land of Blue Mountains",
+      "Land of Jewels",
+      "Land of Clouds",
+      "Land of Rising Sun"
+    ],
+    "answer": "Land of Clouds",
+    "difficulty": "easy",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_002",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year did Meghalaya become a separate state?",
+    "options": [
+      "1956",
+      "1972",
+      "1987",
+      "1963"
+    ],
+    "answer": "1972",
+    "difficulty": "easy",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_003",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three indigenous communities are prominently associated with Meghalaya?",
+    "options": [
+      "Khasi, Jaintia and Garo",
+      "Naga, Mizo and Khasi",
+      "Jaintia, Mizo and Tripuri",
+      "Garo, Bodo and Naga"
+    ],
+    "answer": "Khasi, Jaintia and Garo",
+    "difficulty": "easy",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_004",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What social system is especially notable among Meghalaya's indigenous cultures?",
+    "options": [
+      "Nomadic culture",
+      "Caste-based royal culture",
+      "Matrilineal culture",
+      "Patrilineal culture"
+    ],
+    "answer": "Matrilineal culture",
+    "difficulty": "medium",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_005",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place in Meghalaya is known as one of the wettest places on Earth?",
+    "options": [
+      "Mawsynram",
+      "Dawki",
+      "Jowai",
+      "Shillong"
+    ],
+    "answer": "Mawsynram",
+    "difficulty": "easy",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_006",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which waterfall is described by Incredible India as India's tallest plunge waterfall?",
+    "options": [
+      "Krang Suri Falls",
+      "Elephant Falls",
+      "Sweet Falls",
+      "Nohkalikai Falls"
+    ],
+    "answer": "Nohkalikai Falls",
+    "difficulty": "easy",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_007",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Approximately how many living root bridges does Incredible India say Meghalaya has?",
+    "options": [
+      "Around 1,000",
+      "Around 500",
+      "Around 20",
+      "Around 100"
+    ],
+    "answer": "Around 100",
+    "difficulty": "medium",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_008",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which communities traditionally crafted Meghalaya's living root bridges?",
+    "options": [
+      "Garos and Nagas",
+      "Bodos and Tripuris",
+      "Khasis and Jaintias",
+      "Mizos and Kukis"
+    ],
+    "answer": "Khasis and Jaintias",
+    "difficulty": "medium",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_009",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which locations are specifically mentioned among the renowned living-root-bridge areas?",
+    "options": [
+      "Shillong, Jowai and Tura",
+      "Mawsynram, Tura and Nongstoin",
+      "Dawki, Smit and Nartiang",
+      "Nongriat, Sohra and Nongbareh"
+    ],
+    "answer": "Nongriat, Sohra and Nongbareh",
+    "difficulty": "hard",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_010",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Meghalaya's longest living root bridge is believed to be approximately how long?",
+    "options": [
+      "175 feet",
+      "275 feet",
+      "75 feet",
+      "125 feet"
+    ],
+    "answer": "175 feet",
+    "difficulty": "medium",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_011",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "What nickname is commonly given to Shillong?",
+    "options": [
+      "Land of Clouds",
+      "Scotland of the East",
+      "Queen of Hills",
+      "Scotland of India"
+    ],
+    "answer": "Scotland of the East",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_012",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which city is the capital of Meghalaya?",
+    "options": [
+      "Tura",
+      "Shillong",
+      "Sohra",
+      "Jowai"
+    ],
+    "answer": "Shillong",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_013",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake near Shillong is a man-made reservoir?",
+    "options": [
+      "Loktak Lake",
+      "Thadlaskein Lake",
+      "Ward's Lake",
+      "Umiam Lake"
+    ],
+    "answer": "Umiam Lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_014",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which lake in central Shillong is an artificial lake surrounded by gardens?",
+    "options": [
+      "Ward's Lake",
+      "Krang Suri",
+      "Umiam Lake",
+      "Thadlaskein Lake"
+    ],
+    "answer": "Ward's Lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_015",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who planned Ward's Lake?",
+    "options": [
+      "Leishyllong",
+      "William Ward",
+      "Colonel Hopkins",
+      "David Scott"
+    ],
+    "answer": "William Ward",
+    "difficulty": "medium",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_016",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who is credited with bringing Ward's Lake to life in 1894?",
+    "options": [
+      "William Ward",
+      "John Nicholson",
+      "David Scott",
+      "Colonel Hopkins"
+    ],
+    "answer": "Colonel Hopkins",
+    "difficulty": "hard",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_017",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "What is the distinctive shape of Ward's Lake?",
+    "options": [
+      "Horseshoe",
+      "Square",
+      "Triangular",
+      "Circular"
+    ],
+    "answer": "Horseshoe",
+    "difficulty": "easy",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_018",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do locals affectionately call Ward's Lake?",
+    "options": [
+      "Nan Polok or Polok Lake",
+      "Umiam",
+      "Khlaw Malki",
+      "Laitumkhrah"
+    ],
+    "answer": "Nan Polok or Polok Lake",
+    "difficulty": "medium",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_019",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which bridge is a notable feature of Ward's Lake?",
+    "options": [
+      "A suspension bridge",
+      "A steel railway bridge",
+      "A wooden bridge",
+      "A stone arch bridge"
+    ],
+    "answer": "A wooden bridge",
+    "difficulty": "easy",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_020",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Nature & Wildlife",
+    "question": "What seasonal blossoms are especially associated with Ward's Lake?",
+    "options": [
+      "Cherry blossoms",
+      "Rhododendrons",
+      "Orchids",
+      "Lotuses"
+    ],
+    "answer": "Cherry blossoms",
+    "difficulty": "medium",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_021",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the elevation of Shillong Peak according to Incredible India?",
+    "options": [
+      "8,449 feet",
+      "4,449 feet",
+      "10,449 feet",
+      "6,449 feet"
+    ],
+    "answer": "6,449 feet",
+    "difficulty": "hard",
+    "source": "Incredible India – Shillong Peak",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/shillong-peak"
+  },
+  {
+    "id": "quest_ml_022",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How high is Shillong Peak in metres?",
+    "options": [
+      "1,965 metres",
+      "2,965 metres",
+      "1,565 metres",
+      "1,265 metres"
+    ],
+    "answer": "1,965 metres",
+    "difficulty": "hard",
+    "source": "Incredible India – Shillong Peak",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/shillong-peak"
+  },
+  {
+    "id": "quest_ml_023",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Khasi-Jaintia patron deity is believed to reside on Shillong Peak?",
+    "options": [
+      "Leishyllong",
+      "Thadlaskein",
+      "Ka Blei Synshar",
+      "U Shillong"
+    ],
+    "answer": "Leishyllong",
+    "difficulty": "hard",
+    "source": "Incredible India – Shillong Peak",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/shillong-peak"
+  },
+  {
+    "id": "quest_ml_024",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What takes place every spring atop Shillong Peak according to Incredible India?",
+    "options": [
+      "A horse festival",
+      "A boat race",
+      "An elaborate religious ceremony",
+      "A harvest market"
+    ],
+    "answer": "An elaborate religious ceremony",
+    "difficulty": "medium",
+    "source": "Incredible India – Shillong Peak",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/shillong-peak"
+  },
+  {
+    "id": "quest_ml_025",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "How many tiers does Elephant Falls have?",
+    "options": [
+      "Three",
+      "Five",
+      "Two",
+      "Four"
+    ],
+    "answer": "Three",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_026",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Elephant Falls originally called in Khasi?",
+    "options": [
+      "Kshaid-Lai-Pateng",
+      "Ka Likai",
+      "Nohsngithiang",
+      "Krem Puri"
+    ],
+    "answer": "Kshaid-Lai-Pateng",
+    "difficulty": "hard",
+    "source": "Incredible India – Elephant Falls",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/elephant-falls"
+  },
+  {
+    "id": "quest_ml_027",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why did the waterfall receive the name 'Elephant Falls'?",
+    "options": [
+      "An elephant was found in the pool",
+      "An elephant-shaped rock stood there",
+      "It was named after an elephant king",
+      "Elephants lived around it"
+    ],
+    "answer": "An elephant-shaped rock stood there",
+    "difficulty": "medium",
+    "source": "Incredible India – Elephant Falls",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/elephant-falls"
+  },
+  {
+    "id": "quest_ml_028",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What happened to the elephant-shaped rock at Elephant Falls?",
+    "options": [
+      "It was removed for construction",
+      "It was lost in an earthquake",
+      "It was washed away by a flood",
+      "It was moved to a museum"
+    ],
+    "answer": "It was lost in an earthquake",
+    "difficulty": "hard",
+    "source": "Incredible India – Elephant Falls",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/elephant-falls"
+  },
+  {
+    "id": "quest_ml_029",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which museum in Shillong focuses on the indigenous cultures of Northeast India?",
+    "options": [
+      "Don Bosco Museum",
+      "Butterfly Museum",
+      "Air Force Museum",
+      "Wankhar Museum"
+    ],
+    "answer": "Don Bosco Museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_030",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is another name for Don Bosco Museum?",
+    "options": [
+      "Khasi Cultural Museum",
+      "Shillong Heritage Centre",
+      "Northeast Tribal Museum",
+      "Don Bosco Centre for Indigenous Cultures"
+    ],
+    "answer": "Don Bosco Centre for Indigenous Cultures",
+    "difficulty": "medium",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_031",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "How many stories does the hexagonal Don Bosco Museum building have?",
+    "options": [
+      "Five",
+      "Six",
+      "Ten",
+      "Seven"
+    ],
+    "answer": "Seven",
+    "difficulty": "medium",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_032",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many galleries does Don Bosco Museum have?",
+    "options": [
+      "Twenty-seven",
+      "Seventeen",
+      "Seven",
+      "Twelve"
+    ],
+    "answer": "Seventeen",
+    "difficulty": "hard",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_033",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three Meghalaya communities are represented in Don Bosco Museum exhibits?",
+    "options": [
+      "Khasi, Jaintia and Garo",
+      "Mizo, Naga and Khasi",
+      "Jaintia, Tripuri and Mizo",
+      "Garo, Bodo and Naga"
+    ],
+    "answer": "Khasi, Jaintia and Garo",
+    "difficulty": "easy",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_034",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Don Bosco Museum set up?",
+    "options": [
+      "1983",
+      "2013",
+      "1993",
+      "2003"
+    ],
+    "answer": "2003",
+    "difficulty": "hard",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_035",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Approximately how many books and papers are held in the Don Bosco Museum library?",
+    "options": [
+      "About 50,473",
+      "About 110,473",
+      "About 210,473",
+      "About 10,473"
+    ],
+    "answer": "About 110,473",
+    "difficulty": "hard",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_036",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which research centre accompanies the Don Bosco Museum?",
+    "options": [
+      "North Eastern Institute for Research in Anthropology",
+      "Northeast Heritage Research Centre",
+      "Indian Institute of Tribal Arts",
+      "Khasi Research Institute"
+    ],
+    "answer": "North Eastern Institute for Research in Anthropology",
+    "difficulty": "hard",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_037",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which museum in Shillong is known for butterflies, moths and other insects?",
+    "options": [
+      "Don Bosco Museum",
+      "Manipur State Museum",
+      "Air Force Museum",
+      "Wankhar Entomology Museum"
+    ],
+    "answer": "Wankhar Entomology Museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_038",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Which Shillong church is noted for Gothic architecture?",
+    "options": [
+      "Sacred Heart Church",
+      "Cathedral of Mary Help of Christians",
+      "All Saints' Church",
+      "Nongsawlia Church"
+    ],
+    "answer": "Cathedral of Mary Help of Christians",
+    "difficulty": "medium",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_039",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which Shillong church is an example of colonial architecture?",
+    "options": [
+      "Sacred Heart Church",
+      "Cathedral of Mary Help of Christians",
+      "Nongsawlia Church",
+      "All Saints' Church"
+    ],
+    "answer": "All Saints' Church",
+    "difficulty": "medium",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_040",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which historic trail connects Mawphlang to Lad Mawphlang?",
+    "options": [
+      "Sohra Trail",
+      "Living Root Bridge Trail",
+      "Nongriat Trail",
+      "David Scott Trail"
+    ],
+    "answer": "David Scott Trail",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_041",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How long is the David Scott Trail according to Incredible India?",
+    "options": [
+      "26 kilometres",
+      "16 kilometres",
+      "6 kilometres",
+      "36 kilometres"
+    ],
+    "answer": "16 kilometres",
+    "difficulty": "medium",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_042",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "After whom is the David Scott Trail named?",
+    "options": [
+      "A British soldier",
+      "A British administrator",
+      "A Khasi king",
+      "A Jaintia chief"
+    ],
+    "answer": "A British administrator",
+    "difficulty": "medium",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_043",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which golf course is listed among Shillong's attractions?",
+    "options": [
+      "Shillong Golf Course",
+      "Umiam Golf Course",
+      "Sohra Golf Course",
+      "East Khasi Golf Course"
+    ],
+    "answer": "Shillong Golf Course",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong"
+  },
+  {
+    "id": "quest_ml_044",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which park in Shillong is named after Phan Nonglait?",
+    "options": [
+      "Ward's Park",
+      "Malki Park",
+      "Lady Hydari Park",
+      "Phan Nonglait Park"
+    ],
+    "answer": "Phan Nonglait Park",
+    "difficulty": "easy",
+    "source": "Incredible India – Shillong Peak",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/shillong-peak"
+  },
+  {
+    "id": "quest_ml_045",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What does Lady Hydari Park contain according to Incredible India?",
+    "options": [
+      "A museum and library",
+      "A cave and waterfall",
+      "A mini zoo and children's playground",
+      "A golf course"
+    ],
+    "answer": "A mini zoo and children's playground",
+    "difficulty": "medium",
+    "source": "Incredible India – Don Bosco Museum",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/don-bosco-museum"
+  },
+  {
+    "id": "quest_ml_046",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "What is Cherrapunjee also known as?",
+    "options": [
+      "Dawki",
+      "Jowai",
+      "Smit",
+      "Sohra"
+    ],
+    "answer": "Sohra",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_047",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far is Cherrapunjee from Shillong?",
+    "options": [
+      "100 kilometres",
+      "150 kilometres",
+      "50 kilometres",
+      "20 kilometres"
+    ],
+    "answer": "50 kilometres",
+    "difficulty": "medium",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_048",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfall in Cherrapunjee is India's tallest plunge waterfall according to Incredible India?",
+    "options": [
+      "Dainthlen Falls",
+      "Seven Sisters Falls",
+      "Nohkalikai Falls",
+      "Nohsngithiang Falls"
+    ],
+    "answer": "Nohkalikai Falls",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_049",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At approximately what height does Nohkalikai Falls plunge?",
+    "options": [
+      "250 metres",
+      "500 metres",
+      "350 metres",
+      "150 metres"
+    ],
+    "answer": "350 metres",
+    "difficulty": "medium",
+    "source": "Incredible India – An unforgettable journey through Meghalaya's natural wonders",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/an-unforgettable-journey-through-meghalayas-natural-wonders"
+  },
+  {
+    "id": "quest_ml_050",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Nohsngithiang Falls is also commonly known by what name?",
+    "options": [
+      "Mawsmai Falls only",
+      "Three Sisters Falls",
+      "Seven Sisters Falls",
+      "Rainbow Falls"
+    ],
+    "answer": "Seven Sisters Falls",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_051",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Into how many segments does Nohsngithiang Falls descend?",
+    "options": [
+      "Five",
+      "Seven",
+      "Three",
+      "Nine"
+    ],
+    "answer": "Seven",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_052",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how tall is Nohsngithiang Falls according to Incredible India?",
+    "options": [
+      "733 feet",
+      "533 feet",
+      "1,033 feet",
+      "1,333 feet"
+    ],
+    "answer": "1,033 feet",
+    "difficulty": "hard",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_053",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which cave in Cherrapunjee is said to stretch 820 feet into the earth?",
+    "options": [
+      "Siju Cave",
+      "Mawsmai Cave",
+      "Mawmluh Cave",
+      "Arwah Cave"
+    ],
+    "answer": "Mawsmai Cave",
+    "difficulty": "medium",
+    "source": "Incredible India – Mawsmai Cave",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/mawsmai-cave"
+  },
+  {
+    "id": "quest_ml_054",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of formations are especially visible inside Meghalaya's limestone caves?",
+    "options": [
+      "Stalactites and stalagmites",
+      "Glacial moraines",
+      "Coral reefs",
+      "Basalt columns"
+    ],
+    "answer": "Stalactites and stalagmites",
+    "difficulty": "easy",
+    "source": "Incredible India – Mawsmai Cave",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/mawsmai-cave"
+  },
+  {
+    "id": "quest_ml_055",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the approximate length of Mawmluh Cave?",
+    "options": [
+      "7.2 kilometres",
+      "17.2 kilometres",
+      "12 kilometres",
+      "2.7 kilometres"
+    ],
+    "answer": "7.2 kilometres",
+    "difficulty": "hard",
+    "source": "Incredible India – Mawmluh Cave",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/mawmluh-cave"
+  },
+  {
+    "id": "quest_ml_056",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geology",
+    "question": "Mawmluh Cave is notable as a geological site associated with which epoch?",
+    "options": [
+      "Eocene",
+      "Jurassic",
+      "Cretaceous",
+      "Pleistocene"
+    ],
+    "answer": "Eocene",
+    "difficulty": "hard",
+    "source": "Incredible India – Mawmluh Cave",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/mawmluh-cave"
+  },
+  {
+    "id": "quest_ml_057",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geology",
+    "question": "The Mawmluh Cave geological boundary involves Eocene dolomite and what other rock?",
+    "options": [
+      "Basalt",
+      "Granite",
+      "Sandstone",
+      "Slate"
+    ],
+    "answer": "Sandstone",
+    "difficulty": "hard",
+    "source": "Incredible India – Mawmluh Cave",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/mawmluh-cave"
+  },
+  {
+    "id": "quest_ml_058",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geology",
+    "question": "What is the geological significance of the Mawmluh Cave site called?",
+    "options": [
+      "A volcanic caldera",
+      "A coral reef",
+      "A GSSP or 'golden spike'",
+      "A meteor crater"
+    ],
+    "answer": "A GSSP or 'golden spike'",
+    "difficulty": "hard",
+    "source": "Incredible India – Mawmluh Cave",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/mawmluh-cave"
+  },
+  {
+    "id": "quest_ml_059",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which village is home to the famous double-decker living root bridge?",
+    "options": [
+      "Mawphlang",
+      "Riwai",
+      "Nongriat",
+      "Smit"
+    ],
+    "answer": "Nongriat",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_060",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which trees' aerial roots are guided to create Meghalaya's living root bridges?",
+    "options": [
+      "Banyan trees",
+      "Rubber trees",
+      "Pine trees",
+      "Mango trees"
+    ],
+    "answer": "Rubber trees",
+    "difficulty": "medium",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_061",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How are the living root bridges initially supported while the roots grow across streams?",
+    "options": [
+      "They are suspended from bamboo towers",
+      "They are tied to steel cables",
+      "They are built on stone pillars",
+      "Roots are placed into hollow areca-nut palm canes"
+    ],
+    "answer": "Roots are placed into hollow areca-nut palm canes",
+    "difficulty": "hard",
+    "source": "Incredible India – Double-Decker Living Root Bridge",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/double-decker-living-root-bridge"
+  },
+  {
+    "id": "quest_ml_062",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Approximately how old are the living-root bridge traditions described by Incredible India?",
+    "options": [
+      "Over 50 years",
+      "Over 500 years",
+      "Over 180 years",
+      "Over 1,000 years"
+    ],
+    "answer": "Over 180 years",
+    "difficulty": "medium",
+    "source": "Incredible India – Double-Decker Living Root Bridge",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/double-decker-living-root-bridge"
+  },
+  {
+    "id": "quest_ml_063",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Why was the famous Nongriat bridge made double-decker?",
+    "options": [
+      "Two villages demanded separate bridges",
+      "The first bridge collapsed from an earthquake",
+      "A rising river covered the original bridge",
+      "It was designed as a tourist attraction"
+    ],
+    "answer": "A rising river covered the original bridge",
+    "difficulty": "hard",
+    "source": "Incredible India – Double-Decker Living Root Bridge",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/double-decker-living-root-bridge"
+  },
+  {
+    "id": "quest_ml_064",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "From which village does the trek to the Nongriat double-decker bridge begin?",
+    "options": [
+      "Riwai",
+      "Tyrna",
+      "Smit",
+      "Mawphlang"
+    ],
+    "answer": "Tyrna",
+    "difficulty": "medium",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_065",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how many steps are descended on the Tyrna-to-Nongriat route?",
+    "options": [
+      "About 5,000",
+      "About 3,500",
+      "About 1,500",
+      "About 750"
+    ],
+    "answer": "About 3,500",
+    "difficulty": "hard",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_066",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which village near Mawlynnong has a single living root bridge mentioned by Incredible India?",
+    "options": [
+      "Tyrna",
+      "Nongriat",
+      "Smit",
+      "Riwai"
+    ],
+    "answer": "Riwai",
+    "difficulty": "medium",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_067",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which waterfall can be reached by continuing from the Double-Decker Bridge trek?",
+    "options": [
+      "Krang Suri Falls",
+      "Rainbow Falls",
+      "Elephant Falls",
+      "Sweet Falls"
+    ],
+    "answer": "Rainbow Falls",
+    "difficulty": "medium",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_068",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which trek follows an ancient British route through forests, waterfalls and villages?",
+    "options": [
+      "Riwai Trail",
+      "Sohra Caves Trail",
+      "David Scott Trail",
+      "Nongriat Trail"
+    ],
+    "answer": "David Scott Trail",
+    "difficulty": "medium",
+    "source": "Incredible India – Adventure in Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/discover-an-adventure-seekers-paradise-in-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_069",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is one of Cherrapunjee's notable geological attractions besides its waterfalls?",
+    "options": [
+      "Limestone cave systems",
+      "Volcanic cones",
+      "Coral islands",
+      "Glacial valleys"
+    ],
+    "answer": "Limestone cave systems",
+    "difficulty": "easy",
+    "source": "Incredible India – Adventure in Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/discover-an-adventure-seekers-paradise-in-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_070",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional craft materials are especially associated with Cherrapunjee artisans?",
+    "options": [
+      "Marble and granite",
+      "Copper and brass",
+      "Silk and wool",
+      "Bamboo and cane"
+    ],
+    "answer": "Bamboo and cane",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee Shopping",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/a-shoppers-guide-to-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_071",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which community's cuisine is highlighted as the predominant culinary tradition of Cherrapunjee?",
+    "options": [
+      "Jaintia",
+      "Naga",
+      "Garo",
+      "Khasi"
+    ],
+    "answer": "Khasi",
+    "difficulty": "easy",
+    "source": "Incredible India – Tasting the treasures of Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/tasting-the-treasures-of-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_072",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "What is Jadoh?",
+    "options": [
+      "A type of bread",
+      "A rice dish cooked with pork, chicken or fish and spices",
+      "A fermented soybean drink",
+      "A bamboo dessert"
+    ],
+    "answer": "A rice dish cooked with pork, chicken or fish and spices",
+    "difficulty": "easy",
+    "source": "Incredible India – Tasting the treasures of Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/tasting-the-treasures-of-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_073",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "What is Dohkhlieh?",
+    "options": [
+      "A fermented fish soup",
+      "A rice cake",
+      "A Khasi side dish of diced pork, onions, ginger, chillies and herbs",
+      "A sweet made from oranges"
+    ],
+    "answer": "A Khasi side dish of diced pork, onions, ginger, chillies and herbs",
+    "difficulty": "medium",
+    "source": "Incredible India – Tasting the treasures of Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/tasting-the-treasures-of-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_074",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "What gives Tungrymbai its distinctive character?",
+    "options": [
+      "Fermented soybeans",
+      "Fermented rice",
+      "Dried oranges",
+      "Smoked bamboo shoots"
+    ],
+    "answer": "Fermented soybeans",
+    "difficulty": "easy",
+    "source": "Incredible India – Tasting the treasures of Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/tasting-the-treasures-of-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_075",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which local product is especially well known in Cherrapunjee?",
+    "options": [
+      "Honey",
+      "Coffee",
+      "Tea",
+      "Saffron"
+    ],
+    "answer": "Honey",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee Shopping",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/a-shoppers-guide-to-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_076",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which fruit is highlighted among Cherrapunjee's local produce?",
+    "options": [
+      "Apples",
+      "Pomegranates",
+      "Grapes",
+      "Mandarin oranges"
+    ],
+    "answer": "Mandarin oranges",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee Shopping",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/a-shoppers-guide-to-cherrapunjee"
+  },
+  {
+    "id": "quest_ml_077",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which rice cake is mentioned as a local snack around Sohra?",
+    "options": [
+      "Tungrymbai",
+      "Putharo",
+      "Jadoh",
+      "Dohkhlieh"
+    ],
+    "answer": "Putharo",
+    "difficulty": "medium",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_078",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which dry-fish chutney is mentioned among Sohra street foods?",
+    "options": [
+      "Putharo",
+      "Tungtap",
+      "Dohkhlieh",
+      "Jadoh"
+    ],
+    "answer": "Tungtap",
+    "difficulty": "medium",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_079",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is a five-day Khasi thanksgiving ceremony for a good harvest?",
+    "options": [
+      "Nongkrem Dance Festival",
+      "Wangala",
+      "Behdienkhlam",
+      "Shad Suk Mynsiem"
+    ],
+    "answer": "Nongkrem Dance Festival",
+    "difficulty": "easy",
+    "source": "Incredible India – Cherrapunjee",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee"
+  },
+  {
+    "id": "quest_ml_080",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which goddess is thanked during the Nongkrem Dance Festival?",
+    "options": [
+      "Ka Likai",
+      "Ka Blei Synshar",
+      "U Blei",
+      "Leishyllong"
+    ],
+    "answer": "Ka Blei Synshar",
+    "difficulty": "hard",
+    "source": "Incredible India – Laitlum and Smit",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/laitlum-and-smit"
+  },
+  {
+    "id": "quest_ml_081",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "In which month is the Nongkrem Dance Festival generally held?",
+    "options": [
+      "April",
+      "November",
+      "August",
+      "January"
+    ],
+    "answer": "November",
+    "difficulty": "medium",
+    "source": "Incredible India – Laitlum and Smit",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/laitlum-and-smit"
+  },
+  {
+    "id": "quest_ml_082",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "What is another name for the Nongkrem Dance Festival?",
+    "options": [
+      "Wangala",
+      "Ka Pomblang Nongkrem",
+      "Shad Suk Mynsiem",
+      "Behdienkhlam"
+    ],
+    "answer": "Ka Pomblang Nongkrem",
+    "difficulty": "medium",
+    "source": "Incredible India – Laitlum and Smit",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/laitlum-and-smit"
+  },
+  {
+    "id": "quest_ml_083",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "What does the Nongkrem festival celebrate?",
+    "options": [
+      "The commencement of the harvest season",
+      "The end of winter",
+      "The beginning of monsoon",
+      "The arrival of spring"
+    ],
+    "answer": "The commencement of the harvest season",
+    "difficulty": "medium",
+    "source": "Incredible India – Laitlum and Smit",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/laitlum-and-smit"
+  },
+  {
+    "id": "quest_ml_084",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Who performs the climactic Nongkrem dance?",
+    "options": [
+      "Children under ten",
+      "Only village elders",
+      "Only men",
+      "Young unmarried women"
+    ],
+    "answer": "Young unmarried women",
+    "difficulty": "medium",
+    "source": "Incredible India – Laitlum and Smit",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/laitlum-and-smit"
+  },
+  {
+    "id": "quest_ml_085",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town is the capital of the Jaintia Hills?",
+    "options": [
+      "Jowai",
+      "Tura",
+      "Sohra",
+      "Shillong"
+    ],
+    "answer": "Jowai",
+    "difficulty": "easy",
+    "source": "Incredible India – Jowai",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/jowai"
+  },
+  {
+    "id": "quest_ml_086",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hill range is described as the second of Meghalaya's three major hill ranges?",
+    "options": [
+      "Mikir Hills",
+      "Khasi Hills",
+      "Jaintia Hills",
+      "Garo Hills"
+    ],
+    "answer": "Jaintia Hills",
+    "difficulty": "medium",
+    "source": "Incredible India – Nartiang",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_087",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which kingdom's rulers dominated the Jowai region historically?",
+    "options": [
+      "Ahom kingdom",
+      "Koch kingdom",
+      "Pnar/Jaintia kingdom",
+      "Tripura kingdom"
+    ],
+    "answer": "Pnar/Jaintia kingdom",
+    "difficulty": "medium",
+    "source": "Incredible India – Nartiang",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_088",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which waterfall near Jowai is known for clear blue water and a curtain-like cascade?",
+    "options": [
+      "Nohkalikai Falls",
+      "Krangshuri Falls",
+      "Elephant Falls",
+      "Dainthlen Falls"
+    ],
+    "answer": "Krangshuri Falls",
+    "difficulty": "easy",
+    "source": "Incredible India – Nartiang",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_089",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which lake near Jowai is associated with a legend of Jaintia warriors?",
+    "options": [
+      "Umiam Lake",
+      "Ward's Lake",
+      "Krang Suri",
+      "Thadlaskein Lake"
+    ],
+    "answer": "Thadlaskein Lake",
+    "difficulty": "medium",
+    "source": "Incredible India – Jowai",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/jowai"
+  },
+  {
+    "id": "quest_ml_090",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which riverside eco-park overlooks the Pynthorwah Valley?",
+    "options": [
+      "Lalong Eco-Park",
+      "Thangkharang Park",
+      "Phan Nonglait Park",
+      "Mawphlang Sacred Grove"
+    ],
+    "answer": "Lalong Eco-Park",
+    "difficulty": "hard",
+    "source": "Incredible India – Jowai",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/jowai"
+  },
+  {
+    "id": "quest_ml_091",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Nartiang during the seventeenth century?",
+    "options": [
+      "Capital of the Khasi Kingdom",
+      "A Garo royal capital",
+      "Summer capital of the Jaintia Kings",
+      "A British cantonment"
+    ],
+    "answer": "Summer capital of the Jaintia Kings",
+    "difficulty": "medium",
+    "source": "Incredible India – Nartiang Monoliths",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_092",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Between which years are many Nartiang monoliths believed to have been erected?",
+    "options": [
+      "1200 AD and 1500 AD",
+      "1000 AD and 1200 AD",
+      "1800 AD and 1900 AD",
+      "1500 AD and 1835 AD"
+    ],
+    "answer": "1500 AD and 1835 AD",
+    "difficulty": "hard",
+    "source": "Incredible India – Nartiang Monoliths",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_093",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do the standing monoliths at Nartiang represent?",
+    "options": [
+      "Harvest gods",
+      "Battlefields",
+      "Male ancestors",
+      "Female ancestors"
+    ],
+    "answer": "Male ancestors",
+    "difficulty": "medium",
+    "source": "Incredible India – Nartiang Monoliths",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_094",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do the flat monoliths or dolmens at Nartiang represent?",
+    "options": [
+      "Warriors only",
+      "Men",
+      "Kings only",
+      "Women"
+    ],
+    "answer": "Women",
+    "difficulty": "medium",
+    "source": "Incredible India – Nartiang Monoliths",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_095",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Approximately how tall is the tallest menhir at Nartiang?",
+    "options": [
+      "Around 15 metres",
+      "Around 3 metres",
+      "Around 20 metres",
+      "Around 8 metres"
+    ],
+    "answer": "Around 8 metres",
+    "difficulty": "hard",
+    "source": "Incredible India – Nartiang Monoliths",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_096",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "History",
+    "question": "The Nartiang monoliths commemorate which kinds of events?",
+    "options": [
+      "Kings, women, battle victories and other notable events",
+      "Only religious ceremonies",
+      "Only British victories",
+      "Only agricultural festivals"
+    ],
+    "answer": "Kings, women, battle victories and other notable events",
+    "difficulty": "medium",
+    "source": "Incredible India – Nartiang Monoliths",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  },
+  {
+    "id": "quest_ml_097",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows through Dawki?",
+    "options": [
+      "Barak River",
+      "Myntang River",
+      "Umiam River",
+      "Umngot River"
+    ],
+    "answer": "Umngot River",
+    "difficulty": "easy",
+    "source": "Incredible India – Thrilling Escapades in Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/thrilling-escapades-in-shillong"
+  },
+  {
+    "id": "quest_ml_098",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Dawki is located near which international border?",
+    "options": [
+      "India-Myanmar border",
+      "India-Bangladesh border",
+      "India-Nepal border",
+      "India-Bhutan border"
+    ],
+    "answer": "India-Bangladesh border",
+    "difficulty": "easy",
+    "source": "Incredible India – Thrilling Escapades in Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/thrilling-escapades-in-shillong"
+  },
+  {
+    "id": "quest_ml_099",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "What type of rapids does the Umngot River offer according to Incredible India?",
+    "options": [
+      "Grade IV to VI",
+      "Grade V to VI",
+      "Grade I to III",
+      "Grade III to V"
+    ],
+    "answer": "Grade I to III",
+    "difficulty": "hard",
+    "source": "Incredible India – Thrilling Escapades in Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/thrilling-escapades-in-shillong"
+  },
+  {
+    "id": "quest_ml_100",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "During which months are Umngot River water levels described as ideal for rafting?",
+    "options": [
+      "July through October",
+      "June through August",
+      "January through February only",
+      "November through May"
+    ],
+    "answer": "November through May",
+    "difficulty": "medium",
+    "source": "Incredible India – Thrilling Escapades in Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/thrilling-escapades-in-shillong"
+  },
+  {
+    "id": "quest_ml_101",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which village is described as Asia's cleanest village in Incredible India's Meghalaya content?",
+    "options": [
+      "Smit",
+      "Mawphlang",
+      "Mawlynnong",
+      "Nongriat"
+    ],
+    "answer": "Mawlynnong",
+    "difficulty": "easy",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_102",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Approximately how far from Shillong is Mawlynnong village on the Shillong-Dawki Road?",
+    "options": [
+      "50 kilometres",
+      "150 kilometres",
+      "90 kilometres",
+      "30 kilometres"
+    ],
+    "answer": "90 kilometres",
+    "difficulty": "medium",
+    "source": "Incredible India – The Northeast Green Triangle",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/the-northeast-green-triangle"
+  },
+  {
+    "id": "quest_ml_103",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many households does the cited Incredible India description give for Mawlynnong?",
+    "options": [
+      "150",
+      "75",
+      "400",
+      "25"
+    ],
+    "answer": "75",
+    "difficulty": "hard",
+    "source": "Incredible India – The Northeast Green Triangle",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/the-northeast-green-triangle"
+  },
+  {
+    "id": "quest_ml_104",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Approximately how many people does the cited description give as Mawlynnong's population?",
+    "options": [
+      "200",
+      "400",
+      "1,000",
+      "75"
+    ],
+    "answer": "400",
+    "difficulty": "medium",
+    "source": "Incredible India – The Northeast Green Triangle",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/the-northeast-green-triangle"
+  },
+  {
+    "id": "quest_ml_105",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two villages are located about 15.8 km from Shillong in East Khasi Hills according to Incredible India?",
+    "options": [
+      "Jowai and Nartiang",
+      "Laitlum and Smit",
+      "Dawki and Mawlynnong",
+      "Sohra and Tyrna"
+    ],
+    "answer": "Laitlum and Smit",
+    "difficulty": "medium",
+    "source": "Incredible India – Laitlum and Smit",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/laitlum-and-smit"
+  },
+  {
+    "id": "quest_ml_106",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is a major cultural and religious attraction in Smit?",
+    "options": [
+      "Behdienkhlam",
+      "Nongkrem Dance Festival",
+      "Wangala",
+      "Shad Suk Mynsiem"
+    ],
+    "answer": "Nongkrem Dance Festival",
+    "difficulty": "easy",
+    "source": "Incredible India – Laitlum and Smit",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee/laitlum-and-smit"
+  },
+  {
+    "id": "quest_ml_107",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which canyon-like attraction is described near Shillong as India's Grand Canyon?",
+    "options": [
+      "Umiam Canyon",
+      "Smit Gorge",
+      "Laitlum Canyons",
+      "Mawkdok Valley"
+    ],
+    "answer": "Laitlum Canyons",
+    "difficulty": "easy",
+    "source": "Incredible India – Ward's Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/wards-lake"
+  },
+  {
+    "id": "quest_ml_108",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "At what height is the zip-line at Mawkdok Valley described?",
+    "options": [
+      "100 metres",
+      "30 metres",
+      "60 metres",
+      "150 metres"
+    ],
+    "answer": "60 metres",
+    "difficulty": "hard",
+    "source": "Incredible India – Thrilling Escapades in Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/thrilling-escapades-in-shillong"
+  },
+  {
+    "id": "quest_ml_109",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Approximately how long is the Mawkdok Valley zip-line?",
+    "options": [
+      "1 kilometre",
+      "100 metres",
+      "250 metres",
+      "500 metres"
+    ],
+    "answer": "500 metres",
+    "difficulty": "medium",
+    "source": "Incredible India – Thrilling Escapades in Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/thrilling-escapades-in-shillong"
+  },
+  {
+    "id": "quest_ml_110",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which natural attraction near Mawsynram is described as the world's longest sandstone cave?",
+    "options": [
+      "Mawmluh Cave",
+      "Mawsmai Cave",
+      "Arwah Cave",
+      "Krem Puri"
+    ],
+    "answer": "Krem Puri",
+    "difficulty": "hard",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_111",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which sacred grove near Shillong is known for rare plants, mushrooms and ancient coronation sites?",
+    "options": [
+      "Malki Forest",
+      "Thangkharang Park",
+      "Lady Hydari Park",
+      "Mawphlang Sacred Grove"
+    ],
+    "answer": "Mawphlang Sacred Grove",
+    "difficulty": "easy",
+    "source": "Incredible India – Meghalaya",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya"
+  },
+  {
+    "id": "quest_ml_112",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which forest near Shillong is known as Khlaw Malki?",
+    "options": [
+      "Smit Forest",
+      "Mawphlang Sacred Grove",
+      "Laitlum Forest",
+      "Malki Forest"
+    ],
+    "answer": "Malki Forest",
+    "difficulty": "medium",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_113",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What kind of trees are prominent in Malki Forest?",
+    "options": [
+      "Mangroves",
+      "British pine trees",
+      "Teak trees",
+      "Coconut palms"
+    ],
+    "answer": "British pine trees",
+    "difficulty": "medium",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_114",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfall is also known as Sati Falls or Urkaliar?",
+    "options": [
+      "Dainthlen Falls",
+      "Sweet Falls",
+      "Spread Eagle Falls",
+      "Elephant Falls"
+    ],
+    "answer": "Spread Eagle Falls",
+    "difficulty": "medium",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_115",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How far from Shillong Cantonment is Spread Eagle Falls?",
+    "options": [
+      "About 6 kilometres",
+      "About 16 kilometres",
+      "About 60 kilometres",
+      "About 26 kilometres"
+    ],
+    "answer": "About 6 kilometres",
+    "difficulty": "hard",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_116",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfall is described as standing 262 feet high about 55 km south of Shillong?",
+    "options": [
+      "Dainthlen Falls",
+      "Spread Eagle Falls",
+      "Nohkalikai Falls",
+      "Elephant Falls"
+    ],
+    "answer": "Dainthlen Falls",
+    "difficulty": "hard",
+    "source": "Incredible India – Shillong Guide",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/shillong-guide"
+  },
+  {
+    "id": "quest_ml_117",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hills form part of the Garo-Khasi range?",
+    "options": [
+      "Khasi Hills",
+      "Vindhya Hills",
+      "Aravalli Hills",
+      "Nilgiri Hills"
+    ],
+    "answer": "Khasi Hills",
+    "difficulty": "easy",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_118",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two districts are named as the Jaintia Hills districts in Incredible India's description?",
+    "options": [
+      "North and South Jaintia Hills",
+      "Central and East Jaintia Hills",
+      "West and East Jaintia Hills",
+      "Upper and Lower Jaintia Hills"
+    ],
+    "answer": "West and East Jaintia Hills",
+    "difficulty": "medium",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_119",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town is the district headquarters of the Jaintia Hills area mentioned by Incredible India?",
+    "options": [
+      "Jowai",
+      "Tura",
+      "Shillong",
+      "Sohra"
+    ],
+    "answer": "Jowai",
+    "difficulty": "easy",
+    "source": "Incredible India – Top natural wonders of Shillong",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/top-natural-wonders-of-shillong-that-will-take-your-breath-away"
+  },
+  {
+    "id": "quest_ml_120",
+    "state": "Meghalaya",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which attraction is described as an open-air natural museum of monoliths?",
+    "options": [
+      "Don Bosco Museum",
+      "Ward's Lake",
+      "Nartiang Monoliths",
+      "Mawphlang Sacred Grove"
+    ],
+    "answer": "Nartiang Monoliths",
+    "difficulty": "easy",
+    "source": "Incredible India – Nartiang Monoliths",
+    "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong/the-monoliths-and-old-tales-of"
+  }
+]

@@ -1,24 +1,27 @@
 import { useEffect, useRef } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
 import * as THREE from 'three';
-import { Preload } from '@react-three/drei';
+import { Preload, PerspectiveCamera } from '@react-three/drei';
 
 interface CarAnimatorProps {
-  svgPathElement: SVGPathElement | null;
-  travelProgress: number; // 0 to 1
-  isTravelling: boolean;
-  totalPathLength: number;
+  svgPathElement?: SVGPathElement | null;
+  travelProgress?: number; // 0 to 1
+  isTravelling?: boolean;
+  totalPathLength?: number;
+  position?: { x: number; y: number };
 }
 
 // Final Sporty 3D Car Component
 export function Enhanced3DCar({
-  headingAngle,
-  steeringAngle,
-  isTravelling,
+  headingAngleRef,
+  steeringAngleRef,
+  isTravellingRef,
 }: {
-  headingAngle: number;
-  steeringAngle: number;
-  isTravelling: boolean;
+  // Live refs rather than plain numbers: these values are mutated every frame
+  // by the RAF loop, and a value captured at render time would never update.
+  headingAngleRef: React.MutableRefObject<number>;
+  steeringAngleRef: React.MutableRefObject<number>;
+  isTravellingRef: React.MutableRefObject<boolean>;
 }) {
   const carGroupRef = useRef<THREE.Group>(null!);
   const wheelsRef = useRef<THREE.Group[]>([]);
@@ -27,7 +30,10 @@ export function Enhanced3DCar({
     if (!carGroupRef.current) return;
 
     const time = state.clock.getElapsedTime();
-    
+    const headingAngle = headingAngleRef.current;
+    const steeringAngle = steeringAngleRef.current;
+    const isTravelling = isTravellingRef.current;
+
     // 1. Suspension & Movement Dynamics
     const bounceY = isTravelling ? Math.sin(time * 18) * 0.04 : Math.sin(time * 2) * 0.01;
     carGroupRef.current.position.y = bounceY;
@@ -154,9 +160,10 @@ export function Enhanced3DCar({
 
 export default function CarAnimator({
   svgPathElement,
-  travelProgress,
-  isTravelling,
-  totalPathLength,
+  travelProgress = 0,
+  isTravelling = false,
+  totalPathLength = 0,
+  position,
 }: CarAnimatorProps) {
   const containerRef = useRef<HTMLDivElement>(null!);
   const currentProgressRef = useRef<number>(0);
@@ -165,6 +172,29 @@ export default function CarAnimator({
   const lastTimeRef = useRef<number>(performance.now());
   const animFrameRef = useRef<number | null>(null);
 
+  // Latest props are mirrored into a ref so the RAF loop below can read fresh
+  // values WITHOUT being listed as effect dependencies.
+  //
+  // Previously these were dependencies of the animation effect. Because
+  // travelProgress updates ~60x/sec during a drive, the effect tore down and
+  // recreated the RAF loop every frame, resetting lastTimeRef each time. That
+  // made dt ~= 0, so the exponential lerp factor (1 - e^(-k*dt)) was ~0 and the
+  // car's progress never advanced — it sat frozen at the start of the path.
+  const propsRef = useRef({ svgPathElement, travelProgress, isTravelling, totalPathLength, position });
+  propsRef.current = { svgPathElement, travelProgress, isTravelling, totalPathLength, position };
+
+  // Mirrored for the 3D car's own useFrame loop (wheel spin, body roll).
+  const isTravellingRef = useRef<boolean>(isTravelling ?? false);
+  isTravellingRef.current = isTravelling ?? false;
+
+  // Reset interpolation when a brand new path leg begins.
+  useEffect(() => {
+    if (svgPathElement) {
+      currentProgressRef.current = 0;
+    }
+  }, [svgPathElement]);
+
+  // One stable RAF loop for the lifetime of the component.
   useEffect(() => {
     lastTimeRef.current = performance.now();
 
@@ -172,16 +202,32 @@ export default function CarAnimator({
       const dt = Math.min((now - lastTimeRef.current) / 1000, 0.05);
       lastTimeRef.current = now;
 
-      if (svgPathElement && totalPathLength > 0) {
-        const progressLerpFactor = isTravelling ? 1 - Math.exp(-5.5 * dt) : 1 - Math.exp(-12 * dt);
-        currentProgressRef.current += (travelProgress - currentProgressRef.current) * progressLerpFactor;
+      const {
+        svgPathElement: pathEl,
+        travelProgress: target,
+        isTravelling: driving,
+        totalPathLength: totalLen,
+        position: pos,
+      } = propsRef.current;
+
+      if (pos && containerRef.current) {
+        containerRef.current.style.transform = `translate3d(${pos.x - 40}px, ${pos.y - 40}px, 0)`;
+      } else if (pathEl && (totalLen ?? 0) > 0) {
+        const progressLerpFactor = driving ? 1 - Math.exp(-5.5 * dt) : 1 - Math.exp(-12 * dt);
+        currentProgressRef.current += ((target ?? 0) - currentProgressRef.current) * progressLerpFactor;
+
+        // Snap once we're close enough, so the car actually reaches the
+        // destination instead of asymptotically crawling toward it.
+        if (Math.abs((target ?? 0) - currentProgressRef.current) < 0.001) {
+          currentProgressRef.current = target ?? 0;
+        }
 
         const clampedProgress = Math.min(Math.max(currentProgressRef.current, 0), 1);
-        const distance = clampedProgress * totalPathLength;
-        const point = svgPathElement.getPointAtLength(distance);
+        const distance = clampedProgress * (totalLen ?? 0);
+        const point = pathEl.getPointAtLength(distance);
 
-        const lookAheadDist = Math.min(distance + 8, totalPathLength);
-        const aheadPoint = svgPathElement.getPointAtLength(lookAheadDist);
+        const lookAheadDist = Math.min(distance + 8, totalLen ?? 0);
+        const aheadPoint = pathEl.getPointAtLength(lookAheadDist);
 
         const dx = aheadPoint.x - point.x;
         const dy = aheadPoint.y - point.y;
@@ -193,7 +239,7 @@ export default function CarAnimator({
           while (diff > Math.PI) diff -= Math.PI * 2;
 
           steeringAngleRef.current = diff;
-          const steeringLerpFactor = isTravelling ? 1 - Math.exp(-6.5 * dt) : 1 - Math.exp(-14 * dt);
+          const steeringLerpFactor = driving ? 1 - Math.exp(-6.5 * dt) : 1 - Math.exp(-14 * dt);
           if (Math.abs(diff) > 0.002) {
             currentAngleRef.current += diff * steeringLerpFactor;
           }
@@ -209,7 +255,7 @@ export default function CarAnimator({
 
     animFrameRef.current = requestAnimationFrame(animate);
     return () => { if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current); };
-  }, [svgPathElement, travelProgress, isTravelling, totalPathLength]);
+  }, []);
 
   return (
     <div
@@ -226,17 +272,20 @@ export default function CarAnimator({
       }}
     >
       <Canvas
-        camera={{ position: [0, 3.5, 0], fov: 40 }}
         gl={{ alpha: true, antialias: true, powerPreference: 'high-performance' }}
         style={{ width: '100%', height: '100%' }}
       >
+        {/* Default R3F camera only sets position, not orientation — without an
+            explicit top-down rotation the car (at the origin, below the
+            camera) never enters view. */}
+        <PerspectiveCamera makeDefault position={[0, 3.5, 0]} rotation={[-Math.PI / 2, 0, 0]} fov={40} />
         <ambientLight intensity={1.5} />
         <directionalLight position={[5, 10, 5]} intensity={1.5} castShadow />
         <pointLight position={[-5, 5, -5]} intensity={0.5} />
         <Enhanced3DCar
-          headingAngle={currentAngleRef.current}
-          steeringAngle={steeringAngleRef.current}
-          isTravelling={isTravelling}
+          headingAngleRef={currentAngleRef}
+          steeringAngleRef={steeringAngleRef}
+          isTravellingRef={isTravellingRef}
         />
         <Preload all />
       </Canvas>

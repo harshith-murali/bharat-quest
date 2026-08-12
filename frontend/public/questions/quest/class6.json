@@ -1,0 +1,1641 @@
+[
+  {
+    "id": "c6_0001",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Geography",
+    "question": "The Indian Ocean surrounds India on how many sides?",
+    "options": [
+      "Three",
+      "All sides",
+      "Two",
+      "One"
+    ],
+    "answer": "Three",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 12
+  },
+  {
+    "id": "c6_0002",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Geography",
+    "question": "Which ocean is to the east of India?",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Indian Ocean",
+      "Andaman Sea"
+    ],
+    "answer": "Bay of Bengal",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 14
+  },
+  {
+    "id": "c6_0003",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Geography",
+    "question": "Which sea is to the west of India?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Red Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 15
+  },
+  {
+    "id": "c6_0004",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Geography",
+    "question": "India shares its eastern border with which countries?",
+    "options": [
+      "Bangladesh and Myanmar",
+      "Pakistan and Afghanistan",
+      "China and Nepal",
+      "Sri Lanka and Maldives"
+    ],
+    "answer": "Bangladesh and Myanmar",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 18
+  },
+  {
+    "id": "c6_0005",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Geography",
+    "question": "The Deccan Plateau covers an area in which part of India?",
+    "options": [
+      "Central and Southern India",
+      "Northern India",
+      "Western India",
+      "Eastern India"
+    ],
+    "answer": "Central and Southern India",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 28
+  },
+  {
+    "id": "c6_0006",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "States",
+    "question": "What is the capital of India?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Bangalore"
+    ],
+    "answer": "Delhi",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 20,
+    "state": "Haryana"
+  },
+  {
+    "id": "c6_0007",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "States",
+    "question": "Which state is the largest by area?",
+    "options": [
+      "Rajasthan",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Uttar Pradesh"
+    ],
+    "answer": "Rajasthan",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 22
+  },
+  {
+    "id": "c6_0008",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "States",
+    "question": "How many states and union territories does India have?",
+    "options": [
+      "28 states and 8 union territories",
+      "30 states",
+      "25 states",
+      "32 states"
+    ],
+    "answer": "28 states and 8 union territories",
+    "difficulty": "hard",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 24
+  },
+  {
+    "id": "c6_0009",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "States",
+    "question": "Which is the most populous state in India?",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "West Bengal",
+      "Bihar"
+    ],
+    "answer": "Uttar Pradesh",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 26
+  },
+  {
+    "id": "c6_0010",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient Empire",
+    "question": "Who founded the Mauryan Empire?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Bindusara",
+      "Brihadratha"
+    ],
+    "answer": "Chandragupta Maurya",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 45,
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "c6_0011",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient Empire",
+    "question": "In which century was the Mauryan Empire established?",
+    "options": [
+      "4th century BCE",
+      "3rd century BCE",
+      "5th century BCE",
+      "2nd century BCE"
+    ],
+    "answer": "4th century BCE",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 46
+  },
+  {
+    "id": "c6_0012",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient Empire",
+    "question": "Which Mauryan emperor spread Buddhism?",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Samudra Gupta"
+    ],
+    "answer": "Ashoka",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 48,
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "c6_0013",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient Empire",
+    "question": "Ashoka's edicts were carved on what?",
+    "options": [
+      "Rocks and pillars",
+      "Stones",
+      "Trees",
+      "Temples"
+    ],
+    "answer": "Rocks and pillars",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 50
+  },
+  {
+    "id": "c6_0014",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Architecture",
+    "question": "Which architectural style is characteristic of South India?",
+    "options": [
+      "Dravidian",
+      "Mughal",
+      "Gothic",
+      "Aryan"
+    ],
+    "answer": "Dravidian",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 72,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c6_0015",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Architecture",
+    "question": "Which dynasty built the Thanjavur temple?",
+    "options": [
+      "Chola",
+      "Pandya",
+      "Pallava",
+      "Chalukya"
+    ],
+    "answer": "Chola",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 75,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c6_0016",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "What is the primary coast of Kerala?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Coral Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 35,
+    "state": "Kerala"
+  },
+  {
+    "id": "c6_0017",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "Which coast experiences the monsoon first?",
+    "options": [
+      "Western coast",
+      "Eastern coast",
+      "Northern coast",
+      "Southern coast"
+    ],
+    "answer": "Western coast",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 36,
+    "state": "Kerala"
+  },
+  {
+    "id": "c6_0018",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which mountains separate India from Nepal?",
+    "options": [
+      "Himalayas",
+      "Western Ghats",
+      "Vindhya",
+      "Satpura"
+    ],
+    "answer": "Himalayas",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 40
+  },
+  {
+    "id": "c6_0019",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "What is the height range of the Himalayas?",
+    "options": [
+      "3000-7000 meters",
+      "1000-2000 meters",
+      "500-1500 meters",
+      "8000-9000 meters"
+    ],
+    "answer": "3000-7000 meters",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 42
+  },
+  {
+    "id": "c6_0020",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Nilgiris are part of which mountain range?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Aravalli",
+      "Vindhya"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 50,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c6_0021",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river is known for its delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Narmada",
+      "Godavari"
+    ],
+    "answer": "Ganges",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 60,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c6_0022",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Brahmaputra flows through which valley?",
+    "options": [
+      "Assam Valley",
+      "Kullu Valley",
+      "Kashmir Valley",
+      "Deccan Valley"
+    ],
+    "answer": "Assam Valley",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 65,
+    "state": "Assam"
+  },
+  {
+    "id": "c6_0023",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river forms the Sundarbans delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Meghna",
+      "Mahanadi"
+    ],
+    "answer": "Ganges",
+    "difficulty": "hard",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 70,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c6_0024",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which season brings moisture to South India?",
+    "options": [
+      "Northeast monsoon",
+      "Southwest monsoon",
+      "Summer wind",
+      "Trade wind"
+    ],
+    "answer": "Northeast monsoon",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 80
+  },
+  {
+    "id": "c6_0025",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "What is the average annual rainfall in Western Ghats?",
+    "options": [
+      "More than 200 cm",
+      "50-100 cm",
+      "100-150 cm",
+      "Less than 50 cm"
+    ],
+    "answer": "More than 200 cm",
+    "difficulty": "hard",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 85
+  },
+  {
+    "id": "c6_0026",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Where is bauxite mining prominent?",
+    "options": [
+      "Odisha",
+      "Karnataka",
+      "Gujarat",
+      "Rajasthan"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 90,
+    "state": "Odisha"
+  },
+  {
+    "id": "c6_0027",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Which state produces maximum coal?",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Assam",
+      "Manipur"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 95,
+    "state": "Odisha"
+  },
+  {
+    "id": "c6_0028",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Limestone reserves are found in which state?",
+    "options": [
+      "Rajasthan",
+      "Himachal Pradesh",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 100,
+    "state": "Rajasthan"
+  },
+  {
+    "id": "c6_0030",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Pala Empire was based in which region?",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": "Bihar",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 115,
+    "state": "Bihar"
+  },
+  {
+    "id": "c6_0031",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Which Chola king conquered Sri Lanka?",
+    "options": [
+      "Rajendra Chola",
+      "Rajaraja Chola",
+      "Kulottunga",
+      "Parantaka"
+    ],
+    "answer": "Rajendra Chola",
+    "difficulty": "hard",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 120,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c6_0032",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Vijayanagara Empire was based in which state?",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "answer": "Karnataka",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 125,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c6_0033",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "Which Mughal emperor built Fatehpur Sikri?",
+    "options": [
+      "Akbar",
+      "Babar",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "answer": "Akbar",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 130,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c6_0034",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Battle of Plassey was fought in which state?",
+    "options": [
+      "West Bengal",
+      "Bihar",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "answer": "West Bengal",
+    "difficulty": "hard",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 140,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c6_0035",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who led the Revolt of 1857 in Central India?",
+    "options": [
+      "Rani Lakshmibai",
+      "Tipu Sultan",
+      "Bhagat Singh",
+      "Surya Sen"
+    ],
+    "answer": "Rani Lakshmibai",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 145
+  },
+  {
+    "id": "c6_0036",
+    "class": 6,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "Which national park is known for one-horned rhinos?",
+    "options": [
+      "Kaziranga",
+      "Manas",
+      "Dudhwa",
+      "Corbett"
+    ],
+    "answer": "Kaziranga",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 150,
+    "state": "Assam"
+  },
+  {
+    "id": "c6_0037",
+    "class": 6,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "The Periyar lake is an important water body in which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Goa"
+    ],
+    "answer": "Kerala",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 155,
+    "state": "Kerala"
+  },
+  {
+    "id": "c6_0038",
+    "class": 6,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "Which animal is found only in the Western Ghats?",
+    "options": [
+      "Lion-tailed macaque",
+      "Asiatic elephant",
+      "Bengal tiger",
+      "Indian bison"
+    ],
+    "answer": "Lion-tailed macaque",
+    "difficulty": "hard",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 160,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c6_0039",
+    "class": 6,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "The Great Indian Bustard is found in which habitat?",
+    "options": [
+      "Grasslands",
+      "Forests",
+      "Wetlands",
+      "Desert"
+    ],
+    "answer": "Grasslands",
+    "difficulty": "medium",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 165
+  },
+  {
+    "id": "c6_0040",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Which dance form originated in Odisha?",
+    "options": [
+      "Odissi",
+      "Kathak",
+      "Kuchipudi",
+      "Manipuri"
+    ],
+    "answer": "Odissi",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 170,
+    "state": "Odisha"
+  },
+  {
+    "id": "c6_0041",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Kuchipudi dance originated in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Karnataka",
+      "Telangana"
+    ],
+    "answer": "Andhra Pradesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 175,
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "c6_0042",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Manipuri dance is the classical dance of which state?",
+    "options": [
+      "Manipur",
+      "Assam",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "Manipur",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 180
+  },
+  {
+    "id": "c6_0043",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Which temple is known as the 'Golden Temple'?",
+    "options": [
+      "Harmandir Sahib",
+      "Meenakshi Temple",
+      "Jagannath Temple",
+      "Kashi Vishwanath"
+    ],
+    "answer": "Harmandir Sahib",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 185
+  },
+  {
+    "id": "c6_0044",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Meenakshi Temple is located in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Telangana"
+    ],
+    "answer": "Tamil Nadu",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 190,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c6_0045",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Soil",
+    "question": "Which type of soil is found in coastal regions?",
+    "options": [
+      "Alluvial soil",
+      "Red soil",
+      "Black soil",
+      "Laterite"
+    ],
+    "answer": "Alluvial soil",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 51
+  },
+  {
+    "id": "c6_0046",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Deserts",
+    "question": "The Thar Desert covers an area of approximately how many square km?",
+    "options": [
+      "More than 200000 sq km",
+      "100000 sq km",
+      "50000 sq km",
+      "150000 sq km"
+    ],
+    "answer": "More than 200000 sq km",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 55
+  },
+  {
+    "id": "c6_0047",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Brahmaputra joins the Ganges at which location?",
+    "options": [
+      "Bangladesh",
+      "Assam",
+      "West Bengal",
+      "Jharkhand"
+    ],
+    "answer": "Bangladesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 59,
+    "state": "Assam"
+  },
+  {
+    "id": "c6_0048",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Sutlej River forms a boundary between which states?",
+    "options": [
+      "Punjab and Himachal Pradesh",
+      "Punjab and Haryana",
+      "Himachal Pradesh and Uttarakhand",
+      "Punjab and Uttarakhand"
+    ],
+    "answer": "Punjab and Himachal Pradesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 63,
+    "state": "Punjab"
+  },
+  {
+    "id": "c6_0049",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Islands",
+    "question": "The Andaman and Nicobar Islands are located in which ocean?",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Indian Ocean",
+      "Andaman Sea"
+    ],
+    "answer": "Bay of Bengal",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 67
+  },
+  {
+    "id": "c6_0050",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Forests",
+    "question": "The Sundarbans forest is characterized by which tree species?",
+    "options": [
+      "Sundari",
+      "Teak",
+      "Sal",
+      "Bamboo"
+    ],
+    "answer": "Sundari",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 71,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c6_0051",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The largest Harappan settlement was at which site?",
+    "options": [
+      "Mohenjo-daro",
+      "Harappa",
+      "Kalibangan",
+      "Lothal"
+    ],
+    "answer": "Mohenjo-daro",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 75
+  },
+  {
+    "id": "c6_0052",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Upanishads are part of which Vedas?",
+    "options": [
+      "All Vedas",
+      "Rig Veda only",
+      "Yajur Veda only",
+      "Sama Veda only"
+    ],
+    "answer": "All Vedas",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 79
+  },
+  {
+    "id": "c6_0053",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "What was Ashoka's main religion?",
+    "options": [
+      "Buddhism",
+      "Hinduism",
+      "Jainism",
+      "Sikhism"
+    ],
+    "answer": "Buddhism",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 83
+  },
+  {
+    "id": "c6_0054",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Gupta Empire reached its peak under which emperor?",
+    "options": [
+      "Samudragupta",
+      "Chandragupta II",
+      "Skandagupta",
+      "Kumaragupta"
+    ],
+    "answer": "Samudragupta",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 87
+  },
+  {
+    "id": "c6_0055",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Delhi Sultanate was established in which year?",
+    "options": [
+      "1206",
+      "1200",
+      "1210",
+      "1220"
+    ],
+    "answer": "1206",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 91,
+    "state": "Delhi"
+  },
+  {
+    "id": "c6_0056",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Tughlaq Dynasty was known for which practice?",
+    "options": [
+      "Ambitious building programs",
+      "Trade expansion",
+      "Military conquests",
+      "Cultural revival"
+    ],
+    "answer": "Ambitious building programs",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 95
+  },
+  {
+    "id": "c6_0057",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Jahangir married which famous princess?",
+    "options": [
+      "Nur Jahan",
+      "Mumtaz Mahal",
+      "Jahanara",
+      "Dara Shikoh"
+    ],
+    "answer": "Nur Jahan",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 99
+  },
+  {
+    "id": "c6_0058",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Vijayanagara Empire was founded in which year?",
+    "options": [
+      "1336",
+      "1300",
+      "1350",
+      "1320"
+    ],
+    "answer": "1336",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 103,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c6_0059",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1760",
+      "1750",
+      "1765"
+    ],
+    "answer": "1757",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 107,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c6_0060",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Rani Lakshmibai of Jhansi died in which year?",
+    "options": [
+      "1858",
+      "1857",
+      "1856",
+      "1859"
+    ],
+    "answer": "1858",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 111
+  },
+  {
+    "id": "c6_0061",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Non-Cooperation Movement was launched in which year?",
+    "options": [
+      "1920",
+      "1921",
+      "1919",
+      "1922"
+    ],
+    "answer": "1920",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 115
+  },
+  {
+    "id": "c6_0062",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Kathak dance originated in which region?",
+    "options": [
+      "North India",
+      "South India",
+      "East India",
+      "West India"
+    ],
+    "answer": "North India",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 119
+  },
+  {
+    "id": "c6_0063",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Music",
+    "question": "The Jaipur gharana is known for which art form?",
+    "options": [
+      "Hindustani music",
+      "Kathak",
+      "Khayal",
+      "Thumri"
+    ],
+    "answer": "Hindustani music",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 123
+  },
+  {
+    "id": "c6_0064",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Architecture",
+    "question": "The Meenakshi Temple is known for which feature?",
+    "options": [
+      "Gopurams",
+      "Minarets",
+      "Domes",
+      "Arches"
+    ],
+    "answer": "Gopurams",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 127,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c6_0065",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "The Onam festival is celebrated in which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": "Kerala",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 131,
+    "state": "Kerala"
+  },
+  {
+    "id": "c6_0066",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Christmas is celebrated on which date?",
+    "options": [
+      "December 25",
+      "December 24",
+      "December 26",
+      "December 23"
+    ],
+    "answer": "December 25",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 135
+  },
+  {
+    "id": "c6_0067",
+    "class": 6,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Constitution",
+    "question": "The Constitution of India was adopted on which date?",
+    "options": [
+      "January 26, 1950",
+      "August 15, 1947",
+      "November 26, 1949",
+      "January 26, 1949"
+    ],
+    "answer": "January 26, 1950",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 139
+  },
+  {
+    "id": "c6_0068",
+    "class": 6,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Constitution",
+    "question": "The Indian Constitution has how many articles?",
+    "options": [
+      "395",
+      "400",
+      "350",
+      "420"
+    ],
+    "answer": "395",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 143
+  },
+  {
+    "id": "c6_0069",
+    "class": 6,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Executive",
+    "question": "How many Deputy Prime Ministers can India have?",
+    "options": [
+      "No fixed number",
+      "One",
+      "Two",
+      "Five"
+    ],
+    "answer": "No fixed number",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 147
+  },
+  {
+    "id": "c6_0070",
+    "class": 6,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "The Lower House of Parliament is called what?",
+    "options": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "Assembly",
+      "Council"
+    ],
+    "answer": "Lok Sabha",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 151
+  },
+  {
+    "id": "c6_0071",
+    "class": 6,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "The term of Lok Sabha is how many years?",
+    "options": [
+      "5 years",
+      "6 years",
+      "4 years",
+      "7 years"
+    ],
+    "answer": "5 years",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 155
+  },
+  {
+    "id": "c6_0072",
+    "class": 6,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Judiciary",
+    "question": "The Chief Justice of India is appointed by whom?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Parliament",
+      "Lok Sabha"
+    ],
+    "answer": "President",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 159
+  },
+  {
+    "id": "c6_0073",
+    "class": 6,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Elections",
+    "question": "The President of India is elected by whom?",
+    "options": [
+      "Electoral College",
+      "Direct vote",
+      "Parliament",
+      "Lok Sabha"
+    ],
+    "answer": "Electoral College",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 163
+  },
+  {
+    "id": "c6_0074",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Economics",
+    "question": "India is the world's largest producer of which crop?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Cotton",
+      "Sugarcane"
+    ],
+    "answer": "Rice",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 167
+  },
+  {
+    "id": "c6_0075",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Borders",
+    "question": "Which country borders India to the north?",
+    "options": [
+      "China",
+      "Nepal",
+      "Bhutan",
+      "Pakistan"
+    ],
+    "answer": "China",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 50
+  },
+  {
+    "id": "c6_0076",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Regions",
+    "question": "Leh is the capital of which union territory?",
+    "options": [
+      "Ladakh",
+      "Jammu & Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": "Ladakh",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 51,
+    "state": "Ladakh"
+  },
+  {
+    "id": "c6_0077",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Godavari is called the ___ of the Deccan.",
+    "options": [
+      "Nile",
+      "Thames",
+      "Amazon",
+      "Danube"
+    ],
+    "answer": "Nile",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 52
+  },
+  {
+    "id": "c6_0078",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Eastern Ghats are less elevated than Western Ghats. True or False?",
+    "options": [
+      "True",
+      "False",
+      "Equal height",
+      "Cannot say"
+    ],
+    "answer": "True",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 53
+  },
+  {
+    "id": "c6_0079",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Soil",
+    "question": "Which soil is suitable for cotton cultivation?",
+    "options": [
+      "Black soil",
+      "Red soil",
+      "Alluvial",
+      "Laterite"
+    ],
+    "answer": "Black soil",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 54
+  },
+  {
+    "id": "c6_0080",
+    "class": 6,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "The coldest region in India is which state?",
+    "options": [
+      "Ladakh",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Sikkim"
+    ],
+    "answer": "Ladakh",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 55,
+    "state": "Ladakh"
+  },
+  {
+    "id": "c6_0081",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Buddha was born in which place?",
+    "options": [
+      "Lumbini",
+      "Bodhgaya",
+      "Varanasi",
+      "Sarnath"
+    ],
+    "answer": "Lumbini",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 56
+  },
+  {
+    "id": "c6_0082",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Gupta period saw the development of which numeral system?",
+    "options": [
+      "Hindu-Arabic numerals",
+      "Roman numerals",
+      "Greek numerals",
+      "Egyptian numerals"
+    ],
+    "answer": "Hindu-Arabic numerals",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 57
+  },
+  {
+    "id": "c6_0083",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Tipu Sultan ruled which state?",
+    "options": [
+      "Mysore",
+      "Karnataka",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "answer": "Mysore",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 58
+  },
+  {
+    "id": "c6_0084",
+    "class": 6,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Mountbatten Plan proposed division of India in which year?",
+    "options": [
+      "1947",
+      "1946",
+      "1945",
+      "1948"
+    ],
+    "answer": "1947",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 59
+  },
+  {
+    "id": "c6_0085",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Music",
+    "question": "The Tabla has how many fingers used to play?",
+    "options": [
+      "10",
+      "5",
+      "8",
+      "4"
+    ],
+    "answer": "10",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 60
+  },
+  {
+    "id": "c6_0086",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "The Khajuraho temples are found in which state?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Gujarat",
+      "Rajasthan"
+    ],
+    "answer": "Madhya Pradesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 61,
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "c6_0087",
+    "class": 6,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Monuments",
+    "question": "Sanchi Stupa is located in which state?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Bihar",
+      "Andhra Pradesh"
+    ],
+    "answer": "Madhya Pradesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 62,
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "c6_0088",
+    "class": 6,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Executive",
+    "question": "The President of India holds office for how long?",
+    "options": [
+      "5 years",
+      "6 years",
+      "4 years",
+      "7 years"
+    ],
+    "answer": "5 years",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 63
+  },
+  {
+    "id": "c6_0089",
+    "class": 6,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "Money Bills can only be introduced in which house?",
+    "options": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "Either house",
+      "Parliament"
+    ],
+    "answer": "Lok Sabha",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 64
+  },
+  {
+    "id": "c6_0090",
+    "class": 6,
+    "subject": "Economics",
+    "category": "India",
+    "chapter": "Economy",
+    "question": "India's per capita income is calculated on what basis?",
+    "options": [
+      "GNI",
+      "GDP",
+      "NNI",
+      "GDI"
+    ],
+    "answer": "GNI",
+    "difficulty": "easy",
+    "source": "NCERT Class 6 Textbook",
+    "source_page": 65
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_rajasthan_001",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded Jaipur in 1727?",
+    "options": [
+      "Raja Rawal Jaisal",
+      "Maharaja Sawai Jai Singh II",
+      "Maharaja Kumbha",
+      "Maharana Udai Singh II"
+    ],
+    "answer": "Maharaja Sawai Jai Singh II",
+    "difficulty": "easy",
+    "source": "Incredible India – Jaipur"
+  },
+  {
+    "id": "quest_rajasthan_002",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who helped develop the planned layout of Jaipur?",
+    "options": [
+      "Man Singh I",
+      "Vidyadhar Bhattacharya",
+      "Ustad Ahmad Lahori",
+      "Raja Todar Mal"
+    ],
+    "answer": "Vidyadhar Bhattacharya",
+    "difficulty": "medium",
+    "source": "Incredible India – Jaipur"
+  },
+  {
+    "id": "quest_rajasthan_003",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Jaipur monument is famous for its many small windows and honeycomb-like façade?",
+    "options": [
+      "Amber Fort",
+      "Jal Mahal",
+      "City Palace",
+      "Hawa Mahal"
+    ],
+    "answer": "Hawa Mahal",
+    "difficulty": "easy",
+    "source": "Incredible India – Jaipur"
+  },
+  {
+    "id": "quest_rajasthan_004",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which fort is located on a hill near Jaipur and is also known as Amer Fort?",
+    "options": [
+      "Jaigarh Fort",
+      "Mehrangarh Fort",
+      "Amber Fort",
+      "Nahargarh Fort"
+    ],
+    "answer": "Amber Fort",
+    "difficulty": "easy",
+    "source": "Incredible India – Jaipur"
+  },
+  {
+    "id": "quest_rajasthan_005",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which observatory in Jaipur was commissioned by Sawai Jai Singh II?",
+    "options": [
+      "Albert Hall",
+      "Hawa Mahal",
+      "City Palace",
+      "Jantar Mantar"
+    ],
+    "answer": "Jantar Mantar",
+    "difficulty": "easy",
+    "source": "Incredible India – Jantar Mantar, Jaipur"
+  },
+  {
+    "id": "quest_rajasthan_006",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Science & Heritage",
+    "question": "What was the main purpose of Jantar Mantar?",
+    "options": [
+      "Holding royal courts",
+      "Storing royal weapons",
+      "Collecting paintings",
+      "Astronomical observations"
+    ],
+    "answer": "Astronomical observations",
+    "difficulty": "medium",
+    "source": "Incredible India – Jantar Mantar, Jaipur"
+  },
+  {
+    "id": "quest_rajasthan_007",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What nickname is given to Jodhpur because of its blue-painted houses?",
+    "options": [
+      "Blue City",
+      "White City",
+      "Golden City",
+      "Pink City"
+    ],
+    "answer": "Blue City",
+    "difficulty": "easy",
+    "source": "Incredible India – Jodhpur / Mehrangarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_008",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which fort dominates Jodhpur's skyline?",
+    "options": [
+      "Jaisalmer Fort",
+      "Junagarh Fort",
+      "Mehrangarh Fort",
+      "Chittorgarh Fort"
+    ],
+    "answer": "Mehrangarh Fort",
+    "difficulty": "easy",
+    "source": "Incredible India – Jodhpur / Mehrangarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_009",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how high is the pinnacle on which Mehrangarh Fort stands?",
+    "options": [
+      "110 feet",
+      "410 feet",
+      "210 feet",
+      "710 feet"
+    ],
+    "answer": "410 feet",
+    "difficulty": "hard",
+    "source": "Incredible India – Jodhpur / Mehrangarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_010",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many grand gates does Mehrangarh Fort have according to Incredible India?",
+    "options": [
+      "Three",
+      "Ten",
+      "Seven",
+      "Five"
+    ],
+    "answer": "Seven",
+    "difficulty": "medium",
+    "source": "Incredible India – Jodhpur / Mehrangarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_011",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Jodhpur monument is a cenotaph associated with the royal family of Marwar?",
+    "options": [
+      "Hawa Mahal",
+      "Saheliyon Ki Bari",
+      "Jaswant Thada",
+      "Patwon Ki Haveli"
+    ],
+    "answer": "Jaswant Thada",
+    "difficulty": "medium",
+    "source": "Incredible India – Rajasthan"
+  },
+  {
+    "id": "quest_rajasthan_012",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded Udaipur?",
+    "options": [
+      "Maharana Udai Singh II",
+      "Maharana Kumbha",
+      "Sawai Jai Singh II",
+      "Maharana Pratap"
+    ],
+    "answer": "Maharana Udai Singh II",
+    "difficulty": "easy",
+    "source": "Incredible India – Udaipur / City Palace"
+  },
+  {
+    "id": "quest_rajasthan_013",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is central to Udaipur's famous palace landscape?",
+    "options": [
+      "Nakki Lake",
+      "Lake Pichola",
+      "Sambhar Lake",
+      "Pushkar Lake"
+    ],
+    "answer": "Lake Pichola",
+    "difficulty": "easy",
+    "source": "Incredible India – Lake Pichola / Lake Palace, Udaipur"
+  },
+  {
+    "id": "quest_rajasthan_014",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Who commissioned Udaipur's City Palace?",
+    "options": [
+      "Maharana Kumbha",
+      "Rana Sanga",
+      "Maharana Udai Singh II",
+      "Maharana Jagat Singh II"
+    ],
+    "answer": "Maharana Udai Singh II",
+    "difficulty": "medium",
+    "source": "Incredible India – Udaipur / City Palace"
+  },
+  {
+    "id": "quest_rajasthan_015",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which palace stands on an island in Lake Pichola?",
+    "options": [
+      "Amber Palace",
+      "Umaid Bhawan Palace",
+      "Jag Mandir Palace",
+      "Monsoon Palace"
+    ],
+    "answer": "Jag Mandir Palace",
+    "difficulty": "easy",
+    "source": "Incredible India – Lake Pichola / Lake Palace, Udaipur"
+  },
+  {
+    "id": "quest_rajasthan_016",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who commissioned the Lake Palace as a summer retreat?",
+    "options": [
+      "Maharana Jagat Singh II",
+      "Maharana Kumbha",
+      "Maharana Udai Singh II",
+      "Sawai Jai Singh II"
+    ],
+    "answer": "Maharana Jagat Singh II",
+    "difficulty": "medium",
+    "source": "Incredible India – Lake Pichola / Lake Palace, Udaipur"
+  },
+  {
+    "id": "quest_rajasthan_017",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Udaipur palace was originally called Jag Niwas?",
+    "options": [
+      "City Palace",
+      "Jag Mandir",
+      "Monsoon Palace",
+      "Lake Palace"
+    ],
+    "answer": "Lake Palace",
+    "difficulty": "medium",
+    "source": "Incredible India – Lake Pichola / Lake Palace, Udaipur"
+  },
+  {
+    "id": "quest_rajasthan_018",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mewar fort near Udaipur was built in the 15th century by Maharana Kumbha?",
+    "options": [
+      "Jaisalmer Fort",
+      "Ranthambore Fort",
+      "Mehrangarh Fort",
+      "Kumbhalgarh Fort"
+    ],
+    "answer": "Kumbhalgarh Fort",
+    "difficulty": "medium",
+    "source": "Incredible India – Udaipur / City Palace"
+  },
+  {
+    "id": "quest_rajasthan_019",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is Jaisalmer located?",
+    "options": [
+      "In the Chambal valley",
+      "In the Aravalli hills",
+      "On the banks of Lake Pichola",
+      "In the Thar Desert"
+    ],
+    "answer": "In the Thar Desert",
+    "difficulty": "easy",
+    "source": "Incredible India – Jaisalmer"
+  },
+  {
+    "id": "quest_rajasthan_020",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded Jaisalmer according to the official source?",
+    "options": [
+      "Maharana Udai Singh II",
+      "Sawai Jai Singh II",
+      "Raja Man Singh",
+      "Raja Rawal Jaisal"
+    ],
+    "answer": "Raja Rawal Jaisal",
+    "difficulty": "medium",
+    "source": "Incredible India – Jaisalmer"
+  },
+  {
+    "id": "quest_rajasthan_021",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which hill is associated with the founding of Jaisalmer Fort?",
+    "options": [
+      "Trikuta Hill",
+      "Aravalli Peak",
+      "Chittor Hill",
+      "Guru Shikhar"
+    ],
+    "answer": "Trikuta Hill",
+    "difficulty": "hard",
+    "source": "Incredible India – Jaisalmer"
+  },
+  {
+    "id": "quest_rajasthan_022",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Jaisalmer Fort often called because people still live inside it?",
+    "options": [
+      "A living fort",
+      "A floating fort",
+      "A water fort",
+      "A forest fort"
+    ],
+    "answer": "A living fort",
+    "difficulty": "easy",
+    "source": "Incredible India – Jaisalmer"
+  },
+  {
+    "id": "quest_rajasthan_023",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which UNESCO designation does Jaisalmer Fort have as part of the Hill Forts of Rajasthan?",
+    "options": [
+      "UNESCO Geopark",
+      "UNESCO Creative City",
+      "UNESCO Biosphere Reserve",
+      "UNESCO World Heritage Site"
+    ],
+    "answer": "UNESCO World Heritage Site",
+    "difficulty": "medium",
+    "source": "Incredible India – Jaisalmer"
+  },
+  {
+    "id": "quest_rajasthan_024",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many interconnected mansions make up Patwon Ki Haveli?",
+    "options": [
+      "Two",
+      "Five",
+      "Seven",
+      "Three"
+    ],
+    "answer": "Five",
+    "difficulty": "easy",
+    "source": "Incredible India – Patwon Ki Haveli"
+  },
+  {
+    "id": "quest_rajasthan_025",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who commissioned the first Patwon Ki Haveli in 1805?",
+    "options": [
+      "Maharana Kumbha",
+      "Jai Singh II",
+      "Guman Chand Patwa",
+      "Raja Rawal Jaisal"
+    ],
+    "answer": "Guman Chand Patwa",
+    "difficulty": "hard",
+    "source": "Incredible India – Patwon Ki Haveli"
+  },
+  {
+    "id": "quest_rajasthan_026",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient kingdom had Chittorgarh as its capital?",
+    "options": [
+      "Mewar",
+      "Amber",
+      "Bikaner",
+      "Marwar"
+    ],
+    "answer": "Mewar",
+    "difficulty": "medium",
+    "source": "Incredible India – Chittorgarh / Chittorgarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_027",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fort is described as India's largest fort complex?",
+    "options": [
+      "Junagarh Fort",
+      "Jaisalmer Fort",
+      "Chittorgarh Fort",
+      "Mehrangarh Fort"
+    ],
+    "answer": "Chittorgarh Fort",
+    "difficulty": "easy",
+    "source": "Incredible India – Chittorgarh / Chittorgarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_028",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who attacked Chittorgarh in 1303?",
+    "options": [
+      "Ala-ud-din Khilji",
+      "Sher Shah Suri",
+      "Bahadur Shah",
+      "Akbar"
+    ],
+    "answer": "Ala-ud-din Khilji",
+    "difficulty": "hard",
+    "source": "Incredible India – Chittorgarh / Chittorgarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_029",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal emperor attacked and seized Chittorgarh in 1568?",
+    "options": [
+      "Akbar",
+      "Aurangzeb",
+      "Babur",
+      "Jahangir"
+    ],
+    "answer": "Akbar",
+    "difficulty": "medium",
+    "source": "Incredible India – Chittorgarh / Chittorgarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_030",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which queen is associated with the famous legend of Chittorgarh and Jauhar?",
+    "options": [
+      "Rani Padmini",
+      "Rani Lakshmibai",
+      "Rani Durgavati",
+      "Rani Ahilyabai"
+    ],
+    "answer": "Rani Padmini",
+    "difficulty": "easy",
+    "source": "Incredible India – Chittorgarh / Chittorgarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_031",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which town is famous for the world's only temple dedicated to Lord Brahma according to Incredible India?",
+    "options": [
+      "Pushkar",
+      "Udaipur",
+      "Bikaner",
+      "Ajmer"
+    ],
+    "answer": "Pushkar",
+    "difficulty": "easy",
+    "source": "Incredible India – Pushkar Camel Fair"
+  },
+  {
+    "id": "quest_rajasthan_032",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is at the centre of Pushkar's religious landscape?",
+    "options": [
+      "Sambhar Lake",
+      "Nakki Lake",
+      "Lake Pichola",
+      "Pushkar Lake"
+    ],
+    "answer": "Pushkar Lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Pushkar Camel Fair"
+  },
+  {
+    "id": "quest_rajasthan_033",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which major annual fair is held in Pushkar?",
+    "options": [
+      "Surajkund Crafts Fair",
+      "Pushkar Camel Fair",
+      "Kullu Dussehra",
+      "Desert Festival"
+    ],
+    "answer": "Pushkar Camel Fair",
+    "difficulty": "easy",
+    "source": "Incredible India – Pushkar Camel Fair"
+  },
+  {
+    "id": "quest_rajasthan_034",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "The Pushkar Camel Fair coincides with which Hindu festival occasion?",
+    "options": [
+      "Kartik Purnima",
+      "Diwali",
+      "Holi",
+      "Janmashtami"
+    ],
+    "answer": "Kartik Purnima",
+    "difficulty": "medium",
+    "source": "Incredible India – Pushkar Camel Fair"
+  },
+  {
+    "id": "quest_rajasthan_035",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous shrine is located in Ajmer?",
+    "options": [
+      "Karni Mata Temple",
+      "Brahma Temple",
+      "Ajmer Sharif Dargah",
+      "Dilwara Temple"
+    ],
+    "answer": "Ajmer Sharif Dargah",
+    "difficulty": "easy",
+    "source": "Incredible India – Ajmer"
+  },
+  {
+    "id": "quest_rajasthan_036",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fort is a major historical attraction of Bikaner?",
+    "options": [
+      "Junagarh Fort",
+      "Jaisalmer Fort",
+      "Ranthambore Fort",
+      "Chittorgarh Fort"
+    ],
+    "answer": "Junagarh Fort",
+    "difficulty": "easy",
+    "source": "Incredible India – Bikaner / Junagarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_037",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which century was Junagarh Fort built?",
+    "options": [
+      "20th century",
+      "16th century",
+      "19th century",
+      "12th century"
+    ],
+    "answer": "16th century",
+    "difficulty": "medium",
+    "source": "Incredible India – Bikaner / Junagarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_038",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Bikaner temple is popularly known as the Rat Temple?",
+    "options": [
+      "Laxmi Nath Temple",
+      "Kalika Mata Temple",
+      "Karni Mata Temple",
+      "Shri Nathji Temple"
+    ],
+    "answer": "Karni Mata Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Bikaner / Junagarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_039",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which animal is central to Bikaner's Camel Festival?",
+    "options": [
+      "Yak",
+      "Elephant",
+      "Camel",
+      "Horse"
+    ],
+    "answer": "Camel",
+    "difficulty": "easy",
+    "source": "Incredible India – Bikaner / Junagarh Fort"
+  },
+  {
+    "id": "quest_rajasthan_040",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park is famous for tiger sightings in Rajasthan?",
+    "options": [
+      "Sariska National Park",
+      "Keoladeo National Park",
+      "Desert National Park",
+      "Ranthambore National Park"
+    ],
+    "answer": "Ranthambore National Park",
+    "difficulty": "easy",
+    "source": "Incredible India – Ranthambore National Park / Fort"
+  },
+  {
+    "id": "quest_rajasthan_041",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which famous big cat is the star attraction of Ranthambore National Park?",
+    "options": [
+      "Asiatic lion",
+      "Indian leopard only",
+      "Royal Bengal tiger",
+      "Snow leopard"
+    ],
+    "answer": "Royal Bengal tiger",
+    "difficulty": "easy",
+    "source": "Incredible India – Ranthambore National Park / Fort"
+  },
+  {
+    "id": "quest_rajasthan_042",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Where is Ranthambore Fort located?",
+    "options": [
+      "In Jaipur city",
+      "Inside Ranthambore National Park",
+      "On Lake Pichola",
+      "Inside Keoladeo National Park"
+    ],
+    "answer": "Inside Ranthambore National Park",
+    "difficulty": "medium",
+    "source": "Incredible India – Ranthambore National Park / Fort"
+  },
+  {
+    "id": "quest_rajasthan_043",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many major gates does Ranthambore Fort have according to Incredible India?",
+    "options": [
+      "Four",
+      "Nine",
+      "Twelve",
+      "Seven"
+    ],
+    "answer": "Seven",
+    "difficulty": "hard",
+    "source": "Incredible India – Ranthambore National Park / Fort"
+  },
+  {
+    "id": "quest_rajasthan_044",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which UNESCO World Heritage Site is located in Bharatpur?",
+    "options": [
+      "Sariska National Park",
+      "Keoladeo Ghana National Park",
+      "Ranthambore National Park",
+      "Desert National Park"
+    ],
+    "answer": "Keoladeo Ghana National Park",
+    "difficulty": "easy",
+    "source": "Incredible India – Bharatpur / Keoladeo National Park"
+  },
+  {
+    "id": "quest_rajasthan_045",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Keoladeo Ghana National Park especially famous for?",
+    "options": [
+      "Tigers and mountains",
+      "Camels and sand dunes",
+      "Snow leopards",
+      "Birdlife and wetlands"
+    ],
+    "answer": "Birdlife and wetlands",
+    "difficulty": "easy",
+    "source": "Incredible India – Bharatpur / Keoladeo National Park"
+  },
+  {
+    "id": "quest_rajasthan_046",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Keoladeo originally used as before becoming a protected habitat?",
+    "options": [
+      "A fort",
+      "A private hunting reserve",
+      "A royal palace",
+      "A trade centre"
+    ],
+    "answer": "A private hunting reserve",
+    "difficulty": "medium",
+    "source": "Incredible India – Bharatpur / Keoladeo National Park"
+  },
+  {
+    "id": "quest_rajasthan_047",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ruler rose to power in Bharatpur in the 18th century according to Incredible India?",
+    "options": [
+      "Raja Rawal Jaisal",
+      "Sawai Jai Singh II",
+      "Maharana Pratap",
+      "Maharaja Suraj Mal"
+    ],
+    "answer": "Maharaja Suraj Mal",
+    "difficulty": "medium",
+    "source": "Incredible India – Bharatpur / Keoladeo National Park"
+  },
+  {
+    "id": "quest_rajasthan_048",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Mount Abu's distinction within Rajasthan?",
+    "options": [
+      "It is Rajasthan's only desert",
+      "It is Rajasthan's only coastal town",
+      "It is Rajasthan's only hill station",
+      "It is Rajasthan's only lake city"
+    ],
+    "answer": "It is Rajasthan's only hill station",
+    "difficulty": "easy",
+    "source": "Incredible India – Mount Abu"
+  },
+  {
+    "id": "quest_rajasthan_049",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which is the highest peak of the Aravalli Range?",
+    "options": [
+      "Mount Abu",
+      "Guru Shikhar",
+      "Taragarh",
+      "Kumbhalgarh"
+    ],
+    "answer": "Guru Shikhar",
+    "difficulty": "medium",
+    "source": "Incredible India – Mount Abu"
+  },
+  {
+    "id": "quest_rajasthan_050",
+    "state": "Rajasthan",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many Jain temples are in the Dilwara complex?",
+    "options": [
+      "Ten",
+      "Five",
+      "Two",
+      "Seven"
+    ],
+    "answer": "Five",
+    "difficulty": "easy",
+    "source": "Incredible India – Dilwara Jain Temples"
+  }
+]

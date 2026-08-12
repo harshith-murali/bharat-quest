@@ -50,6 +50,16 @@ export async function clearSessionState(sectionId: string): Promise<void> {
   await db.delete('session_state', sectionId);
 }
 
+/**
+ * All persisted classroom sessions. Used to rehydrate quest progression when
+ * the app is opened directly on a deep-linked route (e.g. after a refresh on
+ * /session/:id/map), where the normal login flow never runs.
+ */
+export async function getAllSessionStates(): Promise<SessionState[]> {
+  const db = await getDB();
+  return db.getAll('session_state');
+}
+
 // ─── pending_sync_queue helpers ───────────────────────────────────────────────
 
 export async function getAllPendingAttempts(): Promise<PendingSyncAttempt[]> {

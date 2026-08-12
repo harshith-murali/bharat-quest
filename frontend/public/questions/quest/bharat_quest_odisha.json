@@ -1,0 +1,786 @@
+[
+  {
+    "id": "quest_od_001",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital city of Odisha?",
+    "options": [
+      "Cuttack",
+      "Puri",
+      "Konark",
+      "Bhubaneswar"
+    ],
+    "answer": "Bhubaneswar",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Official"
+  },
+  {
+    "id": "quest_od_002",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which large brackish-water lagoon is a major attraction of Odisha?",
+    "options": [
+      "Loktak Lake",
+      "Dal Lake",
+      "Sambhar Lake",
+      "Chilika Lake"
+    ],
+    "answer": "Chilika Lake",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_003",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which sea lies along Odisha's coast?",
+    "options": [
+      "Andaman Sea",
+      "Lakshadweep Sea",
+      "Arabian Sea",
+      "Bay of Bengal"
+    ],
+    "answer": "Bay of Bengal",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Official"
+  },
+  {
+    "id": "quest_od_004",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city is described by Odisha Tourism as the land of Lord Jagannath?",
+    "options": [
+      "Puri",
+      "Bhubaneswar",
+      "Konark",
+      "Cuttack"
+    ],
+    "answer": "Puri",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Puri"
+  },
+  {
+    "id": "quest_od_005",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple style is described as the Kalinga School of Temple Architecture?",
+    "options": [
+      "Dravidian architecture",
+      "Odisha temple architecture",
+      "Nagara architecture only",
+      "Vesara architecture only"
+    ],
+    "answer": "Odisha temple architecture",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_006",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Bhubaneswar is popularly known by what name?",
+    "options": [
+      "Pink City",
+      "City of Lakes",
+      "Temple City of India",
+      "Golden City"
+    ],
+    "answer": "Temple City of India",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Bhubaneswar"
+  },
+  {
+    "id": "quest_od_007",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Approximately how many temples did Bhubaneswar historically have according to Odisha Tourism?",
+    "options": [
+      "Around 70",
+      "Around 7,000",
+      "Around 700",
+      "Around 17,000"
+    ],
+    "answer": "Around 7,000",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_008",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous Shiva temple is one of Bhubaneswar's major landmarks?",
+    "options": [
+      "Sun Temple",
+      "Lingaraj Temple",
+      "Jagannath Temple",
+      "Mukteswar Temple"
+    ],
+    "answer": "Lingaraj Temple",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Bhubaneswar"
+  },
+  {
+    "id": "quest_od_009",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Bhubaneswar temple is called the 'Gem of Odisha architecture'?",
+    "options": [
+      "Lingaraj Temple",
+      "Mukteswar Temple",
+      "Rajarani Temple",
+      "Parasurameswar Temple"
+    ],
+    "answer": "Mukteswar Temple",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_010",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Bhubaneswar temple is described as having been built around 650 AD?",
+    "options": [
+      "Lingaraj Temple",
+      "Mukteswar Temple",
+      "Rajarani Temple",
+      "Parasurameswar Temple"
+    ],
+    "answer": "Parasurameswar Temple",
+    "difficulty": "hard",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_012",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is worshipped at Puri's famous Jagannath Temple?",
+    "options": [
+      "Lord Shiva",
+      "Lord Jagannath",
+      "Lord Surya",
+      "Lord Ganesha"
+    ],
+    "answer": "Lord Jagannath",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Puri"
+  },
+  {
+    "id": "quest_od_013",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is especially associated with the Jagannath Temple at Puri?",
+    "options": [
+      "Durga Puja",
+      "Onam",
+      "Rath Yatra",
+      "Bihu"
+    ],
+    "answer": "Rath Yatra",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Puri"
+  },
+  {
+    "id": "quest_od_014",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What natural attraction is highlighted alongside the Jagannath Temple in Puri?",
+    "options": [
+      "Chandrabhaga Beach",
+      "Gopalpur Beach",
+      "Puri Beach",
+      "Digha Beach"
+    ],
+    "answer": "Puri Beach",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Puri"
+  },
+  {
+    "id": "quest_od_015",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which village near Puri is famous for traditional artisan work and Pattachitra paintings?",
+    "options": [
+      "Satapada",
+      "Dhauli",
+      "Raghurajpur",
+      "Pipili"
+    ],
+    "answer": "Raghurajpur",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Raghurajpur"
+  },
+  {
+    "id": "quest_od_016",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional painting style is especially associated with Raghurajpur?",
+    "options": [
+      "Kangra",
+      "Warli",
+      "Madhubani",
+      "Pattachitra"
+    ],
+    "answer": "Pattachitra",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Raghurajpur"
+  },
+  {
+    "id": "quest_od_017",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which other traditional crafts are mentioned at Raghurajpur?",
+    "options": [
+      "Blue pottery and carpet weaving",
+      "Palm-leaf engravings and stone carvings",
+      "Phulkari and juttis",
+      "Bamboo only"
+    ],
+    "answer": "Palm-leaf engravings and stone carvings",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Raghurajpur"
+  },
+  {
+    "id": "quest_od_018",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous temple is located at Konark?",
+    "options": [
+      "Sun Temple",
+      "Lingaraj Temple",
+      "Jagannath Temple",
+      "Mukteswar Temple"
+    ],
+    "answer": "Sun Temple",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Konark"
+  },
+  {
+    "id": "quest_od_019",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "To which century does the Konark Sun Temple date according to Odisha Tourism?",
+    "options": [
+      "13th century AD",
+      "5th century AD",
+      "18th century AD",
+      "20th century AD"
+    ],
+    "answer": "13th century AD",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_020",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What form is the Konark Sun Temple designed in?",
+    "options": [
+      "A chariot",
+      "A ship",
+      "A palace",
+      "A mountain"
+    ],
+    "answer": "A chariot",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_021",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many horses are described as drawing the Konark Sun Temple's chariot?",
+    "options": [
+      "Four",
+      "Twelve",
+      "Twenty-four",
+      "Seven"
+    ],
+    "answer": "Seven",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_022",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do the seven horses of the Konark chariot represent according to the source?",
+    "options": [
+      "Seven rivers of India",
+      "Seven sacred cities",
+      "Seven days of the week and seven colours of the rainbow",
+      "Seven continents"
+    ],
+    "answer": "Seven days of the week and seven colours of the rainbow",
+    "difficulty": "hard",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_023",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What nickname is given to the Konark Sun Temple?",
+    "options": [
+      "White Pagoda",
+      "Golden Pagoda",
+      "Red Pagoda",
+      "Black Pagoda"
+    ],
+    "answer": "Black Pagoda",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_024",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What UNESCO status does the Konark Sun Temple have?",
+    "options": [
+      "Ramsar Site",
+      "World Heritage Site",
+      "Biosphere Reserve",
+      "Geopark"
+    ],
+    "answer": "World Heritage Site",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_025",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of water body is Chilika?",
+    "options": [
+      "Brackish-water lagoon",
+      "Saltwater sea",
+      "Freshwater lake",
+      "River delta only"
+    ],
+    "answer": "Brackish-water lagoon",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_026",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What distinction does Odisha Tourism give Chilika?",
+    "options": [
+      "India's largest freshwater lake",
+      "India's deepest lake",
+      "Asia's largest brackish-water lake",
+      "Asia's highest lake"
+    ],
+    "answer": "Asia's largest brackish-water lake",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_027",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which rare dolphins are famous at Chilika?",
+    "options": [
+      "Gangetic dolphins only",
+      "Bottlenose dolphins",
+      "Irrawaddy dolphins",
+      "Spinner dolphins"
+    ],
+    "answer": "Irrawaddy dolphins",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_028",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which island at Chilika is associated with migratory birds?",
+    "options": [
+      "Rajhans",
+      "Hirapur",
+      "Dhauli",
+      "Nalabana"
+    ],
+    "answer": "Nalabana",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_029",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is located on an island in Chilika?",
+    "options": [
+      "Goddess Kalijai Temple",
+      "Jagannath Temple",
+      "Mukteswar Temple",
+      "Lingaraj Temple"
+    ],
+    "answer": "Goddess Kalijai Temple",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_030",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which location on Chilika is famous for Irrawaddy dolphins according to Odisha Tourism?",
+    "options": [
+      "Nalabana",
+      "Mangalajodi",
+      "Barkul",
+      "Satpada"
+    ],
+    "answer": "Satpada",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_031",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which type of birds visit Chilika during migration?",
+    "options": [
+      "Only seabirds",
+      "Migratory birds",
+      "Only domestic birds",
+      "Only birds of prey"
+    ],
+    "answer": "Migratory birds",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Chilika"
+  },
+  {
+    "id": "quest_od_032",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What famous historical feature is found at Dhauli?",
+    "options": [
+      "Ashokan Rock Edicts",
+      "British railway records",
+      "Mughal inscriptions",
+      "Chola inscriptions"
+    ],
+    "answer": "Ashokan Rock Edicts",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Dhauli"
+  },
+  {
+    "id": "quest_od_033",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the Shanti Stupa at Dhauli symbolise?",
+    "options": [
+      "Royal power",
+      "War and victory",
+      "Love and peace",
+      "Trade and travel"
+    ],
+    "answer": "Love and peace",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Dhauli"
+  },
+  {
+    "id": "quest_od_034",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient emperor is associated with Dhauli's rock edicts?",
+    "options": [
+      "Ashoka",
+      "Harsha",
+      "Akbar",
+      "Samudragupta"
+    ],
+    "answer": "Ashoka",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Dhauli"
+  },
+  {
+    "id": "quest_od_035",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religious tradition is particularly represented by the Peace Pagoda at Dhauli?",
+    "options": [
+      "Zoroastrianism",
+      "Buddhism",
+      "Sikhism",
+      "Jainism"
+    ],
+    "answer": "Buddhism",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Dhauli"
+  },
+  {
+    "id": "quest_od_036",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What are Udayagiri and Khandagiri best known for?",
+    "options": [
+      "Colonial churches",
+      "Buddhist stupas only",
+      "Mughal palaces",
+      "Ancient Jain rock-cut caves"
+    ],
+    "answer": "Ancient Jain rock-cut caves",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Udayagiri & Khandagiri Caves"
+  },
+  {
+    "id": "quest_od_037",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "To which period do the Udayagiri and Khandagiri caves date according to Odisha Tourism?",
+    "options": [
+      "12th–14th century AD",
+      "3rd–1st century BC",
+      "5th–7th century AD",
+      "18th–19th century AD"
+    ],
+    "answer": "3rd–1st century BC",
+    "difficulty": "hard",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_038",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religion is especially associated with the Udayagiri and Khandagiri caves?",
+    "options": [
+      "Jainism",
+      "Islam",
+      "Christianity",
+      "Sikhism"
+    ],
+    "answer": "Jainism",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Udayagiri & Khandagiri Caves"
+  },
+  {
+    "id": "quest_od_039",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What do the cave sculptures help depict according to Odisha Tourism?",
+    "options": [
+      "Modern industrial life",
+      "European trade",
+      "Social life of people of that age",
+      "British military history"
+    ],
+    "answer": "Social life of people of that age",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_040",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What traditional craft is Pipili especially famous for?",
+    "options": [
+      "Terracotta",
+      "Stone carving",
+      "Pattachitra",
+      "Appliqué work"
+    ],
+    "answer": "Appliqué work",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Pipili"
+  },
+  {
+    "id": "quest_od_041",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which place is described as an appliqué work village?",
+    "options": [
+      "Pipili",
+      "Raghurajpur",
+      "Konark",
+      "Satapada"
+    ],
+    "answer": "Pipili",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Pipili"
+  },
+  {
+    "id": "quest_od_042",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which zoological park near Bhubaneswar is famous for its white tiger safari?",
+    "options": [
+      "Betla National Park",
+      "Similipal National Park",
+      "Nandankanan Zoological Park",
+      "Nehru Zoological Park"
+    ],
+    "answer": "Nandankanan Zoological Park",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Nandankanan Zoological Park"
+  },
+  {
+    "id": "quest_od_043",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of garden is also part of Nandankanan according to Odisha Tourism?",
+    "options": [
+      "Botanical garden",
+      "Rose garden",
+      "Rock garden",
+      "Mughal garden"
+    ],
+    "answer": "Botanical garden",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Nandankanan Zoological Park"
+  },
+  {
+    "id": "quest_od_044",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which coastal destination in Odisha is known as Gopalpur-on-Sea?",
+    "options": [
+      "Chandipur",
+      "Puri",
+      "Gopalpur",
+      "Konark"
+    ],
+    "answer": "Gopalpur",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Gopalpur"
+  },
+  {
+    "id": "quest_od_045",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which broad cultural heritage is highlighted in Odisha's tribal routes?",
+    "options": [
+      "Only royal palaces",
+      "Tribal communities and traditions",
+      "Only colonial buildings",
+      "Only Buddhist monasteries"
+    ],
+    "answer": "Tribal communities and traditions",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Koraput / Tribal Odisha"
+  },
+  {
+    "id": "quest_od_046",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Tibetan village is included in Odisha Tourism's Temples and Tribes tour?",
+    "options": [
+      "Pipili",
+      "Raghurajpur",
+      "Chandragiri",
+      "Satapada"
+    ],
+    "answer": "Chandragiri",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Koraput / Tribal Odisha"
+  },
+  {
+    "id": "quest_od_047",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which destination is included in Odisha Tourism's tribal routes in southern Odisha?",
+    "options": [
+      "Konark",
+      "Puri",
+      "Cuttack",
+      "Jeypore"
+    ],
+    "answer": "Jeypore",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Koraput / Tribal Odisha"
+  },
+  {
+    "id": "quest_od_048",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which dance form is mentioned in Odisha Tourism's Puri-related itinerary?",
+    "options": [
+      "Gotipua",
+      "Kathakali",
+      "Bharatanatyam",
+      "Bihu"
+    ],
+    "answer": "Gotipua",
+    "difficulty": "medium",
+    "source": "Odisha Tourism – Odisha Golden Triangle"
+  },
+  {
+    "id": "quest_od_049",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which village is specifically described as an artisan village famous for Pattachitra?",
+    "options": [
+      "Chandrabhaga",
+      "Raghurajpur",
+      "Pipili",
+      "Dhauli"
+    ],
+    "answer": "Raghurajpur",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Raghurajpur"
+  },
+  {
+    "id": "quest_od_050",
+    "state": "Odisha",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which beach is described by Odisha Tourism as a golden beach?",
+    "options": [
+      "Digha Beach",
+      "Gopalpur Beach",
+      "Puri Beach",
+      "Chandrabhaga Beach"
+    ],
+    "answer": "Puri Beach",
+    "difficulty": "easy",
+    "source": "Odisha Tourism – Puri"
+  }
+]

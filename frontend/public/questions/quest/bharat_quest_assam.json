@@ -1,0 +1,767 @@
+[
+  {
+    "id": "quest_as_001",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which major river is highlighted by Incredible India as shaping Assam's landscape?",
+    "options": [
+      "Narmada",
+      "Brahmaputra",
+      "Mahanadi",
+      "Godavari"
+    ],
+    "answer": "Brahmaputra",
+    "difficulty": "easy",
+    "source": "Incredible India – Assam",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam"
+  },
+  {
+    "id": "quest_as_002",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which UNESCO World Heritage Site in Assam is famous for its one-horned rhinoceroses?",
+    "options": [
+      "Dibru-Saikhowa National Park",
+      "Pobitora Wildlife Sanctuary",
+      "Hoollongapar Gibbon Sanctuary",
+      "Kaziranga National Park"
+    ],
+    "answer": "Kaziranga National Park",
+    "difficulty": "easy",
+    "source": "Incredible India – Kaziranga National Park",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur/kaziranga-national-park"
+  },
+  {
+    "id": "quest_as_003",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which national park in Assam is both a UNESCO Natural World Heritage Site and a Biosphere Reserve?",
+    "options": [
+      "Kaziranga National Park",
+      "Manas National Park",
+      "Nameri National Park",
+      "Orang National Park"
+    ],
+    "answer": "Manas National Park",
+    "difficulty": "medium",
+    "source": "Incredible India – Manas Wildlife Sanctuary",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang/manas-wildlife-sanctuary"
+  },
+  {
+    "id": "quest_as_004",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which sanctuary in Assam is known for the Hoolock Gibbon, India's only ape species?",
+    "options": [
+      "Hoollongapar Gibbon Sanctuary",
+      "Panidehing Wildlife Sanctuary",
+      "Pobitora Wildlife Sanctuary",
+      "Sonai Rupai Wildlife Sanctuary"
+    ],
+    "answer": "Hoollongapar Gibbon Sanctuary",
+    "difficulty": "easy",
+    "source": "Incredible India – Hoollongapar Gibbon Sanctuary",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat/hoollongapar-gibbon-sanctuary"
+  },
+  {
+    "id": "quest_as_005",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "In which year was Hoollongapar Gibbon Sanctuary officially established?",
+    "options": [
+      "2007",
+      "1977",
+      "1987",
+      "1997"
+    ],
+    "answer": "1997",
+    "difficulty": "hard",
+    "source": "Incredible India – Hoollongapar Gibbon Sanctuary",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat/hoollongapar-gibbon-sanctuary"
+  },
+  {
+    "id": "quest_as_006",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which rare species is described as one of the notable inhabitants of Manas National Park?",
+    "options": [
+      "Pygmy hog",
+      "Asiatic lion",
+      "Blackbuck",
+      "Nilgai"
+    ],
+    "answer": "Pygmy hog",
+    "difficulty": "medium",
+    "source": "Incredible India – Manas Wildlife Sanctuary",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang/manas-wildlife-sanctuary"
+  },
+  {
+    "id": "quest_as_007",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which wildlife sanctuary near Sivasagar lies between the Desang and Demow rivers?",
+    "options": [
+      "Amchang Wildlife Sanctuary",
+      "Panidehing Wildlife Sanctuary",
+      "Hoollongapar Gibbon Sanctuary",
+      "Pobitora Wildlife Sanctuary"
+    ],
+    "answer": "Panidehing Wildlife Sanctuary",
+    "difficulty": "medium",
+    "source": "Incredible India – Panidehing Wildlife Sanctuary",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/panidehing-wildlife-sanctuary"
+  },
+  {
+    "id": "quest_as_008",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "In which year was Panidehing declared a Wildlife Sanctuary?",
+    "options": [
+      "1976",
+      "1986",
+      "2006",
+      "1996"
+    ],
+    "answer": "1996",
+    "difficulty": "hard",
+    "source": "Incredible India – Panidehing Wildlife Sanctuary",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/panidehing-wildlife-sanctuary"
+  },
+  {
+    "id": "quest_as_009",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which animal is described as the primary attraction of Dibru-Saikhowa National Park in an official Incredible India Assam itinerary?",
+    "options": [
+      "Snow leopard",
+      "Asiatic lion",
+      "Feral horse",
+      "Blackbuck"
+    ],
+    "answer": "Feral horse",
+    "difficulty": "medium",
+    "source": "Incredible India – A six-night and seven-day tour around the tea country, Assam",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/a-six-night-and-seven-day-tour-around-the-tea-country-assam"
+  },
+  {
+    "id": "quest_as_010",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which bird is specifically highlighted as being preserved at Dibru-Saikhowa National Park?",
+    "options": [
+      "White-winged Wood Duck",
+      "Great Indian Bustard",
+      "Indian Skimmer",
+      "Sarus Crane"
+    ],
+    "answer": "White-winged Wood Duck",
+    "difficulty": "medium",
+    "source": "Incredible India – Assam",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam"
+  },
+  {
+    "id": "quest_as_011",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which place is described by Incredible India as the world's largest river island?",
+    "options": [
+      "Umananda",
+      "Chandubi",
+      "Dibru",
+      "Majuli"
+    ],
+    "answer": "Majuli",
+    "difficulty": "easy",
+    "source": "Incredible India – Majuli",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli"
+  },
+  {
+    "id": "quest_as_012",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What are the Vaishnavite monasteries of Majuli called?",
+    "options": [
+      "Gompas",
+      "Satras",
+      "Dargahs",
+      "Mathas"
+    ],
+    "answer": "Satras",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism, Assam – Satras of Assam",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/satras-of-assam"
+  },
+  {
+    "id": "quest_as_013",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Majuli Satra is famous worldwide for its mask-making tradition?",
+    "options": [
+      "Samaguri Satra",
+      "Auniati Satra",
+      "Dakhinpat Satra",
+      "Garamur Satra"
+    ],
+    "answer": "Samaguri Satra",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism, Assam – Satras of Assam",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/satras-of-assam"
+  },
+  {
+    "id": "quest_as_014",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Majuli Satra is known as a centre of art, culture, literature and classical studies?",
+    "options": [
+      "Kamalabari Satra",
+      "Samaguri Satra",
+      "Bengenaati Satra",
+      "Dakhinpat Satra"
+    ],
+    "answer": "Kamalabari Satra",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism, Assam – Satras of Assam",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/satras-of-assam"
+  },
+  {
+    "id": "quest_as_015",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Majuli Satra preserves the royal gold umbrella and a gilded robe associated with Ahom king Swargadeo Gadadhar Singha?",
+    "options": [
+      "Kamalabari Satra",
+      "Auniati Satra",
+      "Garamur Satra",
+      "Bengenaati Satra"
+    ],
+    "answer": "Bengenaati Satra",
+    "difficulty": "hard",
+    "source": "Directorate of Tourism, Assam – Satras of Assam",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/satras-of-assam"
+  },
+  {
+    "id": "quest_as_016",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Majuli Satra is particularly associated with Paalnaam and Apsara dances?",
+    "options": [
+      "Samaguri Satra",
+      "Bengenaati Satra",
+      "Dakhinpat Satra",
+      "Auniati Satra"
+    ],
+    "answer": "Auniati Satra",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism, Assam – Satras of Assam",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/satras-of-assam"
+  },
+  {
+    "id": "quest_as_017",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Majuli Satra is described as the prime venue for Rasleela?",
+    "options": [
+      "Garamur Satra",
+      "Dakhinpat Satra",
+      "Auniati Satra",
+      "Kamalabari Satra"
+    ],
+    "answer": "Dakhinpat Satra",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism, Assam – Satras of Assam",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/satras-of-assam"
+  },
+  {
+    "id": "quest_as_018",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Majuli Satra preserves medieval weapons known as 'Bortop' or cannons?",
+    "options": [
+      "Samaguri Satra",
+      "Garamur Satra",
+      "Bengenaati Satra",
+      "Auniati Satra"
+    ],
+    "answer": "Garamur Satra",
+    "difficulty": "hard",
+    "source": "Directorate of Tourism, Assam – Satras of Assam",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/satras-of-assam"
+  },
+  {
+    "id": "quest_as_019",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which place in Assam is famous for Pat, Muga and Endi silk?",
+    "options": [
+      "Hajo",
+      "Sualkuchi",
+      "Dhubri",
+      "Tezpur"
+    ],
+    "answer": "Sualkuchi",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism, Assam – Circuit 6",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/circuit6"
+  },
+  {
+    "id": "quest_as_020",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What nickname does Assam Tourism give to Sualkuchi because of its silk-weaving tradition?",
+    "options": [
+      "Manchester of the East",
+      "Venice of the East",
+      "Scotland of the East",
+      "Silk City of India"
+    ],
+    "answer": "Manchester of the East",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism, Assam – Rural Charm",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/rural-charm"
+  },
+  {
+    "id": "quest_as_021",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town is described by Incredible India as the erstwhile capital of the Ahom dynasty?",
+    "options": [
+      "Jorhat",
+      "Dhubri",
+      "Tezpur",
+      "Sivasagar"
+    ],
+    "answer": "Sivasagar",
+    "difficulty": "easy",
+    "source": "Incredible India – Sivasagar",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar"
+  },
+  {
+    "id": "quest_as_022",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Which Sivasagar monument is described as Asia's oldest amphitheatre?",
+    "options": [
+      "Rang Ghar",
+      "Kareng Ghar",
+      "Talatal Ghar",
+      "Siva Dol"
+    ],
+    "answer": "Rang Ghar",
+    "difficulty": "easy",
+    "source": "Incredible India – Rang Ghar",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/rang-ghar"
+  },
+  {
+    "id": "quest_as_023",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Rang Ghar built according to Incredible India?",
+    "options": [
+      "1646",
+      "1846",
+      "1746",
+      "1546"
+    ],
+    "answer": "1746",
+    "difficulty": "hard",
+    "source": "Incredible India – Rang Ghar",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/rang-ghar"
+  },
+  {
+    "id": "quest_as_024",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "How many storeys does Rang Ghar have?",
+    "options": [
+      "Four",
+      "Five",
+      "Two",
+      "Three"
+    ],
+    "answer": "Two",
+    "difficulty": "easy",
+    "source": "Incredible India – Rang Ghar",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/rang-ghar"
+  },
+  {
+    "id": "quest_as_025",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Which Sivasagar palace is described as a seven-storeyed royal palace with secret underground passages?",
+    "options": [
+      "Rang Ghar",
+      "Talatal Ghar",
+      "Kareng Ghar",
+      "Ahom Tai Museum"
+    ],
+    "answer": "Kareng Ghar",
+    "difficulty": "medium",
+    "source": "Incredible India – Sivasagar",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar"
+  },
+  {
+    "id": "quest_as_026",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Which Sivasagar monument is described as an underground palace and military base?",
+    "options": [
+      "Kareng Ghar",
+      "Siva Dol",
+      "Talatal Ghar",
+      "Rang Ghar"
+    ],
+    "answer": "Talatal Ghar",
+    "difficulty": "medium",
+    "source": "Incredible India – A six-night and seven-day tour around the tea country, Assam",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/a-six-night-and-seven-day-tour-around-the-tea-country-assam"
+  },
+  {
+    "id": "quest_as_027",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which queen is credited with building Siva Dol in 1734?",
+    "options": [
+      "Queen Madambika",
+      "Queen Phuleswari",
+      "Queen Ambika",
+      "Queen Kuranganayani"
+    ],
+    "answer": "Queen Ambika",
+    "difficulty": "hard",
+    "source": "Incredible India – Siva Dol",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/siva-dol"
+  },
+  {
+    "id": "quest_as_028",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "What is the golden dome of Siva Dol called?",
+    "options": [
+      "Bortop",
+      "Dukhang",
+      "Kolosi",
+      "Maidam"
+    ],
+    "answer": "Kolosi",
+    "difficulty": "hard",
+    "source": "Incredible India – Siva Dol",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/siva-dol"
+  },
+  {
+    "id": "quest_as_029",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What are the pyramid-like royal burial mounds at Charaideo called?",
+    "options": [
+      "Dol",
+      "Dargahs",
+      "Moidams",
+      "Satras"
+    ],
+    "answer": "Moidams",
+    "difficulty": "easy",
+    "source": "Incredible India – Charaideo Moidam",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/charaideo-moidam"
+  },
+  {
+    "id": "quest_as_030",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty's royal burial tradition is represented by the Charaideo Moidams?",
+    "options": [
+      "Koch dynasty",
+      "Ahom dynasty",
+      "Mlechchha dynasty",
+      "Pala dynasty"
+    ],
+    "answer": "Ahom dynasty",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism, Assam – Historical Monuments",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/historical-monuments"
+  },
+  {
+    "id": "quest_as_031",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the Ahom Tai Museum in Sivasagar primarily preserve?",
+    "options": [
+      "Relics of Ahom power, art and culture",
+      "Only wildlife specimens",
+      "Only tea-processing equipment",
+      "Only Buddhist manuscripts"
+    ],
+    "answer": "Relics of Ahom power, art and culture",
+    "difficulty": "easy",
+    "source": "Incredible India – Ahom Tai Museum Sivasagar",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/sivasagar/ahom-tai-museum-sivasagar"
+  },
+  {
+    "id": "quest_as_032",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Ahom general is commemorated by a maidam near Jorhat?",
+    "options": [
+      "Lachit Borphukan",
+      "Rudra Singha",
+      "Pratap Singha",
+      "Sukapha"
+    ],
+    "answer": "Lachit Borphukan",
+    "difficulty": "easy",
+    "source": "Incredible India – Assam",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam"
+  },
+  {
+    "id": "quest_as_033",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which city is associated with the Lachit Borphukan Maidam listed among Assam's attractions?",
+    "options": [
+      "Haflong",
+      "Silchar",
+      "Jorhat",
+      "Dhubri"
+    ],
+    "answer": "Jorhat",
+    "difficulty": "medium",
+    "source": "Incredible India – Assam",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam"
+  },
+  {
+    "id": "quest_as_034",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which city is known in Incredible India as Assam's 'city of eternal love'?",
+    "options": [
+      "Tezpur",
+      "Jorhat",
+      "Guwahati",
+      "Sivasagar"
+    ],
+    "answer": "Tezpur",
+    "difficulty": "easy",
+    "source": "Incredible India – Tezpur",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur"
+  },
+  {
+    "id": "quest_as_035",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Tezpur's earlier name according to Incredible India?",
+    "options": [
+      "Kamarupa",
+      "Pragjyotishpur",
+      "Haruppesvera",
+      "Sonitpur"
+    ],
+    "answer": "Sonitpur",
+    "difficulty": "medium",
+    "source": "Incredible India – Tezpur",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur"
+  },
+  {
+    "id": "quest_as_036",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient city name is associated with Tezpur during the reign of the Mlechchha dynasty?",
+    "options": [
+      "Sonitpur",
+      "Charaideo",
+      "Haruppesvera",
+      "Pragjyotishpur"
+    ],
+    "answer": "Haruppesvera",
+    "difficulty": "hard",
+    "source": "Incredible India – Tezpur",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur"
+  },
+  {
+    "id": "quest_as_037",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which hill in Tezpur is associated with the legend of Usha and Aniruddha?",
+    "options": [
+      "Agnigarh",
+      "Chandranath Hill",
+      "Bamuni Hills",
+      "Nilachal Hill"
+    ],
+    "answer": "Agnigarh",
+    "difficulty": "easy",
+    "source": "Incredible India – Agnigarh",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur/agnigarh"
+  },
+  {
+    "id": "quest_as_038",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Which archaeological site near Tezpur has a sculpted door frame featuring Ganga and Yamuna?",
+    "options": [
+      "Bamuni Hills",
+      "Mahabhairab Temple",
+      "Da Parbatia Gate",
+      "Agnigarh"
+    ],
+    "answer": "Da Parbatia Gate",
+    "difficulty": "medium",
+    "source": "Incredible India – Da Parbatia Gate",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur/da-parbatia-gate"
+  },
+  {
+    "id": "quest_as_039",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Da Parbatia Gate is believed to date to which period?",
+    "options": [
+      "12th or 13th century AD",
+      "4th or 5th century AD",
+      "8th or 9th century AD",
+      "17th or 18th century AD"
+    ],
+    "answer": "4th or 5th century AD",
+    "difficulty": "hard",
+    "source": "Incredible India – Da Parbatia Gate",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur/da-parbatia-gate"
+  },
+  {
+    "id": "quest_as_040",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Tezpur is dedicated to Lord Shiva and is associated with a very large Shiva Linga?",
+    "options": [
+      "Nabagraha Temple",
+      "Siva Dol",
+      "Kamakhya Temple",
+      "Mahabhairab Temple"
+    ],
+    "answer": "Mahabhairab Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Mahabhairab Temple",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur/mahabhairab-temple"
+  },
+  {
+    "id": "quest_as_041",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "The sculptural ruins of Bamuni Hills mainly date to which centuries?",
+    "options": [
+      "13th and 14th centuries",
+      "9th and 10th centuries",
+      "17th and 18th centuries",
+      "4th and 5th centuries"
+    ],
+    "answer": "9th and 10th centuries",
+    "difficulty": "hard",
+    "source": "Incredible India – Bamuni Hills",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/tezpur/bamuni-hills"
+  },
+  {
+    "id": "quest_as_042",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which hill in Guwahati is home to the Kamakhya Temple?",
+    "options": [
+      "Agnigarh Hill",
+      "Chandranath Hill",
+      "Nilachal Hill",
+      "Bamuni Hill"
+    ],
+    "answer": "Nilachal Hill",
+    "difficulty": "easy",
+    "source": "Incredible India – Kamakhya Temple",
+    "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati/kamakhya-temple"
+  },
+  {
+    "id": "quest_as_043",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which annual festival at Kamakhya Temple celebrates the goddess's menstruation?",
+    "options": [
+      "Jonbill Mela",
+      "Magh Bihu",
+      "Raas Mahotsav",
+      "Ambubachi Mela"
+    ],
+    "answer": "Ambubachi Mela",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism, Assam – Temples & Pilgrimages",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/temples-pilgrimages"
+  },
+  {
+    "id": "quest_as_044",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which hilltop temple in Guwahati is known as the temple of the nine planets?",
+    "options": [
+      "Mahabhairab Temple",
+      "Umananda Temple",
+      "Kamakhya Temple",
+      "Nabagraha Temple"
+    ],
+    "answer": "Nabagraha Temple",
+    "difficulty": "medium",
+    "source": "Directorate of Tourism, Assam – Temples & Pilgrimages",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/temples-pilgrimages"
+  },
+  {
+    "id": "quest_as_045",
+    "state": "Assam",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which village is described by Assam Tourism as a major centre of silk weavers and traders?",
+    "options": [
+      "Chirang",
+      "Sualkuchi",
+      "Mayong",
+      "Bhalukpong"
+    ],
+    "answer": "Sualkuchi",
+    "difficulty": "easy",
+    "source": "Directorate of Tourism, Assam – Rural Charm",
+    "source_url": "https://directortourism.assam.gov.in/portlet-sub-innerpage/rural-charm"
+  }
+]

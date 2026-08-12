@@ -1,6 +1,6 @@
 import { useState, useEffect, Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
-import Mascot from './Mascot';
+import LionMascot from './LionMascot';
 import ErrorBoundary from '../ErrorBoundary';
 
 export type MascotState = 'idle' | 'talk' | 'celebrate' | 'sulk';
@@ -9,15 +9,13 @@ interface Props {
   state: MascotState;
   dialogueText?: string;
   onDialogueComplete?: () => void;
-  modelPath?: string;
   mascotName?: string;
 }
 
-export default function MascotCanvas({ 
-  state: mascotState, 
-  dialogueText, 
+export default function MascotCanvas({
+  state: mascotState,
+  dialogueText,
   onDialogueComplete,
-  modelPath = '/models/mascot-placeholder.glb',
   mascotName = 'Bharat AI Mascot'
 }: Props) {
   const [displayedText, setDisplayedText] = useState('');
@@ -99,7 +97,7 @@ export default function MascotCanvas({
             <directionalLight position={[5, 10, 7]} intensity={1.8} />
             <pointLight position={[-5, 5, -5]} intensity={0.6} />
             <Suspense fallback={null}>
-              <Mascot state={mascotState} modelPath={modelPath} />
+              <LionMascot state={mascotState} />
             </Suspense>
           </Canvas>
         </ErrorBoundary>

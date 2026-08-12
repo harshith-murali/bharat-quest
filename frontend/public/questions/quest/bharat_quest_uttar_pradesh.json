@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_up_001",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On the banks of which river is Agra located?",
+    "options": [
+      "Yamuna",
+      "Saraswati",
+      "Ganga",
+      "Saryu"
+    ],
+    "answer": "Yamuna",
+    "difficulty": "easy",
+    "source": "Incredible India – Agra"
+  },
+  {
+    "id": "quest_up_002",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal emperor commissioned the Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Aurangzeb",
+      "Shah Jahan",
+      "Babur"
+    ],
+    "answer": "Shah Jahan",
+    "difficulty": "easy",
+    "source": "Incredible India – Taj Mahal, Agra"
+  },
+  {
+    "id": "quest_up_003",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In whose memory was the Taj Mahal built?",
+    "options": [
+      "Mariam-uz-Zamani",
+      "Mumtaz Mahal",
+      "Nur Jahan",
+      "Jahanara Begum"
+    ],
+    "answer": "Mumtaz Mahal",
+    "difficulty": "easy",
+    "source": "Incredible India – Taj Mahal, Agra"
+  },
+  {
+    "id": "quest_up_004",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What material is the Taj Mahal primarily famous for?",
+    "options": [
+      "Black basalt",
+      "Red sandstone",
+      "Ivory-white marble",
+      "Granite"
+    ],
+    "answer": "Ivory-white marble",
+    "difficulty": "easy",
+    "source": "Incredible India – Taj Mahal, Agra"
+  },
+  {
+    "id": "quest_up_005",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which decorative technique is prominently seen on the Taj Mahal?",
+    "options": [
+      "Wood carving",
+      "Intricate inlay work",
+      "Bronze casting",
+      "Terracotta relief"
+    ],
+    "answer": "Intricate inlay work",
+    "difficulty": "medium",
+    "source": "Incredible India – Taj Mahal, Agra"
+  },
+  {
+    "id": "quest_up_006",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "From which place in Rajasthan was the white marble for the Taj Mahal obtained?",
+    "options": [
+      "Jaisalmer",
+      "Chittorgarh",
+      "Makrana",
+      "Udaipur"
+    ],
+    "answer": "Makrana",
+    "difficulty": "medium",
+    "source": "Incredible India – Taj Mahal, Agra"
+  },
+  {
+    "id": "quest_up_007",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built Agra Fort according to Incredible India?",
+    "options": [
+      "Emperor Akbar",
+      "Jahangir",
+      "Babur",
+      "Shah Jahan"
+    ],
+    "answer": "Emperor Akbar",
+    "difficulty": "easy",
+    "source": "Incredible India – Agra Fort"
+  },
+  {
+    "id": "quest_up_008",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Agra Fort primarily constructed from?",
+    "options": [
+      "Red sandstone",
+      "Granite",
+      "Wood",
+      "White marble"
+    ],
+    "answer": "Red sandstone",
+    "difficulty": "easy",
+    "source": "Incredible India – Agra Fort"
+  },
+  {
+    "id": "quest_up_009",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal ruler's reign saw Agra Fort's construction begin in 1565?",
+    "options": [
+      "Aurangzeb",
+      "Shah Jahan",
+      "Akbar",
+      "Humayun"
+    ],
+    "answer": "Akbar",
+    "difficulty": "medium",
+    "source": "Incredible India – Agra Fort"
+  },
+  {
+    "id": "quest_up_010",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Between which years did Fatehpur Sikri serve as the Mughal capital according to Incredible India?",
+    "options": [
+      "1526 to 1530",
+      "1571 to 1585",
+      "1658 to 1707",
+      "1605 to 1627"
+    ],
+    "answer": "1571 to 1585",
+    "difficulty": "hard",
+    "source": "Incredible India – Fatehpur Sikri"
+  },
+  {
+    "id": "quest_up_011",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the name Fatehpur Sikri mean?",
+    "options": [
+      "City of Gardens",
+      "City of Peace",
+      "City of Palaces",
+      "City of Victory"
+    ],
+    "answer": "City of Victory",
+    "difficulty": "easy",
+    "source": "Incredible India – Fatehpur Sikri"
+  },
+  {
+    "id": "quest_up_012",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Sufi saint is associated with Akbar's decision to build Fatehpur Sikri?",
+    "options": [
+      "Moinuddin Chishti",
+      "Baba Farid",
+      "Nizamuddin Auliya",
+      "Sheikh Salim Chishti"
+    ],
+    "answer": "Sheikh Salim Chishti",
+    "difficulty": "medium",
+    "source": "Incredible India – Fatehpur Sikri"
+  },
+  {
+    "id": "quest_up_013",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Agra tomb is nicknamed the 'China Tomb' because of its glazed tiles?",
+    "options": [
+      "Mariyam's Tomb",
+      "Chini Ka Rauza",
+      "Itimad-ud-Daulah's Tomb",
+      "Sikandra"
+    ],
+    "answer": "Chini Ka Rauza",
+    "difficulty": "easy",
+    "source": "Incredible India – Agra"
+  },
+  {
+    "id": "quest_up_014",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who is buried at Sikandra?",
+    "options": [
+      "Emperor Jahangir",
+      "Emperor Shah Jahan",
+      "Emperor Akbar",
+      "Emperor Babur"
+    ],
+    "answer": "Emperor Akbar",
+    "difficulty": "easy",
+    "source": "Incredible India – Agra"
+  },
+  {
+    "id": "quest_up_015",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river is central to Varanasi's spiritual and cultural life?",
+    "options": [
+      "Chambal",
+      "Ganga",
+      "Yamuna",
+      "Saryu"
+    ],
+    "answer": "Ganga",
+    "difficulty": "easy",
+    "source": "Incredible India – Varanasi"
+  },
+  {
+    "id": "quest_up_016",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which ghat is famous for its evening Ganga Aarti?",
+    "options": [
+      "Rajghat",
+      "Assi Ghat",
+      "Manikarnika Ghat",
+      "Dashashwamedh Ghat"
+    ],
+    "answer": "Dashashwamedh Ghat",
+    "difficulty": "easy",
+    "source": "Incredible India – Dashashwamedh Ghat, Varanasi"
+  },
+  {
+    "id": "quest_up_017",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is celebrated fifteen days after Diwali and illuminates Varanasi's ghats with thousands of diyas?",
+    "options": [
+      "Buddha Purnima",
+      "Janmashtami",
+      "Holi",
+      "Dev Deepawali"
+    ],
+    "answer": "Dev Deepawali",
+    "difficulty": "medium",
+    "source": "Incredible India – Dashashwamedh Ghat, Varanasi"
+  },
+  {
+    "id": "quest_up_018",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built Ramnagar Fort in the 18th century?",
+    "options": [
+      "Raja Man Singh",
+      "Maharaja Ranjit Singh",
+      "Maharaja Balwant Singh",
+      "Sawai Jai Singh II"
+    ],
+    "answer": "Maharaja Balwant Singh",
+    "difficulty": "medium",
+    "source": "Incredible India – Ramnagar Fort, Varanasi"
+  },
+  {
+    "id": "quest_up_019",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On which bank of the Ganga does Ramnagar Fort stand?",
+    "options": [
+      "Northern bank",
+      "Western bank",
+      "Eastern bank",
+      "Southern bank"
+    ],
+    "answer": "Eastern bank",
+    "difficulty": "medium",
+    "source": "Incredible India – Ramnagar Fort, Varanasi"
+  },
+  {
+    "id": "quest_up_020",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which ancient text is associated with Tulsi Manas Mandir?",
+    "options": [
+      "Ramcharitmanas",
+      "Arthashastra",
+      "Buddhacharita",
+      "Mahabharata"
+    ],
+    "answer": "Ramcharitmanas",
+    "difficulty": "easy",
+    "source": "Incredible India – Varanasi"
+  },
+  {
+    "id": "quest_up_021",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who wrote the Ramcharitmanas?",
+    "options": [
+      "Kabir",
+      "Kalidasa",
+      "Surdas",
+      "Goswami Tulsidas"
+    ],
+    "answer": "Goswami Tulsidas",
+    "difficulty": "medium",
+    "source": "Incredible India – Varanasi"
+  },
+  {
+    "id": "quest_up_022",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Sarnath represent in Buddhist history?",
+    "options": [
+      "The place where Buddha wrote the Tripitaka",
+      "The place where Buddha was born",
+      "The place where Buddha died",
+      "The place where Buddha delivered his first sermon"
+    ],
+    "answer": "The place where Buddha delivered his first sermon",
+    "difficulty": "easy",
+    "source": "Incredible India – Sarnath"
+  },
+  {
+    "id": "quest_up_023",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient ruler's pillar is a major heritage feature of Sarnath?",
+    "options": [
+      "Harshavardhana",
+      "Emperor Ashoka",
+      "Chandragupta Maurya",
+      "Samudragupta"
+    ],
+    "answer": "Emperor Ashoka",
+    "difficulty": "medium",
+    "source": "Incredible India – Sarnath"
+  },
+  {
+    "id": "quest_up_024",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which stupa marks the place associated with Buddha's first sermon at Sarnath?",
+    "options": [
+      "Amaravati Stupa",
+      "Ramabhar Stupa",
+      "Sanchi Stupa",
+      "Dhamek Stupa"
+    ],
+    "answer": "Dhamek Stupa",
+    "difficulty": "easy",
+    "source": "Incredible India – Dhamek Stupa, Sarnath"
+  },
+  {
+    "id": "quest_up_025",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "According to Incredible India, the present Dhamek Stupa was built in which year?",
+    "options": [
+      "500 CE",
+      "1000 CE",
+      "1857 CE",
+      "249 BCE"
+    ],
+    "answer": "500 CE",
+    "difficulty": "hard",
+    "source": "Incredible India – Dhamek Stupa, Sarnath"
+  },
+  {
+    "id": "quest_up_026",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the height of Dhamek Stupa given by Incredible India?",
+    "options": [
+      "241 feet",
+      "141 feet",
+      "41 feet",
+      "104 feet"
+    ],
+    "answer": "141 feet",
+    "difficulty": "hard",
+    "source": "Incredible India – Dhamek Stupa, Sarnath"
+  },
+  {
+    "id": "quest_up_027",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which stupa is associated with the place where Buddha met his first five disciples?",
+    "options": [
+      "Dharmarajika Stupa",
+      "Dhamek Stupa",
+      "Sanchi Stupa",
+      "Chaukhandi Stupa"
+    ],
+    "answer": "Chaukhandi Stupa",
+    "difficulty": "medium",
+    "source": "Incredible India – Sarnath"
+  },
+  {
+    "id": "quest_up_028",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is special about Sarnath Museum according to Incredible India?",
+    "options": [
+      "It is the oldest palace museum",
+      "It is India's oldest railway museum",
+      "It is India's first science museum",
+      "It is the oldest site museum of the Archaeological Survey of India"
+    ],
+    "answer": "It is the oldest site museum of the Archaeological Survey of India",
+    "difficulty": "hard",
+    "source": "Incredible India – Sarnath Museum"
+  },
+  {
+    "id": "quest_up_029",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Along which river is Ayodhya situated?",
+    "options": [
+      "Sarayu",
+      "Yamuna",
+      "Ganga",
+      "Gomti"
+    ],
+    "answer": "Sarayu",
+    "difficulty": "easy",
+    "source": "Incredible India – Ayodhya"
+  },
+  {
+    "id": "quest_up_030",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Ayodhya is traditionally revered as the birthplace of which figure?",
+    "options": [
+      "Lord Buddha",
+      "Lord Mahavira",
+      "Lord Rama",
+      "Lord Krishna"
+    ],
+    "answer": "Lord Rama",
+    "difficulty": "easy",
+    "source": "Incredible India – Ayodhya"
+  },
+  {
+    "id": "quest_up_031",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple complex is described as the spiritual nucleus of Ayodhya?",
+    "options": [
+      "Nageshwarnath Temple",
+      "Kanak Bhawan",
+      "Hanuman Garhi",
+      "Ram Janmabhoomi"
+    ],
+    "answer": "Ram Janmabhoomi",
+    "difficulty": "easy",
+    "source": "Incredible India – Ayodhya"
+  },
+  {
+    "id": "quest_up_032",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'Kanak Bhawan' mean in the source's description?",
+    "options": [
+      "House of Flowers",
+      "House of Victory",
+      "House of Gold",
+      "House of Rama"
+    ],
+    "answer": "House of Gold",
+    "difficulty": "medium",
+    "source": "Incredible India – Kanak Bhawan, Ayodhya"
+  },
+  {
+    "id": "quest_up_033",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple complex in Ayodhya is dedicated to Lord Hanuman?",
+    "options": [
+      "Kanak Bhawan",
+      "Hanuman Garhi",
+      "Nageshwarnath Temple",
+      "Ram Janmabhoomi"
+    ],
+    "answer": "Hanuman Garhi",
+    "difficulty": "easy",
+    "source": "Incredible India – Hanuman Garhi, Ayodhya"
+  },
+  {
+    "id": "quest_up_034",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival turns Ram Ki Paidi into a sea of thousands of diyas?",
+    "options": [
+      "Dev Deepawali",
+      "Deepotsav",
+      "Buddha Purnima",
+      "Kumbh Mela"
+    ],
+    "answer": "Deepotsav",
+    "difficulty": "easy",
+    "source": "Incredible India – Ram Ki Paidi, Ayodhya"
+  },
+  {
+    "id": "quest_up_035",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built Bara Imambara?",
+    "options": [
+      "Shah Jahan",
+      "Wajid Ali Shah",
+      "Akbar",
+      "Nawab Asaf-ud-Daula"
+    ],
+    "answer": "Nawab Asaf-ud-Daula",
+    "difficulty": "easy",
+    "source": "Incredible India – Bara Imambara, Lucknow"
+  },
+  {
+    "id": "quest_up_036",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why was Bara Imambara constructed in 1780?",
+    "options": [
+      "As a royal residence only",
+      "As a famine relief and employment project",
+      "As a military fort",
+      "As a railway station"
+    ],
+    "answer": "As a famine relief and employment project",
+    "difficulty": "medium",
+    "source": "Incredible India – Bara Imambara, Lucknow"
+  },
+  {
+    "id": "quest_up_037",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Bhul Bhulaiya?",
+    "options": [
+      "A labyrinth inside Bara Imambara",
+      "A museum",
+      "A royal garden",
+      "A mosque outside Lucknow"
+    ],
+    "answer": "A labyrinth inside Bara Imambara",
+    "difficulty": "easy",
+    "source": "Incredible India – Bara Imambara, Lucknow"
+  },
+  {
+    "id": "quest_up_038",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the central hall of Bara Imambara famous for?",
+    "options": [
+      "A wooden roof",
+      "A glass ceiling",
+      "A golden dome",
+      "A huge unsupported arched roof"
+    ],
+    "answer": "A huge unsupported arched roof",
+    "difficulty": "medium",
+    "source": "Incredible India – Bara Imambara, Lucknow"
+  },
+  {
+    "id": "quest_up_039",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Rumi Darwaza constructed as a famine relief project?",
+    "options": [
+      "1784",
+      "1947",
+      "1857",
+      "1727"
+    ],
+    "answer": "1784",
+    "difficulty": "hard",
+    "source": "Incredible India – Rumi Darwaza, Lucknow"
+  },
+  {
+    "id": "quest_up_040",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Between which two major Lucknow monuments is Rumi Darwaza situated?",
+    "options": [
+      "Chota Imambara and Residency",
+      "Bara Imambara and Chota Imambara",
+      "Hazratganj and Residency",
+      "Residency and Dilkusha"
+    ],
+    "answer": "Bara Imambara and Chota Imambara",
+    "difficulty": "medium",
+    "source": "Incredible India – Rumi Darwaza, Lucknow"
+  },
+  {
+    "id": "quest_up_041",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which three rivers are believed to meet at Triveni Sangam?",
+    "options": [
+      "Ganga, Gomti and Saryu",
+      "Yamuna, Saraswati and Godavari",
+      "Ganga, Yamuna and Narmada",
+      "Ganga, Yamuna and Saraswati"
+    ],
+    "answer": "Ganga, Yamuna and Saraswati",
+    "difficulty": "easy",
+    "source": "Incredible India – Triveni Sangam, Prayagraj"
+  },
+  {
+    "id": "quest_up_042",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How often is the Kumbh Mela held at Prayagraj according to Incredible India?",
+    "options": [
+      "Every 10 years",
+      "Every 12 years",
+      "Every 6 years",
+      "Every 4 years"
+    ],
+    "answer": "Every 12 years",
+    "difficulty": "medium",
+    "source": "Incredible India – Prayagraj"
+  },
+  {
+    "id": "quest_up_043",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built Allahabad Fort in the 16th century?",
+    "options": [
+      "Emperor Akbar",
+      "Aurangzeb",
+      "Shah Jahan",
+      "Humayun"
+    ],
+    "answer": "Emperor Akbar",
+    "difficulty": "easy",
+    "source": "Incredible India – Prayagraj"
+  },
+  {
+    "id": "quest_up_044",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built Anand Bhawan in the 1930s?",
+    "options": [
+      "Chandra Shekhar Azad",
+      "Jawaharlal Nehru",
+      "Motilal Nehru",
+      "Madan Mohan Malaviya"
+    ],
+    "answer": "Motilal Nehru",
+    "difficulty": "medium",
+    "source": "Incredible India – Anand Bhawan, Prayagraj"
+  },
+  {
+    "id": "quest_up_045",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who is buried at Khusro Bagh according to Incredible India?",
+    "options": [
+      "Prince Khusro",
+      "Shah Jahan",
+      "Emperor Akbar",
+      "Motilal Nehru"
+    ],
+    "answer": "Prince Khusro",
+    "difficulty": "medium",
+    "source": "Incredible India – Prayagraj"
+  },
+  {
+    "id": "quest_up_046",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Mathura is traditionally revered as the birthplace of which deity?",
+    "options": [
+      "Lord Shiva",
+      "Lord Hanuman",
+      "Lord Krishna",
+      "Lord Rama"
+    ],
+    "answer": "Lord Krishna",
+    "difficulty": "easy",
+    "source": "Incredible India – Mathura"
+  },
+  {
+    "id": "quest_up_047",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On the banks of which river is Mathura situated?",
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Sarayu",
+      "Gomti"
+    ],
+    "answer": "Yamuna",
+    "difficulty": "easy",
+    "source": "Incredible India – Mathura"
+  },
+  {
+    "id": "quest_up_048",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Mathura and which city together form the heart of Braj Bhoomi according to Incredible India?",
+    "options": [
+      "Agra",
+      "Prayagraj",
+      "Vrindavan",
+      "Ayodhya"
+    ],
+    "answer": "Vrindavan",
+    "difficulty": "easy",
+    "source": "Incredible India – Mathura"
+  },
+  {
+    "id": "quest_up_049",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Mathura's religious significance in relation to Hinduism?",
+    "options": [
+      "It is one of the four Buddhist sacred sites",
+      "It is one of the four Char Dham sites",
+      "It is one of Hinduism's seven holy cities",
+      "It is one of the 12 Jyotirlingas"
+    ],
+    "answer": "It is one of Hinduism's seven holy cities",
+    "difficulty": "medium",
+    "source": "Incredible India – Mathura"
+  },
+  {
+    "id": "quest_up_050",
+    "state": "Uttar Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which queen is most strongly associated with Jhansi Fort and the 1857 uprising?",
+    "options": [
+      "Rani Lakshmibai",
+      "Rani Durgavati",
+      "Rani Ahilyabai",
+      "Rani Padmini"
+    ],
+    "answer": "Rani Lakshmibai",
+    "difficulty": "easy",
+    "source": "Incredible India – Jhansi Fort"
+  }
+]

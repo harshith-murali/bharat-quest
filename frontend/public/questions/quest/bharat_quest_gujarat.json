@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_gj_001",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city is India's first UNESCO World Heritage City?",
+    "options": [
+      "Vadodara",
+      "Surat",
+      "Ahmedabad",
+      "Rajkot"
+    ],
+    "answer": "Ahmedabad",
+    "difficulty": "easy",
+    "source": "Incredible India – Ahmedabad"
+  },
+  {
+    "id": "quest_gj_002",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is famous across Gujarat for Garba and Dandiya?",
+    "options": [
+      "Bihu",
+      "Pongal",
+      "Onam",
+      "Navratri"
+    ],
+    "answer": "Navratri",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Navratri"
+  },
+  {
+    "id": "quest_gj_003",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which desert landscape is famous in Kutch?",
+    "options": [
+      "Thar Desert",
+      "Cholistan Desert",
+      "Rann of Kutch",
+      "Cold Desert"
+    ],
+    "answer": "Rann of Kutch",
+    "difficulty": "easy",
+    "source": "Incredible India – Great Rann of Kutch"
+  },
+  {
+    "id": "quest_gj_004",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which leader established an ashram on the banks of the Sabarmati in Ahmedabad?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru"
+    ],
+    "answer": "Mahatma Gandhi",
+    "difficulty": "easy",
+    "source": "Incredible India – Ahmedabad"
+  },
+  {
+    "id": "quest_gj_005",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which mosque is famous for its 'tree of life' jaali window?",
+    "options": [
+      "Sarkhej Roza",
+      "Hutheesing Jain Temple",
+      "Jama Masjid",
+      "Sidi Saiyyed Mosque"
+    ],
+    "answer": "Sidi Saiyyed Mosque",
+    "difficulty": "easy",
+    "source": "Incredible India – Ahmedabad"
+  },
+  {
+    "id": "quest_gj_006",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the Sidi Saiyyed Mosque built?",
+    "options": [
+      "1573",
+      "1773",
+      "1673",
+      "1473"
+    ],
+    "answer": "1573",
+    "difficulty": "medium",
+    "source": "Incredible India – Ahmedabad"
+  },
+  {
+    "id": "quest_gj_007",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Ahmedabad is a tribute to Jain Tirthankara Shri Dharmanatha?",
+    "options": [
+      "Akshardham",
+      "Modhera Sun Temple",
+      "Hutheesing Jain Temple",
+      "Swaminarayan Mandir Kalupur"
+    ],
+    "answer": "Hutheesing Jain Temple",
+    "difficulty": "medium",
+    "source": "Incredible India – Ahmedabad"
+  },
+  {
+    "id": "quest_gj_008",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which mosque is described by Incredible India as the largest mosque built in India in the early 15th century?",
+    "options": [
+      "Sidi Saiyyed Mosque",
+      "Miyan Khan Chishti Mosque",
+      "Bhadra Mosque",
+      "Jama Masjid, Ahmedabad"
+    ],
+    "answer": "Jama Masjid, Ahmedabad",
+    "difficulty": "hard",
+    "source": "Incredible India – Ahmedabad"
+  },
+  {
+    "id": "quest_gj_009",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "To which deity is the Modhera Sun Temple dedicated?",
+    "options": [
+      "Krishna",
+      "Surya, the Sun God",
+      "Vishnu",
+      "Shiva"
+    ],
+    "answer": "Surya, the Sun God",
+    "difficulty": "easy",
+    "source": "Incredible India – Modhera"
+  },
+  {
+    "id": "quest_gj_010",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "During whose reign was the Modhera Sun Temple built in 1026 AD?",
+    "options": [
+      "King Bhimdev I",
+      "Rudra Pratap Singh",
+      "Rajaraja Chola I",
+      "Ashoka"
+    ],
+    "answer": "King Bhimdev I",
+    "difficulty": "medium",
+    "source": "Incredible India – Modhera"
+  },
+  {
+    "id": "quest_gj_011",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which river flows near the Modhera Sun Temple?",
+    "options": [
+      "Sabarmati",
+      "Pushpavati",
+      "Narmada",
+      "Tapi"
+    ],
+    "answer": "Pushpavati",
+    "difficulty": "easy",
+    "source": "Incredible India – Modhera"
+  },
+  {
+    "id": "quest_gj_012",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the large stepped tank in front of the Modhera Sun Temple called?",
+    "options": [
+      "Surya Kund",
+      "Pushpavati Kund",
+      "Rani Kund",
+      "Sahasralinga Kund"
+    ],
+    "answer": "Surya Kund",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism / Incredible India – Gujarat"
+  },
+  {
+    "id": "quest_gj_013",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is held at Modhera with the Sun Temple as its backdrop?",
+    "options": [
+      "Navratri Festival",
+      "Modhera Dance Festival",
+      "Rann Utsav",
+      "Tarnetar Fair"
+    ],
+    "answer": "Modhera Dance Festival",
+    "difficulty": "medium",
+    "source": "Gujarat Tourism / Incredible India – Gujarat"
+  },
+  {
+    "id": "quest_gj_014",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Rani ki Vav?",
+    "options": [
+      "A temple tank",
+      "A historic stepwell",
+      "A palace",
+      "A fort"
+    ],
+    "answer": "A historic stepwell",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Patan / Rani ki Vav"
+  },
+  {
+    "id": "quest_gj_015",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who commissioned Rani ki Vav in memory of her husband Bhimadev I?",
+    "options": [
+      "Queen Ahilyabai Holkar",
+      "Queen Udayamati",
+      "Rani Rudrama Devi",
+      "Rani Durgavati"
+    ],
+    "answer": "Queen Udayamati",
+    "difficulty": "medium",
+    "source": "Gujarat Tourism – Patan / Rani ki Vav"
+  },
+  {
+    "id": "quest_gj_016",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty is associated with Rani ki Vav?",
+    "options": [
+      "Chola dynasty",
+      "Kakatiya dynasty",
+      "Pallava dynasty",
+      "Solanki dynasty"
+    ],
+    "answer": "Solanki dynasty",
+    "difficulty": "medium",
+    "source": "Gujarat Tourism – Patan / Rani ki Vav"
+  },
+  {
+    "id": "quest_gj_017",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "In which year was Rani ki Vav added to the UNESCO World Heritage list?",
+    "options": [
+      "2004",
+      "2024",
+      "2014",
+      "1994"
+    ],
+    "answer": "2014",
+    "difficulty": "medium",
+    "source": "Gujarat Tourism – Patan / Rani ki Vav"
+  },
+  {
+    "id": "quest_gj_018",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What was the primary purpose of Rani ki Vav?",
+    "options": [
+      "Serving as a royal palace",
+      "Hosting festivals",
+      "Storing water",
+      "Defending Patan"
+    ],
+    "answer": "Storing water",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Patan / Rani ki Vav"
+  },
+  {
+    "id": "quest_gj_019",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which figures are among the sculptures adorning the walls of Rani ki Vav?",
+    "options": [
+      "Dashavatars and Yoginis",
+      "Only kings",
+      "Only Jain Tirthankaras",
+      "Only musicians"
+    ],
+    "answer": "Dashavatars and Yoginis",
+    "difficulty": "hard",
+    "source": "Gujarat Tourism – Patan / Rani ki Vav"
+  },
+  {
+    "id": "quest_gj_020",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What type of monument is Adalaj Ni Vav?",
+    "options": [
+      "A fort",
+      "A temple",
+      "A stepwell",
+      "A palace"
+    ],
+    "answer": "A stepwell",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Adalaj Stepwell"
+  },
+  {
+    "id": "quest_gj_021",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural combination is especially notable at Adalaj Stepwell?",
+    "options": [
+      "Hindu and Islamic architecture",
+      "Gothic and Roman architecture",
+      "Buddhist and Jain architecture",
+      "Dravidian and Chola architecture"
+    ],
+    "answer": "Hindu and Islamic architecture",
+    "difficulty": "medium",
+    "source": "Gujarat Tourism – Adalaj Stepwell"
+  },
+  {
+    "id": "quest_gj_022",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who completed Adalaj Stepwell after the death of Rana Veer Singh?",
+    "options": [
+      "Bhimdev I",
+      "Muhammad Quli Qutb Shah",
+      "Sultan Mahmud Begada",
+      "Raja Bhoj"
+    ],
+    "answer": "Sultan Mahmud Begada",
+    "difficulty": "medium",
+    "source": "Gujarat Tourism – Adalaj Stepwell"
+  },
+  {
+    "id": "quest_gj_023",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many storeys does Adalaj Stepwell have according to Gujarat Tourism?",
+    "options": [
+      "Five",
+      "Ten",
+      "Seven",
+      "Three"
+    ],
+    "answer": "Five",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Adalaj Stepwell"
+  },
+  {
+    "id": "quest_gj_024",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which sacred pilgrimage category includes Dwarka?",
+    "options": [
+      "Jyotirlingas",
+      "Pancha Bhoota",
+      "Char Dham",
+      "Shakti Peethas"
+    ],
+    "answer": "Char Dham",
+    "difficulty": "easy",
+    "source": "Incredible India – Dwarka"
+  },
+  {
+    "id": "quest_gj_025",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is Dwarka traditionally associated with?",
+    "options": [
+      "Lord Shiva",
+      "Lord Krishna",
+      "Lord Rama",
+      "Lord Hanuman"
+    ],
+    "answer": "Lord Krishna",
+    "difficulty": "easy",
+    "source": "Incredible India – Dwarka"
+  },
+  {
+    "id": "quest_gj_026",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'Dwarka' mean according to the official source?",
+    "options": [
+      "Land of Krishna",
+      "City of temples",
+      "Sacred island",
+      "Gateway to heaven"
+    ],
+    "answer": "Gateway to heaven",
+    "difficulty": "medium",
+    "source": "Incredible India – Dwarka"
+  },
+  {
+    "id": "quest_gj_027",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place near Dwarka is associated with submerged archaeological remains and coastal heritage?",
+    "options": [
+      "Dholavira",
+      "Palitana",
+      "Beyt Dwarka",
+      "Lothal"
+    ],
+    "answer": "Beyt Dwarka",
+    "difficulty": "medium",
+    "source": "Incredible India – Dwarka"
+  },
+  {
+    "id": "quest_gj_028",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous temple is located at Somnath?",
+    "options": [
+      "Dwarkadhish Temple",
+      "Akshardham Temple",
+      "Somnath Temple",
+      "Modhera Sun Temple"
+    ],
+    "answer": "Somnath Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Somnath"
+  },
+  {
+    "id": "quest_gj_029",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Somnath Temple is one of how many Jyotirlingas?",
+    "options": [
+      "Seven",
+      "Four",
+      "Eighteen",
+      "Twelve"
+    ],
+    "answer": "Twelve",
+    "difficulty": "easy",
+    "source": "Incredible India – Somnath"
+  },
+  {
+    "id": "quest_gj_030",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What sea does Somnath Temple overlook?",
+    "options": [
+      "Arabian Sea",
+      "Indian Ocean",
+      "Bay of Bengal",
+      "Andaman Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "Incredible India – Somnath"
+  },
+  {
+    "id": "quest_gj_031",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ruler is associated with the reconstruction of the present Somnath Temple after independence?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Rajendra Prasad",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "answer": "Sardar Vallabhbhai Patel",
+    "difficulty": "medium",
+    "source": "Incredible India – Somnath"
+  },
+  {
+    "id": "quest_gj_032",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which animal is Gir National Park famous for?",
+    "options": [
+      "One-horned rhinoceros",
+      "Asiatic lion",
+      "Bengal tiger",
+      "Snow leopard"
+    ],
+    "answer": "Asiatic lion",
+    "difficulty": "easy",
+    "source": "Incredible India – Gir National Park"
+  },
+  {
+    "id": "quest_gj_033",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Gir is the world's last remaining habitat of which lion subspecies?",
+    "options": [
+      "Asiatic lion",
+      "African lion",
+      "Cape lion",
+      "Barbary lion"
+    ],
+    "answer": "Asiatic lion",
+    "difficulty": "medium",
+    "source": "Incredible India – Gir National Park"
+  },
+  {
+    "id": "quest_gj_034",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which type of ecosystem is prominent in Gir?",
+    "options": [
+      "Alpine meadow",
+      "Mangrove forest",
+      "Tropical rainforest",
+      "Dry deciduous forest and scrub"
+    ],
+    "answer": "Dry deciduous forest and scrub",
+    "difficulty": "medium",
+    "source": "Incredible India – Gir National Park"
+  },
+  {
+    "id": "quest_gj_035",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which town is commonly associated with Girnar and Gir National Park tourism?",
+    "options": [
+      "Junagadh",
+      "Patan",
+      "Dwarka",
+      "Bhuj"
+    ],
+    "answer": "Junagadh",
+    "difficulty": "easy",
+    "source": "Incredible India – Gir National Park"
+  },
+  {
+    "id": "quest_gj_036",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What makes the Great Rann of Kutch visually distinctive?",
+    "options": [
+      "Black volcanic rock",
+      "Dense rainforest",
+      "Glacial ice",
+      "A vast white salt desert"
+    ],
+    "answer": "A vast white salt desert",
+    "difficulty": "easy",
+    "source": "Incredible India – Great Rann of Kutch"
+  },
+  {
+    "id": "quest_gj_037",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which line of latitude passes through the Kutch region according to Incredible India?",
+    "options": [
+      "Equator",
+      "Arctic Circle",
+      "Tropic of Cancer",
+      "Tropic of Capricorn"
+    ],
+    "answer": "Tropic of Cancer",
+    "difficulty": "medium",
+    "source": "Incredible India – Great Rann of Kutch"
+  },
+  {
+    "id": "quest_gj_038",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival turns the White Rann into a major cultural destination?",
+    "options": [
+      "Tarnetar Fair",
+      "Navratri",
+      "Modhera Dance Festival",
+      "Rann Utsav"
+    ],
+    "answer": "Rann Utsav",
+    "difficulty": "easy",
+    "source": "Incredible India – Great Rann of Kutch"
+  },
+  {
+    "id": "quest_gj_039",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Bhuj is described as Gujarat's oldest museum?",
+    "options": [
+      "Kutch Museum",
+      "Watson Museum",
+      "Baroda Museum",
+      "Calico Museum"
+    ],
+    "answer": "Kutch Museum",
+    "difficulty": "medium",
+    "source": "Incredible India – Great Rann of Kutch"
+  },
+  {
+    "id": "quest_gj_040",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is notable about the Kutch Museum's collection of Kshatrapa inscriptions?",
+    "options": [
+      "It contains only medieval inscriptions",
+      "It is India's only collection",
+      "It is the largest existing collection",
+      "It contains only Mughal inscriptions"
+    ],
+    "answer": "It is the largest existing collection",
+    "difficulty": "hard",
+    "source": "Incredible India – Great Rann of Kutch"
+  },
+  {
+    "id": "quest_gj_041",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Lothal is associated with which ancient civilization?",
+    "options": [
+      "Mauryan Empire",
+      "Gupta Empire",
+      "Vijayanagara Empire",
+      "Indus Valley Civilization"
+    ],
+    "answer": "Indus Valley Civilization",
+    "difficulty": "easy",
+    "source": "Incredible India – Lothal"
+  },
+  {
+    "id": "quest_gj_042",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is Lothal especially known for in archaeological history?",
+    "options": [
+      "Ancient maritime and dockyard remains",
+      "A Mughal palace",
+      "A medieval fort",
+      "A Buddhist monastery"
+    ],
+    "answer": "Ancient maritime and dockyard remains",
+    "difficulty": "medium",
+    "source": "Incredible India – Lothal"
+  },
+  {
+    "id": "quest_gj_043",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Dholavira is located in which region of Gujarat?",
+    "options": [
+      "Kutch",
+      "Saurashtra",
+      "Ahmedabad",
+      "Patan"
+    ],
+    "answer": "Kutch",
+    "difficulty": "easy",
+    "source": "Incredible India – Dholavira"
+  },
+  {
+    "id": "quest_gj_044",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient civilization is represented at Dholavira?",
+    "options": [
+      "Roman civilization",
+      "Indus Valley Civilization",
+      "Gupta civilization",
+      "Chola civilization"
+    ],
+    "answer": "Indus Valley Civilization",
+    "difficulty": "easy",
+    "source": "Incredible India – Dholavira"
+  },
+  {
+    "id": "quest_gj_045",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Dholavira especially noted for?",
+    "options": [
+      "Medieval temple towers",
+      "Advanced urban planning and water management",
+      "Portuguese forts",
+      "Mughal gardens"
+    ],
+    "answer": "Advanced urban planning and water management",
+    "difficulty": "medium",
+    "source": "Incredible India – Dholavira"
+  },
+  {
+    "id": "quest_gj_046",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Whom does the Statue of Unity commemorate?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Sardar Vallabhbhai Patel",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru"
+    ],
+    "answer": "Sardar Vallabhbhai Patel",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Statue of Unity"
+  },
+  {
+    "id": "quest_gj_047",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which pilgrimage site is famous for hundreds of Jain temples on Shatrunjaya Hill?",
+    "options": [
+      "Palitana",
+      "Girnar",
+      "Dwarka",
+      "Somnath"
+    ],
+    "answer": "Palitana",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Palitana"
+  },
+  {
+    "id": "quest_gj_048",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hill is the major Jain pilgrimage site near Junagadh?",
+    "options": [
+      "Saputara",
+      "Girnar",
+      "Aravalli",
+      "Pavagadh"
+    ],
+    "answer": "Girnar",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Girnar"
+  },
+  {
+    "id": "quest_gj_049",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is located on Pavagadh Hill?",
+    "options": [
+      "Somnath Temple",
+      "Dwarkadhish Temple",
+      "Modhera Sun Temple",
+      "Kalika Mata Temple"
+    ],
+    "answer": "Kalika Mata Temple",
+    "difficulty": "easy",
+    "source": "Gujarat Tourism – Pavagadh"
+  },
+  {
+    "id": "quest_gj_050",
+    "state": "Gujarat",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Pavagadh-Champaner is recognized by UNESCO for what?",
+    "options": [
+      "Its beaches",
+      "Its modern architecture",
+      "Its archaeological and historical heritage",
+      "Its wildlife only"
+    ],
+    "answer": "Its archaeological and historical heritage",
+    "difficulty": "medium",
+    "source": "Gujarat Tourism – Pavagadh"
+  }
+]

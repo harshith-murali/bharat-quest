@@ -1,0 +1,49 @@
+# Production stack for a single EC2 host with Postgres on RDS.
+#
+#   docker compose -f docker-compose.prod.yml up -d --build
+#
+# Differences from docker-compose.yml (local dev):
+#   - No `db` service — DATABASE_URL points at RDS.
+#   - TLS to the database is enabled (PGSSL is not disabled).
+#   - Frontend binds :80 on the host.
+
+services:
+  backend:
+    build:
+      context: ./backend
+    restart: always
+    environment:
+      NODE_ENV: production
+      PORT: 3001
+      # RDS endpoint, e.g.
+      # postgresql://bqadmin:PASSWORD@bharat-quest-db.xxxx.ap-south-1.rds.amazonaws.com:5432/bharat_quest
+      DATABASE_URL: ${DATABASE_URL:?DATABASE_URL is required}
+      JWT_SECRET: ${JWT_SECRET:?JWT_SECRET is required}
+      # Must match how the browser reaches the site, or the session cookie
+      # will be rejected.
+      CORS_ORIGIN: ${CORS_ORIGIN:?CORS_ORIGIN is required}
+      # Set to "false" ONLY while the site is served over plain HTTP (no
+      # domain / TLS certificate yet) — otherwise browsers discard the session
+      # cookie and staff sign-in silently fails. Remove once HTTPS is enabled.
+      COOKIE_SECURE: ${COOKIE_SECURE:-auto}
+      HF_API_KEY: ${HF_API_KEY:-}
+      HF_MODEL: ${HF_MODEL:-meta-llama/Llama-3.1-8B-Instruct}
+      LOG_LEVEL: ${LOG_LEVEL:-info}
+      PG_POOL_MAX: ${PG_POOL_MAX:-10}
+    expose:
+      - '3001'
+    logging:
+      driver: 'json-file'
+      options: { max-size: '10m', max-file: '3' }
+
+  frontend:
+    build:
+      context: ./frontend
+    restart: always
+    depends_on:
+      - backend
+    ports:
+      - '80:80'
+    logging:
+      driver: 'json-file'
+      options: { max-size: '10m', max-file: '3' }

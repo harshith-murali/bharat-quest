@@ -21,3 +21,17 @@ frontend/dist/
 
 # TS build output
 backend/dist/
+
+# Source textbook PDFs — ~528MB and third-party copyrighted material.
+# Keep these locally; they are inputs to the question pipeline, not app code.
+docs/textbooks/
+
+# Test coverage reports
+coverage/
+backend/coverage/
+frontend/coverage/
+
+# RAG pipeline intermediates (vector store, draft question sets)
+scripts/rag_pipeline/output/
+__pycache__/
+*.pyc

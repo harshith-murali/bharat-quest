@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_punjab_001",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the name Punjab mean?",
+    "options": [
+      "Land of seven hills",
+      "Land of five rivers",
+      "Land of forests",
+      "Land of deserts"
+    ],
+    "answer": "Land of five rivers",
+    "difficulty": "easy",
+    "source": "Incredible India – Punjab"
+  },
+  {
+    "id": "quest_punjab_002",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which five rivers are associated with the name Punjab in the official tourism source?",
+    "options": [
+      "Beas, Chenab, Jhelum, Ravi and Sutlej",
+      "Krishna, Kaveri, Godavari, Mahanadi and Tapi",
+      "Ganga, Yamuna, Narmada, Tapi and Godavari",
+      "Ravi, Yamuna, Ganga, Beas and Narmada"
+    ],
+    "answer": "Beas, Chenab, Jhelum, Ravi and Sutlej",
+    "difficulty": "medium",
+    "source": "Incredible India – Punjab"
+  },
+  {
+    "id": "quest_punjab_003",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What agricultural nickname does the official tourism source give Punjab?",
+    "options": [
+      "Spice Bowl of India",
+      "Fruit Bowl of India",
+      "Rice Bowl of India",
+      "Wheat Bowl of India"
+    ],
+    "answer": "Wheat Bowl of India",
+    "difficulty": "easy",
+    "source": "Incredible India – Punjab"
+  },
+  {
+    "id": "quest_punjab_004",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What kind of landscapes does Punjab's official tourism page highlight?",
+    "options": [
+      "Coastal beaches",
+      "High Himalayan glaciers",
+      "Tropical rainforests",
+      "Lush landscapes and fertile plains"
+    ],
+    "answer": "Lush landscapes and fertile plains",
+    "difficulty": "easy",
+    "source": "Incredible India – Punjab"
+  },
+  {
+    "id": "quest_punjab_005",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city is described as the spiritual and cultural capital of Punjab?",
+    "options": [
+      "Patiala",
+      "Amritsar",
+      "Bathinda",
+      "Ludhiana"
+    ],
+    "answer": "Amritsar",
+    "difficulty": "easy",
+    "source": "Incredible India – Amritsar"
+  },
+  {
+    "id": "quest_punjab_006",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is another name for the Golden Temple?",
+    "options": [
+      "Akal Fort",
+      "Sri Harmandir Sahib",
+      "Qila Mubarak",
+      "Durgiana Palace"
+    ],
+    "answer": "Sri Harmandir Sahib",
+    "difficulty": "easy",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_007",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which sacred pool surrounds the Golden Temple?",
+    "options": [
+      "Dal Lake",
+      "Pushkar Lake",
+      "Sukhna Lake",
+      "Amrit Sarovar"
+    ],
+    "answer": "Amrit Sarovar",
+    "difficulty": "easy",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_008",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which community meal service is a major feature of the Golden Temple?",
+    "options": [
+      "Bhoj",
+      "Langar",
+      "Prasad hall",
+      "Bhandara only"
+    ],
+    "answer": "Langar",
+    "difficulty": "easy",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_009",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Sikh Guru founded the Golden Temple according to Incredible India?",
+    "options": [
+      "Guru Ramdas Sahib",
+      "Guru Nanak Dev",
+      "Guru Tegh Bahadur",
+      "Guru Gobind Singh"
+    ],
+    "answer": "Guru Ramdas Sahib",
+    "difficulty": "medium",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_010",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Sikh Guru continued the construction of the Golden Temple and its pool in 1588?",
+    "options": [
+      "Guru Har Rai",
+      "Guru Gobind Singh",
+      "Guru Arjan Dev",
+      "Guru Angad Dev"
+    ],
+    "answer": "Guru Arjan Dev",
+    "difficulty": "medium",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_011",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which values are highlighted through the Golden Temple's traditions?",
+    "options": [
+      "Royal power",
+      "Trade and taxation",
+      "Equality, service and community",
+      "War and conquest"
+    ],
+    "answer": "Equality, service and community",
+    "difficulty": "easy",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_012",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which sacred scripture is associated with the Golden Temple?",
+    "options": [
+      "Ramcharitmanas",
+      "Tripitaka",
+      "Guru Granth Sahib",
+      "Vedas"
+    ],
+    "answer": "Guru Granth Sahib",
+    "difficulty": "medium",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_013",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Golden Temple's dome described as being adorned with?",
+    "options": [
+      "Marble tiles",
+      "Silver sheets",
+      "Copper plates",
+      "Pure gold leaf"
+    ],
+    "answer": "Pure gold leaf",
+    "difficulty": "easy",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_014",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which city is Jallianwala Bagh located?",
+    "options": [
+      "Patiala",
+      "Bathinda",
+      "Ludhiana",
+      "Amritsar"
+    ],
+    "answer": "Amritsar",
+    "difficulty": "easy",
+    "source": "Incredible India – Jallianwala Bagh"
+  },
+  {
+    "id": "quest_punjab_015",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "On what date did the Jallianwala Bagh massacre take place?",
+    "options": [
+      "26 January 1950",
+      "15 August 1947",
+      "13 April 1919",
+      "23 March 1931"
+    ],
+    "answer": "13 April 1919",
+    "difficulty": "easy",
+    "source": "Incredible India – Jallianwala Bagh"
+  },
+  {
+    "id": "quest_punjab_016",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which law was being protested by the people gathered at Jallianwala Bagh?",
+    "options": [
+      "Indian Councils Act",
+      "Regulating Act",
+      "Rowlatt Act",
+      "Government of India Act 1935"
+    ],
+    "answer": "Rowlatt Act",
+    "difficulty": "medium",
+    "source": "Incredible India – Jallianwala Bagh"
+  },
+  {
+    "id": "quest_punjab_017",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who gave the open-fire orders during the Jallianwala Bagh massacre?",
+    "options": [
+      "General Dyer",
+      "Lord Curzon",
+      "General Nicholson",
+      "Lord Mountbatten"
+    ],
+    "answer": "General Dyer",
+    "difficulty": "medium",
+    "source": "Incredible India – Jallianwala Bagh"
+  },
+  {
+    "id": "quest_punjab_018",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which figure is commemorated near Jallianwala Bagh for assassinating the architect of the massacre?",
+    "options": [
+      "Lala Lajpat Rai",
+      "Udham Singh",
+      "Bhagat Singh",
+      "Subhas Chandra Bose"
+    ],
+    "answer": "Udham Singh",
+    "difficulty": "medium",
+    "source": "Incredible India – Jallianwala Bagh"
+  },
+  {
+    "id": "quest_punjab_019",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What do the bullet marks on the walls of Jallianwala Bagh remind visitors of?",
+    "options": [
+      "The formation of Punjab",
+      "The 1919 massacre",
+      "The Partition of 1947",
+      "The Green Revolution"
+    ],
+    "answer": "The 1919 massacre",
+    "difficulty": "easy",
+    "source": "Incredible India – Jallianwala Bagh"
+  },
+  {
+    "id": "quest_punjab_020",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is the Amar Jyoti at Jallianwala Bagh?",
+    "options": [
+      "A garden fountain",
+      "A railway monument",
+      "A museum",
+      "An eternal light symbolising remembrance"
+    ],
+    "answer": "An eternal light symbolising remembrance",
+    "difficulty": "medium",
+    "source": "Incredible India – Jallianwala Bagh"
+  },
+  {
+    "id": "quest_punjab_021",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is the Attari-Wagah Border located?",
+    "options": [
+      "Near Amritsar on the India-Pakistan border",
+      "Near Patiala on the Nepal border",
+      "Near Ludhiana on the China border",
+      "Near Bathinda on the Bangladesh border"
+    ],
+    "answer": "Near Amritsar on the India-Pakistan border",
+    "difficulty": "easy",
+    "source": "Incredible India – Attari-Wagah Border"
+  },
+  {
+    "id": "quest_punjab_022",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which ceremony is famous at the Attari-Wagah Border?",
+    "options": [
+      "Beating Retreat Ceremony",
+      "Kullu Dussehra",
+      "Hornbill Festival",
+      "Republic Day Parade"
+    ],
+    "answer": "Beating Retreat Ceremony",
+    "difficulty": "easy",
+    "source": "Incredible India – Attari-Wagah Border"
+  },
+  {
+    "id": "quest_punjab_023",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "When was the Beating Retreat Ceremony at this border inaugurated?",
+    "options": [
+      "1965",
+      "1959",
+      "1971",
+      "1947"
+    ],
+    "answer": "1959",
+    "difficulty": "hard",
+    "source": "Incredible India – Attari-Wagah Border"
+  },
+  {
+    "id": "quest_punjab_024",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which historic road passes through the Attari-Wagah area?",
+    "options": [
+      "Grand Trunk Road",
+      "East Coast Road",
+      "Konkan Road",
+      "Silk Road"
+    ],
+    "answer": "Grand Trunk Road",
+    "difficulty": "medium",
+    "source": "Incredible India – Attari-Wagah Border"
+  },
+  {
+    "id": "quest_punjab_025",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city is famous for Qila Mubarak?",
+    "options": [
+      "Patiala",
+      "Jalandhar",
+      "Amritsar",
+      "Ludhiana"
+    ],
+    "answer": "Patiala",
+    "difficulty": "easy",
+    "source": "District Patiala, Government of Punjab – Architecture"
+  },
+  {
+    "id": "quest_punjab_026",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who constructed the Pacca Qila of Qila Mubarak after conquering Sirhind?",
+    "options": [
+      "Maharaja Narendra Singh",
+      "Maharaja Ranjit Singh",
+      "Maharaja Karam Singh",
+      "Baba Ala Singh"
+    ],
+    "answer": "Baba Ala Singh",
+    "difficulty": "hard",
+    "source": "District Patiala, Government of Punjab – Architecture"
+  },
+  {
+    "id": "quest_punjab_027",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which part of Qila Mubarak was built by Maharaja Karam Singh?",
+    "options": [
+      "The area between Qila Androon and the outer walls",
+      "The original mud fort only",
+      "The Baradari Gardens",
+      "The Sheesh Mahal"
+    ],
+    "answer": "The area between Qila Androon and the outer walls",
+    "difficulty": "hard",
+    "source": "District Patiala, Government of Punjab – Architecture"
+  },
+  {
+    "id": "quest_punjab_028",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is displayed in the mini museum in Qila Mubarak's Darbar Hall?",
+    "options": [
+      "Only textiles",
+      "Only paintings of flowers",
+      "Rare arms and armour",
+      "Only coins"
+    ],
+    "answer": "Rare arms and armour",
+    "difficulty": "medium",
+    "source": "District Patiala, Government of Punjab – Architecture"
+  },
+  {
+    "id": "quest_punjab_029",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which painting traditions are represented in the murals inside Qila Mubarak?",
+    "options": [
+      "Kangra and Rajasthan painting traditions",
+      "Pattachitra and Kalamkari traditions",
+      "Mughal and Tanjore traditions",
+      "Madhubani and Warli traditions"
+    ],
+    "answer": "Kangra and Rajasthan painting traditions",
+    "difficulty": "hard",
+    "source": "District Patiala, Government of Punjab – Architecture"
+  },
+  {
+    "id": "quest_punjab_030",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who constructed Moti Bagh Palace in Patiala in 1847?",
+    "options": [
+      "Baba Ala Singh",
+      "Maharaja Karam Singh",
+      "Maharaja Narendra Singh",
+      "Maharaja Ranjit Singh"
+    ],
+    "answer": "Maharaja Narendra Singh",
+    "difficulty": "medium",
+    "source": "District Patiala, Government of Punjab – Architecture"
+  },
+  {
+    "id": "quest_punjab_031",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What inspired the design of Moti Bagh Palace's gardens?",
+    "options": [
+      "Lodhi Gardens",
+      "Shalimar Gardens of Lahore",
+      "Brindavan Gardens",
+      "Mughal Gardens of Srinagar"
+    ],
+    "answer": "Shalimar Gardens of Lahore",
+    "difficulty": "hard",
+    "source": "District Patiala, Government of Punjab – Architecture"
+  },
+  {
+    "id": "quest_punjab_032",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Sheesh Mahal mean in the context of Patiala?",
+    "options": [
+      "A palace known for mirror work",
+      "A fort with glass windows only",
+      "A temple made of crystal",
+      "A garden palace"
+    ],
+    "answer": "A palace known for mirror work",
+    "difficulty": "easy",
+    "source": "District Patiala, Government of Punjab – Sheesh Mahal"
+  },
+  {
+    "id": "quest_punjab_033",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which painting styles are found in the mirror-worked chambers of Patiala's Sheesh Mahal?",
+    "options": [
+      "Madhubani and Warli",
+      "Mughal and Deccani",
+      "Kangra and Rajasthani qalam",
+      "Pattachitra and Tanjore"
+    ],
+    "answer": "Kangra and Rajasthani qalam",
+    "difficulty": "hard",
+    "source": "District Patiala, Government of Punjab – Sheesh Mahal"
+  },
+  {
+    "id": "quest_punjab_034",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is described as a major industrial city of Punjab?",
+    "options": [
+      "Patiala",
+      "Ludhiana",
+      "Amritsar",
+      "Anandpur Sahib"
+    ],
+    "answer": "Ludhiana",
+    "difficulty": "easy",
+    "source": "Incredible India – Ludhiana"
+  },
+  {
+    "id": "quest_punjab_035",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which food is specifically highlighted as a local specialty in Ludhiana?",
+    "options": [
+      "Appam",
+      "Dhokla",
+      "Litti chokha",
+      "Amritsari Kulcha"
+    ],
+    "answer": "Amritsari Kulcha",
+    "difficulty": "easy",
+    "source": "Incredible India – Ludhiana"
+  },
+  {
+    "id": "quest_punjab_036",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which wetland near Ludhiana is described as a haven for migratory birds?",
+    "options": [
+      "Chilika Lake",
+      "Ropar Wetland",
+      "Harike Wetland",
+      "Keoladeo"
+    ],
+    "answer": "Ropar Wetland",
+    "difficulty": "medium",
+    "source": "Incredible India – Ludhiana"
+  },
+  {
+    "id": "quest_punjab_037",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which historic town near Ludhiana is described as the birthplace of the Khalsa?",
+    "options": [
+      "Bathinda",
+      "Amritsar",
+      "Patiala",
+      "Anandpur Sahib"
+    ],
+    "answer": "Anandpur Sahib",
+    "difficulty": "medium",
+    "source": "Incredible India – Ludhiana"
+  },
+  {
+    "id": "quest_punjab_038",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which important gurdwara is located at Anandpur Sahib according to the Ludhiana tourism page?",
+    "options": [
+      "Takht Sri Keshgarh Sahib",
+      "Durgiana Temple",
+      "Akal Takht only",
+      "Golden Temple"
+    ],
+    "answer": "Takht Sri Keshgarh Sahib",
+    "difficulty": "medium",
+    "source": "Incredible India – Ludhiana"
+  },
+  {
+    "id": "quest_punjab_039",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What major event in Sikh history is associated with Anandpur Sahib?",
+    "options": [
+      "The Partition of India",
+      "The Jallianwala Bagh massacre",
+      "The birth of the Khalsa",
+      "The founding of the Golden Temple"
+    ],
+    "answer": "The birth of the Khalsa",
+    "difficulty": "easy",
+    "source": "Incredible India – Ludhiana"
+  },
+  {
+    "id": "quest_punjab_040",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which structure at Anandpur Sahib is identified as a fort?",
+    "options": [
+      "Gobindgarh Fort",
+      "Qila Mubarak",
+      "Anandpur Sahib Fort",
+      "Akhnoor Fort"
+    ],
+    "answer": "Anandpur Sahib Fort",
+    "difficulty": "medium",
+    "source": "Incredible India – Ludhiana"
+  },
+  {
+    "id": "quest_punjab_041",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fort in Patiala is described as a testament to Punjab's royal past?",
+    "options": [
+      "Akhnoor Fort",
+      "Anandpur Sahib Fort",
+      "Gobindgarh Fort",
+      "Qila Mubarak"
+    ],
+    "answer": "Qila Mubarak",
+    "difficulty": "easy",
+    "source": "Incredible India – Punjab"
+  },
+  {
+    "id": "quest_punjab_042",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which palace in Kapurthala is known for intricate mirrorwork inspired by the Palace of Versailles?",
+    "options": [
+      "Moti Bagh Palace",
+      "Qila Mubarak",
+      "Sheesh Mahal",
+      "Mubarak Mandi Palace"
+    ],
+    "answer": "Sheesh Mahal",
+    "difficulty": "medium",
+    "source": "Incredible India – Punjab"
+  },
+  {
+    "id": "quest_punjab_043",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which wildlife sanctuary is listed among Punjab's attractions?",
+    "options": [
+      "Gir Wildlife Sanctuary",
+      "Kibber Wildlife Sanctuary",
+      "Periyar Wildlife Sanctuary",
+      "Kathlour-Kushlian Wildlife Sanctuary"
+    ],
+    "answer": "Kathlour-Kushlian Wildlife Sanctuary",
+    "difficulty": "easy",
+    "source": "Incredible India – Punjab"
+  },
+  {
+    "id": "quest_punjab_044",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Amritsar focuses on the history and experiences of Partition?",
+    "options": [
+      "Punjab State War Heroes' Museum",
+      "Rural Museum",
+      "Partition Museum",
+      "Maharaja Ranjit Singh Museum"
+    ],
+    "answer": "Partition Museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Amritsar"
+  },
+  {
+    "id": "quest_punjab_045",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which fort in Amritsar is a 1760 structure containing museums and heritage experiences?",
+    "options": [
+      "Qila Mubarak",
+      "Gobindgarh Fort",
+      "Kangra Fort",
+      "Akhnoor Fort"
+    ],
+    "answer": "Gobindgarh Fort",
+    "difficulty": "medium",
+    "source": "Incredible India – Amritsar"
+  },
+  {
+    "id": "quest_punjab_046",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Amritsar is dedicated to Goddess Durga?",
+    "options": [
+      "Akal Takht",
+      "Ram Tirath Temple",
+      "Golden Temple",
+      "Durgiana Temple"
+    ],
+    "answer": "Durgiana Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Amritsar"
+  },
+  {
+    "id": "quest_punjab_047",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which sacred site near Amritsar is associated with the story of Luv and Kush?",
+    "options": [
+      "Jallianwala Bagh",
+      "Ram Tirath",
+      "Durgiana Temple",
+      "Gobindgarh Fort"
+    ],
+    "answer": "Ram Tirath",
+    "difficulty": "medium",
+    "source": "Incredible India – Amritsar"
+  },
+  {
+    "id": "quest_punjab_048",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Durgiana Temple sometimes called because of its silver doors?",
+    "options": [
+      "Silver Temple",
+      "Golden Temple",
+      "Mirror Temple",
+      "White Temple"
+    ],
+    "answer": "Silver Temple",
+    "difficulty": "medium",
+    "source": "Incredible India – Amritsar"
+  },
+  {
+    "id": "quest_punjab_049",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional textile craft is highlighted among Punjab's cultural products?",
+    "options": [
+      "Phulkari",
+      "Pashmina",
+      "Chamba Rumal",
+      "Kalamkari"
+    ],
+    "answer": "Phulkari",
+    "difficulty": "easy",
+    "source": "Incredible India – The Golden Temple"
+  },
+  {
+    "id": "quest_punjab_050",
+    "state": "Punjab",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which city is described as having a history connected to the Mahabharata era and the Pandavas?",
+    "options": [
+      "Patiala",
+      "Ludhiana",
+      "Hoshiarpur",
+      "Amritsar"
+    ],
+    "answer": "Hoshiarpur",
+    "difficulty": "medium",
+    "source": "Incredible India – Punjab"
+  }
+]

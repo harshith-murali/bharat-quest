@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "c5_0001",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river is known as the lifeline of India?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Godavari",
+      "Narmada"
+    ],
+    "answer": "Ganges",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 15,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c5_0002",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river is the second longest in India?",
+    "options": [
+      "Brahmaputra",
+      "Ganges",
+      "Godavari",
+      "Yamuna"
+    ],
+    "answer": "Brahmaputra",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 18,
+    "state": "Assam"
+  },
+  {
+    "id": "c5_0003",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Sutlej river flows through which states?",
+    "options": [
+      "Himachal Pradesh and Punjab",
+      "Uttar Pradesh and Bihar",
+      "Rajasthan and Gujarat",
+      "Assam and Meghalaya"
+    ],
+    "answer": "Himachal Pradesh and Punjab",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 20
+  },
+  {
+    "id": "c5_0004",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river forms the boundary between India and Pakistan?",
+    "options": [
+      "Sutlej",
+      "Indus",
+      "Ravi",
+      "Chenab"
+    ],
+    "answer": "Indus",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 21
+  },
+  {
+    "id": "c5_0005",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Godavari is primarily located in which region?",
+    "options": [
+      "Southern India",
+      "Northern India",
+      "Eastern India",
+      "Western India"
+    ],
+    "answer": "Southern India",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 25
+  },
+  {
+    "id": "c5_0006",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "How many main climate zones does India have?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Two"
+    ],
+    "answer": "Three",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 22
+  },
+  {
+    "id": "c5_0007",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which region receives the most rainfall in India?",
+    "options": [
+      "Western Ghats",
+      "Thar Desert",
+      "Deccan Plateau",
+      "Indo-Gangetic Plain"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 28
+  },
+  {
+    "id": "c5_0008",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "What is the duration of the monsoon season in India?",
+    "options": [
+      "June to September",
+      "March to May",
+      "October to December",
+      "January to February"
+    ],
+    "answer": "June to September",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 30
+  },
+  {
+    "id": "c5_0009",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which winds bring rain to India during summer?",
+    "options": [
+      "Southwest monsoons",
+      "Trade winds",
+      "Westerlies",
+      "Polar easterlies"
+    ],
+    "answer": "Southwest monsoons",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 32
+  },
+  {
+    "id": "c5_0010",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Deserts",
+    "question": "In which state is the Thar Desert located?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 28,
+    "state": "Rajasthan"
+  },
+  {
+    "id": "c5_0011",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Deserts",
+    "question": "What is the main characteristic of the Thar Desert?",
+    "options": [
+      "Sand dunes and scarce vegetation",
+      "Dense forests",
+      "High plateaus",
+      "Coastal regions"
+    ],
+    "answer": "Sand dunes and scarce vegetation",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 29
+  },
+  {
+    "id": "c5_0012",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Deserts",
+    "question": "The Deccan Plateau is primarily located in which part of India?",
+    "options": [
+      "Central and Southern India",
+      "Northern India",
+      "Western India",
+      "Eastern India"
+    ],
+    "answer": "Central and Southern India",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 35
+  },
+  {
+    "id": "c5_0013",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which is the highest mountain range in India?",
+    "options": [
+      "Himalayas",
+      "Western Ghats",
+      "Eastern Ghats",
+      "Aravalli"
+    ],
+    "answer": "Himalayas",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 35
+  },
+  {
+    "id": "c5_0014",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Western Ghats run parallel to which coast?",
+    "options": [
+      "Western coast",
+      "Eastern coast",
+      "Northern coast",
+      "Southern coast"
+    ],
+    "answer": "Western coast",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 32,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c5_0015",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which mountain range is located in South India?",
+    "options": [
+      "Western Ghats",
+      "Himalayas",
+      "Aravalli",
+      "Vindhya"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 38
+  },
+  {
+    "id": "c5_0017",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "The Sundarbans are located in which state?",
+    "options": [
+      "West Bengal",
+      "Assam",
+      "Kerala",
+      "Odisha"
+    ],
+    "answer": "West Bengal",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 42,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c5_0018",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "Which animal is the national animal of India?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Leopard"
+    ],
+    "answer": "Tiger",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 45
+  },
+  {
+    "id": "c5_0019",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "Kaziranga National Park is famous for which animal?",
+    "options": [
+      "One-horned rhinoceros",
+      "Tiger",
+      "Elephant",
+      "Leopard"
+    ],
+    "answer": "One-horned rhinoceros",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 48,
+    "state": "Assam"
+  },
+  {
+    "id": "c5_0020",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "Ranthambore National Park is located in which state?",
+    "options": [
+      "Rajasthan",
+      "Assam",
+      "Kerala",
+      "Madhya Pradesh"
+    ],
+    "answer": "Rajasthan",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 50,
+    "state": "Rajasthan"
+  },
+  {
+    "id": "c5_0021",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "What does Diwali celebrate?",
+    "options": [
+      "Victory of good over evil",
+      "Harvest season",
+      "New Year",
+      "Independence Day"
+    ],
+    "answer": "Victory of good over evil",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 52
+  },
+  {
+    "id": "c5_0022",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Holi is celebrated to mark which season?",
+    "options": [
+      "Spring arrival",
+      "Summer season",
+      "Monsoon onset",
+      "Winter arrival"
+    ],
+    "answer": "Spring arrival",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 54
+  },
+  {
+    "id": "c5_0023",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Which festival is celebrated with kites in India?",
+    "options": [
+      "Makar Sankranti",
+      "Diwali",
+      "Holi",
+      "Eid"
+    ],
+    "answer": "Makar Sankranti",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 56
+  },
+  {
+    "id": "c5_0024",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Navratri celebrates which goddess?",
+    "options": [
+      "Durga",
+      "Lakshmi",
+      "Saraswati",
+      "Kali"
+    ],
+    "answer": "Durga",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 58
+  },
+  {
+    "id": "c5_0025",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "What is the primary coast of Kerala?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Coral Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 35,
+    "state": "Kerala"
+  },
+  {
+    "id": "c5_0026",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "Which coast experiences the monsoon first?",
+    "options": [
+      "Western coast",
+      "Eastern coast",
+      "Northern coast",
+      "Southern coast"
+    ],
+    "answer": "Western coast",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 36,
+    "state": "Kerala"
+  },
+  {
+    "id": "c5_0027",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which mountains separate India from Nepal?",
+    "options": [
+      "Himalayas",
+      "Western Ghats",
+      "Vindhya",
+      "Satpura"
+    ],
+    "answer": "Himalayas",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 40
+  },
+  {
+    "id": "c5_0028",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "What is the height range of the Himalayas?",
+    "options": [
+      "3000-7000 meters",
+      "1000-2000 meters",
+      "500-1500 meters",
+      "8000-9000 meters"
+    ],
+    "answer": "3000-7000 meters",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 42
+  },
+  {
+    "id": "c5_0029",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "The Nilgiris are part of which mountain range?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Aravalli",
+      "Vindhya"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 50,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c5_0030",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river is known for its delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Narmada",
+      "Godavari"
+    ],
+    "answer": "Ganges",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 60,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c5_0031",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "The Brahmaputra flows through which valley?",
+    "options": [
+      "Assam Valley",
+      "Kullu Valley",
+      "Kashmir Valley",
+      "Deccan Valley"
+    ],
+    "answer": "Assam Valley",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 65,
+    "state": "Assam"
+  },
+  {
+    "id": "c5_0032",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river forms the Sundarbans delta?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Meghna",
+      "Mahanadi"
+    ],
+    "answer": "Ganges",
+    "difficulty": "hard",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 70,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c5_0033",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which season brings moisture to South India?",
+    "options": [
+      "Northeast monsoon",
+      "Southwest monsoon",
+      "Summer wind",
+      "Trade wind"
+    ],
+    "answer": "Northeast monsoon",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 80
+  },
+  {
+    "id": "c5_0034",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "What is the average annual rainfall in Western Ghats?",
+    "options": [
+      "More than 200 cm",
+      "50-100 cm",
+      "100-150 cm",
+      "Less than 50 cm"
+    ],
+    "answer": "More than 200 cm",
+    "difficulty": "hard",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 85
+  },
+  {
+    "id": "c5_0035",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Where is bauxite mining prominent?",
+    "options": [
+      "Odisha",
+      "Karnataka",
+      "Gujarat",
+      "Rajasthan"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 90,
+    "state": "Odisha"
+  },
+  {
+    "id": "c5_0036",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Which state produces maximum coal?",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Assam",
+      "Manipur"
+    ],
+    "answer": "Odisha",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 95,
+    "state": "Odisha"
+  },
+  {
+    "id": "c5_0037",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Resources",
+    "question": "Limestone reserves are found in which state?",
+    "options": [
+      "Rajasthan",
+      "Himachal Pradesh",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 100,
+    "state": "Rajasthan"
+  },
+  {
+    "id": "c5_0039",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "The Pala Empire was based in which region?",
+    "options": [
+      "Bihar",
+      "Odisha",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": "Bihar",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 115,
+    "state": "Bihar"
+  },
+  {
+    "id": "c5_0040",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Which Chola king conquered Sri Lanka?",
+    "options": [
+      "Rajendra Chola",
+      "Rajaraja Chola",
+      "Kulottunga",
+      "Parantaka"
+    ],
+    "answer": "Rajendra Chola",
+    "difficulty": "hard",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 120,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c5_0041",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Vijayanagara Empire was based in which state?",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "answer": "Karnataka",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 125,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c5_0042",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Mughal",
+    "question": "Which Mughal emperor built Fatehpur Sikri?",
+    "options": [
+      "Akbar",
+      "Babar",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "answer": "Akbar",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 130,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c5_0043",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Battle of Plassey was fought in which state?",
+    "options": [
+      "West Bengal",
+      "Bihar",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "answer": "West Bengal",
+    "difficulty": "hard",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 140,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c5_0044",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Who led the Revolt of 1857 in Central India?",
+    "options": [
+      "Rani Lakshmibai",
+      "Tipu Sultan",
+      "Bhagat Singh",
+      "Surya Sen"
+    ],
+    "answer": "Rani Lakshmibai",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 145
+  },
+  {
+    "id": "c5_0045",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "Which national park is known for one-horned rhinos?",
+    "options": [
+      "Kaziranga",
+      "Manas",
+      "Dudhwa",
+      "Corbett"
+    ],
+    "answer": "Kaziranga",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 150,
+    "state": "Assam"
+  },
+  {
+    "id": "c5_0046",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Parks",
+    "question": "The Periyar lake is an important water body in which state?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Goa"
+    ],
+    "answer": "Kerala",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 155,
+    "state": "Kerala"
+  },
+  {
+    "id": "c5_0047",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "Which animal is found only in the Western Ghats?",
+    "options": [
+      "Lion-tailed macaque",
+      "Asiatic elephant",
+      "Bengal tiger",
+      "Indian bison"
+    ],
+    "answer": "Lion-tailed macaque",
+    "difficulty": "hard",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 160,
+    "state": "Karnataka"
+  },
+  {
+    "id": "c5_0048",
+    "class": 5,
+    "subject": "Wildlife & Nature",
+    "category": "India",
+    "chapter": "Wildlife",
+    "question": "The Great Indian Bustard is found in which habitat?",
+    "options": [
+      "Grasslands",
+      "Forests",
+      "Wetlands",
+      "Desert"
+    ],
+    "answer": "Grasslands",
+    "difficulty": "medium",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 165
+  },
+  {
+    "id": "c5_0049",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Which dance form originated in Odisha?",
+    "options": [
+      "Odissi",
+      "Kathak",
+      "Kuchipudi",
+      "Manipuri"
+    ],
+    "answer": "Odissi",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 170,
+    "state": "Odisha"
+  },
+  {
+    "id": "c5_0050",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Kuchipudi dance originated in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Karnataka",
+      "Telangana"
+    ],
+    "answer": "Andhra Pradesh",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 175,
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "c5_0051",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Manipuri dance is the classical dance of which state?",
+    "options": [
+      "Manipur",
+      "Assam",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "Manipur",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 180
+  },
+  {
+    "id": "c5_0052",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Which temple is known as the 'Golden Temple'?",
+    "options": [
+      "Harmandir Sahib",
+      "Meenakshi Temple",
+      "Jagannath Temple",
+      "Kashi Vishwanath"
+    ],
+    "answer": "Harmandir Sahib",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 185
+  },
+  {
+    "id": "c5_0053",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "Meenakshi Temple is located in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Telangana"
+    ],
+    "answer": "Tamil Nadu",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 190,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c5_0054",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "What is the normal annual rainfall in India?",
+    "options": [
+      "Between 50-250 cm",
+      "Less than 50 cm",
+      "More than 300 cm",
+      "Exactly 100 cm"
+    ],
+    "answer": "Between 50-250 cm",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 50
+  },
+  {
+    "id": "c5_0055",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "Which state receives the highest rainfall?",
+    "options": [
+      "Meghalaya",
+      "Kerala",
+      "Assam",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Meghalaya",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 54,
+    "state": "Meghalaya"
+  },
+  {
+    "id": "c5_0056",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Satpura Range runs parallel to which other range?",
+    "options": [
+      "Vindhya Range",
+      "Aravalli",
+      "Western Ghats",
+      "Himalayas"
+    ],
+    "answer": "Vindhya Range",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 58
+  },
+  {
+    "id": "c5_0057",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river flows westward into the Arabian Sea?",
+    "options": [
+      "Narmada",
+      "Godavari",
+      "Cauvery",
+      "Krishna"
+    ],
+    "answer": "Narmada",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 62,
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "c5_0058",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Coasts",
+    "question": "The Maldives are located to the west of which coast?",
+    "options": [
+      "Kerala coast",
+      "Tamil Nadu coast",
+      "Goa coast",
+      "Karnataka coast"
+    ],
+    "answer": "Kerala coast",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 66,
+    "state": "Kerala"
+  },
+  {
+    "id": "c5_0059",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Forests",
+    "question": "Mangrove forests are predominantly found along which coast?",
+    "options": [
+      "Eastern coast",
+      "Western coast",
+      "Northern coast",
+      "Southern coast"
+    ],
+    "answer": "Eastern coast",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 70,
+    "state": "West Bengal"
+  },
+  {
+    "id": "c5_0060",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Which script was used in the Indus Valley Civilization?",
+    "options": [
+      "Undeciphered script",
+      "Brahmi",
+      "Kharosthi",
+      "Devanagari"
+    ],
+    "answer": "Undeciphered script",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 74
+  },
+  {
+    "id": "c5_0061",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Which Veda contains hymns and rituals?",
+    "options": [
+      "Yajur Veda",
+      "Rig Veda",
+      "Sama Veda",
+      "Atharva Veda"
+    ],
+    "answer": "Yajur Veda",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 78
+  },
+  {
+    "id": "c5_0062",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Ashoka's empire extended over how many territories?",
+    "options": [
+      "More than 50 territories",
+      "30 territories",
+      "20 territories",
+      "40 territories"
+    ],
+    "answer": "More than 50 territories",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 82
+  },
+  {
+    "id": "c5_0063",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Which mathematician developed the concept of zero during the Gupta period?",
+    "options": [
+      "Aryabhata",
+      "Bhaskara",
+      "Brahmagupta",
+      "Varahamihira"
+    ],
+    "answer": "Aryabhata",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 86
+  },
+  {
+    "id": "c5_0064",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Which Chinese traveler visited India during Harsha's reign?",
+    "options": [
+      "Xuanzang",
+      "Faxian",
+      "Hiuen Tsang",
+      "Zheng He"
+    ],
+    "answer": "Xuanzang",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 90
+  },
+  {
+    "id": "c5_0065",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Qutab Minar is located in which city?",
+    "options": [
+      "Delhi",
+      "Agra",
+      "Lahore",
+      "Lucknow"
+    ],
+    "answer": "Delhi",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 94,
+    "state": "Delhi"
+  },
+  {
+    "id": "c5_0066",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Akbar's revenue minister was which famous administrator?",
+    "options": [
+      "Todar Mal",
+      "Abul Fazl",
+      "Faizi",
+      "Birbal"
+    ],
+    "answer": "Todar Mal",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 98
+  },
+  {
+    "id": "c5_0067",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Mughal Empire started to decline after which emperor?",
+    "options": [
+      "Aurangzeb",
+      "Shah Jahan",
+      "Jahangir",
+      "Akbar"
+    ],
+    "answer": "Aurangzeb",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 102
+  },
+  {
+    "id": "c5_0068",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "Shivaji was crowned at which fort?",
+    "options": [
+      "Raigarh",
+      "Raigad",
+      "Chakan",
+      "Pratapgarh"
+    ],
+    "answer": "Raigarh",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 106
+  },
+  {
+    "id": "c5_0069",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The first War of Indian Independence was led by which sepoys?",
+    "options": [
+      "Bengal sepoys",
+      "Madras sepoys",
+      "Bombay sepoys",
+      "Punjab sepoys"
+    ],
+    "answer": "Bengal sepoys",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 110
+  },
+  {
+    "id": "c5_0070",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "The Swadeshi Movement was started by whom?",
+    "options": [
+      "Aurobindo Ghosh",
+      "Keshab Chandra Sen",
+      "Surendranath Banerjee",
+      "Vivekananda"
+    ],
+    "answer": "Aurobindo Ghosh",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 114
+  },
+  {
+    "id": "c5_0071",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "India's independence was declared on which date?",
+    "options": [
+      "August 15, 1947",
+      "August 14, 1947",
+      "August 16, 1947",
+      "August 13, 1947"
+    ],
+    "answer": "August 15, 1947",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 118
+  },
+  {
+    "id": "c5_0072",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Dance",
+    "question": "Sattriya dance is associated with which state?",
+    "options": [
+      "Assam",
+      "Meghalaya",
+      "Tripura",
+      "Nagaland"
+    ],
+    "answer": "Assam",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 122,
+    "state": "Assam"
+  },
+  {
+    "id": "c5_0073",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Architecture",
+    "question": "The Red Fort is located in which city?",
+    "options": [
+      "Delhi",
+      "Agra",
+      "Lucknow",
+      "Lahore"
+    ],
+    "answer": "Delhi",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 126,
+    "state": "Delhi"
+  },
+  {
+    "id": "c5_0074",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "The Kashi Vishwanath Temple is located in which city?",
+    "options": [
+      "Varanasi",
+      "Mathura",
+      "Ayodhya",
+      "Haridwar"
+    ],
+    "answer": "Varanasi",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 130,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "c5_0075",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Festivals",
+    "question": "Eid is celebrated by which religious community?",
+    "options": [
+      "Muslims",
+      "Hindus",
+      "Christians",
+      "Sikhs"
+    ],
+    "answer": "Muslims",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 134
+  },
+  {
+    "id": "c5_0076",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Literature",
+    "question": "The Mahabharata was composed by which sage?",
+    "options": [
+      "Vyasa",
+      "Valmiki",
+      "Agastya",
+      "Vishvamitra"
+    ],
+    "answer": "Vyasa",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 138
+  },
+  {
+    "id": "c5_0077",
+    "class": 5,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Constitution",
+    "question": "The Indian Constitution has how many parts?",
+    "options": [
+      "22",
+      "20",
+      "25",
+      "26"
+    ],
+    "answer": "22",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 142
+  },
+  {
+    "id": "c5_0078",
+    "class": 5,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Executive",
+    "question": "The Prime Minister is appointed by whom?",
+    "options": [
+      "President",
+      "Vice-President",
+      "Lok Sabha",
+      "Parliament"
+    ],
+    "answer": "President",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 146
+  },
+  {
+    "id": "c5_0079",
+    "class": 5,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "India's Parliament has how many chambers?",
+    "options": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 150
+  },
+  {
+    "id": "c5_0080",
+    "class": 5,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "How many members does the Rajya Sabha have?",
+    "options": [
+      "245",
+      "250",
+      "200",
+      "300"
+    ],
+    "answer": "245",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 154
+  },
+  {
+    "id": "c5_0081",
+    "class": 5,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Judiciary",
+    "question": "High Courts in India are under which authority?",
+    "options": [
+      "Supreme Court",
+      "State Government",
+      "Central Government",
+      "President"
+    ],
+    "answer": "Supreme Court",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 158
+  },
+  {
+    "id": "c5_0082",
+    "class": 5,
+    "subject": "Civics & Government",
+    "category": "India",
+    "chapter": "Elections",
+    "question": "The Election Commission of India has how many members?",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "4"
+    ],
+    "answer": "3",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 162
+  },
+  {
+    "id": "c5_0083",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Economics",
+    "question": "Which sector contributes the most to India's GDP?",
+    "options": [
+      "Service sector",
+      "Agriculture",
+      "Manufacturing",
+      "Mining"
+    ],
+    "answer": "Service sector",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 166
+  },
+  {
+    "id": "c5_0084",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Economics",
+    "question": "India's textile industry is concentrated in which state?",
+    "options": [
+      "Gujarat and Tamil Nadu",
+      "Maharashtra",
+      "West Bengal",
+      "Punjab"
+    ],
+    "answer": "Gujarat and Tamil Nadu",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 170
+  },
+  {
+    "id": "c5_0085",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Borders",
+    "question": "India is bordered by how many countries?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "7",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 50
+  },
+  {
+    "id": "c5_0086",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Location",
+    "question": "The Tropic of Cancer passes through how many states?",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "5"
+    ],
+    "answer": "8",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 51
+  },
+  {
+    "id": "c5_0087",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Rivers",
+    "question": "Which river originates from Lake Mansarovar?",
+    "options": [
+      "Indus",
+      "Sutlej",
+      "Brahmaputra",
+      "Ganga"
+    ],
+    "answer": "Indus",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 52,
+    "state": "Punjab"
+  },
+  {
+    "id": "c5_0088",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Mountains",
+    "question": "Which is the second highest peak in the world?",
+    "options": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse",
+      "Makalu"
+    ],
+    "answer": "K2",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 53
+  },
+  {
+    "id": "c5_0089",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Soil",
+    "question": "Laterite soil is found in which region?",
+    "options": [
+      "High rainfall areas",
+      "Desert regions",
+      "Plains",
+      "Plateaus"
+    ],
+    "answer": "High rainfall areas",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 54
+  },
+  {
+    "id": "c5_0090",
+    "class": 5,
+    "subject": "Geography",
+    "category": "India",
+    "chapter": "Climate",
+    "question": "The trade winds in India are also known as what?",
+    "options": [
+      "Harmattan",
+      "Chinook",
+      "Mistral",
+      "Sirocco"
+    ],
+    "answer": "Harmattan",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 55
+  },
+  {
+    "id": "c5_0092",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Ancient",
+    "question": "Megasthenes was the ambassador of which ruler?",
+    "options": [
+      "Seleucus Nicator",
+      "Alexander the Great",
+      "Darius",
+      "Philip"
+    ],
+    "answer": "Seleucus Nicator",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 57
+  },
+  {
+    "id": "c5_0093",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Medieval",
+    "question": "The Khmer Empire constructed which famous temple?",
+    "options": [
+      "Angkor Wat",
+      "Borobudur",
+      "Bagan",
+      "Pagan"
+    ],
+    "answer": "Angkor Wat",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 58
+  },
+  {
+    "id": "c5_0094",
+    "class": 5,
+    "subject": "History",
+    "category": "India",
+    "chapter": "Modern",
+    "question": "Subhas Chandra Bose formed which movement?",
+    "options": [
+      "Indian National Army",
+      "Quit India",
+      "Non-Cooperation",
+      "Swadeshi"
+    ],
+    "answer": "Indian National Army",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 59
+  },
+  {
+    "id": "c5_0095",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Music",
+    "question": "Which instrument is used in classical Indian music?",
+    "options": [
+      "Sitar",
+      "Violin",
+      "Piano",
+      "Trumpet"
+    ],
+    "answer": "Sitar",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 60
+  },
+  {
+    "id": "c5_0096",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "The Brihadeeshwara Temple was built by which dynasty?",
+    "options": [
+      "Chola",
+      "Pandya",
+      "Pallava",
+      "Chalukya"
+    ],
+    "answer": "Chola",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 61,
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "c5_0097",
+    "class": 5,
+    "subject": "Culture & Heritage",
+    "category": "India",
+    "chapter": "Temples",
+    "question": "The Konark Sun Temple is located in which state?",
+    "options": [
+      "Odisha",
+      "Andhra Pradesh",
+      "West Bengal",
+      "Bihar"
+    ],
+    "answer": "Odisha",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 62,
+    "state": "Odisha"
+  },
+  {
+    "id": "c5_0098",
+    "class": 5,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Duties",
+    "question": "How many Fundamental Duties are listed in the Constitution?",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "answer": "11",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 63
+  },
+  {
+    "id": "c5_0099",
+    "class": 5,
+    "subject": "Civics",
+    "category": "India",
+    "chapter": "Legislature",
+    "question": "The Speaker of Lok Sabha is elected by whom?",
+    "options": [
+      "Members of Lok Sabha",
+      "President",
+      "Prime Minister",
+      "Voters"
+    ],
+    "answer": "Members of Lok Sabha",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 64
+  },
+  {
+    "id": "c5_0100",
+    "class": 5,
+    "subject": "Economics",
+    "category": "India",
+    "chapter": "Economy",
+    "question": "What is the base year for Wholesale Price Index?",
+    "options": [
+      "2011-12",
+      "2010-11",
+      "2012-13",
+      "2009-10"
+    ],
+    "answer": "2011-12",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 65
+  },
+  {
+    "id": "c5_0101",
+    "class": 5,
+    "subject": "Economics",
+    "category": "India",
+    "chapter": "Trade",
+    "question": "India is a member of which trade organization?",
+    "options": [
+      "WTO",
+      "ASEAN",
+      "OPEC",
+      "G20"
+    ],
+    "answer": "WTO",
+    "difficulty": "easy",
+    "source": "NCERT Class 5 Textbook",
+    "source_page": 66
+  }
+]

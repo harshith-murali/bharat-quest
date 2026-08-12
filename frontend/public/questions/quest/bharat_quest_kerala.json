@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_kl_001",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Kerala popularly known for because of its network of canals, lakes and lagoons?",
+    "options": [
+      "Coral reefs",
+      "Deserts",
+      "Backwaters",
+      "Glaciers"
+    ],
+    "answer": "Backwaters",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Official"
+  },
+  {
+    "id": "quest_kl_002",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain range forms Kerala's eastern boundary?",
+    "options": [
+      "Vindhyas",
+      "Eastern Ghats",
+      "Western Ghats",
+      "Aravallis"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Official"
+  },
+  {
+    "id": "quest_kl_003",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which classical dance-drama is one of Kerala's best-known traditional art forms?",
+    "options": [
+      "Odissi",
+      "Kuchipudi",
+      "Kathakali",
+      "Bharatanatyam"
+    ],
+    "answer": "Kathakali",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Kathakali"
+  },
+  {
+    "id": "quest_kl_004",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is the capital of Kerala?",
+    "options": [
+      "Thrissur",
+      "Kochi",
+      "Kozhikode",
+      "Thiruvananthapuram"
+    ],
+    "answer": "Thiruvananthapuram",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Thiruvananthapuram"
+  },
+  {
+    "id": "quest_kl_005",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which city was historically known as Cochin?",
+    "options": [
+      "Kollam",
+      "Kochi",
+      "Alappuzha",
+      "Kozhikode"
+    ],
+    "answer": "Kochi",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Fort Kochi"
+  },
+  {
+    "id": "quest_kl_006",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which European power established Fort Kochi as an important colonial settlement?",
+    "options": [
+      "Portuguese",
+      "French",
+      "Dutch",
+      "British"
+    ],
+    "answer": "Portuguese",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Fort Kochi"
+  },
+  {
+    "id": "quest_kl_007",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous fishing structures are associated with Fort Kochi?",
+    "options": [
+      "Arabian fishing nets",
+      "Roman fishing nets",
+      "Persian fishing nets",
+      "Chinese fishing nets"
+    ],
+    "answer": "Chinese fishing nets",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Fort Kochi"
+  },
+  {
+    "id": "quest_kl_008",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which European power later captured Kochi from the Portuguese?",
+    "options": [
+      "Danish",
+      "French",
+      "British",
+      "Dutch"
+    ],
+    "answer": "Dutch",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Fort Kochi"
+  },
+  {
+    "id": "quest_kl_009",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which church in Fort Kochi is associated with Vasco da Gama's burial history?",
+    "options": [
+      "St. Mary's Church",
+      "St. George Church",
+      "Santa Cruz Basilica",
+      "St. Francis Church"
+    ],
+    "answer": "St. Francis Church",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Fort Kochi"
+  },
+  {
+    "id": "quest_kl_010",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why is St. Francis Church historically important?",
+    "options": [
+      "It is associated with Vasco da Gama's original burial",
+      "It was Kerala's first Hindu temple",
+      "It housed the Cochin royal treasury",
+      "It was built by the Dutch as a palace"
+    ],
+    "answer": "It is associated with Vasco da Gama's original burial",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Fort Kochi"
+  },
+  {
+    "id": "quest_kl_011",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which palace in Kochi contains murals and royal collections?",
+    "options": [
+      "Mattancherry Palace",
+      "Hill Palace",
+      "Kanakakunnu Palace",
+      "Bolgatty Palace"
+    ],
+    "answer": "Mattancherry Palace",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Fort Kochi"
+  },
+  {
+    "id": "quest_kl_012",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Alappuzha popularly known as?",
+    "options": [
+      "Gateway of Kerala",
+      "City of Palaces",
+      "Venice of the East",
+      "Queen of Hills"
+    ],
+    "answer": "Venice of the East",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Alappuzha"
+  },
+  {
+    "id": "quest_kl_013",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which type of boat race is especially associated with Kerala's backwaters?",
+    "options": [
+      "Kambala",
+      "Nehru Trophy only",
+      "Vallam Kali",
+      "Jallikattu"
+    ],
+    "answer": "Vallam Kali",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Alappuzha"
+  },
+  {
+    "id": "quest_kl_014",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which type of traditional boat is used in Kerala's famous snake boat races?",
+    "options": [
+      "Catamaran",
+      "Houseboat",
+      "Chundan Vallam",
+      "Shikara"
+    ],
+    "answer": "Chundan Vallam",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Alappuzha"
+  },
+  {
+    "id": "quest_kl_015",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which large lake is central to Alappuzha's backwater tourism?",
+    "options": [
+      "Vembanad Lake",
+      "Ashtamudi Lake",
+      "Periyar Lake",
+      "Sasthamkotta Lake"
+    ],
+    "answer": "Vembanad Lake",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Alappuzha"
+  },
+  {
+    "id": "quest_kl_016",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What kind of accommodation is especially associated with Alappuzha backwater tourism?",
+    "options": [
+      "Tree houses",
+      "Snow huts",
+      "Houseboats",
+      "Desert camps"
+    ],
+    "answer": "Houseboats",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Alappuzha"
+  },
+  {
+    "id": "quest_kl_017",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Munnar famous for?",
+    "options": [
+      "Tea plantations and hills",
+      "Mangrove islands",
+      "Coral reefs",
+      "Desert dunes"
+    ],
+    "answer": "Tea plantations and hills",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Munnar"
+  },
+  {
+    "id": "quest_kl_018",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain range is Munnar part of?",
+    "options": [
+      "Aravallis",
+      "Eastern Ghats",
+      "Western Ghats",
+      "Satpuras"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Munnar"
+  },
+  {
+    "id": "quest_kl_019",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which rare flower is famously associated with the hills around Munnar?",
+    "options": [
+      "Rhododendron",
+      "Neelakurinji",
+      "Palash",
+      "Lotus"
+    ],
+    "answer": "Neelakurinji",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Munnar"
+  },
+  {
+    "id": "quest_kl_020",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which peak is the highest in South India and is located in the Munnar region?",
+    "options": [
+      "Chembra Peak",
+      "Anamudi",
+      "Doddabetta",
+      "Agasthyarkoodam"
+    ],
+    "answer": "Anamudi",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Munnar"
+  },
+  {
+    "id": "quest_kl_021",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park near Munnar is known for the Nilgiri tahr?",
+    "options": [
+      "Eravikulam National Park",
+      "Wayanad Wildlife Sanctuary",
+      "Periyar National Park",
+      "Silent Valley National Park"
+    ],
+    "answer": "Eravikulam National Park",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Munnar"
+  },
+  {
+    "id": "quest_kl_022",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which protected area is famous for wildlife around Thekkady?",
+    "options": [
+      "Eravikulam National Park",
+      "Periyar National Park",
+      "Mathikettan Shola National Park",
+      "Silent Valley National Park"
+    ],
+    "answer": "Periyar National Park",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Thekkady / Periyar"
+  },
+  {
+    "id": "quest_kl_023",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is associated with boating in Periyar Tiger Reserve?",
+    "options": [
+      "Ashtamudi Lake",
+      "Sasthamkotta Lake",
+      "Periyar Lake",
+      "Vembanad Lake"
+    ],
+    "answer": "Periyar Lake",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Thekkady / Periyar"
+  },
+  {
+    "id": "quest_kl_024",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which animal is especially associated with elephant sightings in Periyar?",
+    "options": [
+      "Snow leopard",
+      "Asiatic lion",
+      "Indian elephant",
+      "One-horned rhinoceros"
+    ],
+    "answer": "Indian elephant",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Thekkady / Periyar"
+  },
+  {
+    "id": "quest_kl_025",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which spice-growing region is Thekkady especially known for?",
+    "options": [
+      "Coconut only",
+      "Tea only",
+      "Cardamom and other spices",
+      "Saffron only"
+    ],
+    "answer": "Cardamom and other spices",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Thekkady / Periyar"
+  },
+  {
+    "id": "quest_kl_026",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is the most famous heritage landmark of Thiruvananthapuram?",
+    "options": [
+      "Guruvayur Temple",
+      "Vadakkunnathan Temple",
+      "Chottanikkara Temple",
+      "Sree Padmanabhaswamy Temple"
+    ],
+    "answer": "Sree Padmanabhaswamy Temple",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Padmanabhaswamy Temple"
+  },
+  {
+    "id": "quest_kl_027",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is worshipped at Sree Padmanabhaswamy Temple?",
+    "options": [
+      "Lord Vishnu",
+      "Lord Krishna",
+      "Lord Shiva",
+      "Lord Ganesha"
+    ],
+    "answer": "Lord Vishnu",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Padmanabhaswamy Temple"
+  },
+  {
+    "id": "quest_kl_028",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "In which posture is Lord Vishnu depicted at Sree Padmanabhaswamy Temple?",
+    "options": [
+      "Reclining on Ananta",
+      "Standing on a lotus",
+      "Seated in meditation",
+      "Dancing"
+    ],
+    "answer": "Reclining on Ananta",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Padmanabhaswamy Temple"
+  },
+  {
+    "id": "quest_kl_029",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Thiruvananthapuram is known for its traditional Kerala architecture and art collections?",
+    "options": [
+      "Salar Jung Museum",
+      "Napier Museum",
+      "Indian Museum",
+      "Kochi Museum"
+    ],
+    "answer": "Napier Museum",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Thiruvananthapuram"
+  },
+  {
+    "id": "quest_kl_030",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which fort is one of Kerala's largest and best-preserved coastal forts?",
+    "options": [
+      "Fort Kochi",
+      "Palakkad Fort",
+      "St. Angelo Fort",
+      "Bekal Fort"
+    ],
+    "answer": "Bekal Fort",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Bekal Fort"
+  },
+  {
+    "id": "quest_kl_031",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is Bekal Fort located?",
+    "options": [
+      "Kochi",
+      "Kasargod",
+      "Alappuzha",
+      "Thiruvananthapuram"
+    ],
+    "answer": "Kasargod",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Bekal Fort"
+  },
+  {
+    "id": "quest_kl_032",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty is associated with the construction of Bekal Fort according to Kerala Tourism?",
+    "options": [
+      "Ikkeri Nayakas",
+      "Cholas",
+      "Pandyas",
+      "Travancore"
+    ],
+    "answer": "Ikkeri Nayakas",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Bekal Fort"
+  },
+  {
+    "id": "quest_kl_033",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does Bekal Fort overlook?",
+    "options": [
+      "Western Ghats",
+      "Vembanad Lake",
+      "Bay of Bengal",
+      "Arabian Sea"
+    ],
+    "answer": "Arabian Sea",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Bekal Fort"
+  },
+  {
+    "id": "quest_kl_034",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What shape is Bekal Fort broadly known for?",
+    "options": [
+      "Star shape",
+      "Triangular shape",
+      "Circular shape",
+      "Keyhole shape"
+    ],
+    "answer": "Keyhole shape",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Bekal Fort"
+  },
+  {
+    "id": "quest_kl_035",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Kathakali combine?",
+    "options": [
+      "Only instrumental music",
+      "Dance, drama, music and elaborate makeup",
+      "Only storytelling",
+      "Only martial arts"
+    ],
+    "answer": "Dance, drama, music and elaborate makeup",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Kathakali"
+  },
+  {
+    "id": "quest_kl_036",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is especially distinctive about Kathakali performers?",
+    "options": [
+      "Masks made of wood only",
+      "No costumes",
+      "Elaborate costumes and facial makeup",
+      "Only white clothing"
+    ],
+    "answer": "Elaborate costumes and facial makeup",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Kathakali"
+  },
+  {
+    "id": "quest_kl_037",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional art form uses facial expressions and hand gestures to tell stories?",
+    "options": [
+      "Theyyam",
+      "Kathakali",
+      "Kalaripayattu",
+      "Mohiniyattam"
+    ],
+    "answer": "Kathakali",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Kathakali"
+  },
+  {
+    "id": "quest_kl_038",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which martial art is traditionally associated with Kerala?",
+    "options": [
+      "Thang-ta",
+      "Gatka",
+      "Silambam",
+      "Kalaripayattu"
+    ],
+    "answer": "Kalaripayattu",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Official"
+  },
+  {
+    "id": "quest_kl_039",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which region of Kerala is known for forests, hills and tribal heritage?",
+    "options": [
+      "Wayanad",
+      "Alappuzha",
+      "Kollam",
+      "Kochi"
+    ],
+    "answer": "Wayanad",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Wayanad"
+  },
+  {
+    "id": "quest_kl_040",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which prehistoric rock engravings are a major attraction of Wayanad?",
+    "options": [
+      "Elephanta Caves",
+      "Udayagiri Caves",
+      "Ajanta Caves",
+      "Edakkal Caves"
+    ],
+    "answer": "Edakkal Caves",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Wayanad"
+  },
+  {
+    "id": "quest_kl_041",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What do the engravings at Edakkal indicate?",
+    "options": [
+      "Mughal architecture",
+      "Ancient human habitation and activity",
+      "Portuguese settlement",
+      "British military use"
+    ],
+    "answer": "Ancient human habitation and activity",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Wayanad"
+  },
+  {
+    "id": "quest_kl_042",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which peak is one of Wayanad's prominent trekking destinations?",
+    "options": [
+      "Doddabetta",
+      "Anamudi",
+      "Agasthyarkoodam",
+      "Chembra Peak"
+    ],
+    "answer": "Chembra Peak",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Wayanad"
+  },
+  {
+    "id": "quest_kl_043",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city is known as the cultural capital of Kerala?",
+    "options": [
+      "Thrissur",
+      "Kochi",
+      "Kozhikode",
+      "Kollam"
+    ],
+    "answer": "Thrissur",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Thrissur"
+  },
+  {
+    "id": "quest_kl_044",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which spectacular festival is associated with Thrissur?",
+    "options": [
+      "Vishu",
+      "Thrissur Pooram",
+      "Nehru Trophy",
+      "Onam"
+    ],
+    "answer": "Thrissur Pooram",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Thrissur"
+  },
+  {
+    "id": "quest_kl_045",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is the main venue associated with Thrissur Pooram?",
+    "options": [
+      "Sree Padmanabhaswamy Temple",
+      "Vadakkunnathan Temple",
+      "Sabarimala",
+      "Guruvayur Temple"
+    ],
+    "answer": "Vadakkunnathan Temple",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Thrissur"
+  },
+  {
+    "id": "quest_kl_046",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple town is famous for the Guruvayur Sri Krishna Temple?",
+    "options": [
+      "Kozhikode",
+      "Guruvayur",
+      "Kollam",
+      "Kottayam"
+    ],
+    "answer": "Guruvayur",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Temples and Heritage"
+  },
+  {
+    "id": "quest_kl_047",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is worshipped at Guruvayur Temple?",
+    "options": [
+      "Lord Ayyappa",
+      "Lord Vishnu as Padmanabha",
+      "Lord Shiva",
+      "Lord Krishna"
+    ],
+    "answer": "Lord Krishna",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Temples and Heritage"
+  },
+  {
+    "id": "quest_kl_048",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which pilgrimage site is associated with Lord Ayyappa and the Sabarimala temple?",
+    "options": [
+      "Pathanamthitta",
+      "Alappuzha",
+      "Kannur",
+      "Kochi"
+    ],
+    "answer": "Pathanamthitta",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Temples and Heritage"
+  },
+  {
+    "id": "quest_kl_049",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Muziris known for in ancient times?",
+    "options": [
+      "A royal hill fort",
+      "A medieval capital in the mountains",
+      "A Buddhist cave complex",
+      "A major port and centre of trade"
+    ],
+    "answer": "A major port and centre of trade",
+    "difficulty": "easy",
+    "source": "Kerala Tourism – Muziris"
+  },
+  {
+    "id": "quest_kl_050",
+    "state": "Kerala",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum/heritage site is part of the Muziris heritage experience?",
+    "options": [
+      "Indian Museum",
+      "Paravur Jewish Synagogue",
+      "Napier Museum",
+      "Salar Jung Museum"
+    ],
+    "answer": "Paravur Jewish Synagogue",
+    "difficulty": "medium",
+    "source": "Kerala Tourism – Muziris"
+  }
+]

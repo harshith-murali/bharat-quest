@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_ladakh_001",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tradition is strongly associated with Ladakh's monasteries?",
+    "options": [
+      "Only desert traditions",
+      "Only maritime traditions",
+      "Only coastal traditions",
+      "Buddhist traditions"
+    ],
+    "answer": "Buddhist traditions",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_002",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What are mane walls made from?",
+    "options": [
+      "Votive stones with prayers and holy figures inscribed on them",
+      "Clay bricks",
+      "Wooden planks",
+      "Metal sheets"
+    ],
+    "answer": "Votive stones with prayers and holy figures inscribed on them",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_003",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What are chortens described as?",
+    "options": [
+      "Trading houses",
+      "Royal kitchens",
+      "Semi-religious shrines or reliquaries",
+      "Mountain passes"
+    ],
+    "answer": "Semi-religious shrines or reliquaries",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_004",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which type of dance is associated with many Ladakh monastery festivals?",
+    "options": [
+      "Kathakali",
+      "Garba",
+      "Classical ballet",
+      "Masked dances"
+    ],
+    "answer": "Masked dances",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_005",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is described by the Leh district as the oldest religious centre of Ladakh?",
+    "options": [
+      "Lamayuru",
+      "Hemis",
+      "Thiksey",
+      "Diskit"
+    ],
+    "answer": "Lamayuru",
+    "difficulty": "hard",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_006",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is noted for its wood carving, statues and frescoes?",
+    "options": [
+      "Likir",
+      "Hemis",
+      "Alchi",
+      "Thiksey"
+    ],
+    "answer": "Alchi",
+    "difficulty": "hard",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_007",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is described as the most popular because of its wealth of possessions and annual summer festival?",
+    "options": [
+      "Spituk",
+      "Lamayuru",
+      "Hemis",
+      "Alchi"
+    ],
+    "answer": "Hemis",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_008",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which palace in Leh is described as a nine-storey palace?",
+    "options": [
+      "Stok Palace",
+      "Leh Palace",
+      "Shey Palace",
+      "Mubarak Mandi"
+    ],
+    "answer": "Leh Palace",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Culture & Heritage"
+  },
+  {
+    "id": "quest_ladakh_009",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital town of Ladakh?",
+    "options": [
+      "Kargil",
+      "Leh",
+      "Drass",
+      "Padum"
+    ],
+    "answer": "Leh",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_010",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Where is Shanti Stupa located?",
+    "options": [
+      "On a hill in Leh",
+      "On Pangong Lake",
+      "In Drass",
+      "In Nubra Valley"
+    ],
+    "answer": "On a hill in Leh",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_011",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which site is widely noted for resembling the Potala Palace in Tibet?",
+    "options": [
+      "Thiksey Monastery",
+      "Shanti Stupa",
+      "Leh Palace",
+      "Alchi Monastery"
+    ],
+    "answer": "Thiksey Monastery",
+    "difficulty": "easy",
+    "source": "Ladakh Tourism – Thiksey Monastery"
+  },
+  {
+    "id": "quest_ladakh_012",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "How old is Thiksey Monastery according to Ladakh Tourism?",
+    "options": [
+      "15th century",
+      "18th century",
+      "10th century",
+      "5th century"
+    ],
+    "answer": "15th century",
+    "difficulty": "medium",
+    "source": "Ladakh Tourism – Thiksey Monastery"
+  },
+  {
+    "id": "quest_ladakh_013",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is Thiksey Monastery located in relation to Leh?",
+    "options": [
+      "Inside Nubra Valley",
+      "In Kargil district",
+      "About 19 km east of Leh along the Indus Valley",
+      "About 100 km west of Leh"
+    ],
+    "answer": "About 19 km east of Leh along the Indus Valley",
+    "difficulty": "hard",
+    "source": "Ladakh Tourism – Thiksey Monastery"
+  },
+  {
+    "id": "quest_ladakh_014",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Buddhist order does Thiksey Monastery belong to?",
+    "options": [
+      "Gelugpa (Yellow Hat) order",
+      "Theravada order",
+      "Drukpa order",
+      "Zen order"
+    ],
+    "answer": "Gelugpa (Yellow Hat) order",
+    "difficulty": "hard",
+    "source": "Ladakh Tourism – Thiksey Monastery"
+  },
+  {
+    "id": "quest_ladakh_015",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which statue is housed at Thiksey Monastery?",
+    "options": [
+      "A statue of Mahavira",
+      "A statue of Guru Nanak",
+      "A giant statue of Shiva",
+      "A 15-metre-high statue of Maitreya Buddha"
+    ],
+    "answer": "A 15-metre-high statue of Maitreya Buddha",
+    "difficulty": "hard",
+    "source": "Ladakh Tourism – Thiksey Monastery"
+  },
+  {
+    "id": "quest_ladakh_016",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is associated with Thiksey Monastery?",
+    "options": [
+      "Gustor",
+      "Hemis Tsechu",
+      "Baisakhi",
+      "Hornbill Festival"
+    ],
+    "answer": "Gustor",
+    "difficulty": "medium",
+    "source": "Ladakh Tourism – Thiksey Monastery"
+  },
+  {
+    "id": "quest_ladakh_017",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place in Ladakh is known as the 'Moonland'?",
+    "options": [
+      "Nubra",
+      "Hanle",
+      "Hunder",
+      "Lamayuru"
+    ],
+    "answer": "Lamayuru",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_018",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "About how far is Lamayuru from Leh according to the Leh district site?",
+    "options": [
+      "25 km",
+      "500 km",
+      "115 km",
+      "300 km"
+    ],
+    "answer": "115 km",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_019",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place is described as a remote village about 260 km from Leh and at about 4,500 metres altitude?",
+    "options": [
+      "Hunder",
+      "Drass",
+      "Hanle",
+      "Mulbek"
+    ],
+    "answer": "Hanle",
+    "difficulty": "hard",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_020",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which site is believed locally to defy gravity?",
+    "options": [
+      "Pangong Lake",
+      "Magnetic Hill",
+      "Khardung La",
+      "Shanti Stupa"
+    ],
+    "answer": "Magnetic Hill",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_021",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "About how far is Magnetic Hill from Leh according to the district site?",
+    "options": [
+      "30 km",
+      "5 km",
+      "215 km",
+      "100 km"
+    ],
+    "answer": "30 km",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_022",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is shared between India and China according to Ladakh Tourism?",
+    "options": [
+      "Dal Lake",
+      "Pangong Tso",
+      "Tso Moriri",
+      "Tso Kar"
+    ],
+    "answer": "Pangong Tso",
+    "difficulty": "easy",
+    "source": "Ladakh Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_ladakh_023",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is listed among Ladakh's major lakes along with Pangong Tso and Tso Moriri?",
+    "options": [
+      "Nagin Lake",
+      "Wular Lake",
+      "Dal Lake",
+      "Tso Kar"
+    ],
+    "answer": "Tso Kar",
+    "difficulty": "easy",
+    "source": "Ladakh Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_ladakh_024",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is also listed among Ladakh's major high-altitude lakes?",
+    "options": [
+      "Surinsar Lake",
+      "Dal Lake",
+      "Mansar Lake",
+      "Tso Moriri"
+    ],
+    "answer": "Tso Moriri",
+    "difficulty": "easy",
+    "source": "Ladakh Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_ladakh_025",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At what approximate altitude is Pangong Lake located according to the Leh district site?",
+    "options": [
+      "8,500 feet",
+      "20,000 feet",
+      "14,270 feet",
+      "5,000 feet"
+    ],
+    "answer": "14,270 feet",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Tourist Places"
+  },
+  {
+    "id": "quest_ladakh_026",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which pass connects Leh with Nubra Valley?",
+    "options": [
+      "Fotu La",
+      "Khardung La",
+      "Zoji La",
+      "Chang La"
+    ],
+    "answer": "Khardung La",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_027",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which pass is described by the Ladakh Administration tourism page as a main attraction and given as 18,350 ft?",
+    "options": [
+      "Zoji La",
+      "Khardongla",
+      "Chang La",
+      "Fotu La"
+    ],
+    "answer": "Khardongla",
+    "difficulty": "hard",
+    "source": "Administration of Union Territory of Ladakh – Tourism"
+  },
+  {
+    "id": "quest_ladakh_028",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is Nubra Valley located in relation to Leh?",
+    "options": [
+      "About 20 km south of Leh",
+      "In Kargil town",
+      "About 500 km east of Leh",
+      "About 120 km north of Leh"
+    ],
+    "answer": "About 120 km north of Leh",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_029",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What was the original name of Nubra Valley according to the district site?",
+    "options": [
+      "Zanskar",
+      "Ldumra",
+      "Changthang",
+      "Suru"
+    ],
+    "answer": "Ldumra",
+    "difficulty": "hard",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_030",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does 'Ldumra' mean according to the Nubra Valley source?",
+    "options": [
+      "Valley of snow",
+      "Valley of lakes",
+      "Valley of kings",
+      "Valley of flowers"
+    ],
+    "answer": "Valley of flowers",
+    "difficulty": "hard",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_031",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which animals are famous at the Hunder sand dunes?",
+    "options": [
+      "Asiatic lions",
+      "Double-humped Bactrian camels",
+      "Wild buffaloes",
+      "One-horned rhinoceroses"
+    ],
+    "answer": "Double-humped Bactrian camels",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_032",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which town is the largest and main town of Nubra Valley?",
+    "options": [
+      "Hunder",
+      "Diskit",
+      "Panamik",
+      "Turtuk"
+    ],
+    "answer": "Diskit",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_033",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What major attraction is found at Diskit?",
+    "options": [
+      "A giant Shiva statue",
+      "A war memorial",
+      "A 108-foot-tall Statue of Maitreya Buddha",
+      "A Mughal palace"
+    ],
+    "answer": "A 108-foot-tall Statue of Maitreya Buddha",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_034",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hot spring is mentioned as an attraction in Nubra Valley?",
+    "options": [
+      "Manikaran hot spring",
+      "Panamik hot spring",
+      "Tattapani hot spring",
+      "Vashisht hot spring"
+    ],
+    "answer": "Panamik hot spring",
+    "difficulty": "easy",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_035",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which glacier lies on the eastern Karakoram Range and extends into Nubra Valley?",
+    "options": [
+      "Gangotri Glacier",
+      "Drang Drung Glacier",
+      "Pindari Glacier",
+      "Siachen Glacier"
+    ],
+    "answer": "Siachen Glacier",
+    "difficulty": "medium",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_036",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which village is described as the last outpost of India in the Nubra Valley source?",
+    "options": [
+      "Hunder",
+      "Turtuk",
+      "Panamik",
+      "Diskit"
+    ],
+    "answer": "Turtuk",
+    "difficulty": "hard",
+    "source": "District Leh, Ladakh – Nubra Valley"
+  },
+  {
+    "id": "quest_ladakh_037",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is described as the largest and wealthiest monastery in Ladakh?",
+    "options": [
+      "Lamayuru Monastery",
+      "Thiksey Monastery",
+      "Hemis Monastery",
+      "Alchi Monastery"
+    ],
+    "answer": "Hemis Monastery",
+    "difficulty": "easy",
+    "source": "Ladakh Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_ladakh_038",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is famously associated with Hemis Monastery?",
+    "options": [
+      "Hemis Tsechu",
+      "Gustor",
+      "Losar only",
+      "Vishu"
+    ],
+    "answer": "Hemis Tsechu",
+    "difficulty": "medium",
+    "source": "Ladakh Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_ladakh_039",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What kind of art is especially important at Alchi Monastery?",
+    "options": [
+      "Mughal miniature paintings",
+      "Kashmiri-style Buddhist murals and art",
+      "Chola bronze art",
+      "Rajasthani frescoes"
+    ],
+    "answer": "Kashmiri-style Buddhist murals and art",
+    "difficulty": "hard",
+    "source": "Ladakh Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_ladakh_040",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Approximately how old is the Alchi monastery complex according to Ladakh Tourism?",
+    "options": [
+      "300 years",
+      "2,000 years",
+      "1,000 years",
+      "100 years"
+    ],
+    "answer": "1,000 years",
+    "difficulty": "medium",
+    "source": "Ladakh Tourism – Official Tourism Website"
+  },
+  {
+    "id": "quest_ladakh_041",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why has Kargil historically been important?",
+    "options": [
+      "It was an important trade centre and meeting point",
+      "It was an ancient Chola port",
+      "It was a Mughal capital",
+      "It was a major seaport"
+    ],
+    "answer": "It was an important trade centre and meeting point",
+    "difficulty": "medium",
+    "source": "District Kargil, Ladakh – Tourism"
+  },
+  {
+    "id": "quest_ladakh_042",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which goods are listed as having been traded through Kargil in the past?",
+    "options": [
+      "Spices, pepper and cotton only",
+      "Rice, salt and sugar only",
+      "Tea, wool, carpets, silk and precious stones",
+      "Gold and silver only"
+    ],
+    "answer": "Tea, wool, carpets, silk and precious stones",
+    "difficulty": "hard",
+    "source": "District Kargil, Ladakh – Tourism"
+  },
+  {
+    "id": "quest_ladakh_043",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which conflict brought Kargil into national and international headlines in 1999?",
+    "options": [
+      "The Kargil Conflict",
+      "The Revolt of 1857",
+      "The Battle of Plassey",
+      "The First Anglo-Sikh War"
+    ],
+    "answer": "The Kargil Conflict",
+    "difficulty": "easy",
+    "source": "District Kargil, Ladakh – Tourism"
+  },
+  {
+    "id": "quest_ladakh_044",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which two locations are identified as famous war-time features around Drass?",
+    "options": [
+      "Red Fort and India Gate",
+      "Ajanta and Ellora",
+      "Hampi and Pattadakal",
+      "Tiger Hill and Tololing"
+    ],
+    "answer": "Tiger Hill and Tololing",
+    "difficulty": "medium",
+    "source": "District Kargil, Ladakh – Drass"
+  },
+  {
+    "id": "quest_ladakh_045",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Drass described as in relation to travellers?",
+    "options": [
+      "A tropical resort",
+      "A desert capital",
+      "An important halting place for travellers going to Leh and Kargil",
+      "A major seaport"
+    ],
+    "answer": "An important halting place for travellers going to Leh and Kargil",
+    "difficulty": "easy",
+    "source": "District Kargil, Ladakh – Drass"
+  },
+  {
+    "id": "quest_ladakh_046",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which memorial in Drass commemorates the heroes of the Kargil War?",
+    "options": [
+      "Drass War Memorial",
+      "India Gate",
+      "National War Memorial",
+      "Balidan Stambh"
+    ],
+    "answer": "Drass War Memorial",
+    "difficulty": "easy",
+    "source": "District Kargil, Ladakh – Drass"
+  },
+  {
+    "id": "quest_ladakh_047",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which valley in Kargil is known for the Nun and Kun peaks?",
+    "options": [
+      "Kullu Valley",
+      "Nubra Valley",
+      "Kashmir Valley",
+      "Suru Valley"
+    ],
+    "answer": "Suru Valley",
+    "difficulty": "medium",
+    "source": "District Kargil, Ladakh – Tourism"
+  },
+  {
+    "id": "quest_ladakh_048",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain peaks are associated with Kargil's mountaineering potential?",
+    "options": [
+      "Trisul and Nanda Kot",
+      "Nanda Devi and Kamet",
+      "Kanchenjunga and Everest",
+      "Nun and Kun"
+    ],
+    "answer": "Nun and Kun",
+    "difficulty": "hard",
+    "source": "District Kargil, Ladakh – Tourism"
+  },
+  {
+    "id": "quest_ladakh_049",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which rock-carved Buddhist images are found near Drass?",
+    "options": [
+      "Maitreya and Avalokiteshvara",
+      "Buddha and Mahavira",
+      "Rama and Krishna",
+      "Shiva and Vishnu"
+    ],
+    "answer": "Maitreya and Avalokiteshvara",
+    "difficulty": "hard",
+    "source": "District Kargil, Ladakh – Drass"
+  },
+  {
+    "id": "quest_ladakh_050",
+    "state": "Ladakh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is described as an 18th-century monastery perched on a hillock near Rangdum?",
+    "options": [
+      "Hemis Monastery",
+      "Diskit Monastery",
+      "Rangdum Monastery",
+      "Thiksey Monastery"
+    ],
+    "answer": "Rangdum Monastery",
+    "difficulty": "hard",
+    "source": "District Kargil, Ladakh – Places of Interest"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_tg_001",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded Hyderabad in 1591?",
+    "options": [
+      "Raja Rudra Deva",
+      "Rudrama Devi",
+      "Muhammad Quli Qutb Shah",
+      "Asaf Jah I"
+    ],
+    "answer": "Muhammad Quli Qutb Shah",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Hyderabad"
+  },
+  {
+    "id": "quest_tg_002",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monument is the iconic symbol of Hyderabad?",
+    "options": [
+      "Golconda Fort",
+      "Charminar",
+      "Qutb Shahi Tombs",
+      "Chowmahalla Palace"
+    ],
+    "answer": "Charminar",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Hyderabad"
+  },
+  {
+    "id": "quest_tg_003",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three festivals are highlighted by Telangana Tourism as major Hyderabad celebrations?",
+    "options": [
+      "Bonalu, Bathukamma and Deccan Festival",
+      "Dasara, Diwali and Ganesh Chaturthi",
+      "Rath Yatra, Holi and Baisakhi",
+      "Onam, Pongal and Bihu"
+    ],
+    "answer": "Bonalu, Bathukamma and Deccan Festival",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Hyderabad"
+  },
+  {
+    "id": "quest_tg_004",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the Charminar built according to Telangana Tourism?",
+    "options": [
+      "1691",
+      "1491",
+      "1591",
+      "1791"
+    ],
+    "answer": "1591",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Charminar"
+  },
+  {
+    "id": "quest_tg_005",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the name Charminar refer to?",
+    "options": [
+      "Four gateways",
+      "Four courtyards",
+      "Four domes",
+      "Four minarets"
+    ],
+    "answer": "Four minarets",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Charminar"
+  },
+  {
+    "id": "quest_tg_006",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What architectural traditions are blended in Charminar?",
+    "options": [
+      "Only Dravidian and Nagara",
+      "Indo-Islamic with Persian influences and Hindu-inspired stucco ornamentation",
+      "Only Mughal and Rajput",
+      "Only Gothic and Roman"
+    ],
+    "answer": "Indo-Islamic with Persian influences and Hindu-inspired stucco ornamentation",
+    "difficulty": "hard",
+    "source": "Telangana Tourism – Charminar"
+  },
+  {
+    "id": "quest_tg_007",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many prayer spaces does the central courtyard of Charminar contain according to Telangana Tourism?",
+    "options": [
+      "55",
+      "45",
+      "40",
+      "25"
+    ],
+    "answer": "45",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Charminar"
+  },
+  {
+    "id": "quest_tg_008",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty made Golconda their principal capital between the 14th and 17th centuries according to Telangana Tourism?",
+    "options": [
+      "Qutb Shahi rulers",
+      "Chola rulers",
+      "Kakatiya rulers",
+      "Mughal rulers"
+    ],
+    "answer": "Qutb Shahi rulers",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Golconda Fort"
+  },
+  {
+    "id": "quest_tg_009",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Golconda known as in 1143 according to the official source?",
+    "options": [
+      "Bhuvanagiri",
+      "Bhagyanagar",
+      "Orugallu",
+      "Mangal"
+    ],
+    "answer": "Mangal",
+    "difficulty": "hard",
+    "source": "Telangana Tourism – Golconda Fort"
+  },
+  {
+    "id": "quest_tg_010",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many grand gateways does Golconda Fort have?",
+    "options": [
+      "Twelve",
+      "Eight",
+      "Seven",
+      "Four"
+    ],
+    "answer": "Eight",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Golconda Fort"
+  },
+  {
+    "id": "quest_tg_011",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which gateway of Golconda Fort is known as the Victory Gate?",
+    "options": [
+      "Balahisar Darwaza",
+      "Fateh Darwaza",
+      "Charminar Gate",
+      "Delhi Gate"
+    ],
+    "answer": "Fateh Darwaza",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Golconda Fort"
+  },
+  {
+    "id": "quest_tg_012",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What famous engineering feature can be demonstrated at Golconda Fort?",
+    "options": [
+      "A floating stone bridge",
+      "A hidden water tunnel to the sea",
+      "A handclap at the entrance can be heard nearly a kilometre away",
+      "A moving stone staircase"
+    ],
+    "answer": "A handclap at the entrance can be heard nearly a kilometre away",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Golconda Fort"
+  },
+  {
+    "id": "quest_tg_013",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which trade was Golconda historically famous for?",
+    "options": [
+      "Spice trade",
+      "Salt trade",
+      "Diamond trade",
+      "Silk trade"
+    ],
+    "answer": "Diamond trade",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Heritage of Telangana"
+  },
+  {
+    "id": "quest_tg_014",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Whose tombs are found in the Qutb Shahi Tombs complex?",
+    "options": [
+      "Kakatiya queens",
+      "Nizam governors only",
+      "Kings of Golconda from the Qutb Shahi dynasty",
+      "Mughal emperors"
+    ],
+    "answer": "Kings of Golconda from the Qutb Shahi dynasty",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Qutb Shahi Tombs"
+  },
+  {
+    "id": "quest_tg_015",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many tombs does the Qutb Shahi complex house according to Telangana Tourism?",
+    "options": [
+      "Seven",
+      "Four",
+      "Twelve",
+      "Nine"
+    ],
+    "answer": "Seven",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Qutb Shahi Tombs"
+  },
+  {
+    "id": "quest_tg_016",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural influences are visible in the Qutb Shahi Tombs?",
+    "options": [
+      "Persian, Pathan and Hindu",
+      "Dravidian, Chola and Pallava",
+      "Buddhist, Jain and Mughal",
+      "Gothic, Tudor and Roman"
+    ],
+    "answer": "Persian, Pathan and Hindu",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Qutb Shahi Tombs"
+  },
+  {
+    "id": "quest_tg_017",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is unusual about the Qutb Shahi Tombs according to the source?",
+    "options": [
+      "They contain India's oldest paintings",
+      "They are all underground",
+      "They were built entirely of wood",
+      "The whole dynasty is buried at a single spot"
+    ],
+    "answer": "The whole dynasty is buried at a single spot",
+    "difficulty": "hard",
+    "source": "Telangana Tourism – Qutb Shahi Tombs"
+  },
+  {
+    "id": "quest_tg_018",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Chowmahalla Palace?",
+    "options": [
+      "The capital of the Kakatiyas",
+      "A Qutb Shahi tomb",
+      "A British cantonment",
+      "The seat of the Nizams of Hyderabad"
+    ],
+    "answer": "The seat of the Nizams of Hyderabad",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Chowmahalla Palace"
+  },
+  {
+    "id": "quest_tg_019",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which mosque is highlighted near Charminar in the Chowmahalla heritage route?",
+    "options": [
+      "Spanish Mosque",
+      "Makkah Masjid-e-Jamia only",
+      "Mecca Masjid",
+      "Toli Masjid"
+    ],
+    "answer": "Mecca Masjid",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Chowmahalla Palace"
+  },
+  {
+    "id": "quest_tg_020",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which family originally took pride in Falaknuma Palace?",
+    "options": [
+      "Qutb Shahi family",
+      "Kakatiya family",
+      "Asaf Jah family",
+      "Paigah family"
+    ],
+    "answer": "Paigah family",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Falaknuma Palace"
+  },
+  {
+    "id": "quest_tg_021",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'Falaknuma' mean in Urdu according to Telangana Tourism?",
+    "options": [
+      "Palace of flowers",
+      "House of victory",
+      "City of pearls",
+      "Like the sky or mirror of the sky"
+    ],
+    "answer": "Like the sky or mirror of the sky",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Falaknuma Palace"
+  },
+  {
+    "id": "quest_tg_022",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What material was Falaknuma Palace sculpted entirely from?",
+    "options": [
+      "Granite",
+      "Italian marble",
+      "Teak wood",
+      "Red sandstone"
+    ],
+    "answer": "Italian marble",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Falaknuma Palace"
+  },
+  {
+    "id": "quest_tg_023",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What unusual shape does Falaknuma Palace resemble?",
+    "options": [
+      "A scorpion",
+      "A peacock",
+      "A crescent",
+      "A lotus"
+    ],
+    "answer": "A scorpion",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Falaknuma Palace"
+  },
+  {
+    "id": "quest_tg_024",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural influences are combined in Falaknuma Palace?",
+    "options": [
+      "Mughal and Rajput",
+      "Dravidian and Persian",
+      "Italian and Tudor",
+      "Gothic and Buddhist"
+    ],
+    "answer": "Italian and Tudor",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Falaknuma Palace"
+  },
+  {
+    "id": "quest_tg_025",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty made Warangal its capital?",
+    "options": [
+      "Chola dynasty",
+      "Kakatiya dynasty",
+      "Satavahana dynasty",
+      "Qutb Shahi dynasty"
+    ],
+    "answer": "Kakatiya dynasty",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Warangal"
+  },
+  {
+    "id": "quest_tg_026",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Between which centuries did the Kakatiyas rule from Warangal according to Telangana Tourism?",
+    "options": [
+      "15th to 17th centuries",
+      "8th to 10th centuries",
+      "18th to 19th centuries",
+      "12th to 14th centuries"
+    ],
+    "answer": "12th to 14th centuries",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Warangal"
+  },
+  {
+    "id": "quest_tg_027",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the Telugu name 'Orugallu' mean?",
+    "options": [
+      "Temple city",
+      "One stone",
+      "Golden city",
+      "Great fort"
+    ],
+    "answer": "One stone",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Warangal"
+  },
+  {
+    "id": "quest_tg_028",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What are the iconic gateways of Warangal Fort called?",
+    "options": [
+      "Rudrama Gates",
+      "Fateh Darwazas",
+      "Kakatiya Toranas",
+      "Qutb Arches"
+    ],
+    "answer": "Kakatiya Toranas",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Heritage of Telangana"
+  },
+  {
+    "id": "quest_tg_029",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which two major festivals are specifically highlighted for Warangal?",
+    "options": [
+      "Deccan Festival and Ugadi",
+      "Bonalu and Ramzan",
+      "Bathukamma and Sammakka Sarakka Jatara",
+      "Holi and Diwali"
+    ],
+    "answer": "Bathukamma and Sammakka Sarakka Jatara",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Warangal"
+  },
+  {
+    "id": "quest_tg_030",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the Thousand Pillar Temple constructed?",
+    "options": [
+      "1163 AD",
+      "1363 AD",
+      "1263 AD",
+      "1063 AD"
+    ],
+    "answer": "1163 AD",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Thousand Pillar Temple"
+  },
+  {
+    "id": "quest_tg_031",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who constructed the Thousand Pillar Temple?",
+    "options": [
+      "Prataparudra",
+      "Rudrama Devi",
+      "Muhammad Quli Qutb Shah",
+      "Rudra Deva"
+    ],
+    "answer": "Rudra Deva",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Thousand Pillar Temple"
+  },
+  {
+    "id": "quest_tg_032",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three deities are worshipped at the Thousand Pillar Temple?",
+    "options": [
+      "Shiva, Ganesha and Durga",
+      "Shiva, Vishnu and Surya",
+      "Vishnu, Krishna and Rama",
+      "Surya, Chandra and Indra"
+    ],
+    "answer": "Shiva, Vishnu and Surya",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Thousand Pillar Temple"
+  },
+  {
+    "id": "quest_tg_033",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the shape of the Thousand Pillar Temple's architecture?",
+    "options": [
+      "Star-shaped",
+      "Square",
+      "Circular",
+      "Octagonal"
+    ],
+    "answer": "Star-shaped",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Thousand Pillar Temple"
+  },
+  {
+    "id": "quest_tg_034",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What large sculpture is found at the Thousand Pillar Temple?",
+    "options": [
+      "A bronze elephant",
+      "A monolithic Nandi made of black basalt",
+      "A marble Buddha",
+      "A granite Garuda"
+    ],
+    "answer": "A monolithic Nandi made of black basalt",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Thousand Pillar Temple"
+  },
+  {
+    "id": "quest_tg_035",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which century was Ramappa Temple built?",
+    "options": [
+      "10th century",
+      "18th century",
+      "13th century",
+      "15th century"
+    ],
+    "answer": "13th century",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Ramappa"
+  },
+  {
+    "id": "quest_tg_036",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who built Ramappa Temple under the Kakatiya dynasty according to Telangana Tourism?",
+    "options": [
+      "Rudra Deva",
+      "Prataparudra",
+      "Ganapati Deva",
+      "Recharla Rudra"
+    ],
+    "answer": "Recharla Rudra",
+    "difficulty": "hard",
+    "source": "Telangana Tourism – Ramappa"
+  },
+  {
+    "id": "quest_tg_037",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is Ramappa Temple dedicated to?",
+    "options": [
+      "Lord Vishnu",
+      "Lord Surya",
+      "Lord Shiva",
+      "Lord Rama"
+    ],
+    "answer": "Lord Shiva",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Ramappa"
+  },
+  {
+    "id": "quest_tg_038",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "In which year was Ramappa Temple inscribed as a UNESCO World Heritage Site?",
+    "options": [
+      "2011",
+      "1991",
+      "2001",
+      "2021"
+    ],
+    "answer": "2021",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Ramappa"
+  },
+  {
+    "id": "quest_tg_039",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Why is Ramappa Temple notable for its name?",
+    "options": [
+      "It was named after a king",
+      "It was named after a village",
+      "It was named after a river",
+      "It is India's only temple named after its sculptor, Ramappa"
+    ],
+    "answer": "It is India's only temple named after its sculptor, Ramappa",
+    "difficulty": "hard",
+    "source": "Telangana Tourism – Ramappa"
+  },
+  {
+    "id": "quest_tg_040",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What unusual building material is famous at Ramappa Temple?",
+    "options": [
+      "Light stones described as floating bricks",
+      "Wooden bricks",
+      "Copper bricks",
+      "Glass bricks"
+    ],
+    "answer": "Light stones described as floating bricks",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Ramappa"
+  },
+  {
+    "id": "quest_tg_041",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How high is the hill at Yadagirigutta according to Telangana Tourism?",
+    "options": [
+      "410 metres",
+      "610 metres",
+      "810 metres",
+      "1,010 metres"
+    ],
+    "answer": "610 metres",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Yadadri Bhuvanagiri"
+  },
+  {
+    "id": "quest_tg_042",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What unusual shape does Yadagirigutta resemble from the south according to the source?",
+    "options": [
+      "A tortoise",
+      "A horse",
+      "A lion",
+      "A peacock"
+    ],
+    "answer": "A tortoise",
+    "difficulty": "hard",
+    "source": "Telangana Tourism – Yadadri Bhuvanagiri"
+  },
+  {
+    "id": "quest_tg_043",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ruler is believed to have constructed Bhuvanagiri Fort?",
+    "options": [
+      "Asaf Jah I",
+      "Tribhuvanamalla Vikramadithya VI",
+      "Muhammad Quli Qutb Shah",
+      "Rudra Deva"
+    ],
+    "answer": "Tribhuvanamalla Vikramadithya VI",
+    "difficulty": "hard",
+    "source": "Telangana Tourism – Yadadri Bhuvanagiri"
+  },
+  {
+    "id": "quest_tg_044",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On the banks of which river is Bhadrachalam located?",
+    "options": [
+      "Godavari River",
+      "Tungabhadra River",
+      "Krishna River",
+      "Pennar River"
+    ],
+    "answer": "Godavari River",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Bhadrachalam"
+  },
+  {
+    "id": "quest_tg_045",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Basara is dedicated to Goddess Saraswati?",
+    "options": [
+      "Bhadrachalam Temple",
+      "Yadadri Temple",
+      "Vemulawada Temple",
+      "Gnana Saraswati Temple"
+    ],
+    "answer": "Gnana Saraswati Temple",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Basara"
+  },
+  {
+    "id": "quest_tg_046",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What ritual is Basara especially known for?",
+    "options": [
+      "Aksharabhyasam",
+      "Rath Yatra",
+      "Kumbh Mela",
+      "Navaratri Garba"
+    ],
+    "answer": "Aksharabhyasam",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Spiritual Telangana"
+  },
+  {
+    "id": "quest_tg_047",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Telangana floral festival is celebrated exclusively by women according to Telangana Tourism?",
+    "options": [
+      "Sammakka-Saralamma Jatara",
+      "Bonalu",
+      "Bathukamma",
+      "Ramzan"
+    ],
+    "answer": "Bathukamma",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Heritage of Telangana"
+  },
+  {
+    "id": "quest_tg_048",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is dedicated to Goddess Mahakali?",
+    "options": [
+      "Bathukamma",
+      "Deccan Festival",
+      "Bonalu",
+      "Sammakka-Saralamma Jatara"
+    ],
+    "answer": "Bonalu",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Heritage of Telangana"
+  },
+  {
+    "id": "quest_tg_049",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Where is the Sammakka-Saralamma Jatara held?",
+    "options": [
+      "Medaram",
+      "Hyderabad",
+      "Yadagirigutta",
+      "Warangal Fort"
+    ],
+    "answer": "Medaram",
+    "difficulty": "easy",
+    "source": "Telangana Tourism – Heritage of Telangana"
+  },
+  {
+    "id": "quest_tg_050",
+    "state": "Telangana",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How is the Sammakka-Saralamma Jatara described by Telangana Tourism?",
+    "options": [
+      "A royal palace festival",
+      "One of the largest tribal congregations in Asia",
+      "India's oldest temple festival",
+      "A coastal boat festival"
+    ],
+    "answer": "One of the largest tribal congregations in Asia",
+    "difficulty": "medium",
+    "source": "Telangana Tourism – Heritage of Telangana"
+  }
+]

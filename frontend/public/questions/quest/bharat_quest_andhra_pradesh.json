@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_ap_001",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Why is Andhra Pradesh called India's 'Rice Bowl' in the official source?",
+    "options": [
+      "It is surrounded by rice-growing islands",
+      "It has the country's largest rice museum",
+      "Its fertile Krishna and Godavari river basins support high-yielding rice crops",
+      "It produces only basmati rice"
+    ],
+    "answer": "Its fertile Krishna and Godavari river basins support high-yielding rice crops",
+    "difficulty": "medium",
+    "source": "Incredible India – Andhra Pradesh"
+  },
+  {
+    "id": "quest_ap_002",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two major river basins are highlighted in Andhra Pradesh's 'Rice Bowl' description?",
+    "options": [
+      "Kaveri and Vaigai",
+      "Ganga and Yamuna",
+      "Narmada and Tapi",
+      "Krishna and Godavari"
+    ],
+    "answer": "Krishna and Godavari",
+    "difficulty": "easy",
+    "source": "Incredible India – Andhra Pradesh"
+  },
+  {
+    "id": "quest_ap_003",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous Andhra Pradesh heritage site is known for Vijayanagara architecture and a hanging pillar?",
+    "options": [
+      "Undavalli",
+      "Lepakshi",
+      "Amaravati",
+      "Tirupati"
+    ],
+    "answer": "Lepakshi",
+    "difficulty": "easy",
+    "source": "Incredible India – Andhra Pradesh"
+  },
+  {
+    "id": "quest_ap_004",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which textile tradition is associated with Machilipatnam in the official source?",
+    "options": [
+      "Pattachitra",
+      "Kalamkari",
+      "Phulkari",
+      "Chikankari"
+    ],
+    "answer": "Kalamkari",
+    "difficulty": "easy",
+    "source": "Incredible India – Andhra Pradesh"
+  },
+  {
+    "id": "quest_ap_005",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On which river are the Amaravati heritage sites located?",
+    "options": [
+      "Krishna River",
+      "Godavari River",
+      "Pennar River",
+      "Tungabhadra River"
+    ],
+    "answer": "Krishna River",
+    "difficulty": "easy",
+    "source": "Incredible India – Amaravati"
+  },
+  {
+    "id": "quest_ap_006",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Amaravati's most famous ancient Buddhist monument?",
+    "options": [
+      "Amaravati Stupa (Mahachaitya)",
+      "Bavikonda Stupa",
+      "Dhamek Stupa",
+      "Sanchi Stupa"
+    ],
+    "answer": "Amaravati Stupa (Mahachaitya)",
+    "difficulty": "easy",
+    "source": "Incredible India – Amaravati"
+  },
+  {
+    "id": "quest_ap_007",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "To which century BCE does the Amaravati Stupa date according to the Amaravati source?",
+    "options": [
+      "2nd century BCE",
+      "6th century BCE",
+      "2nd century CE",
+      "7th century CE"
+    ],
+    "answer": "2nd century BCE",
+    "difficulty": "medium",
+    "source": "Incredible India – Amaravati"
+  },
+  {
+    "id": "quest_ap_008",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty's reign is associated with the construction of the Amaravati Stupa in the source?",
+    "options": [
+      "Gupta dynasty",
+      "Chola dynasty",
+      "Satavahana dynasty",
+      "Maurya dynasty"
+    ],
+    "answer": "Satavahana dynasty",
+    "difficulty": "medium",
+    "source": "Incredible India – Amaravati"
+  },
+  {
+    "id": "quest_ap_009",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What scenes are depicted in carvings on the Amaravati Stupa?",
+    "options": [
+      "Only scenes of warfare",
+      "Only scenes of sea trade",
+      "Scenes from the life of the Buddha and Buddhist motifs",
+      "Scenes from Mughal courts"
+    ],
+    "answer": "Scenes from the life of the Buddha and Buddhist motifs",
+    "difficulty": "easy",
+    "source": "Incredible India – Amaravati Mahachaitya"
+  },
+  {
+    "id": "quest_ap_010",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Buddhist teaching is Amaravati traditionally associated with spreading?",
+    "options": [
+      "Kalachakra",
+      "Mahayana only",
+      "Zen",
+      "Vipassana"
+    ],
+    "answer": "Kalachakra",
+    "difficulty": "hard",
+    "source": "Incredible India – Amaravati"
+  },
+  {
+    "id": "quest_ap_011",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple in Amaravati is dedicated to Lord Shiva?",
+    "options": [
+      "Sri Venkateswara Temple",
+      "Amaralingeswara Temple",
+      "Veerabhadra Temple",
+      "Simhachalam Temple"
+    ],
+    "answer": "Amaralingeswara Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Amaralingeswara Temple"
+  },
+  {
+    "id": "quest_ap_012",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which two architectural styles are combined in Amaralingeswara Temple?",
+    "options": [
+      "Buddhist and Jain",
+      "Dravidian and Nagara",
+      "Gothic and Dravidian",
+      "Nagara and Mughal"
+    ],
+    "answer": "Dravidian and Nagara",
+    "difficulty": "medium",
+    "source": "Incredible India – Amaralingeswara Temple"
+  },
+  {
+    "id": "quest_ap_013",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty is believed to have constructed the Amaralingeswara Temple in its ancient origins?",
+    "options": [
+      "Vijayanagara dynasty",
+      "Satavahana dynasty",
+      "Pallava dynasty",
+      "Chola dynasty"
+    ],
+    "answer": "Satavahana dynasty",
+    "difficulty": "medium",
+    "source": "Incredible India – Amaralingeswara Temple"
+  },
+  {
+    "id": "quest_ap_014",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is located near Amaralingeswara Temple besides the Amaravati Stupa?",
+    "options": [
+      "Dhyana Buddha and Amaravati Museum",
+      "Kailasa Temple and Museum",
+      "Bangalore Palace and Museum",
+      "Charminar and Museum"
+    ],
+    "answer": "Dhyana Buddha and Amaravati Museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Amaralingeswara Temple"
+  },
+  {
+    "id": "quest_ap_015",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is worshipped at the Sri Venkateswara Swamy Vaari Temple?",
+    "options": [
+      "Shiva",
+      "Brahma",
+      "Ganesha",
+      "Venkateswara, a form of Vishnu"
+    ],
+    "answer": "Venkateswara, a form of Vishnu",
+    "difficulty": "easy",
+    "source": "Incredible India – Sri Venkateswara Swamy Vaari Temple"
+  },
+  {
+    "id": "quest_ap_016",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On which hills does the Tirumala Temple stand?",
+    "options": [
+      "Seshachalam Hills",
+      "Eastern Ghats near Araku",
+      "Nilgiri Hills",
+      "Aravalli Hills"
+    ],
+    "answer": "Seshachalam Hills",
+    "difficulty": "medium",
+    "source": "Incredible India – Sri Venkateswara Swamy Vaari Temple"
+  },
+  {
+    "id": "quest_ap_017",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Why is the Tirupati temple called the 'Temple of Seven Hills'?",
+    "options": [
+      "It has seven gopurams",
+      "It stands on the seventh peak of the seven Tirumala peaks",
+      "It has seven temples inside",
+      "It was built by seven kings"
+    ],
+    "answer": "It stands on the seventh peak of the seven Tirumala peaks",
+    "difficulty": "medium",
+    "source": "Incredible India – Sri Venkateswara Swamy Vaari Temple"
+  },
+  {
+    "id": "quest_ap_018",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which three major dynasties are named as having developed the Tirupati temple over the centuries?",
+    "options": [
+      "Pallavas, Cholas and Vijayanagara",
+      "Satavahanas, Pallavas and Chalukyas",
+      "Mauryas, Guptas and Mughals",
+      "Cholas, Pandyas and Marathas"
+    ],
+    "answer": "Pallavas, Cholas and Vijayanagara",
+    "difficulty": "hard",
+    "source": "Incredible India – Tirupati"
+  },
+  {
+    "id": "quest_ap_019",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous sweet is distributed as prasadam at the Tirupati temple?",
+    "options": [
+      "Putharekulu",
+      "Ariselu",
+      "Tirupati Laddu",
+      "Mysore Pak"
+    ],
+    "answer": "Tirupati Laddu",
+    "difficulty": "easy",
+    "source": "Incredible India – Tirupati"
+  },
+  {
+    "id": "quest_ap_020",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is described as a nine-day celebration at Tirupati Temple?",
+    "options": [
+      "Dasara",
+      "Rath Yatra",
+      "Onam",
+      "Brahmotsavam"
+    ],
+    "answer": "Brahmotsavam",
+    "difficulty": "medium",
+    "source": "Incredible India – Sri Venkateswara Swamy Vaari Temple"
+  },
+  {
+    "id": "quest_ap_021",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfall is described as Andhra Pradesh's tallest?",
+    "options": [
+      "Kailasakona Waterfall",
+      "Borra Waterfall",
+      "Ethipothala Falls",
+      "Talakona Waterfall"
+    ],
+    "answer": "Talakona Waterfall",
+    "difficulty": "easy",
+    "source": "Incredible India – Tirupati"
+  },
+  {
+    "id": "quest_ap_022",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park is located in the Tirupati region?",
+    "options": [
+      "Kanha National Park",
+      "Sri Venkateswara National Park",
+      "Similipal National Park",
+      "Nagarhole National Park"
+    ],
+    "answer": "Sri Venkateswara National Park",
+    "difficulty": "easy",
+    "source": "Incredible India – Tirupati"
+  },
+  {
+    "id": "quest_ap_023",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which temple in Tirupati was completed in 1130 CE according to the source?",
+    "options": [
+      "Srikalahasti Temple",
+      "Sri Venkateswara Temple",
+      "Sri Govindaraja Swamy Temple",
+      "Padmavathi Temple"
+    ],
+    "answer": "Sri Govindaraja Swamy Temple",
+    "difficulty": "hard",
+    "source": "Incredible India – Tirupati"
+  },
+  {
+    "id": "quest_ap_024",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is the main landmark of Lepakshi?",
+    "options": [
+      "Amaralingeswara Temple",
+      "Veerabhadra Temple",
+      "Venkateswara Temple",
+      "Simhachalam Temple"
+    ],
+    "answer": "Veerabhadra Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Lepakshi Temple"
+  },
+  {
+    "id": "quest_ap_025",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which empire's architectural style is represented by the Lepakshi Temple?",
+    "options": [
+      "Mughal Empire",
+      "Satavahana Empire",
+      "Vijayanagara Empire",
+      "Maurya Empire"
+    ],
+    "answer": "Vijayanagara Empire",
+    "difficulty": "medium",
+    "source": "Incredible India – Lepakshi Temple"
+  },
+  {
+    "id": "quest_ap_026",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What famous architectural feature appears to hang in mid-air at Lepakshi?",
+    "options": [
+      "Hanging Dome",
+      "Hanging Pillar",
+      "Floating Staircase",
+      "Suspended Gopuram"
+    ],
+    "answer": "Hanging Pillar",
+    "difficulty": "easy",
+    "source": "Incredible India – Lepakshi Temple"
+  },
+  {
+    "id": "quest_ap_027",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What other monumental sculpture is Lepakshi famous for?",
+    "options": [
+      "Monolithic Buddha",
+      "Monolithic elephant",
+      "Monolithic Garuda",
+      "Monolithic Nandi"
+    ],
+    "answer": "Monolithic Nandi",
+    "difficulty": "easy",
+    "source": "Incredible India – Lepakshi Temple"
+  },
+  {
+    "id": "quest_ap_028",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Veerabhadra Temple dedicated to?",
+    "options": [
+      "Lord Surya",
+      "Lord Veerabhadra",
+      "Lord Vishnu",
+      "Lord Brahma"
+    ],
+    "answer": "Lord Veerabhadra",
+    "difficulty": "easy",
+    "source": "Incredible India – Lepakshi Temple"
+  },
+  {
+    "id": "quest_ap_029",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do the Lepakshi temple murals and carvings prominently depict?",
+    "options": [
+      "Only scenes of sea trade",
+      "Only royal portraits",
+      "Only Buddhist monks",
+      "Hindu religious stories and deities"
+    ],
+    "answer": "Hindu religious stories and deities",
+    "difficulty": "medium",
+    "source": "Incredible India – Lepakshi Temple"
+  },
+  {
+    "id": "quest_ap_030",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "To which centuries do the Undavalli Caves date according to the official source?",
+    "options": [
+      "4th and 5th centuries CE",
+      "10th and 11th centuries CE",
+      "1st and 2nd centuries CE",
+      "16th and 17th centuries CE"
+    ],
+    "answer": "4th and 5th centuries CE",
+    "difficulty": "medium",
+    "source": "Incredible India – Undavalli Caves"
+  },
+  {
+    "id": "quest_ap_031",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which river is next to the Undavalli Caves?",
+    "options": [
+      "Godavari River",
+      "Tungabhadra River",
+      "Krishna River",
+      "Pennar River"
+    ],
+    "answer": "Krishna River",
+    "difficulty": "easy",
+    "source": "Incredible India – Undavalli Caves"
+  },
+  {
+    "id": "quest_ap_032",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which large sculpture is a major attraction of the Undavalli Caves?",
+    "options": [
+      "Standing Buddha",
+      "Dancing Shiva",
+      "Reclining Vishnu",
+      "Seated Mahavira"
+    ],
+    "answer": "Reclining Vishnu",
+    "difficulty": "easy",
+    "source": "Incredible India – Undavalli Caves"
+  },
+  {
+    "id": "quest_ap_033",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What materials were the Undavalli Caves carved into?",
+    "options": [
+      "Solid sandstone",
+      "Marble",
+      "Basalt",
+      "Granite only"
+    ],
+    "answer": "Solid sandstone",
+    "difficulty": "easy",
+    "source": "Incredible India – Undavalli Caves"
+  },
+  {
+    "id": "quest_ap_034",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty's influence is associated with the Undavalli Caves?",
+    "options": [
+      "Pallava dynasty",
+      "Chola dynasty",
+      "Satavahana dynasty",
+      "Vishnukundina dynasty"
+    ],
+    "answer": "Vishnukundina dynasty",
+    "difficulty": "hard",
+    "source": "Incredible India – Undavalli Caves"
+  },
+  {
+    "id": "quest_ap_035",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religious traditions are reflected together in Undavalli's architecture?",
+    "options": [
+      "Islamic and Christian traditions",
+      "Buddhist and Hindu traditions",
+      "Jain and Sikh traditions",
+      "Only Hindu traditions"
+    ],
+    "answer": "Buddhist and Hindu traditions",
+    "difficulty": "medium",
+    "source": "Incredible India – Undavalli Caves"
+  },
+  {
+    "id": "quest_ap_036",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is described as Andhra Pradesh's largest coastal city in the Borra Caves source?",
+    "options": [
+      "Visakhapatnam",
+      "Tirupati",
+      "Guntur",
+      "Vijayawada"
+    ],
+    "answer": "Visakhapatnam",
+    "difficulty": "easy",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_037",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where are the Borra Caves located?",
+    "options": [
+      "Eastern Ghats near Vijayawada",
+      "Seshachalam Hills",
+      "Nallamala Hills near Kurnool",
+      "Ananthagiri Hills in Araku Valley"
+    ],
+    "answer": "Ananthagiri Hills in Araku Valley",
+    "difficulty": "easy",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_038",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of rock forms the Borra Caves?",
+    "options": [
+      "Sandstone",
+      "Limestone",
+      "Basalt",
+      "Granite"
+    ],
+    "answer": "Limestone",
+    "difficulty": "easy",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_039",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows below the Borra Caves?",
+    "options": [
+      "Godavari River",
+      "Krishna River",
+      "Pennar River",
+      "Gosthani River"
+    ],
+    "answer": "Gosthani River",
+    "difficulty": "medium",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_040",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What cave formations hang from the ceiling of Borra Caves?",
+    "options": [
+      "Stalagmites",
+      "Columns only",
+      "Mushrooms",
+      "Stalactites"
+    ],
+    "answer": "Stalactites",
+    "difficulty": "easy",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_041",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What cave formations rise from the ground at Borra Caves?",
+    "options": [
+      "Corals",
+      "Dunes",
+      "Stalactites",
+      "Stalagmites"
+    ],
+    "answer": "Stalagmites",
+    "difficulty": "easy",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_042",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who discovered Borra Caves scientifically in 1807 according to the official source?",
+    "options": [
+      "Alexander Cunningham",
+      "James Prinsep",
+      "William King George of the Geological Survey of India",
+      "Colin Mackenzie"
+    ],
+    "answer": "William King George of the Geological Survey of India",
+    "difficulty": "hard",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_043",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What ancient evidence has been found in Borra Caves?",
+    "options": [
+      "Chola inscriptions",
+      "Mughal weapons",
+      "Stone tools older than 30,000–50,000 years",
+      "Roman coins from 100 CE"
+    ],
+    "answer": "Stone tools older than 30,000–50,000 years",
+    "difficulty": "hard",
+    "source": "Incredible India – Borra Caves"
+  },
+  {
+    "id": "quest_ap_044",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Araku Valley known for according to the official source?",
+    "options": [
+      "Tea gardens and glaciers",
+      "Desert dunes and salt flats",
+      "Coffee plantations, streams, waterfalls and green valleys",
+      "Mangrove forests"
+    ],
+    "answer": "Coffee plantations, streams, waterfalls and green valleys",
+    "difficulty": "easy",
+    "source": "Incredible India – Visakha Museum"
+  },
+  {
+    "id": "quest_ap_045",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Visakhapatnam is housed in a former Dutch bungalow?",
+    "options": [
+      "Visakha Museum",
+      "Archaeology Museum",
+      "Kursura Submarine Museum",
+      "Maritime Museum"
+    ],
+    "answer": "Visakha Museum",
+    "difficulty": "medium",
+    "source": "Incredible India – Visakha Museum"
+  },
+  {
+    "id": "quest_ap_046",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What kind of heritage does the Visakha Museum preserve?",
+    "options": [
+      "History and culture of Visakhapatnam and surrounding regions",
+      "Only naval equipment",
+      "Only modern art",
+      "Only temple sculptures"
+    ],
+    "answer": "History and culture of Visakhapatnam and surrounding regions",
+    "difficulty": "easy",
+    "source": "Incredible India – Visakha Museum"
+  },
+  {
+    "id": "quest_ap_047",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the Kursura Submarine Museum allow visitors to explore?",
+    "options": [
+      "A railway engine",
+      "A palace underground",
+      "Parts of an actual submarine",
+      "A reconstructed ancient ship"
+    ],
+    "answer": "Parts of an actual submarine",
+    "difficulty": "easy",
+    "source": "Incredible India – Kursura Submarine Museum"
+  },
+  {
+    "id": "quest_ap_048",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which two naval systems are specifically mentioned inside the submarine museum?",
+    "options": [
+      "Telegraph and radio",
+      "Steam engine and boiler",
+      "Compass and sextant",
+      "Radar and sonar"
+    ],
+    "answer": "Radar and sonar",
+    "difficulty": "medium",
+    "source": "Incredible India – Kursura Submarine Museum"
+  },
+  {
+    "id": "quest_ap_049",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Buddhist site near Visakhapatnam consists of 26 structures from three phases?",
+    "options": [
+      "Undavalli",
+      "Bavikonda",
+      "Lepakshi",
+      "Amaravati"
+    ],
+    "answer": "Bavikonda",
+    "difficulty": "hard",
+    "source": "Incredible India – Visakhapatnam"
+  },
+  {
+    "id": "quest_ap_050",
+    "state": "Andhra Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'Bavikonda' mean in Telugu?",
+    "options": [
+      "Golden hill",
+      "Hill of temples",
+      "A hill of wells",
+      "Hill of caves"
+    ],
+    "answer": "A hill of wells",
+    "difficulty": "medium",
+    "source": "Incredible India – Visakhapatnam"
+  }
+]

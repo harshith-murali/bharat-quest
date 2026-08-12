@@ -2,11 +2,12 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Section } from '../types';
 import { fetchSections } from '../api/client';
+import { useSession } from '../store/sessionStore';
 
 export default function SectionSelectPage() {
   const navigate = useNavigate();
   const [sections, setSections] = useState<Section[]>([]);
-  const [selectedStandard, setSelectedStandard] = useState<string>('Class 6');
+  const [selectedStandard, setSelectedStandard] = useState<string>('Class 3');
   const [selectedSectionId, setSelectedSectionId] = useState<string>('');
   const [loading, setLoading] = useState(true);
   const [isOnline, setIsOnline] = useState(navigator.onLine);
@@ -46,6 +47,8 @@ export default function SectionSelectPage() {
     load();
   }, []);
 
+  const [selectedSectionName, setSelectedSectionName] = useState<string>('Section A');
+
   // Filter sections matching selected standard grade (or show all if no match)
   const filteredSections = sections.filter((s) => {
     const stdNum = selectedStandard.replace(/\D/g, ''); // e.g. "6"
@@ -54,16 +57,39 @@ export default function SectionSelectPage() {
 
   const availableSections = filteredSections.length > 0 ? filteredSections : sections;
 
+  const { setSessionContext } = useSession();
+
   function handleLoginSubmit(e: React.FormEvent) {
     e.preventDefault();
-    if (!selectedSectionId && availableSections.length > 0) {
-      navigate(`/game/${availableSections[0].id}`);
+    const gradeNum = parseInt(selectedStandard.replace(/\D/g, ''), 10) || 3;
+    const sectionLetter = selectedSectionName.replace(/Section\s*/i, '').trim() || 'A';
+
+    // Resolve the classroom that actually matches the chosen Class + Section.
+    //
+    // This previously fell back to `availableSections[0]`, which meant picking
+    // "Class 5 · Section C" could silently load a different classroom's
+    // students and progress. Match on the real grade/section_letter columns,
+    // falling back to the name only for legacy rows that predate them.
+    const targetSection =
+      sections.find(
+        (s) =>
+          (s as { grade?: number }).grade === gradeNum &&
+          (s as { section_letter?: string }).section_letter?.toUpperCase() ===
+            sectionLetter.toUpperCase()
+      ) ||
+      sections.find((s) => s.name === `Grade ${gradeNum} - ${sectionLetter.toUpperCase()}`) ||
+      sections.find((s) => s.id === selectedSectionId);
+
+    if (!targetSection) {
+      setError(
+        `No classroom record for Class ${gradeNum} · Section ${sectionLetter}. ` +
+          'Ask an administrator to create it.'
+      );
       return;
     }
-    if (selectedSectionId) {
-      const targetSection = sections.find((s) => s.id === selectedSectionId) || availableSections[0];
-      navigate(`/game/${targetSection.id}`, { state: { section: targetSection } });
-    }
+
+    setSessionContext(gradeNum, sectionLetter, targetSection, []);
+    navigate(`/session/${targetSection.id}/dashboard`, { state: { section: targetSection } });
   }
 
   return (
@@ -102,8 +128,6 @@ export default function SectionSelectPage() {
         </div>
 
         <div className="flex items-center gap-2">
-          <span className="hud-pill hud-pill-coin">🪙 5,200</span>
-          <span className="hud-pill hud-pill-gem">💎 320</span>
           <span className={`badge ${isOnline ? 'badge-online' : 'badge-offline'}`}>
             {isOnline ? '🟢 Online' : '🔴 Offline'}
           </span>
@@ -222,8 +246,8 @@ export default function SectionSelectPage() {
                 >
                   Standard / Grade
                 </label>
-                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '0.5rem' }}>
-                  {['Class 5', 'Class 6', 'Class 7', 'Class 8'].map((std) => {
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '0.5rem' }}>
+                  {['Class 3', 'Class 4', 'Class 5', 'Class 6', 'Class 7'].map((std) => {
                     const active = selectedStandard === std;
                     return (
                       <button
@@ -235,7 +259,60 @@ export default function SectionSelectPage() {
                           if (matching) setSelectedSectionId(matching.id);
                         }}
                         style={{
-                          padding: '0.6rem 0.4rem',
+                          padding: '0.6rem 0.3rem',
+                          borderRadius: '10px',
+                          border: active ? '2px solid var(--color-saffron)' : '1px solid var(--color-border)',
+                          background: active
+                            ? 'linear-gradient(135deg, rgba(255,153,51,0.25), rgba(255,119,0,0.15))'
+                            : 'var(--color-surface-2)',
+                          color: active ? 'var(--color-saffron)' : 'var(--color-text-primary)',
+                          fontFamily: 'var(--font-display)',
+                          fontWeight: active ? 900 : 700,
+                          fontSize: '0.85rem',
+                          cursor: 'pointer',
+                          transition: 'all 0.2s ease',
+                          boxShadow: active ? '0 0 14px rgba(255,153,51,0.3)' : 'none',
+                          whiteSpace: 'nowrap',
+                        }}
+                      >
+                        {std}
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+
+              {/* Field 2: Classroom Section Select (Section A, B, C, D) */}
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '0.4rem' }}>
+                <label
+                  style={{
+                    fontFamily: 'var(--font-display)',
+                    fontSize: '0.88rem',
+                    fontWeight: 800,
+                    color: 'var(--color-text-primary)',
+                    letterSpacing: '0.3px',
+                  }}
+                >
+                  Classroom Section
+                </label>
+
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '0.5rem' }}>
+                  {['Section A', 'Section B', 'Section C', 'Section D'].map((sec) => {
+                    const active = selectedSectionName === sec;
+                    return (
+                      <button
+                        type="button"
+                        key={sec}
+                        onClick={() => {
+                          setSelectedSectionName(sec);
+                          const letter = sec.replace('Section ', '');
+                          const matching = sections.find((s) => s.name.endsWith(letter) || s.name.includes(letter));
+                          if (matching) {
+                            setSelectedSectionId(matching.id);
+                          }
+                        }}
+                        style={{
+                          padding: '0.66rem 0.4rem',
                           borderRadius: '10px',
                           border: active ? '2px solid var(--color-saffron)' : '1px solid var(--color-border)',
                           background: active
@@ -250,57 +327,11 @@ export default function SectionSelectPage() {
                           boxShadow: active ? '0 0 14px rgba(255,153,51,0.3)' : 'none',
                         }}
                       >
-                        {std}
+                        {sec}
                       </button>
                     );
                   })}
                 </div>
-              </div>
-
-              {/* Field 2: Section Select Dropdown */}
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '0.4rem' }}>
-                <label
-                  style={{
-                    fontFamily: 'var(--font-display)',
-                    fontSize: '0.88rem',
-                    fontWeight: 800,
-                    color: 'var(--color-text-primary)',
-                    letterSpacing: '0.3px',
-                  }}
-                >
-                  Classroom Section
-                </label>
-
-                {loading ? (
-                  <div style={{ padding: '0.75rem', background: 'var(--color-surface-2)', borderRadius: '12px', textAlign: 'center', color: 'var(--color-text-secondary)', fontSize: '0.85rem' }}>
-                    Loading sections…
-                  </div>
-                ) : (
-                  <select
-                    value={selectedSectionId}
-                    onChange={(e) => setSelectedSectionId(e.target.value)}
-                    style={{
-                      width: '100%',
-                      padding: '0.85rem 1.1rem',
-                      borderRadius: '12px',
-                      border: '1.5px solid var(--color-border)',
-                      background: 'var(--color-surface-2)',
-                      color: 'var(--color-text-primary)',
-                      fontFamily: 'var(--font-display)',
-                      fontWeight: 700,
-                      fontSize: '1rem',
-                      outline: 'none',
-                      cursor: 'pointer',
-                      boxShadow: 'inset 0 2px 4px rgba(0,0,0,0.3)',
-                    }}
-                  >
-                    {availableSections.map((section) => (
-                      <option key={section.id} value={section.id} style={{ background: '#141824', color: '#fff' }}>
-                        Section {section.name} — {section.current_mission_id ? `Active Mission (${section.current_mission_id})` : 'NCERT Explorer'}
-                      </option>
-                    ))}
-                  </select>
-                )}
               </div>
 
               {/* Submit Action Button */}

@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "quest_sk_001",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital of Sikkim?",
+    "options": [
+      "Gyalshing",
+      "Gangtok",
+      "Mangan",
+      "Namchi"
+    ],
+    "answer": "Gangtok",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_002",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Sikkim lies in which major mountain region?",
+    "options": [
+      "Aravalli Range",
+      "Western Ghats",
+      "Eastern Himalayas",
+      "Eastern Ghats"
+    ],
+    "answer": "Eastern Himalayas",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_003",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which country borders Sikkim to the north and northeast?",
+    "options": [
+      "Bhutan",
+      "Bangladesh",
+      "China",
+      "Nepal"
+    ],
+    "answer": "China",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_004",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which country borders Sikkim to the southeast?",
+    "options": [
+      "China",
+      "Bhutan",
+      "Bangladesh",
+      "Nepal"
+    ],
+    "answer": "Bhutan",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_005",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which country borders Sikkim to the west?",
+    "options": [
+      "Nepal",
+      "Bhutan",
+      "China",
+      "Myanmar"
+    ],
+    "answer": "Nepal",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_006",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which Indian state borders Sikkim to the south?",
+    "options": [
+      "Arunachal Pradesh",
+      "Bihar",
+      "West Bengal",
+      "Assam"
+    ],
+    "answer": "West Bengal",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_007",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which peak is described by Sikkim Tourism as the highest peak in India?",
+    "options": [
+      "Kangchenjunga",
+      "Anamudi",
+      "Kamet",
+      "Nanda Devi"
+    ],
+    "answer": "Kangchenjunga",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_008",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Kangchenjunga is described as which highest peak in the world?",
+    "options": [
+      "Fifth",
+      "Third",
+      "Second",
+      "Fourth"
+    ],
+    "answer": "Third",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_009",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately what percentage of Sikkim is covered by Khangchendzonga National Park?",
+    "options": [
+      "35%",
+      "50%",
+      "70%",
+      "15%"
+    ],
+    "answer": "35%",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_010",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year did Sikkim become a protectorate of India?",
+    "options": [
+      "1975",
+      "1950",
+      "1947",
+      "1962"
+    ],
+    "answer": "1950",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_011",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year did Sikkim become an Indian state?",
+    "options": [
+      "1987",
+      "1965",
+      "1950",
+      "1975"
+    ],
+    "answer": "1975",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_012",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How many districts does Sikkim Tourism currently list?",
+    "options": [
+      "Five",
+      "Four",
+      "Eight",
+      "Six"
+    ],
+    "answer": "Six",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_013",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two districts were added in December 2021?",
+    "options": [
+      "Namchi and Mangan",
+      "Pakyong and Namchi",
+      "Pakyong and Soreng",
+      "Gangtok and Gyalshing"
+    ],
+    "answer": "Pakyong and Soreng",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_014",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three communities are highlighted as indigenous communities of Sikkim?",
+    "options": [
+      "Lepcha, Bhutia and Nepali",
+      "Mizo, Naga and Kuki",
+      "Bodo, Rabha and Karbi",
+      "Garo, Khasi and Jaintia"
+    ],
+    "answer": "Lepcha, Bhutia and Nepali",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_015",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which community is described as one of the earliest inhabitants of Sikkim?",
+    "options": [
+      "Bhutia",
+      "Lepcha",
+      "Sherpa",
+      "Nepali"
+    ],
+    "answer": "Lepcha",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_016",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "From which region of Tibet did the Bhutia community migrate according to Sikkim Tourism?",
+    "options": [
+      "Kham",
+      "Lhasa",
+      "Amdo",
+      "Ngari"
+    ],
+    "answer": "Kham",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_017",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which community is described as the predominant community of Sikkim?",
+    "options": [
+      "Sherpa",
+      "Bhutia",
+      "Lepcha",
+      "Nepali"
+    ],
+    "answer": "Nepali",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_018",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which language is described as the lingua franca spoken across Sikkim?",
+    "options": [
+      "Nepali",
+      "Lepcha",
+      "English",
+      "Bhutia"
+    ],
+    "answer": "Nepali",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_019",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which of these is an official language of Sikkim?",
+    "options": [
+      "Bengali",
+      "Hindi",
+      "Assamese",
+      "Lepcha"
+    ],
+    "answer": "Lepcha",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_020",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which set contains only official languages listed by Sikkim Tourism?",
+    "options": [
+      "English, Nepali, Sikkimese (Bhutia), Lepcha",
+      "English, Hindi, Bhutia, Tamil",
+      "Nepali, Assamese, Lepcha, Bengali",
+      "Hindi, Bengali, Nepali, Lepcha"
+    ],
+    "answer": "English, Nepali, Sikkimese (Bhutia), Lepcha",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_021",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district contains Tsomgo Lake and Nathula Pass?",
+    "options": [
+      "Mangan",
+      "Namchi",
+      "Gyalshing",
+      "Gangtok"
+    ],
+    "answer": "Gangtok",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_022",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which district is described as the largest and one of the most beautiful in Sikkim?",
+    "options": [
+      "Mangan",
+      "Gangtok",
+      "Soreng",
+      "Namchi"
+    ],
+    "answer": "Mangan",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_023",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district is associated with Yumthang Valley of Flowers?",
+    "options": [
+      "Pakyong",
+      "Namchi",
+      "Soreng",
+      "Mangan"
+    ],
+    "answer": "Mangan",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_024",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district is home to the capital city Gangtok?",
+    "options": [
+      "Gangtok",
+      "Namchi",
+      "Pakyong",
+      "Mangan"
+    ],
+    "answer": "Gangtok",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_025",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district includes Namchi as its administrative centre?",
+    "options": [
+      "Soreng",
+      "Gangtok",
+      "Namchi",
+      "Mangan"
+    ],
+    "answer": "Namchi",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_026",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district includes Gyalshing?",
+    "options": [
+      "Pakyong",
+      "Gyalshing",
+      "Namchi",
+      "Gangtok"
+    ],
+    "answer": "Gyalshing",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_027",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district includes Mangan town?",
+    "options": [
+      "Gangtok",
+      "Namchi",
+      "Soreng",
+      "Mangan"
+    ],
+    "answer": "Mangan",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_028",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district is one of Sikkim's newer districts added in 2021?",
+    "options": [
+      "Mangan",
+      "Gyalshing",
+      "Namchi",
+      "Soreng"
+    ],
+    "answer": "Soreng",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_029",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district is associated with the town of Pakyong?",
+    "options": [
+      "Pakyong",
+      "Gangtok",
+      "Namchi",
+      "Mangan"
+    ],
+    "answer": "Pakyong",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_030",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town is the main administrative and business centre of Sikkim?",
+    "options": [
+      "Soreng",
+      "Namchi",
+      "Mangan",
+      "Gangtok"
+    ],
+    "answer": "Gangtok",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_031",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is another name for Tsomgo Lake?",
+    "options": [
+      "Gurudongmar Lake",
+      "Khecheopalri Lake",
+      "Changu Lake",
+      "Tsomgo Chho"
+    ],
+    "answer": "Changu Lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Tsomgo Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok/tsomgo-lake"
+  },
+  {
+    "id": "quest_sk_032",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At approximately what altitude is Tsomgo Lake located?",
+    "options": [
+      "12,313 feet",
+      "8,313 feet",
+      "10,313 feet",
+      "14,313 feet"
+    ],
+    "answer": "12,313 feet",
+    "difficulty": "medium",
+    "source": "Incredible India – Tsomgo Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok/tsomgo-lake"
+  },
+  {
+    "id": "quest_sk_033",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does 'Tsomgo' mean in Bhutia according to the official Sikkim report?",
+    "options": [
+      "Frozen water",
+      "Sacred mountain",
+      "Blue valley",
+      "Source of the lake"
+    ],
+    "answer": "Source of the lake",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_034",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the main source of water for Tsomgo Lake?",
+    "options": [
+      "Monsoon rivers",
+      "Underground springs only",
+      "Melting snow from surrounding mountains",
+      "Glacial waterfalls from Tibet"
+    ],
+    "answer": "Melting snow from surrounding mountains",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_035",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What happens to Tsomgo Lake in winter?",
+    "options": [
+      "It becomes salty",
+      "It changes into a river",
+      "It dries up",
+      "It remains frozen"
+    ],
+    "answer": "It remains frozen",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_036",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Why is Tsomgo Lake considered sacred?",
+    "options": [
+      "It is the source of the Teesta",
+      "It marks the state border",
+      "It contains a monastery on an island",
+      "It is revered by indigenous Sikkimese people and associated with protective deities"
+    ],
+    "answer": "It is revered by indigenous Sikkimese people and associated with protective deities",
+    "difficulty": "medium",
+    "source": "Incredible India – Tsomgo Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok/tsomgo-lake"
+  },
+  {
+    "id": "quest_sk_037",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which sanctuary can visitors visit near Tsomgo Lake?",
+    "options": [
+      "Singalila Sanctuary",
+      "Fambong Lho Sanctuary",
+      "Kyongnosla Alpine Sanctuary",
+      "Maenam Sanctuary"
+    ],
+    "answer": "Kyongnosla Alpine Sanctuary",
+    "difficulty": "medium",
+    "source": "Incredible India – Tsomgo Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok/tsomgo-lake"
+  },
+  {
+    "id": "quest_sk_038",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which border pass is located near Tsomgo Lake?",
+    "options": [
+      "Cho La Pass",
+      "Nathu La Pass",
+      "Jelep La Pass",
+      "Shipki La Pass"
+    ],
+    "answer": "Nathu La Pass",
+    "difficulty": "easy",
+    "source": "Incredible India – Tsomgo Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok/tsomgo-lake"
+  },
+  {
+    "id": "quest_sk_039",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far from Gangtok is Tsomgo Lake according to the official Sikkim report?",
+    "options": [
+      "18 km",
+      "38 km",
+      "58 km",
+      "78 km"
+    ],
+    "answer": "38 km",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_040",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At approximately what altitude is Nathu La described in the Sikkim tourism report?",
+    "options": [
+      "14,450 feet",
+      "10,450 feet",
+      "12,450 feet",
+      "16,450 feet"
+    ],
+    "answer": "14,450 feet",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_041",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far is Nathu La from Gangtok in the Sikkim tourism report?",
+    "options": [
+      "36 km",
+      "56 km",
+      "96 km",
+      "76 km"
+    ],
+    "answer": "56 km",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_042",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Nathu La is situated near which international border?",
+    "options": [
+      "India-Bhutan border",
+      "India-China border",
+      "India-Nepal border",
+      "India-Bangladesh border"
+    ],
+    "answer": "India-China border",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_043",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which memorial is one of the attractions on the route to Nathu La?",
+    "options": [
+      "Kangchenjunga Memorial",
+      "Sikkim Martyrs Memorial",
+      "Baba Harbhajan Singh Memorial",
+      "Tenzing Norgay Memorial"
+    ],
+    "answer": "Baba Harbhajan Singh Memorial",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Nathu La travel guide",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Notifications/3bb0789f-4439-46d2-903f-280db4334b63_Notice.pdf"
+  },
+  {
+    "id": "quest_sk_044",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which attraction near Nathu La is called the Staircase to the Indo-China Border?",
+    "options": [
+      "Zero Point",
+      "Nathu La Gate",
+      "Chumbi Valley View",
+      "Staircase to Indo-China Border"
+    ],
+    "answer": "Staircase to Indo-China Border",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Nathu La travel guide",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Notifications/3bb0789f-4439-46d2-903f-280db4334b63_Notice.pdf"
+  },
+  {
+    "id": "quest_sk_045",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which valley can be seen winding down from Nathu La on a clear day?",
+    "options": [
+      "Dzongri Valley",
+      "Yumthang Valley",
+      "Teesta Valley",
+      "Chumbi Valley"
+    ],
+    "answer": "Chumbi Valley",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – Swadesh Darshan 2.0",
+    "source_url": "https://sikkimtourism.gov.in/DownloadableFiles/Swadesh%20Darshan%202.0%20-%20Sikkim.pdf"
+  },
+  {
+    "id": "quest_sk_046",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is described as one of the most important monasteries in Sikkim?",
+    "options": [
+      "Pemayangtse",
+      "Phodong",
+      "Tashiding",
+      "Rumtek"
+    ],
+    "answer": "Rumtek",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_047",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three monasteries are grouped by Sikkim Tourism under its spiritual trails?",
+    "options": [
+      "Enchey, Phodong and Dubdi",
+      "Ralong, Rumtek and Gonjang",
+      "Rumtek, Pemayangtse and Tashiding",
+      "Pemayangtse, Enchey and Tashiding"
+    ],
+    "answer": "Rumtek, Pemayangtse and Tashiding",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_048",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is located in the town of Rumtek?",
+    "options": [
+      "Tashiding Monastery",
+      "Phodong Monastery",
+      "Pemayangtse Monastery",
+      "Rumtek Monastery"
+    ],
+    "answer": "Rumtek Monastery",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_049",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is specifically listed among Sikkim's sacred Himalayan destinations?",
+    "options": [
+      "Jagannath Temple",
+      "Pemayangtse Monastery",
+      "Kedarnath Temple",
+      "Kamakhya Temple"
+    ],
+    "answer": "Pemayangtse Monastery",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_050",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is associated with Tashiding?",
+    "options": [
+      "Rumtek Monastery",
+      "Tashiding Monastery",
+      "Phodong Monastery",
+      "Pemayangtse Monastery"
+    ],
+    "answer": "Tashiding Monastery",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_051",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery is specifically named among the attractions near Tsomgo Lake?",
+    "options": [
+      "Phodong Monastery",
+      "Rumtek Monastery",
+      "Tashiding Monastery",
+      "Pemayangtse Monastery"
+    ],
+    "answer": "Phodong Monastery",
+    "difficulty": "medium",
+    "source": "Incredible India – Tsomgo Lake",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok/tsomgo-lake"
+  },
+  {
+    "id": "quest_sk_052",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which monastery's Chham masked dances are highlighted by Sikkim Tourism?",
+    "options": [
+      "Rumtek",
+      "Enchey",
+      "Pemayangtse",
+      "Tashiding"
+    ],
+    "answer": "Rumtek",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Dances",
+    "source_url": "https://sikkimtourism.gov.in/about/dances"
+  },
+  {
+    "id": "quest_sk_053",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "At which three monasteries are Chhams described as especially impressive?",
+    "options": [
+      "Rumtek, Tashiding and Dubdi",
+      "Pemayangtse, Rumtek and Enchey",
+      "Pemayangtse, Tashiding and Ralang",
+      "Enchey, Phodong and Ralang"
+    ],
+    "answer": "Pemayangtse, Rumtek and Enchey",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – Dances",
+    "source_url": "https://sikkimtourism.gov.in/about/dances"
+  },
+  {
+    "id": "quest_sk_054",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which lake is described as sacred in Sikkim Tourism's alpine-lakes section?",
+    "options": [
+      "Umiam",
+      "Khecheopalri",
+      "Loktak",
+      "Tsomgo only"
+    ],
+    "answer": "Khecheopalri",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_055",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which lake is grouped with Khecheopalri and Tsomgo as a major alpine destination?",
+    "options": [
+      "Wular",
+      "Dal Lake",
+      "Chilika",
+      "Gurudongmar"
+    ],
+    "answer": "Gurudongmar",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_056",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which valley is known as Sikkim's Valley of Flowers?",
+    "options": [
+      "Yumthang",
+      "Teesta",
+      "Dzongri",
+      "Lachung"
+    ],
+    "answer": "Yumthang",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – About Sikkim",
+    "source_url": "https://www.sikkimtourism.gov.in/about/sikkim"
+  },
+  {
+    "id": "quest_sk_057",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which flowers are specifically mentioned among Sikkim's alpine blooms?",
+    "options": [
+      "Rhododendrons, orchids and primulas",
+      "Jasmine, hibiscus and lilies",
+      "Roses, tulips and lilies",
+      "Sunflowers, marigolds and lotuses"
+    ],
+    "answer": "Rhododendrons, orchids and primulas",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_058",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which trekking destination is listed with Goecha La and Yuksom?",
+    "options": [
+      "Namchi",
+      "Mangan",
+      "Dzongri",
+      "Pakyong"
+    ],
+    "answer": "Dzongri",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_059",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which mountain pass is listed as an adventure trekking destination?",
+    "options": [
+      "Goecha La",
+      "Nathu La only",
+      "Jelep La only",
+      "Cho La"
+    ],
+    "answer": "Goecha La",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_060",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which historic settlement is listed with Goecha La and Dzongri as a trekking destination?",
+    "options": [
+      "Ravangla",
+      "Yuksom",
+      "Pelling",
+      "Namchi"
+    ],
+    "answer": "Yuksom",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_061",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which national park is highlighted as a sanctuary of Himalayan biodiversity?",
+    "options": [
+      "Manas National Park",
+      "Kaziranga National Park",
+      "Singalila National Park",
+      "Khangchendzonga National Park"
+    ],
+    "answer": "Khangchendzonga National Park",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_062",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which animal is specifically highlighted as a protected species of Sikkim's Himalayan biodiversity?",
+    "options": [
+      "Asiatic Lion",
+      "One-horned Rhinoceros",
+      "Red Panda",
+      "Blackbuck"
+    ],
+    "answer": "Red Panda",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_063",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which sanctuary is listed with the Red Panda and Khangchendzonga National Park?",
+    "options": [
+      "Dampa",
+      "Fambong Lho",
+      "Palak",
+      "Bhitarkanika"
+    ],
+    "answer": "Fambong Lho",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_064",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which tea garden is described as India's only tea estate in the Himalayas?",
+    "options": [
+      "Temi Tea Garden",
+      "Munnar Tea Estate",
+      "Darjeeling Tea Garden",
+      "Dooars Tea Garden"
+    ],
+    "answer": "Temi Tea Garden",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_065",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "What type of tea is associated with Temi Tea Garden?",
+    "options": [
+      "Herbal tea only",
+      "Organic tea",
+      "Green tea only",
+      "Black tea only"
+    ],
+    "answer": "Organic tea",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_066",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which two rivers are highlighted for rafting in Sikkim?",
+    "options": [
+      "Teesta and Rangeet",
+      "Torsa and Jaldhaka",
+      "Ganga and Yamuna",
+      "Brahmaputra and Barak"
+    ],
+    "answer": "Teesta and Rangeet",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_067",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which activity is mentioned alongside rafting on the Teesta and Rangeet?",
+    "options": [
+      "Kayaking",
+      "Sailing",
+      "Surfing",
+      "Scuba diving"
+    ],
+    "answer": "Kayaking",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_068",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which three places are highlighted as sunrise viewpoints in Sikkim?",
+    "options": [
+      "MG Marg, Lal Bazaar and Namchi",
+      "Tashi View Point, Ganesh Tok and Hanuman Tok",
+      "Rumtek, Enchey and Pemayangtse",
+      "Nathu La, Zero Point and Baba Mandir"
+    ],
+    "answer": "Tashi View Point, Ganesh Tok and Hanuman Tok",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_069",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which promenade is described as the heart of Gangtok?",
+    "options": [
+      "Tadong Road",
+      "MG Marg",
+      "Lal Bazaar",
+      "Palzor Road"
+    ],
+    "answer": "MG Marg",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Gangtok",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok"
+  },
+  {
+    "id": "quest_sk_070",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What can visitors find along MG Marg?",
+    "options": [
+      "Only monasteries",
+      "Only government offices",
+      "Shops, cafes and vibrant markets",
+      "Only tea plantations"
+    ],
+    "answer": "Shops, cafes and vibrant markets",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Gangtok",
+    "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok"
+  },
+  {
+    "id": "quest_sk_071",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is listed among Sikkim's major cultural celebrations?",
+    "options": [
+      "Hornbill",
+      "Onam",
+      "Losar",
+      "Bihu"
+    ],
+    "answer": "Losar",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_072",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival honours Mount Kanchenjunga in Sikkim's cultural tradition?",
+    "options": [
+      "Losar",
+      "Losoong",
+      "Saga Dawa",
+      "Pang Lhabsol"
+    ],
+    "answer": "Pang Lhabsol",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_073",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which Buddhist festival is listed alongside Losar and Pang Lhabsol?",
+    "options": [
+      "Chapchar Kut",
+      "Wangala",
+      "Baisakhi",
+      "Saga Dawa"
+    ],
+    "answer": "Saga Dawa",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Explore Sikkim",
+    "source_url": "https://sikkimtourism.gov.in/Public/Navigation/Experience"
+  },
+  {
+    "id": "quest_sk_074",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which winter festival is listed among Sikkim's January festivals?",
+    "options": [
+      "Holi",
+      "Losoong",
+      "Makar Sankranti only",
+      "Buddha Purnima"
+    ],
+    "answer": "Losoong",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_075",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is listed with Losoong, Losar and Maghey Sankranti during winter?",
+    "options": [
+      "Gutor Cham",
+      "Kang",
+      "Chapchar Kut",
+      "Wangala"
+    ],
+    "answer": "Gutor Cham",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_076",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Lepcha dance depicts sowing, reaping and harvesting paddy?",
+    "options": [
+      "Maruni",
+      "Chham",
+      "Zo-Mal-Lok",
+      "Chyap-Brung"
+    ],
+    "answer": "Zo-Mal-Lok",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Dances",
+    "source_url": "https://sikkimtourism.gov.in/about/dances"
+  },
+  {
+    "id": "quest_sk_077",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which community is associated with the Zo-Mal-Lok dance?",
+    "options": [
+      "Bhutia",
+      "Lepcha",
+      "Sherpa",
+      "Nepali"
+    ],
+    "answer": "Lepcha",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Dances",
+    "source_url": "https://sikkimtourism.gov.in/about/dances"
+  },
+  {
+    "id": "quest_sk_078",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Chyap-Brung?",
+    "options": [
+      "A type of Sikkimese tea",
+      "A traditional musical instrument of the Limboo community",
+      "A Buddhist mask",
+      "A Lepcha harvest dance"
+    ],
+    "answer": "A traditional musical instrument of the Limboo community",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Dances",
+    "source_url": "https://sikkimtourism.gov.in/about/dances"
+  },
+  {
+    "id": "quest_sk_079",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the shape of the Chyap-Brung instrument compared with?",
+    "options": [
+      "A cymbal",
+      "A trumpet",
+      "A much larger dholak",
+      "A flute"
+    ],
+    "answer": "A much larger dholak",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Dances",
+    "source_url": "https://sikkimtourism.gov.in/about/dances"
+  },
+  {
+    "id": "quest_sk_080",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How is the Chyap-Brung played during group dance?",
+    "options": [
+      "It is played with two bows",
+      "It is blown like a flute",
+      "It is shaken with bells",
+      "It is hung around the neck and struck with a palm and a stick"
+    ],
+    "answer": "It is hung around the neck and struck with a palm and a stick",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – Dances",
+    "source_url": "https://sikkimtourism.gov.in/about/dances"
+  },
+  {
+    "id": "quest_sk_081",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how large is Sikkim by area?",
+    "options": [
+      "5,096 sq km",
+      "10,096 sq km",
+      "7,096 sq km",
+      "17,096 sq km"
+    ],
+    "answer": "7,096 sq km",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_082",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which broad climate zones are found across Sikkim?",
+    "options": [
+      "Tropical, temperate and alpine",
+      "Tundra, desert and monsoon only",
+      "Desert, tropical and polar",
+      "Mediterranean, desert and alpine"
+    ],
+    "answer": "Tropical, temperate and alpine",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_083",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which part of Sikkim can have cold-desert conditions?",
+    "options": [
+      "The western foothills",
+      "The southern lowlands",
+      "Gangtok only",
+      "The snowy north"
+    ],
+    "answer": "The snowy north",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_084",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which month is described as the wettest month in most places in Sikkim?",
+    "options": [
+      "December",
+      "July",
+      "September",
+      "May"
+    ],
+    "answer": "July",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_085",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Sikkim has how many rainy seasons according to the official tourism site?",
+    "options": [
+      "One",
+      "Four",
+      "Two",
+      "Three"
+    ],
+    "answer": "Two",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_086",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where does Sikkim receive winter rain according to the official tourism site?",
+    "options": [
+      "Only the east",
+      "The south",
+      "Only Gangtok",
+      "The north"
+    ],
+    "answer": "The north",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_087",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which part of Sikkim receives more summer rain?",
+    "options": [
+      "Only the west",
+      "Only Gangtok",
+      "The south",
+      "The north"
+    ],
+    "answer": "The south",
+    "difficulty": "medium",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_088",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the approximate snow-line elevation in southern Sikkim?",
+    "options": [
+      "7,100 m",
+      "3,900 m",
+      "6,100 m",
+      "4,900 m"
+    ],
+    "answer": "6,100 m",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_089",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the approximate snow-line elevation in northern Sikkim?",
+    "options": [
+      "6,100 m",
+      "7,900 m",
+      "4,900 m",
+      "3,900 m"
+    ],
+    "answer": "4,900 m",
+    "difficulty": "hard",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  },
+  {
+    "id": "quest_sk_090",
+    "state": "Sikkim",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which three destinations are specifically listed by Sikkim Tourism as places to see snow?",
+    "options": [
+      "Temi, Yuksom and Pelling",
+      "MG Marg, Rumtek and Namchi",
+      "Nathula, Tsomgo Lake and Gurudongmar Lake",
+      "Tashiding, Ravangla and Soreng"
+    ],
+    "answer": "Nathula, Tsomgo Lake and Gurudongmar Lake",
+    "difficulty": "easy",
+    "source": "Sikkim Tourism – Weather & Climate",
+    "source_url": "https://sikkimtourism.gov.in/about/weather"
+  }
+]

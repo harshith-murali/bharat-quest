@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_ka_001",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three UNESCO World Heritage destinations are highlighted together in Karnataka Tourism's heritage overview?",
+    "options": [
+      "Hampi, Pattadakal and the Western Chalukyan heritage sites",
+      "Beluru, Udupi and Gokarna",
+      "Mysuru, Coorg and Hampi",
+      "Badami, Mysuru and Bengaluru"
+    ],
+    "answer": "Hampi, Pattadakal and the Western Chalukyan heritage sites",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Heritage, History and Culture"
+  },
+  {
+    "id": "quest_ka_002",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which major empire's ruins are associated with Hampi?",
+    "options": [
+      "Mughal Empire",
+      "Vijayanagara Empire",
+      "Gupta Empire",
+      "Maurya Empire"
+    ],
+    "answer": "Vijayanagara Empire",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_003",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which city is called the Cultural Capital of Karnataka?",
+    "options": [
+      "Mysuru",
+      "Hampi",
+      "Udupi",
+      "Bengaluru"
+    ],
+    "answer": "Mysuru",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Mysuru"
+  },
+  {
+    "id": "quest_ka_004",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which destination is called the 'Cradle of Indian Architecture'?",
+    "options": [
+      "Hampi",
+      "Mysuru",
+      "Coorg",
+      "Aihole"
+    ],
+    "answer": "Aihole",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Aihole"
+  },
+  {
+    "id": "quest_ka_005",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Hampi once the capital of?",
+    "options": [
+      "Chalukya Empire",
+      "Hoysala Empire",
+      "Kadamba Empire",
+      "Vijayanagara Empire"
+    ],
+    "answer": "Vijayanagara Empire",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_006",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Hampi monument appears on the Indian ₹50 note?",
+    "options": [
+      "Elephant Stables",
+      "The stone chariot",
+      "Virupaksha Temple",
+      "Lotus Mahal"
+    ],
+    "answer": "The stone chariot",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_007",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple at Hampi is dedicated to Lord Shiva?",
+    "options": [
+      "Virupaksha Temple",
+      "Vittala Temple",
+      "Achyutaraya Temple",
+      "Lotus Temple"
+    ],
+    "answer": "Virupaksha Temple",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_008",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "How old is the Virupaksha Temple described in Karnataka Tourism?",
+    "options": [
+      "16th century",
+      "7th century",
+      "13th century",
+      "10th century"
+    ],
+    "answer": "7th century",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_009",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Hampi complex is famous for its stone chariot?",
+    "options": [
+      "Hazara Rama Temple",
+      "Achyutaraya Temple",
+      "Vijaya Vittala Temple",
+      "Virupaksha Temple"
+    ],
+    "answer": "Vijaya Vittala Temple",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_010",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which palace-like Hampi structure is called the Lotus Palace?",
+    "options": [
+      "Queen's Bath",
+      "Lotus Mahal",
+      "Mahanavami Dibba",
+      "Elephant Stables"
+    ],
+    "answer": "Lotus Mahal",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_011",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which empire is described as having dominated much of southern India from its capital at Hampi?",
+    "options": [
+      "Maratha Empire",
+      "Chola Empire",
+      "Vijayanagara Empire",
+      "Mughal Empire"
+    ],
+    "answer": "Vijayanagara Empire",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_012",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "About how many temples does Aihole have according to Karnataka Tourism?",
+    "options": [
+      "Over 125",
+      "Over 500",
+      "Over 1,000",
+      "Over 25"
+    ],
+    "answer": "Over 125",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Aihole"
+  },
+  {
+    "id": "quest_ka_013",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Between which centuries were many of Aihole's temples built?",
+    "options": [
+      "1st to 3rd centuries",
+      "13th to 15th centuries",
+      "4th to 12th centuries",
+      "17th to 19th centuries"
+    ],
+    "answer": "4th to 12th centuries",
+    "difficulty": "hard",
+    "source": "Karnataka Tourism – Aihole"
+  },
+  {
+    "id": "quest_ka_014",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Aihole temple is known for its apsidal or horseshoe-shaped design?",
+    "options": [
+      "Lad Khan Temple",
+      "Mallikarjuna Temple",
+      "Durga Temple",
+      "Meguti Jain Temple"
+    ],
+    "answer": "Durga Temple",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Aihole"
+  },
+  {
+    "id": "quest_ka_015",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Aihole was the first capital of which dynasty?",
+    "options": [
+      "Hoysalas",
+      "Vijayanagara",
+      "Chalukyas",
+      "Mauryas"
+    ],
+    "answer": "Chalukyas",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_016",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religions are represented among Aihole's temples?",
+    "options": [
+      "Buddhist and Christian traditions",
+      "Hindu, Jain and Buddhist traditions",
+      "Jain and Sikh traditions",
+      "Hindu, Sikh and Islamic traditions"
+    ],
+    "answer": "Hindu, Jain and Buddhist traditions",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_017",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which 6th-century cave at Aihole features Shiva and Parvathi?",
+    "options": [
+      "Elephanta Cave",
+      "Udayagiri Cave",
+      "Badami Cave 1",
+      "Ravana Phadi Cave"
+    ],
+    "answer": "Ravana Phadi Cave",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Aihole"
+  },
+  {
+    "id": "quest_ka_018",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Aihole temple is believed to be among the earliest Hindu temples built in stone?",
+    "options": [
+      "Lad Khan Temple",
+      "Jyotirlinga Temple",
+      "Meguti Jain Temple",
+      "Durga Temple"
+    ],
+    "answer": "Lad Khan Temple",
+    "difficulty": "hard",
+    "source": "Karnataka Tourism – Aihole"
+  },
+  {
+    "id": "quest_ka_019",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Pattadakal flourished during which centuries of the Chalukyan period?",
+    "options": [
+      "12th and 13th centuries",
+      "16th and 17th centuries",
+      "7th and 8th centuries",
+      "2nd and 3rd centuries"
+    ],
+    "answer": "7th and 8th centuries",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Pattadakal"
+  },
+  {
+    "id": "quest_ka_020",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which two architectural styles are blended at Pattadakal?",
+    "options": [
+      "Nagara and Dravida",
+      "Gothic and Romanesque",
+      "Mughal and Rajput",
+      "Buddhist and Jain"
+    ],
+    "answer": "Nagara and Dravida",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Pattadakal"
+  },
+  {
+    "id": "quest_ka_021",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Pattadakal temple was constructed by Queen Lokamahadevi?",
+    "options": [
+      "Papanatha Temple",
+      "Mallikarjuna Temple",
+      "Galaganatha Temple",
+      "Virupaksha Temple"
+    ],
+    "answer": "Virupaksha Temple",
+    "difficulty": "hard",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_022",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why did Queen Lokamahadevi build the Virupaksha Temple at Pattadakal?",
+    "options": [
+      "To celebrate King Vikramaditya's victory over the Pallavas",
+      "To commemorate a Chola victory",
+      "To honour Ashoka",
+      "To mark a royal coronation"
+    ],
+    "answer": "To celebrate King Vikramaditya's victory over the Pallavas",
+    "difficulty": "hard",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_023",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which event combines music and dance with the Pattadakal temples as a backdrop?",
+    "options": [
+      "Mysuru Dasara",
+      "Hampi Utsava",
+      "Chalukya Utsava",
+      "Pattadakal Festival"
+    ],
+    "answer": "Pattadakal Festival",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Hampi-Aihole-Pattadakal-Badami"
+  },
+  {
+    "id": "quest_ka_024",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Badami formerly known as?",
+    "options": [
+      "Vijayanagara",
+      "Manyakheta",
+      "Kalyana",
+      "Vatapi"
+    ],
+    "answer": "Vatapi",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Badami"
+  },
+  {
+    "id": "quest_ka_025",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Badami served as the capital of which dynasty?",
+    "options": [
+      "Mauryas",
+      "Rashtrakutas",
+      "Chalukyas",
+      "Hoysalas"
+    ],
+    "answer": "Chalukyas",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Badami"
+  },
+  {
+    "id": "quest_ka_026",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Between which centuries were the Badami cave temples carved?",
+    "options": [
+      "15th to 17th centuries",
+      "1st to 2nd centuries",
+      "10th to 12th centuries",
+      "6th to 8th centuries"
+    ],
+    "answer": "6th to 8th centuries",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Badami"
+  },
+  {
+    "id": "quest_ka_027",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many cave temples are in the Badami cave temple complex?",
+    "options": [
+      "Ten",
+      "Four",
+      "Six",
+      "Two"
+    ],
+    "answer": "Four",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Badami"
+  },
+  {
+    "id": "quest_ka_028",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religious traditions are represented in the Badami caves?",
+    "options": [
+      "Hindu and Buddhist traditions only",
+      "Jain and Christian traditions",
+      "Hindu and Jain traditions",
+      "Buddhist and Sikh traditions"
+    ],
+    "answer": "Hindu and Jain traditions",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Badami"
+  },
+  {
+    "id": "quest_ka_029",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake forms the scenic setting beside Badami's cave temples?",
+    "options": [
+      "Pampa Lake",
+      "Kalyani Lake",
+      "Pushkar Lake",
+      "Agastya Lake"
+    ],
+    "answer": "Agastya Lake",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Badami"
+  },
+  {
+    "id": "quest_ka_030",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Agastya/Vatapi Lake built for in the 7th century according to Incredible India?",
+    "options": [
+      "As a strategic water source for the capital",
+      "For sea trade",
+      "As a royal bathing pool",
+      "For irrigation of rice fields only"
+    ],
+    "answer": "As a strategic water source for the capital",
+    "difficulty": "hard",
+    "source": "Karnataka Tourism – Badami"
+  },
+  {
+    "id": "quest_ka_031",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which palace is the most famous landmark of Mysuru?",
+    "options": [
+      "Jai Vilas Palace",
+      "Amba Vilas Palace only",
+      "Mysuru Palace",
+      "Lalitha Mahal"
+    ],
+    "answer": "Mysuru Palace",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Mysuru"
+  },
+  {
+    "id": "quest_ka_032",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is Mysuru especially famous for?",
+    "options": [
+      "Pattadakal Festival",
+      "Mysuru Dasara",
+      "Kambala",
+      "Hampi Utsava"
+    ],
+    "answer": "Mysuru Dasara",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Mysuru"
+  },
+  {
+    "id": "quest_ka_033",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Mysuru Dasara also called?",
+    "options": [
+      "Chalukya Utsava",
+      "Festival of Lights",
+      "Harvest Festival of Karnataka",
+      "Nada Habba of Namma Karnataka"
+    ],
+    "answer": "Nada Habba of Namma Karnataka",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Mysuru"
+  },
+  {
+    "id": "quest_ka_034",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which hill in Mysuru is home to the Chamundeshwari Temple?",
+    "options": [
+      "Chamundi Hill",
+      "Mullayanagiri",
+      "Brahmagiri Hill",
+      "Nandi Hills"
+    ],
+    "answer": "Chamundi Hill",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Mysuru"
+  },
+  {
+    "id": "quest_ka_035",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is Karnataka's capital?",
+    "options": [
+      "Bengaluru",
+      "Mangaluru",
+      "Mysuru",
+      "Hubballi"
+    ],
+    "answer": "Bengaluru",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Bengaluru"
+  },
+  {
+    "id": "quest_ka_036",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Bengaluru landmark is the seat of the Karnataka legislature?",
+    "options": [
+      "Tipu Sultan's Palace",
+      "Lalbagh",
+      "Bangalore Palace",
+      "Vidhana Soudha"
+    ],
+    "answer": "Vidhana Soudha",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Bengaluru"
+  },
+  {
+    "id": "quest_ka_037",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Bengaluru garden is famous for its botanical collections and flower shows?",
+    "options": [
+      "Lalbagh Botanical Garden",
+      "Cubbon Park",
+      "Brindavan Gardens",
+      "Bannerghatta Park"
+    ],
+    "answer": "Lalbagh Botanical Garden",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Bengaluru"
+  },
+  {
+    "id": "quest_ka_038",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which palace in Bengaluru was inspired by Windsor Castle?",
+    "options": [
+      "Mysuru Palace",
+      "Bangalore Palace",
+      "Tipu Sultan's Palace",
+      "Lalitha Mahal"
+    ],
+    "answer": "Bangalore Palace",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Bengaluru"
+  },
+  {
+    "id": "quest_ka_039",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which two towns are especially associated with Hoysala temple architecture?",
+    "options": [
+      "Hampi and Badami",
+      "Aihole and Pattadakal",
+      "Belur and Halebeedu",
+      "Udupi and Gokarna"
+    ],
+    "answer": "Belur and Halebeedu",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Halebeedu / Hoysala"
+  },
+  {
+    "id": "quest_ka_040",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural feature is especially famous in Hoysala temples?",
+    "options": [
+      "Huge domes",
+      "Painted fresco ceilings only",
+      "Wooden towers",
+      "Intricate carvings"
+    ],
+    "answer": "Intricate carvings",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Halebeedu / Hoysala"
+  },
+  {
+    "id": "quest_ka_041",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which century is associated with the famous Halebeedu temple complex?",
+    "options": [
+      "16th century",
+      "12th century",
+      "6th century",
+      "18th century"
+    ],
+    "answer": "12th century",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Halebeedu / Hoysala"
+  },
+  {
+    "id": "quest_ka_042",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is worshipped at the Hoysaleswara Temple in Halebeedu?",
+    "options": [
+      "Lord Surya",
+      "Lord Shiva",
+      "Lord Vishnu",
+      "Lord Ganesha"
+    ],
+    "answer": "Lord Shiva",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Halebeedu / Hoysala"
+  },
+  {
+    "id": "quest_ka_043",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous monolithic statue is located at Shravanabelagola?",
+    "options": [
+      "Gommateshwara",
+      "Nandi",
+      "Garuda",
+      "Hanuman"
+    ],
+    "answer": "Gommateshwara",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Heritage, History and Culture"
+  },
+  {
+    "id": "quest_ka_044",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How tall is the Gommateshwara statue according to Incredible India?",
+    "options": [
+      "25 feet",
+      "58 feet",
+      "108 feet",
+      "38 feet"
+    ],
+    "answer": "58 feet",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Heritage, History and Culture"
+  },
+  {
+    "id": "quest_ka_045",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religion is associated with Shravanabelagola?",
+    "options": [
+      "Hinduism",
+      "Sikhism",
+      "Jainism",
+      "Buddhism"
+    ],
+    "answer": "Jainism",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Heritage, History and Culture"
+  },
+  {
+    "id": "quest_ka_046",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity is Udupi especially famous for?",
+    "options": [
+      "Lord Ganesha",
+      "Lord Surya",
+      "Lord Krishna",
+      "Lord Shiva"
+    ],
+    "answer": "Lord Krishna",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Udupi"
+  },
+  {
+    "id": "quest_ka_047",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is the main pilgrimage landmark of Udupi?",
+    "options": [
+      "Sri Krishna Temple",
+      "Mookambika Temple",
+      "Murudeshwar Temple",
+      "Gokarna Mahabaleshwar Temple"
+    ],
+    "answer": "Sri Krishna Temple",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Udupi"
+  },
+  {
+    "id": "quest_ka_048",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Coorg also called by Karnataka Tourism?",
+    "options": [
+      "Land of Waterfalls",
+      "The Land of Coffee, Clouds, and Calm",
+      "Scotland of India",
+      "Queen of Hills"
+    ],
+    "answer": "The Land of Coffee, Clouds, and Calm",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Coorg"
+  },
+  {
+    "id": "quest_ka_049",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which mountain range is associated with Coorg?",
+    "options": [
+      "Vindhyas",
+      "Aravallis",
+      "Eastern Ghats",
+      "Western Ghats"
+    ],
+    "answer": "Western Ghats",
+    "difficulty": "medium",
+    "source": "Karnataka Tourism – Coorg"
+  },
+  {
+    "id": "quest_ka_050",
+    "state": "Karnataka",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which wildlife destinations are highlighted in Karnataka's official tourism overview?",
+    "options": [
+      "Kaziranga and Manas",
+      "Gir and Kanha",
+      "Ranthambore and Sariska",
+      "Nagarhole and Bandipur"
+    ],
+    "answer": "Nagarhole and Bandipur",
+    "difficulty": "easy",
+    "source": "Karnataka Tourism – Wildlife"
+  }
+]

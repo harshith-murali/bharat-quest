@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "quest_nl_001",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Nagaland popularly known as?",
+    "options": [
+      "The Land of Deserts",
+      "The Land of Lakes",
+      "The Land of Festivals",
+      "The Land of Palaces"
+    ],
+    "answer": "The Land of Festivals",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – About Nagaland",
+    "source_url": "https://tourism.nagaland.gov.in/about-nagaland/"
+  },
+  {
+    "id": "quest_nl_002",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is described as the most vibrant festival of Nagaland?",
+    "options": [
+      "Moatsu",
+      "Sekrenyi",
+      "Aoleang",
+      "Hornbill Festival"
+    ],
+    "answer": "Hornbill Festival",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – About Nagaland",
+    "source_url": "https://tourism.nagaland.gov.in/about-nagaland/"
+  },
+  {
+    "id": "quest_nl_003",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "When is the Hornbill Festival held annually according to Tourism Nagaland?",
+    "options": [
+      "October 1–10",
+      "November 1–10",
+      "January 1–10",
+      "December 1–10"
+    ],
+    "answer": "December 1–10",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – About Nagaland",
+    "source_url": "https://tourism.nagaland.gov.in/about-nagaland/"
+  },
+  {
+    "id": "quest_nl_004",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the Hornbill Festival conceptualised?",
+    "options": [
+      "1990",
+      "2000",
+      "2005",
+      "2010"
+    ],
+    "answer": "2000",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_005",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year did Nagaland become the 16th state of India?",
+    "options": [
+      "1957",
+      "1973",
+      "1961",
+      "1963"
+    ],
+    "answer": "1963",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_006",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What happened in December 1957 in the history of present-day Nagaland?",
+    "options": [
+      "Nagaland became a state",
+      "Hornbill Festival began",
+      "Naga Hills District and Tuensang Frontier Division were joined",
+      "Dimapur became a district"
+    ],
+    "answer": "Naga Hills District and Tuensang Frontier Division were joined",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_007",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was the Naga Hills Tuensang Area renamed in February 1961?",
+    "options": [
+      "Nagaland",
+      "Naga Hills District",
+      "Eastern Nagaland",
+      "Naga State"
+    ],
+    "answer": "Nagaland",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_008",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How many administrative districts does Tourism Nagaland currently list?",
+    "options": [
+      "16",
+      "20",
+      "14",
+      "17"
+    ],
+    "answer": "17",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_009",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which of these is one of Nagaland's administrative districts?",
+    "options": [
+      "Kamrup",
+      "Dibrugarh",
+      "Aizawl",
+      "Phek"
+    ],
+    "answer": "Phek",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_010",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which district is associated with the town of Mokokchung?",
+    "options": [
+      "Wokha",
+      "Mokokchung",
+      "Mon",
+      "Kiphire"
+    ],
+    "answer": "Mokokchung",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_011",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which district is associated with the town of Wokha?",
+    "options": [
+      "Peren",
+      "Wokha",
+      "Phek",
+      "Tuensang"
+    ],
+    "answer": "Wokha",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_012",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which district is associated with the town of Zünheboto?",
+    "options": [
+      "Longleng",
+      "Zünheboto",
+      "Dimapur",
+      "Noklak"
+    ],
+    "answer": "Zünheboto",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Districts",
+    "source_url": "https://tourism.nagaland.gov.in/districts/"
+  },
+  {
+    "id": "quest_nl_013",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many major tribes does the Nagaland State Portal list?",
+    "options": [
+      "16",
+      "17",
+      "12",
+      "20"
+    ],
+    "answer": "17",
+    "difficulty": "easy",
+    "source": "Nagaland State Portal – People & Culture",
+    "source_url": "https://nagaland.gov.in/people-culture"
+  },
+  {
+    "id": "quest_nl_014",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which of these is listed as a major tribe of Nagaland?",
+    "options": [
+      "Garo",
+      "Mizo",
+      "Khasi",
+      "Angami"
+    ],
+    "answer": "Angami",
+    "difficulty": "easy",
+    "source": "Nagaland State Portal – People & Culture",
+    "source_url": "https://nagaland.gov.in/people-culture"
+  },
+  {
+    "id": "quest_nl_015",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Mokokchung's Moatsu festival?",
+    "options": [
+      "Sumi",
+      "Ao",
+      "Lotha",
+      "Konyak"
+    ],
+    "answer": "Ao",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_016",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with the Aoleang festival?",
+    "options": [
+      "Konyak",
+      "Ao",
+      "Lotha",
+      "Sumi"
+    ],
+    "answer": "Konyak",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_017",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Tokhu Emong?",
+    "options": [
+      "Lotha",
+      "Rengma",
+      "Konyak",
+      "Ao"
+    ],
+    "answer": "Lotha",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_018",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Sekrenyi?",
+    "options": [
+      "Sangtam",
+      "Pochury",
+      "Angami",
+      "Chang"
+    ],
+    "answer": "Angami",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_019",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Tuluni?",
+    "options": [
+      "Sumi",
+      "Konyak",
+      "Ao",
+      "Zeliang"
+    ],
+    "answer": "Sumi",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_020",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Tsungremong?",
+    "options": [
+      "Sumi",
+      "Kachari",
+      "Lotha",
+      "Ao"
+    ],
+    "answer": "Ao",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_021",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Mungmung?",
+    "options": [
+      "Khiamniungan",
+      "Yimkhiung",
+      "Chang",
+      "Sangtam"
+    ],
+    "answer": "Sangtam",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_022",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Yemshe?",
+    "options": [
+      "Rengma",
+      "Phom",
+      "Sumi",
+      "Pochury"
+    ],
+    "answer": "Pochury",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_023",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Ngada?",
+    "options": [
+      "Konyak",
+      "Sangtam",
+      "Lotha",
+      "Rengma"
+    ],
+    "answer": "Rengma",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_024",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Ahuna?",
+    "options": [
+      "Sumi",
+      "Zeliang",
+      "Chang",
+      "Ao"
+    ],
+    "answer": "Sumi",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_025",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe is associated with Chega Gadi?",
+    "options": [
+      "Zeliang",
+      "Rengma",
+      "Kuki",
+      "Lotha"
+    ],
+    "answer": "Zeliang",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_026",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is a Morung in the Naga Heritage Village?",
+    "options": [
+      "A granary",
+      "A temple",
+      "A youth dormitory",
+      "A market"
+    ],
+    "answer": "A youth dormitory",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_027",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "What kind of architecture is used for the houses at Naga Heritage Village?",
+    "options": [
+      "Colonial architecture",
+      "Gothic architecture",
+      "Indigenous traditional architectural designs",
+      "Mughal architecture"
+    ],
+    "answer": "Indigenous traditional architectural designs",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_028",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Approximately how far is Naga Heritage Village from Kohima?",
+    "options": [
+      "About 30 km",
+      "About 10 km",
+      "About 50 km",
+      "About 75 km"
+    ],
+    "answer": "About 10 km",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_029",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the name Kisama derive from?",
+    "options": [
+      "Kigwema and Khonoma",
+      "Kohima and Dimapur",
+      "Kigwema and Phesama",
+      "Kisama and Khonoma"
+    ],
+    "answer": "Kigwema and Phesama",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_030",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'MA' mean in the name Kisama?",
+    "options": [
+      "Forest",
+      "Village",
+      "River",
+      "Hill"
+    ],
+    "answer": "Village",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_031",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many houses are described in the Naga Heritage Village complex?",
+    "options": [
+      "20",
+      "12",
+      "16",
+      "17"
+    ],
+    "answer": "16",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_032",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What major annual festival uses Naga Heritage Village as its main cultural platform?",
+    "options": [
+      "Hornbill Festival",
+      "Sekrenyi",
+      "Moatsu",
+      "Aoleang"
+    ],
+    "answer": "Hornbill Festival",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_033",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which museum is housed within the Naga Heritage Complex?",
+    "options": [
+      "World War II Museum",
+      "Naga Natural History Museum",
+      "Kohima State Museum",
+      "Tribal Textile Museum"
+    ],
+    "answer": "World War II Museum",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_034",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which hall at Kisama is dedicated to bamboo?",
+    "options": [
+      "Bamboo Heritage Hall",
+      "Naga Bamboo Museum",
+      "Bamboo Culture Hall",
+      "Kisama Bamboo Centre"
+    ],
+    "answer": "Bamboo Heritage Hall",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Naga Heritage Village",
+    "source_url": "https://tourism.nagaland.gov.in/naga-heritage-village/"
+  },
+  {
+    "id": "quest_nl_035",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional craft material is described as indispensable to Naga tradition?",
+    "options": [
+      "Marble",
+      "Bamboo",
+      "Copper",
+      "Silk"
+    ],
+    "answer": "Bamboo",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – About Nagaland",
+    "source_url": "https://tourism.nagaland.gov.in/about-nagaland/"
+  },
+  {
+    "id": "quest_nl_036",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which craft tradition is highlighted as part of Nagaland's textile heritage?",
+    "options": [
+      "Pottery only",
+      "Stone carving",
+      "Metal casting",
+      "Weaving"
+    ],
+    "answer": "Weaving",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – About Nagaland",
+    "source_url": "https://tourism.nagaland.gov.in/about-nagaland/"
+  },
+  {
+    "id": "quest_nl_037",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Where is the Hornbill Festival held?",
+    "options": [
+      "Khonoma",
+      "Dimapur",
+      "Tuophema",
+      "Kisama"
+    ],
+    "answer": "Kisama",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_038",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "What is the Hornbill Festival commonly called?",
+    "options": [
+      "Festival of Harvests",
+      "Festival of Tribes",
+      "Festival of Festivals",
+      "Festival of Hills"
+    ],
+    "answer": "Festival of Festivals",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_039",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "What is the main purpose of the Hornbill Festival?",
+    "options": [
+      "To commemorate a military battle",
+      "To promote only agriculture",
+      "To showcase Nagaland's rich traditional cultural heritage",
+      "To celebrate only sports"
+    ],
+    "answer": "To showcase Nagaland's rich traditional cultural heritage",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_040",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which activity is part of the Hornbill Festival programme?",
+    "options": [
+      "Only classical dance",
+      "Indigenous games and sports",
+      "Only film screenings",
+      "Only flower shows"
+    ],
+    "answer": "Indigenous games and sports",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_041",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which food-related activity is part of the Hornbill Festival?",
+    "options": [
+      "Only international cuisine",
+      "Local cuisine / food festival",
+      "Only bakery competitions",
+      "Only vegetarian cooking"
+    ],
+    "answer": "Local cuisine / food festival",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_042",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which textile demonstration is featured in the Hornbill Festival programme?",
+    "options": [
+      "Banana Fibre Loom",
+      "Kashmir Loom",
+      "Silk Jacquard Weaving",
+      "International Loin Loom"
+    ],
+    "answer": "International Loin Loom",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_043",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Sports",
+    "question": "Which wrestling event is included in the Hornbill Festival programme?",
+    "options": [
+      "International Hornbill Naga Wrestling",
+      "North East Sumo Cup",
+      "Naga Martial Arts Cup",
+      "National Kushti Championship"
+    ],
+    "answer": "International Hornbill Naga Wrestling",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_044",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which competitions are specifically associated with Naga King Chilly and pineapple?",
+    "options": [
+      "Weaving competitions",
+      "Dance competitions",
+      "Fishing competitions",
+      "Eating competitions"
+    ],
+    "answer": "Eating competitions",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_045",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Music",
+    "question": "What is the Hornbill Music Festival associated with?",
+    "options": [
+      "Only classical orchestras",
+      "Only tribal drums",
+      "Only church choirs",
+      "Concerts and rock contests"
+    ],
+    "answer": "Concerts and rock contests",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_046",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which trekking destination is included among Hornbill Festival adventure activities?",
+    "options": [
+      "Saramati only",
+      "Dzukou Valley",
+      "Doyang Reservoir",
+      "Kapamodzü only"
+    ],
+    "answer": "Dzukou Valley",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Hornbill Festival",
+    "source_url": "https://tourism.nagaland.gov.in/events/hornbill-festival/"
+  },
+  {
+    "id": "quest_nl_047",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is Khonoma often described as?",
+    "options": [
+      "A royal village",
+      "A fishing village",
+      "A warrior village",
+      "A tea village"
+    ],
+    "answer": "A warrior village",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Khonoma Village",
+    "source_url": "https://tourism.nagaland.gov.in/khonoma-village/"
+  },
+  {
+    "id": "quest_nl_048",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why is Khonoma historically notable?",
+    "options": [
+      "For founding Dimapur",
+      "For its fierce resistance during the British colonial period",
+      "For building the first railway in Nagaland",
+      "For hosting the first Hornbill Festival"
+    ],
+    "answer": "For its fierce resistance during the British colonial period",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Khonoma Village",
+    "source_url": "https://tourism.nagaland.gov.in/khonoma-village/"
+  },
+  {
+    "id": "quest_nl_049",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What sanctuary was established in Khonoma in 1998?",
+    "options": [
+      "Kohima Bird Sanctuary",
+      "Japfü Nature Reserve",
+      "Dzukou Wildlife Sanctuary",
+      "Khonoma Nature Conservation and Tragopan Sanctuary"
+    ],
+    "answer": "Khonoma Nature Conservation and Tragopan Sanctuary",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Khonoma Village",
+    "source_url": "https://tourism.nagaland.gov.in/khonoma-village/"
+  },
+  {
+    "id": "quest_nl_050",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which endangered bird is specifically protected by the Khonoma sanctuary?",
+    "options": [
+      "Blyth's Tragopan",
+      "Amur Falcon",
+      "Great Indian Bustard",
+      "Hornbill"
+    ],
+    "answer": "Blyth's Tragopan",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Khonoma Village",
+    "source_url": "https://tourism.nagaland.gov.in/khonoma-village/"
+  },
+  {
+    "id": "quest_nl_051",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Khonoma popularly known as in relation to environmental conservation?",
+    "options": [
+      "India's first tribal city",
+      "India's first wildlife village",
+      "Asia's first Green Village",
+      "Asia's first bamboo village"
+    ],
+    "answer": "Asia's first Green Village",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Khonoma Village",
+    "source_url": "https://tourism.nagaland.gov.in/khonoma-village/"
+  },
+  {
+    "id": "quest_nl_052",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far is Khonoma from Kohima?",
+    "options": [
+      "10 km",
+      "20 km",
+      "60 km",
+      "40 km"
+    ],
+    "answer": "20 km",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Khonoma Village",
+    "source_url": "https://tourism.nagaland.gov.in/khonoma-village/"
+  },
+  {
+    "id": "quest_nl_053",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Approximately how far is Tuophema Tourist Village from Kohima?",
+    "options": [
+      "20 km",
+      "80 km",
+      "40 km",
+      "60 km"
+    ],
+    "answer": "40 km",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Tuophema Tourist Village",
+    "source_url": "https://tourism.nagaland.gov.in/tuophema-tourist-village/"
+  },
+  {
+    "id": "quest_nl_054",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Tuophema Tourist Village particularly known for?",
+    "options": [
+      "Tea plantations",
+      "River cruises",
+      "Rural homestays",
+      "Buddhist monasteries"
+    ],
+    "answer": "Rural homestays",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Tuophema Tourist Village",
+    "source_url": "https://tourism.nagaland.gov.in/tuophema-tourist-village/"
+  },
+  {
+    "id": "quest_nl_055",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "How many cottages does Tuophema Tourist Village have?",
+    "options": [
+      "16",
+      "8",
+      "20",
+      "12"
+    ],
+    "answer": "12",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Tuophema Tourist Village",
+    "source_url": "https://tourism.nagaland.gov.in/tuophema-tourist-village/"
+  },
+  {
+    "id": "quest_nl_056",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do the 12 Tuophema cottages represent?",
+    "options": [
+      "12 festivals",
+      "12 Naga tribes",
+      "The 12 different khels of the village",
+      "12 districts"
+    ],
+    "answer": "The 12 different khels of the village",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Tuophema Tourist Village",
+    "source_url": "https://tourism.nagaland.gov.in/tuophema-tourist-village/"
+  },
+  {
+    "id": "quest_nl_057",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Tuophema Tourist Village established?",
+    "options": [
+      "2011",
+      "2001",
+      "1981",
+      "1991"
+    ],
+    "answer": "2001",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Tuophema Tourist Village",
+    "source_url": "https://tourism.nagaland.gov.in/tuophema-tourist-village/"
+  },
+  {
+    "id": "quest_nl_058",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which community is specifically associated with Dzulekie?",
+    "options": [
+      "Angamis",
+      "Konyaks",
+      "Lothas",
+      "Ao"
+    ],
+    "answer": "Angamis",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Dzulekie",
+    "source_url": "https://tourism.nagaland.gov.in/dzulekie-relax-in-the-lap-of-nature-eco-tourism-destination/"
+  },
+  {
+    "id": "quest_nl_059",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far is Dzulekie from Kohima?",
+    "options": [
+      "75 km",
+      "55 km",
+      "35 km",
+      "15 km"
+    ],
+    "answer": "35 km",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Dzulekie",
+    "source_url": "https://tourism.nagaland.gov.in/dzulekie-relax-in-the-lap-of-nature-eco-tourism-destination/"
+  },
+  {
+    "id": "quest_nl_060",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional activities can visitors observe in Dzulekie?",
+    "options": [
+      "Silk spinning only",
+      "Bamboo and cane basket making and weaving",
+      "Pottery and glass blowing",
+      "Metal casting and stone carving"
+    ],
+    "answer": "Bamboo and cane basket making and weaving",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Dzulekie",
+    "source_url": "https://tourism.nagaland.gov.in/dzulekie-relax-in-the-lap-of-nature-eco-tourism-destination/"
+  },
+  {
+    "id": "quest_nl_061",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What type of forests surround Dzulekie?",
+    "options": [
+      "Mangrove forests",
+      "Alpine forests",
+      "Semi-evergreen forests",
+      "Thorn forests"
+    ],
+    "answer": "Semi-evergreen forests",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Dzulekie",
+    "source_url": "https://tourism.nagaland.gov.in/dzulekie-relax-in-the-lap-of-nature-eco-tourism-destination/"
+  },
+  {
+    "id": "quest_nl_062",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which activity is specifically suggested for visitors in Dzulekie's forests?",
+    "options": [
+      "Camel safari",
+      "Coral diving",
+      "Whale watching",
+      "Bird and butterfly watching"
+    ],
+    "answer": "Bird and butterfly watching",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Dzulekie",
+    "source_url": "https://tourism.nagaland.gov.in/dzulekie-relax-in-the-lap-of-nature-eco-tourism-destination/"
+  },
+  {
+    "id": "quest_nl_063",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What fish is associated with the river at Dzulekie?",
+    "options": [
+      "Rohu",
+      "Snow trout",
+      "Mahseer",
+      "Hilsa"
+    ],
+    "answer": "Snow trout",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Dzulekie",
+    "source_url": "https://tourism.nagaland.gov.in/dzulekie-relax-in-the-lap-of-nature-eco-tourism-destination/"
+  },
+  {
+    "id": "quest_nl_064",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which agricultural activity can visitors experience at Dzulekie?",
+    "options": [
+      "Tea picking",
+      "Terrace paddy-field walks and agro-tourism",
+      "Coconut climbing",
+      "Jute harvesting"
+    ],
+    "answer": "Terrace paddy-field walks and agro-tourism",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Dzulekie",
+    "source_url": "https://tourism.nagaland.gov.in/dzulekie-relax-in-the-lap-of-nature-eco-tourism-destination/"
+  },
+  {
+    "id": "quest_nl_065",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Doyang Hydro Project is a prominent tourist attraction of which district?",
+    "options": [
+      "Mon",
+      "Kiphire",
+      "Phek",
+      "Wokha"
+    ],
+    "answer": "Wokha",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Doyang Hydro Project",
+    "source_url": "https://tourism.nagaland.gov.in/doyang-hydro-project/"
+  },
+  {
+    "id": "quest_nl_066",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far is Doyang from the Wokha district headquarters?",
+    "options": [
+      "78 km",
+      "38 km",
+      "58 km",
+      "18 km"
+    ],
+    "answer": "38 km",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Doyang Hydro Project",
+    "source_url": "https://tourism.nagaland.gov.in/doyang-hydro-project/"
+  },
+  {
+    "id": "quest_nl_067",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which migratory bird is especially famous at Doyang Reservoir?",
+    "options": [
+      "Bar-headed Goose",
+      "Siberian Crane",
+      "Amur Falcon",
+      "Greater Flamingo"
+    ],
+    "answer": "Amur Falcon",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Doyang Hydro Project",
+    "source_url": "https://tourism.nagaland.gov.in/doyang-hydro-project/"
+  },
+  {
+    "id": "quest_nl_068",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "From which broad region do Amur Falcons arrive at Doyang?",
+    "options": [
+      "Australia and Indonesia",
+      "Southern Europe and Africa",
+      "Central Asia and Iran",
+      "South-eastern Siberia and northern China"
+    ],
+    "answer": "South-eastern Siberia and northern China",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Doyang Hydro Project",
+    "source_url": "https://tourism.nagaland.gov.in/doyang-hydro-project/"
+  },
+  {
+    "id": "quest_nl_069",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Approximately how far can Amur Falcons travel in a year according to Tourism Nagaland?",
+    "options": [
+      "22,000 km",
+      "12,000 km",
+      "7,000 km",
+      "32,000 km"
+    ],
+    "answer": "22,000 km",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Doyang Hydro Project",
+    "source_url": "https://tourism.nagaland.gov.in/doyang-hydro-project/"
+  },
+  {
+    "id": "quest_nl_070",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which nickname has Nagaland earned because of the Amur Falcon congregation at Doyang?",
+    "options": [
+      "Amur Falcon Capital of the World",
+      "Falcon Capital of Asia",
+      "Bird Capital of India",
+      "Migratory Bird Capital of Northeast India"
+    ],
+    "answer": "Amur Falcon Capital of the World",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Doyang Hydro Project",
+    "source_url": "https://tourism.nagaland.gov.in/doyang-hydro-project/"
+  },
+  {
+    "id": "quest_nl_071",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which months are best for viewing Amur Falcon roosting at Doyang?",
+    "options": [
+      "June and July",
+      "January and February",
+      "October and November",
+      "March and April"
+    ],
+    "answer": "October and November",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Doyang Hydro Project",
+    "source_url": "https://tourism.nagaland.gov.in/doyang-hydro-project/"
+  },
+  {
+    "id": "quest_nl_072",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "In which district is Khezhakeno Village located?",
+    "options": [
+      "Kohima",
+      "Wokha",
+      "Mon",
+      "Phek"
+    ],
+    "answer": "Phek",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Khezhakeno Village and Chida Resort",
+    "source_url": "https://tourism.nagaland.gov.in/khezhakeno-village-and-chida-resort/"
+  },
+  {
+    "id": "quest_nl_073",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is Khezhakeno known as?",
+    "options": [
+      "A British cantonment",
+      "A medieval capital of Assam",
+      "A tea-growing village",
+      "A historical village of the Nagas"
+    ],
+    "answer": "A historical village of the Nagas",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Khezhakeno Village and Chida Resort",
+    "source_url": "https://tourism.nagaland.gov.in/khezhakeno-village-and-chida-resort/"
+  },
+  {
+    "id": "quest_nl_074",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is Tso-Tawo at Khezhakeno?",
+    "options": [
+      "A waterfall",
+      "A legendary spirit stone",
+      "A cave",
+      "A monastery"
+    ],
+    "answer": "A legendary spirit stone",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Khezhakeno Village and Chida Resort",
+    "source_url": "https://tourism.nagaland.gov.in/khezhakeno-village-and-chida-resort/"
+  },
+  {
+    "id": "quest_nl_075",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is Khezhakeno described as the first settlement site of?",
+    "options": [
+      "The first British officer in Nagaland",
+      "Koza, the foremost Naga ancestral forefather",
+      "The founder of Kohima",
+      "The first Hornbill Festival"
+    ],
+    "answer": "Koza, the foremost Naga ancestral forefather",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Khezhakeno Village and Chida Resort",
+    "source_url": "https://tourism.nagaland.gov.in/khezhakeno-village-and-chida-resort/"
+  },
+  {
+    "id": "quest_nl_076",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is Chida Lake situated?",
+    "options": [
+      "At the foot of a desert",
+      "On high hills in a scenic valley",
+      "Inside a city park",
+      "On a coastal plain"
+    ],
+    "answer": "On high hills in a scenic valley",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Khezhakeno Village and Chida Resort",
+    "source_url": "https://tourism.nagaland.gov.in/khezhakeno-village-and-chida-resort/"
+  },
+  {
+    "id": "quest_nl_077",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the water source of Chida Lake?",
+    "options": [
+      "Springs of the Kapamedzü Range",
+      "Teesta River",
+      "Underground wells of Dimapur",
+      "Doyang Reservoir"
+    ],
+    "answer": "Springs of the Kapamedzü Range",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Khezhakeno Village and Chida Resort",
+    "source_url": "https://tourism.nagaland.gov.in/khezhakeno-village-and-chida-resort/"
+  },
+  {
+    "id": "quest_nl_078",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "When is the People's Festival at Khezhakeno held annually?",
+    "options": [
+      "August 1–10",
+      "October 1–10",
+      "December 1–10",
+      "January 1–10"
+    ],
+    "answer": "December 1–10",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – People's Festival Khezhakeno",
+    "source_url": "https://tourism.nagaland.gov.in/events/peoples-festival-khezhakeno/"
+  },
+  {
+    "id": "quest_nl_079",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "What is the primary objective of the People's Festival at Khezhakeno?",
+    "options": [
+      "Only promoting sports",
+      "Only promoting agriculture",
+      "Only celebrating a harvest",
+      "People-to-people interaction and cultural exchange"
+    ],
+    "answer": "People-to-people interaction and cultural exchange",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – People's Festival Khezhakeno",
+    "source_url": "https://tourism.nagaland.gov.in/events/peoples-festival-khezhakeno/"
+  },
+  {
+    "id": "quest_nl_080",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which activity is offered at the People's Festival at Khezhakeno?",
+    "options": [
+      "Scuba diving",
+      "Bamboo pole climbing",
+      "Skiing",
+      "Paragliding"
+    ],
+    "answer": "Bamboo pole climbing",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – People's Festival Khezhakeno",
+    "source_url": "https://tourism.nagaland.gov.in/events/peoples-festival-khezhakeno/"
+  },
+  {
+    "id": "quest_nl_081",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At approximately what altitude is Dzükou Valley located?",
+    "options": [
+      "4,452 metres",
+      "2,452 metres",
+      "3,452 metres",
+      "1,452 metres"
+    ],
+    "answer": "2,452 metres",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Dzükou Valley",
+    "source_url": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+  },
+  {
+    "id": "quest_nl_082",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which rare flower is highlighted as growing only in Dzükou Valley?",
+    "options": [
+      "Lady's slipper orchid",
+      "Dzükou lily",
+      "Blue poppy",
+      "Rhododendron"
+    ],
+    "answer": "Dzükou lily",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Dzükou Valley",
+    "source_url": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+  },
+  {
+    "id": "quest_nl_083",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What type of landscape covers Dzükou Valley?",
+    "options": [
+      "Coastal beaches",
+      "Rolling meadows with seasonal blooms",
+      "Desert dunes",
+      "Dense mangroves"
+    ],
+    "answer": "Rolling meadows with seasonal blooms",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Dzükou Valley",
+    "source_url": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+  },
+  {
+    "id": "quest_nl_084",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which natural features are found in Dzükou Valley?",
+    "options": [
+      "Glaciers, fjords and ice caves",
+      "Mangroves, estuaries and dunes",
+      "Coral reefs, beaches and lagoons",
+      "Bamboo thickets, clear streams and natural caves"
+    ],
+    "answer": "Bamboo thickets, clear streams and natural caves",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Dzükou Valley",
+    "source_url": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+  },
+  {
+    "id": "quest_nl_085",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two states is Dzükou Valley described as lying between?",
+    "options": [
+      "Nagaland and Assam",
+      "Nagaland and Arunachal Pradesh",
+      "Nagaland and Mizoram",
+      "Nagaland and Manipur"
+    ],
+    "answer": "Nagaland and Manipur",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Dzükou Valley",
+    "source_url": "https://tourism.nagaland.gov.in/where-the-clouds-rest-discovering-the-magic-of-dzukou-valley/"
+  },
+  {
+    "id": "quest_nl_086",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At what elevation does Kapamodzü Peak stand?",
+    "options": [
+      "2,620 m",
+      "3,620 m",
+      "2,020 m",
+      "1,620 m"
+    ],
+    "answer": "2,620 m",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Zhavame/Vegetable Village",
+    "source_url": "https://tourism.nagaland.gov.in/zhavame-vegetable-village/"
+  },
+  {
+    "id": "quest_nl_087",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Zhavame known for?",
+    "options": [
+      "Rice and sugarcane",
+      "Tea and coffee",
+      "Organic vegetables, especially cabbage and potatoes",
+      "Silk and wool"
+    ],
+    "answer": "Organic vegetables, especially cabbage and potatoes",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Zhavame/Vegetable Village",
+    "source_url": "https://tourism.nagaland.gov.in/zhavame-vegetable-village/"
+  },
+  {
+    "id": "quest_nl_088",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Zhavame declared a 'vegetable village'?",
+    "options": [
+      "2010",
+      "2015",
+      "2020",
+      "2000"
+    ],
+    "answer": "2010",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Zhavame/Vegetable Village",
+    "source_url": "https://tourism.nagaland.gov.in/zhavame-vegetable-village/"
+  },
+  {
+    "id": "quest_nl_089",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "How long does the trek to Kapamodzü Peak take from Zhavame according to Tourism Nagaland?",
+    "options": [
+      "About one day",
+      "About three hours",
+      "About five hours",
+      "About one hour"
+    ],
+    "answer": "About one hour",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Zhavame/Vegetable Village",
+    "source_url": "https://tourism.nagaland.gov.in/zhavame-vegetable-village/"
+  },
+  {
+    "id": "quest_nl_090",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which peak is visible to the south from Kapamodzü?",
+    "options": [
+      "Saramati Peak",
+      "Tiyi Peak",
+      "Japfü Peak",
+      "Mount Pauna"
+    ],
+    "answer": "Japfü Peak",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Hike to Kapamodzü Peak",
+    "source_url": "https://tourism.nagaland.gov.in/hike-to-kapamodzu-peak-under-phek-district/"
+  },
+  {
+    "id": "quest_nl_091",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient ruins are a major attraction in Dimapur?",
+    "options": [
+      "Burmese Fort Ruins",
+      "Ahom Palace Ruins",
+      "Medieval Kachari Kingdom Ruins",
+      "Konyak Palace Ruins"
+    ],
+    "answer": "Medieval Kachari Kingdom Ruins",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_092",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which craft destination is included in the official Dimapur Day Tour?",
+    "options": [
+      "Khezhakeno Village",
+      "Tuophema Tourist Village",
+      "Khonoma Village",
+      "Diezephe Craft Village"
+    ],
+    "answer": "Diezephe Craft Village",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_093",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which forest reserve and zoo are included in the Dimapur Day Tour?",
+    "options": [
+      "Doyang Reserve and Wokha Zoo",
+      "Khonoma Sanctuary and Kohima Zoo",
+      "Rangapahar Reserve Forest and Dimapur Zoo",
+      "Intanki Reserve and Phek Zoo"
+    ],
+    "answer": "Rangapahar Reserve Forest and Dimapur Zoo",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_094",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which cultural centre and emporium are included in the Dimapur Day Tour?",
+    "options": [
+      "Naga State Museum and Craftscape",
+      "North East Zone Cultural Centre and Handloom & Handicrafts Emporium",
+      "Kisama Heritage Village and Bamboo Heritage Hall",
+      "Diezephe Museum and Textile Centre"
+    ],
+    "answer": "North East Zone Cultural Centre and Handloom & Handicrafts Emporium",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_095",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which township in the official Phek itinerary is known for vegetable and fruit products?",
+    "options": [
+      "Zhavame",
+      "Phüsachodü",
+      "Pfutsero",
+      "Khezhakeno"
+    ],
+    "answer": "Pfutsero",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_096",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At what altitude is Pfutsero given in the official package tour?",
+    "options": [
+      "1,833.60 m",
+      "2,233.60 m",
+      "3,233.60 m",
+      "1,233.60 m"
+    ],
+    "answer": "2,233.60 m",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_097",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which village is described as the biggest village under Phek District in the package tour?",
+    "options": [
+      "Phüsachodü",
+      "Khonoma",
+      "Khezhakeno",
+      "Tuophema"
+    ],
+    "answer": "Phüsachodü",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_098",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which location is visited en route to Khonoma for history reflecting the Kohima war?",
+    "options": [
+      "Pfutsero",
+      "Jotsoma village",
+      "Dzuleke village",
+      "Kigwema village"
+    ],
+    "answer": "Jotsoma village",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Package Tours",
+    "source_url": "https://tourism.nagaland.gov.in/package-tours/"
+  },
+  {
+    "id": "quest_nl_099",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Chang tribe and held in Tuensang on January 13?",
+    "options": [
+      "Poanglum",
+      "Metumnio",
+      "Mungmung",
+      "Thuni"
+    ],
+    "answer": "Poanglum",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_100",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival of the Kachari tribe is listed for Dimapur on January 13?",
+    "options": [
+      "Sukrunye",
+      "Aai-Sagi",
+      "Bishu",
+      "Poanglum"
+    ],
+    "answer": "Aai-Sagi",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_101",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Tikhir tribe and Kiphire?",
+    "options": [
+      "Metumnio",
+      "Mungmung",
+      "Tsokum",
+      "Kuhlang-Nyi"
+    ],
+    "answer": "Kuhlang-Nyi",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_102",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Khiamniungan tribe and Noklak?",
+    "options": [
+      "Aoleang",
+      "Tsüngremong",
+      "Ngada",
+      "Khaozaosie-Hok-Ah"
+    ],
+    "answer": "Khaozaosie-Hok-Ah",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_103",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is celebrated by the Chakhesang tribe on January 15?",
+    "options": [
+      "Sukrunye",
+      "Sekrenyi",
+      "Thuni",
+      "Tsükhenyie"
+    ],
+    "answer": "Sukrunye",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_104",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Chang tribe in Tuensang on January 13?",
+    "options": [
+      "Poanglum",
+      "Thuni",
+      "Kuhlàng-Nyi",
+      "Mungmung"
+    ],
+    "answer": "Poanglum",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_105",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is celebrated by the Chakhesang tribe on April 24?",
+    "options": [
+      "Tsükhenyie",
+      "Sekrenyi",
+      "Thuni",
+      "Sukrunye"
+    ],
+    "answer": "Tsükhenyie",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_106",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Sumi tribe and Zünheboto on November 14–15?",
+    "options": [
+      "Tuluni",
+      "Sukrunye",
+      "Ahuna",
+      "Moatsu"
+    ],
+    "answer": "Ahuna",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_107",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Yimkhiung tribe and Tuensang/Kiphire?",
+    "options": [
+      "Mungmung",
+      "Poanglum",
+      "Metumnio",
+      "Khaozaosie-Hok-Ah"
+    ],
+    "answer": "Metumnio",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_108",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Phom tribe and Longleng on April 1–2?",
+    "options": [
+      "Monyu",
+      "Yemshe",
+      "Aoleang",
+      "Moatsu"
+    ],
+    "answer": "Monyu",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_109",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Lotha tribe in Wokha on November 6–7?",
+    "options": [
+      "Tuluni",
+      "Tsungremong",
+      "Ngada",
+      "Tokhu Emong"
+    ],
+    "answer": "Tokhu Emong",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_110",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is associated with the Konyak tribe in Mon on April 1–2?",
+    "options": [
+      "Aoleang",
+      "Monyu",
+      "Mungmung",
+      "Moatsu"
+    ],
+    "answer": "Aoleang",
+    "difficulty": "easy",
+    "source": "Tourism Nagaland – Event Calendar",
+    "source_url": "https://tourism.nagaland.gov.in/event-calendar/"
+  },
+  {
+    "id": "quest_nl_111",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which form of tourism is a major focus of Nagaland's tourism policy?",
+    "options": [
+      "Mass coastal tourism",
+      "Cruise tourism",
+      "Community-based and sustainable tourism",
+      "Desert tourism"
+    ],
+    "answer": "Community-based and sustainable tourism",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_112",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Nagaland's tourism policy seek to integrate into tourism infrastructure?",
+    "options": [
+      "Modern glass towers only",
+      "Mughal architecture",
+      "Vernacular architecture",
+      "European palace architecture"
+    ],
+    "answer": "Vernacular architecture",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_113",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tourism product is described as especially promising for Nagaland's arts and crafts?",
+    "options": [
+      "Textile tourism",
+      "Cruise tourism",
+      "Beach tourism",
+      "Medical tourism"
+    ],
+    "answer": "Textile tourism",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_114",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional crafts are highlighted in Nagaland's tourism policy?",
+    "options": [
+      "Textiles, woodcarving, lacquer work and handlooms",
+      "Silk painting and porcelain",
+      "Stone carving, marble and bronze",
+      "Metal engraving and glass"
+    ],
+    "answer": "Textiles, woodcarving, lacquer work and handlooms",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_115",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which historical site in Mon district is identified in Nagaland's tourism policy?",
+    "options": [
+      "Naganimora",
+      "Kisama",
+      "Chungliyimti",
+      "Khonoma"
+    ],
+    "answer": "Naganimora",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_116",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which historical sites in Mokokchung district are identified in the tourism policy?",
+    "options": [
+      "Chungliyimti, Molungyimsen and Impur",
+      "Khonoma, Jotsoma and Kigwema",
+      "Khezhakeno, Chida and Zhavame",
+      "Longwa, Veda and Shangnyu"
+    ],
+    "answer": "Chungliyimti, Molungyimsen and Impur",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_117",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which prehistoric sites are specifically mentioned in the tourism policy?",
+    "options": [
+      "Megalithic caves of Kohima only",
+      "Harappan cities",
+      "Caves and rock shelter sites of the Mimi region",
+      "Buddhist caves of Dimapur"
+    ],
+    "answer": "Caves and rock shelter sites of the Mimi region",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_118",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the tourism policy say about Nagaland's traditional villages?",
+    "options": [
+      "They should be protected and preserved as natural and cultural heritage",
+      "They should be replaced by resorts",
+      "They should be converted into museums only",
+      "They should be relocated"
+    ],
+    "answer": "They should be protected and preserved as natural and cultural heritage",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Tourism Policy",
+    "source_url": "https://tourism.nagaland.gov.in/tourism-policy/"
+  },
+  {
+    "id": "quest_nl_119",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which village is marked on the official Nagaland tourist map as a Konyak Heritage Complex location?",
+    "options": [
+      "Longwa",
+      "Zhavame",
+      "Khonoma",
+      "Tuophema"
+    ],
+    "answer": "Longwa",
+    "difficulty": "medium",
+    "source": "Tourism Nagaland – Tourist Destination Map 2025",
+    "source_url": "https://tourism.nagaland.gov.in/wp-content/uploads/2025/07/NAGALAND-TOURIST-DESTINATION-MAP-2025A-2.pdf"
+  },
+  {
+    "id": "quest_nl_120",
+    "state": "Nagaland",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which peak is marked on the official Nagaland tourist map near Mon?",
+    "options": [
+      "Kapamodzü Peak",
+      "Japfü Peak",
+      "Veda Peak / Pak Koi",
+      "Mount Tiyi"
+    ],
+    "answer": "Veda Peak / Pak Koi",
+    "difficulty": "hard",
+    "source": "Tourism Nagaland – Tourist Destination Map 2025",
+    "source_url": "https://tourism.nagaland.gov.in/wp-content/uploads/2025/07/NAGALAND-TOURIST-DESTINATION-MAP-2025A-2.pdf"
+  }
+]

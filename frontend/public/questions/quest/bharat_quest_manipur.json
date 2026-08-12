@@ -1,0 +1,2110 @@
+[
+  {
+    "id": "quest_mn_001",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital of Manipur?",
+    "options": [
+      "Moirang",
+      "Ukhrul",
+      "Moreh",
+      "Imphal"
+    ],
+    "answer": "Imphal",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_002",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which country borders Manipur?",
+    "options": [
+      "Bangladesh",
+      "Nepal",
+      "Bhutan",
+      "Myanmar"
+    ],
+    "answer": "Myanmar",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_003",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What nickname did Jawaharlal Nehru use for Manipur?",
+    "options": [
+      "Land of Jewels",
+      "Land of Blue Mountains",
+      "Land of Rising Sun",
+      "Land of Clouds"
+    ],
+    "answer": "Land of Jewels",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_004",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the state emblem of Manipur?",
+    "options": [
+      "One-horned Rhino",
+      "Lion Capital",
+      "Kangla Shaa",
+      "Rising Sun"
+    ],
+    "answer": "Kangla Shaa",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_005",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What is the state animal of Manipur?",
+    "options": [
+      "Sangai",
+      "Clouded Leopard",
+      "Mithun",
+      "Hoolock Gibbon"
+    ],
+    "answer": "Sangai",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_006",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What is the state bird of Manipur?",
+    "options": [
+      "Black-necked Crane",
+      "Nongyeen",
+      "Great Pied Hornbill",
+      "Hornbill"
+    ],
+    "answer": "Nongyeen",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_007",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What is the state flower of Manipur?",
+    "options": [
+      "Lotus",
+      "Shirui Lily",
+      "Orchid",
+      "Rose"
+    ],
+    "answer": "Shirui Lily",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_008",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is listed as the state game of Manipur?",
+    "options": [
+      "Football",
+      "Manipuri Polo",
+      "Wrestling",
+      "Hockey"
+    ],
+    "answer": "Manipuri Polo",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_009",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Manipuri polo traditionally called?",
+    "options": [
+      "Pung Cholom",
+      "Thabal Chongba",
+      "Sagol Kangjei",
+      "Thang-Ta"
+    ],
+    "answer": "Sagol Kangjei",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_010",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Manipur is described by its tourism department as the birthplace of which renowned classical dance form?",
+    "options": [
+      "Kathak",
+      "Odissi",
+      "Manipuri dance",
+      "Bharatanatyam"
+    ],
+    "answer": "Manipuri dance",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_011",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Kangla served as the royal palace from the period of which ruler?",
+    "options": [
+      "Bhagyachandra",
+      "Gambhir Singh",
+      "Pakhangba",
+      "Bir Tikendrajit"
+    ],
+    "answer": "Pakhangba",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_012",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Kangla is located in which city?",
+    "options": [
+      "Moirang",
+      "Imphal",
+      "Bishnupur",
+      "Ukhrul"
+    ],
+    "answer": "Imphal",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_013",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Until which year was Kangla the centre of Manipur's power?",
+    "options": [
+      "1857",
+      "1947",
+      "1901",
+      "1891"
+    ],
+    "answer": "1891",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_014",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Which features are specifically mentioned among Kangla's heritage remains?",
+    "options": [
+      "Rock-cut caves",
+      "Stone chariots",
+      "Outer and inner moat",
+      "Seven domes"
+    ],
+    "answer": "Outer and inner moat",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_015",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which historical site in Manipur was reinvented by the British?",
+    "options": [
+      "Loktak Lake",
+      "Kangla",
+      "Kaina Temple",
+      "Mutua Museum"
+    ],
+    "answer": "Kangla",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_016",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is a historic Vaishnavite centre in Manipur?",
+    "options": [
+      "Panam Ningthou Temple",
+      "Siva Dol",
+      "Shree Shree Govindajee Temple",
+      "Mahabhairab Temple"
+    ],
+    "answer": "Shree Shree Govindajee Temple",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_017",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "What distinctive feature tops the Shree Shree Govindajee Temple?",
+    "options": [
+      "Four stone towers",
+      "A giant lotus dome",
+      "Twin gold-plated domes",
+      "A single wooden tower"
+    ],
+    "answer": "Twin gold-plated domes",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_018",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Who are the presiding deities of Shree Shree Govindajee Temple?",
+    "options": [
+      "Shiva-Parvati",
+      "Rama-Sita",
+      "Radha-Krishna",
+      "Vishnu-Lakshmi"
+    ],
+    "answer": "Radha-Krishna",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_019",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "From which tree is the Radha-Krishna image at Shree Shree Govindajee Temple carved?",
+    "options": [
+      "Jackfruit tree",
+      "Neem tree",
+      "Banyan tree",
+      "Sandalwood tree"
+    ],
+    "answer": "Jackfruit tree",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_020",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three shrines flank the presiding deity at Shree Shree Govindajee Temple?",
+    "options": [
+      "Rama, Lakshmana and Hanuman",
+      "Brahma, Vishnu and Shiva",
+      "Krishna, Balaram and Jagannath",
+      "Shiva, Ganesha and Kartikeya"
+    ],
+    "answer": "Krishna, Balaram and Jagannath",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_021",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Where is the Mutua Museum located?",
+    "options": [
+      "Andro",
+      "Senapati",
+      "Moreh",
+      "Moirang"
+    ],
+    "answer": "Andro",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_022",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What kind of institution is the Mutua Museum?",
+    "options": [
+      "A wildlife sanctuary",
+      "A cultural complex",
+      "A war cemetery",
+      "A sports stadium"
+    ],
+    "answer": "A cultural complex",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_023",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which of these is specifically listed among the Mutua Museum collections?",
+    "options": [
+      "Fossils from Rajasthan",
+      "Rare manuscripts",
+      "Aircraft",
+      "Tea machinery"
+    ],
+    "answer": "Rare manuscripts",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_024",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which village is home to the Panam Ningthou Temple?",
+    "options": [
+      "Andro",
+      "Moirang",
+      "Kaina",
+      "Ukhrul"
+    ],
+    "answer": "Andro",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_025",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What unusual tradition is maintained at Panam Ningthou Temple?",
+    "options": [
+      "A floating shrine",
+      "A continuously burning sacred fire",
+      "A year-round boat race",
+      "A daily elephant procession"
+    ],
+    "answer": "A continuously burning sacred fire",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_026",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is located at Khangabok in Thoubal district?",
+    "options": [
+      "Panam Ningthou Temple",
+      "Shree Gopinath Temple",
+      "Shri Bungshibudon Temple",
+      "Bijoy Govindaji Temple"
+    ],
+    "answer": "Shri Bungshibudon Temple",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_027",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Kaina Temple's hillock described as?",
+    "options": [
+      "A wildlife sanctuary",
+      "A Buddhist monastery",
+      "A sacred hillock to Hindus",
+      "A war cemetery"
+    ],
+    "answer": "A sacred hillock to Hindus",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_028",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is considered by many to be the oldest temple in Manipur?",
+    "options": [
+      "Shree Gopinath Temple",
+      "Kaina Temple",
+      "Shree Shree Govindajee Temple",
+      "Shri Bijoy Govindaji Temple"
+    ],
+    "answer": "Shri Bijoy Govindaji Temple",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_029",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Where is Shri Bijoy Govindaji Temple located?",
+    "options": [
+      "Kaina",
+      "Moirang",
+      "Andro",
+      "Sagolband"
+    ],
+    "answer": "Sagolband",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_030",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which is described as the second largest temple in Manipur?",
+    "options": [
+      "Shree Shree Govindajee Temple",
+      "Shri Bijoy Govindaji Temple",
+      "Shri Gopinath Temple",
+      "Kaina Temple"
+    ],
+    "answer": "Shri Gopinath Temple",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Culture and Heritage",
+    "source_url": "https://manipurtourism.gov.in/culture-and-heritage/"
+  },
+  {
+    "id": "quest_mn_031",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which market in Imphal is an all-women market?",
+    "options": [
+      "Ima Market",
+      "Moreh Market",
+      "Andro Market",
+      "Moirang Market"
+    ],
+    "answer": "Ima Market",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_032",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does 'Ima' mean in the context of Ima Market?",
+    "options": [
+      "Mothers",
+      "Weavers",
+      "Sisters",
+      "Traders"
+    ],
+    "answer": "Mothers",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_033",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Approximately how many women run stalls at Ima Market?",
+    "options": [
+      "500 or more",
+      "300 or more",
+      "3,000 or more",
+      "30,000 or more"
+    ],
+    "answer": "3,000 or more",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_034",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which products are sold in one section of Ima Market according to Manipur Tourism?",
+    "options": [
+      "Only pottery",
+      "Only jewellery",
+      "Only books",
+      "Vegetables, fruits and fish"
+    ],
+    "answer": "Vegetables, fruits and fish",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_035",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which products are highlighted in the other section of Ima Market?",
+    "options": [
+      "Only fruits",
+      "Only fish",
+      "Handlooms and household tools",
+      "Only medicines"
+    ],
+    "answer": "Handlooms and household tools",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_036",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is special about the weaving workforce in Manipur's handloom industry?",
+    "options": [
+      "Only men weave",
+      "Only monks weave",
+      "Only children weave",
+      "Women are the only weavers"
+    ],
+    "answer": "Women are the only weavers",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Handloom",
+    "source_url": "https://manipurtourism.gov.in/handloom/"
+  },
+  {
+    "id": "quest_mn_037",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which is described as Manipur's largest cottage industry?",
+    "options": [
+      "Tea industry",
+      "Handloom industry",
+      "Pottery industry",
+      "Bamboo furniture industry"
+    ],
+    "answer": "Handloom industry",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Handloom",
+    "source_url": "https://manipurtourism.gov.in/handloom/"
+  },
+  {
+    "id": "quest_mn_038",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which of these is named as a place known for fine silk weaving in Manipur?",
+    "options": [
+      "Wangkhei",
+      "Senapati",
+      "Moreh",
+      "Mao"
+    ],
+    "answer": "Wangkhei",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Handloom",
+    "source_url": "https://manipurtourism.gov.in/handloom/"
+  },
+  {
+    "id": "quest_mn_039",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which type of shawls are associated with the hill districts of Manipur?",
+    "options": [
+      "Wool shawls from Rajasthan",
+      "Silk shawls from the coast",
+      "Tribal shawls with exotic designs and motifs",
+      "Cotton shawls from Punjab"
+    ],
+    "answer": "Tribal shawls with exotic designs and motifs",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Handloom",
+    "source_url": "https://manipurtourism.gov.in/handloom/"
+  },
+  {
+    "id": "quest_mn_040",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three government organizations are listed as major handloom production organizations in Manipur?",
+    "options": [
+      "ASIDC, APEDA and SEBI",
+      "NEC, ISRO and DRDO",
+      "MDS, MHHDC and MSHWCS",
+      "NCDC, FCI and NABARD"
+    ],
+    "answer": "MDS, MHHDC and MSHWCS",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Handloom",
+    "source_url": "https://manipurtourism.gov.in/handloom/"
+  },
+  {
+    "id": "quest_mn_041",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which lake is the largest freshwater lake in northeast India?",
+    "options": [
+      "Loukoi Pat",
+      "Zeilad Lake",
+      "Chandubi Lake",
+      "Loktak Lake"
+    ],
+    "answer": "Loktak Lake",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_042",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "In which district is Loktak Lake located?",
+    "options": [
+      "Ukhrul",
+      "Senapati",
+      "Tamenglong",
+      "Bishnupur"
+    ],
+    "answer": "Bishnupur",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_043",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What are the floating swamps of Loktak Lake called?",
+    "options": [
+      "Moidams",
+      "Phumsangs",
+      "Phumdis",
+      "Satras"
+    ],
+    "answer": "Phumdis",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_044",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What are the floating huts used by lake-dwellers on Loktak called?",
+    "options": [
+      "Phumdis",
+      "Satras",
+      "Kangla",
+      "Phumsangs"
+    ],
+    "answer": "Phumsangs",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – In & around Loktak Lake",
+    "source_url": "https://manipurtourism.gov.in/in-around-loktak-lake/"
+  },
+  {
+    "id": "quest_mn_045",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "From which island can visitors get a bird's-eye view of Loktak Lake?",
+    "options": [
+      "Moirang Island",
+      "Sendra Island",
+      "Moreh Island",
+      "Andro Island"
+    ],
+    "answer": "Sendra Island",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – In & around Loktak Lake",
+    "source_url": "https://manipurtourism.gov.in/in-around-loktak-lake/"
+  },
+  {
+    "id": "quest_mn_046",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which water sports complex is associated with Loktak Lake?",
+    "options": [
+      "Sendra Adventure Complex",
+      "Takmu Water Sports Complex",
+      "Mapal Sports Complex",
+      "Kangla Sports Complex"
+    ],
+    "answer": "Takmu Water Sports Complex",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – In & around Loktak Lake",
+    "source_url": "https://manipurtourism.gov.in/in-around-loktak-lake/"
+  },
+  {
+    "id": "quest_mn_047",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which is the world's only floating national park?",
+    "options": [
+      "Nameri National Park",
+      "Kaziranga National Park",
+      "Manas National Park",
+      "Keibul Lamjao National Park"
+    ],
+    "answer": "Keibul Lamjao National Park",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_048",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which endangered deer is the last natural habitat of Keibul Lamjao National Park?",
+    "options": [
+      "Sangai",
+      "Hog deer",
+      "Sambar",
+      "Swamp deer"
+    ],
+    "answer": "Sangai",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_049",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What is the Sangai also called?",
+    "options": [
+      "Mountain deer of Manipur",
+      "Golden deer of Manipur",
+      "Dancing deer of Manipur",
+      "Floating deer of Manipur"
+    ],
+    "answer": "Dancing deer of Manipur",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_050",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which other animal is listed among the wildlife of Keibul Lamjao National Park?",
+    "options": [
+      "Hog deer",
+      "One-horned rhinoceros",
+      "Asiatic lion",
+      "Wild buffalo"
+    ],
+    "answer": "Hog deer",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_051",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "During which months are migratory birds commonly sighted at Keibul Lamjao National Park?",
+    "options": [
+      "July to September",
+      "November to March",
+      "January to February only",
+      "April to June"
+    ],
+    "answer": "November to March",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_052",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which orchidarium near Imphal covers about 200 acres?",
+    "options": [
+      "Khonghampat Orchidarium",
+      "Shirui Orchid Garden",
+      "Andro Orchidarium",
+      "Mao Orchidarium"
+    ],
+    "answer": "Khonghampat Orchidarium",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_053",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Approximately how many rare orchid varieties does Khonghampat Orchidarium house?",
+    "options": [
+      "Over 110",
+      "Over 20",
+      "Over 500",
+      "Over 1,000"
+    ],
+    "answer": "Over 110",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_054",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What is the peak blooming season at Khonghampat Orchidarium?",
+    "options": [
+      "July-August",
+      "March-April",
+      "May-June",
+      "November-December"
+    ],
+    "answer": "March-April",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_055",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which hill range is famous for Manipur's state flower?",
+    "options": [
+      "Kheba Hills",
+      "Shirui Hills",
+      "Kangchup Hills",
+      "Mao Hills"
+    ],
+    "answer": "Shirui Hills",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_056",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "At approximately what elevation do the Shirui Hills rise according to Manipur Tourism's festival page?",
+    "options": [
+      "About 8,500 feet",
+      "About 3,500 feet",
+      "About 5,000 feet",
+      "About 12,000 feet"
+    ],
+    "answer": "About 8,500 feet",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Shirui Lily Festival",
+    "source_url": "https://manipurtourism.gov.in/shirui-lily-festival/"
+  },
+  {
+    "id": "quest_mn_057",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "In which months does the Shirui Lily bloom?",
+    "options": [
+      "July to September",
+      "January to February",
+      "November to December",
+      "April to June"
+    ],
+    "answer": "April to June",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Shirui Lily Festival",
+    "source_url": "https://manipurtourism.gov.in/shirui-lily-festival/"
+  },
+  {
+    "id": "quest_mn_058",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "What is the scientific name of the Shirui Lily?",
+    "options": [
+      "Rucervus eldii eldii",
+      "Papilio polytes",
+      "Panthera pardus",
+      "Lilium mackliniae"
+    ],
+    "answer": "Lilium mackliniae",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Shirui Lily Festival",
+    "source_url": "https://manipurtourism.gov.in/shirui-lily-festival/"
+  },
+  {
+    "id": "quest_mn_059",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "When was the Shirui Lily declared Manipur's state flower?",
+    "options": [
+      "1989",
+      "1999",
+      "1979",
+      "2009"
+    ],
+    "answer": "1989",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Shirui Lily Festival",
+    "source_url": "https://manipurtourism.gov.in/shirui-lily-festival/"
+  },
+  {
+    "id": "quest_mn_060",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which endangered flower is found exclusively in the Shirui Hills?",
+    "options": [
+      "Shirui Lily",
+      "Dzuko Lily",
+      "Lotus",
+      "Blue Poppy"
+    ],
+    "answer": "Shirui Lily",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Shirui Lily Festival",
+    "source_url": "https://manipurtourism.gov.in/shirui-lily-festival/"
+  },
+  {
+    "id": "quest_mn_061",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which prehistoric cave in Ukhrul is made of limestone?",
+    "options": [
+      "Supao Deikulu Cave",
+      "Khangkhui Lime Caves",
+      "Tharon Cave",
+      "Khukdai Cave"
+    ],
+    "answer": "Khangkhui Lime Caves",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_062",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What evidence has been found in Khangkhui Lime Caves?",
+    "options": [
+      "Evidence of Mughal forts",
+      "Evidence of Stone Age habitation",
+      "Evidence of Roman settlement",
+      "Evidence of Ahom burials"
+    ],
+    "answer": "Evidence of Stone Age habitation",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Shirui Lily Festival",
+    "source_url": "https://manipurtourism.gov.in/shirui-lily-festival/"
+  },
+  {
+    "id": "quest_mn_063",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which valley is a trekking destination from Manipur toward Nagaland?",
+    "options": [
+      "Dzuko Valley",
+      "Moirang Valley",
+      "Imphal Valley",
+      "Khoupum Valley"
+    ],
+    "answer": "Dzuko Valley",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_064",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which rare lily gives Dzuko Valley one of its distinctive namesakes?",
+    "options": [
+      "Water Lily",
+      "Tiger Lily",
+      "Shirui Lily",
+      "Dzuko Lily"
+    ],
+    "answer": "Dzuko Lily",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_065",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which is described as the highest peak of Manipur behind Dzuko Valley?",
+    "options": [
+      "Mount Temjen",
+      "Mount Saramati",
+      "Mount Iso",
+      "Mount Japfu"
+    ],
+    "answer": "Mount Iso",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_066",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which cave in Tamenglong has archaeological finds associated with Vietnamese Hobinian culture?",
+    "options": [
+      "Tharon Cave",
+      "Supao Deikulu Cave",
+      "Khukdai Cave",
+      "Khangkhui Lime Caves"
+    ],
+    "answer": "Tharon Cave",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_067",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which meadow near Tamei is known for orchids and wild lilies in June?",
+    "options": [
+      "Kaina Meadow",
+      "Bunning Meadow",
+      "Shirui Meadow",
+      "Sangti Valley"
+    ],
+    "answer": "Bunning Meadow",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_068",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which lake in Tamenglong is known for fishes, birds and pythons?",
+    "options": [
+      "Loktak Lake",
+      "Loukoi Pat",
+      "Zeilad Lake",
+      "Sendra Lake"
+    ],
+    "answer": "Zeilad Lake",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_069",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which waterfall in Tamenglong offers opportunities for rafting and water sports?",
+    "options": [
+      "Barak Waterfalls",
+      "Khoupum Falls",
+      "Shirui Falls",
+      "Sadu Chiru Waterfall"
+    ],
+    "answer": "Barak Waterfalls",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_070",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which tribe inhabits Yangkhullen village according to Manipur Tourism?",
+    "options": [
+      "Tangkhul tribe",
+      "Garo tribe",
+      "Zeme tribe",
+      "Kuki tribe"
+    ],
+    "answer": "Zeme tribe",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_071",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which tribe inhabits Khoupum Valley?",
+    "options": [
+      "Mao tribe",
+      "Kuki tribe",
+      "Tangkhul tribe",
+      "Rongmei tribe"
+    ],
+    "answer": "Rongmei tribe",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Nature and Wildlife",
+    "source_url": "https://manipurtourism.gov.in/nature-and-wildlife/"
+  },
+  {
+    "id": "quest_mn_072",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which town is the district headquarters of Tamenglong?",
+    "options": [
+      "Senapati",
+      "Moreh",
+      "Ukhrul",
+      "Tamenglong"
+    ],
+    "answer": "Tamenglong",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_073",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which town is the district headquarters of the northern hill district of Manipur?",
+    "options": [
+      "Senapati",
+      "Churachandpur",
+      "Thoubal",
+      "Tamenglong"
+    ],
+    "answer": "Senapati",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_074",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which place in Senapati is believed to be where the common origin of the Nagas began?",
+    "options": [
+      "Mao",
+      "Yangkhullen",
+      "Dzuko Valley",
+      "Makhel"
+    ],
+    "answer": "Makhel",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_075",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which place is described as the oldest hill station in Manipur?",
+    "options": [
+      "Mao",
+      "Churachandpur",
+      "Senapati",
+      "Ukhrul"
+    ],
+    "answer": "Mao",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_076",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "At which place was the Indian National Army flag first unfurled on April 14, 1944?",
+    "options": [
+      "Moirang",
+      "Khongjom",
+      "Kangla",
+      "Moreh"
+    ],
+    "answer": "Moirang",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_077",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which museum in Moirang preserves letters, photographs and badges of rank connected with the INA?",
+    "options": [
+      "Manipur State Museum",
+      "War Cemetery Museum",
+      "Mutua Museum",
+      "INA Museum"
+    ],
+    "answer": "INA Museum",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_078",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who led the Indian soldiers commemorated by the INA Memorial at Moirang?",
+    "options": [
+      "Major General Paona Brajabashi",
+      "Maharaja Bhagyachandra",
+      "Bir Tikendrajit Singh",
+      "Netaji Subhas Chandra Bose"
+    ],
+    "answer": "Netaji Subhas Chandra Bose",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_079",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which pre-Hindu deity has an ancient temple at Moirang?",
+    "options": [
+      "Govindajee",
+      "Pakhangba",
+      "Jagannath",
+      "Lord Thangjing"
+    ],
+    "answer": "Lord Thangjing",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_080",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which annual ritual dance festival is held at Moirang in honour of Lord Thangjing?",
+    "options": [
+      "Kang",
+      "Lai Haraoba",
+      "Cheiraoba",
+      "Yaosang"
+    ],
+    "answer": "Lai Haraoba",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_081",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Where did Major General Paona Brajabashi make his last stand against the British in 1891?",
+    "options": [
+      "Khongjom",
+      "Red Hill",
+      "Kangla",
+      "Moirang"
+    ],
+    "answer": "Khongjom",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_082",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "On what date is Khongjom Day observed?",
+    "options": [
+      "26 January",
+      "15 August",
+      "14 April",
+      "23 April"
+    ],
+    "answer": "23 April",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_083",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "On which hill is the Khongjom War Memorial located?",
+    "options": [
+      "Kheba Hill",
+      "Nilachal Hill",
+      "Shirui Hill",
+      "Mao Hill"
+    ],
+    "answer": "Kheba Hill",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_084",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which historic site in Bishnupur district was a World War II battlefield involving Japanese and British forces?",
+    "options": [
+      "Red Hill",
+      "Khongjom",
+      "Kangla",
+      "Moirang"
+    ],
+    "answer": "Red Hill",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_085",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is the India Peace Memorial at Red Hill intended to honour?",
+    "options": [
+      "INA horses",
+      "Japanese martyrs",
+      "Manipuri kings",
+      "British generals"
+    ],
+    "answer": "Japanese martyrs",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_086",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which city contains the Imphal War Cemetery?",
+    "options": [
+      "Bishnupur",
+      "Ukhrul",
+      "Moirang",
+      "Imphal"
+    ],
+    "answer": "Imphal",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_087",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Approximately how many Commonwealth service personnel are buried at Imphal War Cemetery?",
+    "options": [
+      "2,600",
+      "1,600",
+      "160",
+      "600"
+    ],
+    "answer": "1,600",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_088",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which organization maintains the Imphal War Cemetery?",
+    "options": [
+      "Indian National Army",
+      "Commonwealth War Graves Commission",
+      "Archaeological Survey of India",
+      "Manipur Tourism Department"
+    ],
+    "answer": "Commonwealth War Graves Commission",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_089",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who is commemorated at Shaheed Minar in Imphal?",
+    "options": [
+      "Meitei and tribal martyrs of 1891",
+      "Only INA soldiers",
+      "Only Japanese soldiers",
+      "Only British soldiers"
+    ],
+    "answer": "Meitei and tribal martyrs of 1891",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_090",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "How many vertical beams form the Shaheed Minar according to Manipur Tourism?",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Four"
+    ],
+    "answer": "Three",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_091",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "What mythical figures hold together the top of Shaheed Minar?",
+    "options": [
+      "Three mythical dragons",
+      "Two elephants",
+      "Four lions",
+      "Three horses"
+    ],
+    "answer": "Three mythical dragons",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Historical Site",
+    "source_url": "https://manipurtourism.gov.in/historical-site/"
+  },
+  {
+    "id": "quest_mn_092",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum near the Polo Ground displays Manipur's tribal heritage?",
+    "options": [
+      "INA Museum",
+      "Ahom Tai Museum",
+      "Manipur State Museum",
+      "Mutua Museum"
+    ],
+    "answer": "Manipur State Museum",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_093",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which items are specifically displayed at Manipur State Museum?",
+    "options": [
+      "Only coins",
+      "Only paintings",
+      "Only pottery",
+      "Costumes, arms and historical documents"
+    ],
+    "answer": "Costumes, arms and historical documents",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_094",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Where is Manipur Zoological Garden located?",
+    "options": [
+      "Moirang",
+      "Moreh",
+      "Andro",
+      "Iroisemba"
+    ],
+    "answer": "Iroisemba",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_095",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which endangered animal can visitors see at Manipur Zoological Garden?",
+    "options": [
+      "One-horned rhinoceros",
+      "Tiger",
+      "Asiatic lion",
+      "Sangai"
+    ],
+    "answer": "Sangai",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_096",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which small lake near Tiddim Road is known for boating facilities?",
+    "options": [
+      "Zeilad Lake",
+      "Kaina Lake",
+      "Loktak Lake",
+      "Loukoi Pat"
+    ],
+    "answer": "Loukoi Pat",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_097",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town is about 60 km from Imphal on Tiddim Road and is a major tribal town?",
+    "options": [
+      "Ukhrul",
+      "Mao",
+      "Moreh",
+      "Churachandpur"
+    ],
+    "answer": "Churachandpur",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_098",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which communities are described as dominant in Churachandpur?",
+    "options": [
+      "Tangkhul-Mao",
+      "Meitei-Pangal",
+      "Rongmei-Zeme",
+      "Kuki-Chin-Mizo"
+    ],
+    "answer": "Kuki-Chin-Mizo",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_099",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town on the Indo-Myanmar border is about 110 km from Imphal?",
+    "options": [
+      "Ukhrul",
+      "Senapati",
+      "Moirang",
+      "Moreh"
+    ],
+    "answer": "Moreh",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_100",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which Myanmar border town lies about 5 km from Moreh?",
+    "options": [
+      "Myawaddy",
+      "Tamu",
+      "Kalay",
+      "Mandalay"
+    ],
+    "answer": "Tamu",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Places to See",
+    "source_url": "https://manipurtourism.gov.in/places-to-see/"
+  },
+  {
+    "id": "quest_mn_101",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which classical dance form depicts the eternal love of Radha and Krishna?",
+    "options": [
+      "Khamba Thoibi",
+      "Pung Cholom",
+      "Raas Leela",
+      "Thabal Chongba"
+    ],
+    "answer": "Raas Leela",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Art & Culture",
+    "source_url": "https://manipurtourism.gov.in/art-culture/"
+  },
+  {
+    "id": "quest_mn_102",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Who created the renowned Raas Lila form according to Manipur Tourism?",
+    "options": [
+      "Pakhangba",
+      "Paona Brajabashi",
+      "Maharaja Gambhir Singh",
+      "Maharaja Bhagyachandra"
+    ],
+    "answer": "Maharaja Bhagyachandra",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – About Us",
+    "source_url": "https://manipurtourism.gov.in/about-us/"
+  },
+  {
+    "id": "quest_mn_103",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which dance is a duet of male and female partners associated with Moirang?",
+    "options": [
+      "Khamba Thoibi Dance",
+      "Raas Leela",
+      "Pung Cholom",
+      "Nupa Pala"
+    ],
+    "answer": "Khamba Thoibi Dance",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Art & Culture",
+    "source_url": "https://manipurtourism.gov.in/art-culture/"
+  },
+  {
+    "id": "quest_mn_104",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Khamba Thoibi Dance is dedicated to which deity of Moirang?",
+    "options": [
+      "Pakhangba",
+      "Thangjing",
+      "Jagannath",
+      "Krishna"
+    ],
+    "answer": "Thangjing",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Art & Culture",
+    "source_url": "https://manipurtourism.gov.in/art-culture/"
+  },
+  {
+    "id": "quest_mn_105",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which dance tradition is described as the fountainhead of the modern Manipuri dance form?",
+    "options": [
+      "Thabal Chongba",
+      "Nupa Pala",
+      "Lai-Haraoba",
+      "Pung Cholom"
+    ],
+    "answer": "Lai-Haraoba",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Art & Culture",
+    "source_url": "https://manipurtourism.gov.in/art-culture/"
+  },
+  {
+    "id": "quest_mn_106",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is the premier festival of Manipur and lasts five days from the full moon of Phalguna?",
+    "options": [
+      "Kang",
+      "Yaosang",
+      "Gang-Ngai",
+      "Cheiraoba"
+    ],
+    "answer": "Yaosang",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_107",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which dance is particularly associated with Yaosang?",
+    "options": [
+      "Khamba Thoibi",
+      "Pung Cholom",
+      "Thabal Chongba",
+      "Raas Leela"
+    ],
+    "answer": "Thabal Chongba",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_108",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is the Manipuri New Year?",
+    "options": [
+      "Cheiraoba",
+      "Yaosang",
+      "Kang",
+      "Lui-Ngai-Ni"
+    ],
+    "answer": "Cheiraoba",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_109",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "During Cheiraoba, what do villagers traditionally climb?",
+    "options": [
+      "River boats",
+      "Nearby hilltops",
+      "Temple towers",
+      "Fort walls"
+    ],
+    "answer": "Nearby hilltops",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_110",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is known as the Ratha Yatra of Manipur?",
+    "options": [
+      "Yaosang",
+      "Kut",
+      "Chumpha",
+      "Kang"
+    ],
+    "answer": "Kang",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_111",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "How long is the Kang festival celebrated?",
+    "options": [
+      "Seven days",
+      "Ten days",
+      "Five days",
+      "Three days"
+    ],
+    "answer": "Ten days",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_112",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival features a boat race with long narrow boats and an idol of Lord Vishnu?",
+    "options": [
+      "Ningol Chak-kouba",
+      "Heikru Hitongba",
+      "Lui-Ngai-Ni",
+      "Kang"
+    ],
+    "answer": "Heikru Hitongba",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_113",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "In which month is Heikru Hitongba celebrated?",
+    "options": [
+      "February",
+      "September",
+      "April",
+      "November"
+    ],
+    "answer": "September",
+    "difficulty": "hard",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_114",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is a family reunion in which married daughters return to their parental home?",
+    "options": [
+      "Ningol Chak-kouba",
+      "Gang-Ngai",
+      "Kut",
+      "Cheiraoba"
+    ],
+    "answer": "Ningol Chak-kouba",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_115",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is observed on 1 November by Kuki-Chin-Mizo communities in Manipur?",
+    "options": [
+      "Kut",
+      "Yaosang",
+      "Chumpha",
+      "Lui-Ngai-Ni"
+    ],
+    "answer": "Kut",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_116",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is the collective festival of the Naga communities and is observed on 15 February?",
+    "options": [
+      "Kut",
+      "Gang-Ngai",
+      "Lui-Ngai-Ni",
+      "Chumpha"
+    ],
+    "answer": "Lui-Ngai-Ni",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_117",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "What agricultural activity does Lui-Ngai-Ni mark?",
+    "options": [
+      "Harvesting rice",
+      "Fruit picking",
+      "Seed sowing",
+      "Tea planting"
+    ],
+    "answer": "Seed sowing",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_118",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is an important festival of the Kabui Nagas?",
+    "options": [
+      "Lui-Ngai-Ni",
+      "Kut",
+      "Gang-Ngai",
+      "Chumpha"
+    ],
+    "answer": "Gang-Ngai",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_119",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is celebrated for seven days in December by the Tangkhul Nagas according to Manipur Tourism?",
+    "options": [
+      "Chumpha",
+      "Kang",
+      "Kut",
+      "Gang-Ngai"
+    ],
+    "answer": "Chumpha",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Festivals in Manipur",
+    "source_url": "https://manipurtourism.gov.in/festivals-in-manipur/"
+  },
+  {
+    "id": "quest_mn_120",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is one of the main characteristics of Manipuri cuisine according to Manipur Tourism?",
+    "options": [
+      "It is mostly deep fried",
+      "It is mainly dairy based",
+      "It is largely steam cooked rather than fried",
+      "It is mainly bread based"
+    ],
+    "answer": "It is largely steam cooked rather than fried",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Highlights",
+    "source_url": "https://manipurtourism.gov.in/highlights/"
+  },
+  {
+    "id": "quest_mn_121",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which rice-based dessert is highlighted as a Manipuri delicacy?",
+    "options": [
+      "Mysore Pak",
+      "Payasam",
+      "Chak-hao Kheer",
+      "Phirni"
+    ],
+    "answer": "Chak-hao Kheer",
+    "difficulty": "easy",
+    "source": "Manipur Tourism – Highlights",
+    "source_url": "https://manipurtourism.gov.in/highlights/"
+  },
+  {
+    "id": "quest_mn_122",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "What type of rice is used for Chak-hao Kheer?",
+    "options": [
+      "Parboiled rice",
+      "Red rice",
+      "Black sticky rice",
+      "Basmati rice"
+    ],
+    "answer": "Black sticky rice",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Highlights",
+    "source_url": "https://manipurtourism.gov.in/highlights/"
+  },
+  {
+    "id": "quest_mn_123",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which ancient martial art is highlighted as part of Manipur's culture?",
+    "options": [
+      "Silambam",
+      "Thang Ta",
+      "Kalaripayattu",
+      "Gatka"
+    ],
+    "answer": "Thang Ta",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Highlights",
+    "source_url": "https://manipurtourism.gov.in/highlights/"
+  },
+  {
+    "id": "quest_mn_124",
+    "state": "Manipur",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which drum dance is specifically mentioned among Manipur's cultural treasures?",
+    "options": [
+      "Khamba Thoibi",
+      "Pung-Cholom",
+      "Raas Leela",
+      "Thabal Chongba"
+    ],
+    "answer": "Pung-Cholom",
+    "difficulty": "medium",
+    "source": "Manipur Tourism – Manipur Tourism Policy 2022",
+    "source_url": "https://manipurtourism.gov.in/wp-content/uploads/2022/06/Manipur-Tourism-Policy-2022.pdf"
+  }
+]

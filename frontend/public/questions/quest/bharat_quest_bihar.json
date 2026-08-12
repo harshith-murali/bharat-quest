@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_bihar_001",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two rivers meet at the Sangam in Patna according to the source?",
+    "options": [
+      "Ganga and Yamuna",
+      "Ganga and Gandak",
+      "Sone and Yamuna",
+      "Gandak and Kosi"
+    ],
+    "answer": "Ganga and Gandak",
+    "difficulty": "medium",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_002",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient kingdom is closely associated with present-day Bihar?",
+    "options": [
+      "Pallava",
+      "Chola",
+      "Chera",
+      "Magadha"
+    ],
+    "answer": "Magadha",
+    "difficulty": "easy",
+    "source": "Incredible India – Bihar"
+  },
+  {
+    "id": "quest_bihar_003",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which two ancient universities are highlighted as important centres of learning in Bihar?",
+    "options": [
+      "Nalanda and Vikramshila",
+      "Ujjain and Kanchi",
+      "Somapura and Odantapuri",
+      "Takshashila and Vallabhi"
+    ],
+    "answer": "Nalanda and Vikramshila",
+    "difficulty": "medium",
+    "source": "Incredible India – Bihar"
+  },
+  {
+    "id": "quest_bihar_004",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Jain pilgrimage sites are highlighted in Bihar?",
+    "options": [
+      "Pawapuri and Rajgir",
+      "Bodh Gaya and Nalanda",
+      "Vaishali and Vikramshila",
+      "Patna and Sonepur"
+    ],
+    "answer": "Pawapuri and Rajgir",
+    "difficulty": "medium",
+    "source": "Incredible India – Bihar"
+  },
+  {
+    "id": "quest_bihar_005",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the capital of Bihar?",
+    "options": [
+      "Rajgir",
+      "Nalanda",
+      "Patna",
+      "Gaya"
+    ],
+    "answer": "Patna",
+    "difficulty": "easy",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_006",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "On the southern bank of which river is Patna situated?",
+    "options": [
+      "Gandak",
+      "Ganga",
+      "Sone",
+      "Kosi"
+    ],
+    "answer": "Ganga",
+    "difficulty": "easy",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_007",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Patna known as in ancient times?",
+    "options": [
+      "Ujjain",
+      "Pataliputra",
+      "Indraprastha",
+      "Kashi"
+    ],
+    "answer": "Pataliputra",
+    "difficulty": "easy",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_008",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient emperor is strongly associated with Pataliputra?",
+    "options": [
+      "Akbar",
+      "Harsha",
+      "Ashoka",
+      "Krishnadevaraya"
+    ],
+    "answer": "Ashoka",
+    "difficulty": "easy",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_009",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Patna is famous for its collection of historical and archaeological artefacts?",
+    "options": [
+      "Patna Museum only",
+      "Salar Jung Museum",
+      "Bihar Museum",
+      "Indian Museum"
+    ],
+    "answer": "Bihar Museum",
+    "difficulty": "medium",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_010",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which historic granary is a landmark of Patna?",
+    "options": [
+      "Qila Mubarak",
+      "Aguada Fort",
+      "Bara Imambara",
+      "Golghar"
+    ],
+    "answer": "Golghar",
+    "difficulty": "easy",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_011",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Why was Golghar built?",
+    "options": [
+      "As a railway station",
+      "As a royal palace",
+      "As a Buddhist monastery",
+      "As a granary to store grain"
+    ],
+    "answer": "As a granary to store grain",
+    "difficulty": "medium",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_012",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Sikh shrine in Patna is associated with Guru Gobind Singh?",
+    "options": [
+      "Golden Temple",
+      "Bangla Sahib",
+      "Takht Sri Patna Sahib",
+      "Takht Sri Kesgarh Sahib"
+    ],
+    "answer": "Takht Sri Patna Sahib",
+    "difficulty": "easy",
+    "source": "Incredible India – Patna"
+  },
+  {
+    "id": "quest_bihar_013",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Why is Bodh Gaya important in Buddhism?",
+    "options": [
+      "It is where Buddha was born",
+      "It is where Buddha died",
+      "It is where Buddha attained enlightenment",
+      "It is where Buddha gave his first sermon"
+    ],
+    "answer": "It is where Buddha attained enlightenment",
+    "difficulty": "easy",
+    "source": "Incredible India – Bodh Gaya"
+  },
+  {
+    "id": "quest_bihar_014",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple marks the place of Buddha's enlightenment?",
+    "options": [
+      "Mahabodhi Temple",
+      "Sarnath Temple",
+      "Dhamek Stupa",
+      "Vishnupad Temple"
+    ],
+    "answer": "Mahabodhi Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Mahabodhi Temple, Bodh Gaya"
+  },
+  {
+    "id": "quest_bihar_015",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which tree is associated with Buddha's enlightenment at Bodh Gaya?",
+    "options": [
+      "Neem Tree",
+      "Peepal of Sarnath",
+      "Banyan Tree",
+      "Bodhi Tree"
+    ],
+    "answer": "Bodhi Tree",
+    "difficulty": "easy",
+    "source": "Incredible India – Mahabodhi Temple, Bodh Gaya"
+  },
+  {
+    "id": "quest_bihar_016",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Mahabodhi Temple complex recognised as?",
+    "options": [
+      "UNESCO World Heritage Site",
+      "Ramsar Site",
+      "Tiger Reserve",
+      "Biosphere Reserve"
+    ],
+    "answer": "UNESCO World Heritage Site",
+    "difficulty": "easy",
+    "source": "Incredible India – Mahabodhi Temple, Bodh Gaya"
+  },
+  {
+    "id": "quest_bihar_017",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient emperor is associated with the early construction of a shrine at Bodh Gaya?",
+    "options": [
+      "Chandragupta II",
+      "Akbar",
+      "Ashoka",
+      "Harsha"
+    ],
+    "answer": "Ashoka",
+    "difficulty": "medium",
+    "source": "Incredible India – Mahabodhi Temple, Bodh Gaya"
+  },
+  {
+    "id": "quest_bihar_018",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which object is traditionally associated with the Mahabodhi Temple's central sanctum?",
+    "options": [
+      "A statue of Shiva",
+      "A statue of Krishna",
+      "A statue of Mahavira",
+      "A seated image of Buddha"
+    ],
+    "answer": "A seated image of Buddha",
+    "difficulty": "easy",
+    "source": "Incredible India – Mahabodhi Temple, Bodh Gaya"
+  },
+  {
+    "id": "quest_bihar_019",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Nalanda famous for?",
+    "options": [
+      "A medieval seaport",
+      "A British cantonment",
+      "A Mughal palace",
+      "An ancient centre of higher learning"
+    ],
+    "answer": "An ancient centre of higher learning",
+    "difficulty": "easy",
+    "source": "Incredible India – Nalanda"
+  },
+  {
+    "id": "quest_bihar_020",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Chinese traveller wrote about Nalanda?",
+    "options": [
+      "Fa-Hien only",
+      "Marco Polo",
+      "Xuanzang",
+      "Ibn Battuta"
+    ],
+    "answer": "Xuanzang",
+    "difficulty": "medium",
+    "source": "Incredible India – Nalanda"
+  },
+  {
+    "id": "quest_bihar_021",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which other Chinese traveller is associated with records of Nalanda?",
+    "options": [
+      "Shen Kuo",
+      "Yijing",
+      "Xu Fu",
+      "Zheng He"
+    ],
+    "answer": "Yijing",
+    "difficulty": "hard",
+    "source": "Incredible India – Nalanda"
+  },
+  {
+    "id": "quest_bihar_022",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Gupta ruler is traditionally associated with the foundation of Nalanda?",
+    "options": [
+      "Samudragupta",
+      "Chandragupta II",
+      "Skandagupta",
+      "Kumaragupta I"
+    ],
+    "answer": "Kumaragupta I",
+    "difficulty": "hard",
+    "source": "Incredible India – Nalanda Archaeological Site"
+  },
+  {
+    "id": "quest_bihar_023",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Nalanda Archaeological Site recognised as?",
+    "options": [
+      "Ramsar Site",
+      "UNESCO World Heritage Site",
+      "National Park",
+      "UNESCO Creative City"
+    ],
+    "answer": "UNESCO World Heritage Site",
+    "difficulty": "easy",
+    "source": "Incredible India – Nalanda Archaeological Site"
+  },
+  {
+    "id": "quest_bihar_024",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Rajgir is surrounded by what kind of landscape?",
+    "options": [
+      "Hills",
+      "Coastal beaches",
+      "Desert dunes",
+      "Mangrove forests"
+    ],
+    "answer": "Hills",
+    "difficulty": "easy",
+    "source": "Incredible India – Rajgir"
+  },
+  {
+    "id": "quest_bihar_025",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient kingdom had Rajgir as one of its early capitals?",
+    "options": [
+      "Magadha",
+      "Kalinga",
+      "Pallava",
+      "Chola"
+    ],
+    "answer": "Magadha",
+    "difficulty": "medium",
+    "source": "Incredible India – Rajgir"
+  },
+  {
+    "id": "quest_bihar_026",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Buddhist site near Rajgir is associated with Buddha's teachings?",
+    "options": [
+      "Sarnath Museum",
+      "Dhamek Stupa",
+      "Mahabodhi Temple",
+      "Griddhakuta Hill"
+    ],
+    "answer": "Griddhakuta Hill",
+    "difficulty": "medium",
+    "source": "Incredible India – Rajgir"
+  },
+  {
+    "id": "quest_bihar_027",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religion regards Rajgir as an important pilgrimage site besides Buddhism?",
+    "options": [
+      "Christianity",
+      "Jainism",
+      "Zoroastrianism",
+      "Sikhism"
+    ],
+    "answer": "Jainism",
+    "difficulty": "easy",
+    "source": "Incredible India – Rajgir"
+  },
+  {
+    "id": "quest_bihar_028",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hot springs are a famous natural feature of Rajgir?",
+    "options": [
+      "Iron springs",
+      "Salt springs",
+      "Sulphur springs",
+      "Cold springs"
+    ],
+    "answer": "Sulphur springs",
+    "difficulty": "medium",
+    "source": "Incredible India – Rajgir"
+  },
+  {
+    "id": "quest_bihar_029",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ruler is associated with the ancient fortifications of Rajgir?",
+    "options": [
+      "Bimbisara",
+      "Ashoka only",
+      "Sher Shah Suri",
+      "Akbar"
+    ],
+    "answer": "Bimbisara",
+    "difficulty": "hard",
+    "source": "Incredible India – Rajgir"
+  },
+  {
+    "id": "quest_bihar_030",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ancient republic is associated with Vaishali?",
+    "options": [
+      "Mauryan Empire",
+      "Gupta Empire",
+      "Mughal Empire",
+      "Licchavi republic"
+    ],
+    "answer": "Licchavi republic",
+    "difficulty": "medium",
+    "source": "Incredible India – Vaishali"
+  },
+  {
+    "id": "quest_bihar_031",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Vaishali is an important pilgrimage site for which religion because Buddha visited it?",
+    "options": [
+      "Islam",
+      "Buddhism",
+      "Sikhism",
+      "Zoroastrianism"
+    ],
+    "answer": "Buddhism",
+    "difficulty": "easy",
+    "source": "Incredible India – Vaishali"
+  },
+  {
+    "id": "quest_bihar_032",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which ruler's lion pillar stands at Kolhua near Vaishali?",
+    "options": [
+      "Akbar",
+      "Harsha",
+      "Ashoka",
+      "Chandragupta Maurya"
+    ],
+    "answer": "Ashoka",
+    "difficulty": "medium",
+    "source": "Incredible India – Vaishali"
+  },
+  {
+    "id": "quest_bihar_033",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which stupa at Vaishali is associated with Buddha's relics?",
+    "options": [
+      "Mahabodhi Stupa",
+      "Sanchi Stupa",
+      "Relic Stupa",
+      "Dhamek Stupa"
+    ],
+    "answer": "Relic Stupa",
+    "difficulty": "hard",
+    "source": "Incredible India – Vaishali"
+  },
+  {
+    "id": "quest_bihar_034",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Why is Pawapuri sacred to Jains?",
+    "options": [
+      "Mahavira attained nirvana there",
+      "Buddha attained enlightenment there",
+      "Mahavira was born there",
+      "Guru Nanak visited there"
+    ],
+    "answer": "Mahavira attained nirvana there",
+    "difficulty": "easy",
+    "source": "Incredible India – Pawapuri"
+  },
+  {
+    "id": "quest_bihar_035",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What surrounds the Jal Mandir at Pawapuri?",
+    "options": [
+      "A mountain ridge",
+      "A forest",
+      "A desert",
+      "A lotus-filled lake"
+    ],
+    "answer": "A lotus-filled lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Pawapuri"
+  },
+  {
+    "id": "quest_bihar_036",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religion is most strongly associated with Jal Mandir at Pawapuri?",
+    "options": [
+      "Jainism",
+      "Hinduism",
+      "Buddhism",
+      "Sikhism"
+    ],
+    "answer": "Jainism",
+    "difficulty": "easy",
+    "source": "Incredible India – Pawapuri"
+  },
+  {
+    "id": "quest_bihar_037",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Vikramshila?",
+    "options": [
+      "A Jain temple",
+      "A Mughal fort",
+      "An ancient Buddhist university",
+      "A Mauryan palace"
+    ],
+    "answer": "An ancient Buddhist university",
+    "difficulty": "easy",
+    "source": "Incredible India – Vikramshila"
+  },
+  {
+    "id": "quest_bihar_038",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which dynasty founded Vikramshila according to the source?",
+    "options": [
+      "Nanda dynasty",
+      "Gupta dynasty",
+      "Pala dynasty",
+      "Maurya dynasty"
+    ],
+    "answer": "Pala dynasty",
+    "difficulty": "medium",
+    "source": "Incredible India – Vikramshila"
+  },
+  {
+    "id": "quest_bihar_039",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which subject was especially important at Vikramshila?",
+    "options": [
+      "Temple architecture only",
+      "Tantric Buddhism",
+      "Jain mathematics",
+      "Mughal painting"
+    ],
+    "answer": "Tantric Buddhism",
+    "difficulty": "hard",
+    "source": "Incredible India – Vikramshila"
+  },
+  {
+    "id": "quest_bihar_040",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who is buried in the famous tomb at Sasaram?",
+    "options": [
+      "Humayun",
+      "Akbar",
+      "Babur",
+      "Sher Shah Suri"
+    ],
+    "answer": "Sher Shah Suri",
+    "difficulty": "easy",
+    "source": "Incredible India – Sher Shah Suri Tomb, Sasaram"
+  },
+  {
+    "id": "quest_bihar_041",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is distinctive about Sher Shah Suri's tomb?",
+    "options": [
+      "It stands in the middle of an artificial lake",
+      "It is built entirely of white marble",
+      "It stands on a hilltop",
+      "It is carved into a cave"
+    ],
+    "answer": "It stands in the middle of an artificial lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Sher Shah Suri Tomb, Sasaram"
+  },
+  {
+    "id": "quest_bihar_042",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which empire did Sher Shah Suri briefly rule before the Mughals regained power?",
+    "options": [
+      "Mauryan Empire",
+      "Sur Empire",
+      "Maratha Empire",
+      "Gupta Empire"
+    ],
+    "answer": "Sur Empire",
+    "difficulty": "medium",
+    "source": "Incredible India – Sher Shah Suri Tomb, Sasaram"
+  },
+  {
+    "id": "quest_bihar_043",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional art form is associated with the Mithila region of Bihar?",
+    "options": [
+      "Kangra painting",
+      "Madhubani painting",
+      "Warli painting",
+      "Pattachitra"
+    ],
+    "answer": "Madhubani painting",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhubani / Mithila Art"
+  },
+  {
+    "id": "quest_bihar_044",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What subjects commonly appear in traditional Madhubani paintings?",
+    "options": [
+      "Mythological stories, nature and social themes",
+      "Only battles",
+      "Only royal portraits",
+      "Only landscapes"
+    ],
+    "answer": "Mythological stories, nature and social themes",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhubani / Mithila Art"
+  },
+  {
+    "id": "quest_bihar_045",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which region is the traditional home of Madhubani painting?",
+    "options": [
+      "Mithila",
+      "Mewar",
+      "Malwa",
+      "Konkan"
+    ],
+    "answer": "Mithila",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhubani / Mithila Art"
+  },
+  {
+    "id": "quest_bihar_046",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national park is located in Bihar's West Champaran district?",
+    "options": [
+      "Ranthambore National Park",
+      "Kaziranga National Park",
+      "Kanha National Park",
+      "Valmiki National Park"
+    ],
+    "answer": "Valmiki National Park",
+    "difficulty": "easy",
+    "source": "Incredible India – Valmiki National Park"
+  },
+  {
+    "id": "quest_bihar_047",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which big cat is protected in Valmiki Tiger Reserve?",
+    "options": [
+      "Snow leopard",
+      "Tiger",
+      "Cheetah",
+      "Asiatic lion"
+    ],
+    "answer": "Tiger",
+    "difficulty": "easy",
+    "source": "Incredible India – Valmiki National Park"
+  },
+  {
+    "id": "quest_bihar_048",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What kind of landscape is associated with Valmiki National Park?",
+    "options": [
+      "Coastal mangroves",
+      "Thar desert",
+      "Terai forests and Himalayan foothills",
+      "High-altitude alpine meadows"
+    ],
+    "answer": "Terai forests and Himalayan foothills",
+    "difficulty": "medium",
+    "source": "Incredible India – Valmiki National Park"
+  },
+  {
+    "id": "quest_bihar_049",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous fair is held at Sonepur?",
+    "options": [
+      "Surajkund Mela",
+      "Sonepur Mela",
+      "Pushkar Camel Fair",
+      "Kullu Dussehra"
+    ],
+    "answer": "Sonepur Mela",
+    "difficulty": "easy",
+    "source": "Incredible India – Sonepur Mela"
+  },
+  {
+    "id": "quest_bihar_050",
+    "state": "Bihar",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "At which river confluence is Sonepur located?",
+    "options": [
+      "Sone and Ganga",
+      "Ganga and Gandak",
+      "Ganga and Yamuna",
+      "Kosi and Gandak"
+    ],
+    "answer": "Ganga and Gandak",
+    "difficulty": "medium",
+    "source": "Incredible India – Sonepur Mela"
+  }
+]

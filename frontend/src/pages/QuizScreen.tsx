@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { Canvas } from '@react-three/fiber';
 import { Suspense } from 'react';
@@ -6,7 +6,7 @@ import { Suspense } from 'react';
 import { useSession } from '../store/sessionStore';
 import IconRail from '../components/IconRail';
 import RosterDrawer from '../components/RosterDrawer';
-import Mascot from '../components/3d/Mascot';
+import LionMascot from '../components/3d/LionMascot';
 import QuizCard from '../components/QuizCard';
 import ErrorBoundary from '../components/ErrorBoundary';
 
@@ -24,7 +24,6 @@ export default function QuizScreen() {
   const { sectionId } = useParams<{ sectionId: string }>();
   const {
     state,
-    currentMission,
     currentQuestion,
     currentStudent,
     spinNext,
@@ -33,6 +32,12 @@ export default function QuizScreen() {
   // Mascot State
   const [mascotState, setMascotState] = useState<'idle' | 'talk' | 'celebrate' | 'sulk'>('idle');
   const [mascotDialogue, setMascotDialogue] = useState<string>('');
+
+  // Redirect legacy /quiz route to real question datasets (Quest only)
+  useEffect(() => {
+    const stateName = state.selectedState || 'Karnataka';
+    navigate(`/session/${sectionId}/quest/${encodeURIComponent(stateName)}`, { replace: true });
+  }, [state.selectedState, sectionId, navigate]);
 
   // Drawers & Modals
   const [isRosterOpen, setIsRosterOpen] = useState(false);
@@ -86,8 +91,6 @@ export default function QuizScreen() {
 
         {/* Right HUD Badges */}
         <div className="flex items-center gap-2">
-          <span className="hud-pill hud-pill-coin">🪙 5,200</span>
-          <span className="hud-pill hud-pill-gem">💎 320</span>
           <span className={`badge ${state.isOnline ? 'badge-online' : 'badge-offline'}`}>
             {state.isOnline ? '🟢 Online' : '🔴 Offline'}
           </span>
@@ -146,7 +149,7 @@ export default function QuizScreen() {
                   <directionalLight position={[5, 10, 7]} intensity={1.8} />
                   <pointLight position={[-5, 5, -5]} intensity={0.6} />
                   <Suspense fallback={null}>
-                    <Mascot state={mascotState} modelPath={currentMission?.mascot_model || '/models/mascot-placeholder.glb'} />
+                    <LionMascot state={mascotState} />
                   </Suspense>
                 </Canvas>
               </ErrorBoundary>

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_mp_001",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which state is described as being in the heart of India?",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Maharashtra"
+    ],
+    "answer": "Madhya Pradesh",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_002",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many UNESCO World Heritage Sites are highlighted in Madhya Pradesh?",
+    "options": [
+      "Seven",
+      "Three",
+      "Five",
+      "Two"
+    ],
+    "answer": "Three",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_003",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which state is called the 'Tiger State of India'?",
+    "options": [
+      "Karnataka",
+      "Madhya Pradesh",
+      "Gujarat",
+      "Assam"
+    ],
+    "answer": "Madhya Pradesh",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_004",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three sites are identified as Madhya Pradesh's UNESCO World Heritage Sites?",
+    "options": [
+      "Mandu, Bhopal and Indore",
+      "Khajuraho, Sanchi and Bhimbetka",
+      "Orchha, Gwalior and Ujjain",
+      "Pachmarhi, Kanha and Gwalior"
+    ],
+    "answer": "Khajuraho, Sanchi and Bhimbetka",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_005",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which major river forms the island on which Omkareshwar Jyotirlinga Temple stands?",
+    "options": [
+      "Chambal",
+      "Yamuna",
+      "Narmada",
+      "Ganga"
+    ],
+    "answer": "Narmada",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_006",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which town is described as being on the banks of the Betwa River?",
+    "options": [
+      "Ujjain",
+      "Indore",
+      "Bhopal",
+      "Orchha"
+    ],
+    "answer": "Orchha",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_007",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which dynasty ruled Khajuraho when it flourished as a capital from the 9th to 12th century?",
+    "options": [
+      "Pala dynasty",
+      "Maurya dynasty",
+      "Gupta dynasty",
+      "Chandela dynasty"
+    ],
+    "answer": "Chandela dynasty",
+    "difficulty": "medium",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_008",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many Khajuraho temples are said to have survived today?",
+    "options": [
+      "20",
+      "64",
+      "85",
+      "12"
+    ],
+    "answer": "20",
+    "difficulty": "medium",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_009",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Into how many groups are the Khajuraho temples categorized?",
+    "options": [
+      "Two",
+      "Five",
+      "Three",
+      "Four"
+    ],
+    "answer": "Three",
+    "difficulty": "easy",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_010",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Khajuraho temple is dedicated to Lord Shiva?",
+    "options": [
+      "Kandariya Mahadeva Temple",
+      "Lakshmana Temple",
+      "Chitragupta Temple",
+      "Devi Jagadambi Temple"
+    ],
+    "answer": "Kandariya Mahadeva Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_011",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural style is prominently represented at Khajuraho?",
+    "options": [
+      "Dravidian style",
+      "Nagara style",
+      "Indo-Islamic style",
+      "Vesara style"
+    ],
+    "answer": "Nagara style",
+    "difficulty": "medium",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_012",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Approximately how many sculptures adorn the walls of Kandariya Mahadeva Temple?",
+    "options": [
+      "Over 87",
+      "Over 8,700",
+      "Over 270",
+      "Over 870"
+    ],
+    "answer": "Over 870",
+    "difficulty": "hard",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_013",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the Chaunsath Yogini Temple commemorate?",
+    "options": [
+      "64 rivers",
+      "64 manifestations of the Goddess",
+      "64 kings",
+      "64 Jain Tirthankaras"
+    ],
+    "answer": "64 manifestations of the Goddess",
+    "difficulty": "medium",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_014",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival held annually beside the Khajuraho temples showcases classical Indian dance?",
+    "options": [
+      "Konark Dance Festival",
+      "Bastar Dussehra",
+      "Khajuraho Dance Festival",
+      "Tansen Festival"
+    ],
+    "answer": "Khajuraho Dance Festival",
+    "difficulty": "easy",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_015",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three classical dance forms are specifically mentioned at the Khajuraho Dance Festival?",
+    "options": [
+      "Odissi, Sattriya and Kathakali",
+      "Bharatanatyam, Mohiniyattam and Kathakali",
+      "Bharatanatyam, Kathak and Odissi",
+      "Kathakali, Kuchipudi and Manipuri"
+    ],
+    "answer": "Bharatanatyam, Kathak and Odissi",
+    "difficulty": "medium",
+    "source": "Incredible India – Khajuraho"
+  },
+  {
+    "id": "quest_mp_016",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded Sanchi in the 3rd century BCE?",
+    "options": [
+      "Emperor Ashoka",
+      "Chandragupta Maurya",
+      "Akbar",
+      "Samudragupta"
+    ],
+    "answer": "Emperor Ashoka",
+    "difficulty": "easy",
+    "source": "Incredible India – Sanchi"
+  },
+  {
+    "id": "quest_mp_017",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What religion is central to Sanchi's monuments?",
+    "options": [
+      "Sikhism",
+      "Buddhism",
+      "Jainism",
+      "Islam"
+    ],
+    "answer": "Buddhism",
+    "difficulty": "easy",
+    "source": "Incredible India – Sanchi"
+  },
+  {
+    "id": "quest_mp_018",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the Great Stupa at Sanchi famous for?",
+    "options": [
+      "Intricately carved gateways",
+      "A marble dome",
+      "A giant stone chariot",
+      "A rock-cut cave"
+    ],
+    "answer": "Intricately carved gateways",
+    "difficulty": "easy",
+    "source": "Incredible India – Sanchi"
+  },
+  {
+    "id": "quest_mp_019",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What famous sculpture is associated with the Ashoka Pillar at Sanchi?",
+    "options": [
+      "Lion Capital",
+      "Dancing Shiva",
+      "Nataraja",
+      "Yakshi of Didarganj"
+    ],
+    "answer": "Lion Capital",
+    "difficulty": "medium",
+    "source": "Incredible India – Sanchi"
+  },
+  {
+    "id": "quest_mp_020",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year were Sanchi's Buddhist monuments designated a UNESCO World Heritage Site?",
+    "options": [
+      "1975",
+      "1989",
+      "1950",
+      "2001"
+    ],
+    "answer": "1989",
+    "difficulty": "hard",
+    "source": "Incredible India – Sanchi"
+  },
+  {
+    "id": "quest_mp_021",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What did the monastic complex at Sanchi contain?",
+    "options": [
+      "Ancient monasteries and shrines",
+      "Royal palaces",
+      "British barracks",
+      "Mughal gardens"
+    ],
+    "answer": "Ancient monasteries and shrines",
+    "difficulty": "medium",
+    "source": "Incredible India – Sanchi"
+  },
+  {
+    "id": "quest_mp_022",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is Bhimbetka famous for?",
+    "options": [
+      "Medieval temples",
+      "Mughal forts",
+      "Prehistoric rock shelters and rock art",
+      "Buddhist stupas"
+    ],
+    "answer": "Prehistoric rock shelters and rock art",
+    "difficulty": "easy",
+    "source": "Incredible India – Bhimbetka"
+  },
+  {
+    "id": "quest_mp_023",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many hills are included in the Bhimbetka Rock Shelters site according to Incredible India?",
+    "options": [
+      "Ten",
+      "Seven",
+      "Three",
+      "Twenty"
+    ],
+    "answer": "Seven",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_024",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how many rock shelters are distributed across the Bhimbetka site?",
+    "options": [
+      "Over 150",
+      "Over 750",
+      "Over 75",
+      "Over 7,500"
+    ],
+    "answer": "Over 750",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_025",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Some Bhimbetka shelters were inhabited more than how long ago?",
+    "options": [
+      "100,000 years",
+      "10,000 years",
+      "1,000 years",
+      "500,000 years"
+    ],
+    "answer": "100,000 years",
+    "difficulty": "hard",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_026",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do Bhimbetka's rock paintings provide a glimpse into?",
+    "options": [
+      "Mughal court life",
+      "British colonial life",
+      "Modern tribal markets",
+      "The lives and beliefs of ancient people"
+    ],
+    "answer": "The lives and beliefs of ancient people",
+    "difficulty": "easy",
+    "source": "Incredible India – Bhimbetka"
+  },
+  {
+    "id": "quest_mp_027",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which other rock-cut site in Madhya Pradesh is known for murals?",
+    "options": [
+      "Ajanta Caves",
+      "Elephanta Caves",
+      "Bagh Caves",
+      "Udayagiri Caves"
+    ],
+    "answer": "Bagh Caves",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_028",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who founded the kingdom of Orchha in the 15th century?",
+    "options": [
+      "Rudra Pratap Singh",
+      "Bir Singh Bundela",
+      "Jahangir",
+      "Akbar"
+    ],
+    "answer": "Rudra Pratap Singh",
+    "difficulty": "medium",
+    "source": "Incredible India – Orchha"
+  },
+  {
+    "id": "quest_mp_029",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river flows beside Orchha?",
+    "options": [
+      "Son",
+      "Narmada",
+      "Betwa",
+      "Chambal"
+    ],
+    "answer": "Betwa",
+    "difficulty": "easy",
+    "source": "Incredible India – Orchha"
+  },
+  {
+    "id": "quest_mp_030",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mughal emperor captured Orchha according to Incredible India?",
+    "options": [
+      "Aurangzeb",
+      "Jahangir",
+      "Shah Jahan",
+      "Akbar"
+    ],
+    "answer": "Akbar",
+    "difficulty": "easy",
+    "source": "Incredible India – Orchha"
+  },
+  {
+    "id": "quest_mp_031",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "To whom did Jahangir later gift Orchha?",
+    "options": [
+      "Vir Singh Bundela",
+      "Rudra Pratap Singh",
+      "Man Singh",
+      "Birbal"
+    ],
+    "answer": "Vir Singh Bundela",
+    "difficulty": "hard",
+    "source": "Incredible India – Orchha"
+  },
+  {
+    "id": "quest_mp_032",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which structures are among Orchha's notable historic remains?",
+    "options": [
+      "Caves and rock shelters",
+      "Stupas and monasteries",
+      "Colonial museums and bridges",
+      "Palaces, temples and chhatris"
+    ],
+    "answer": "Palaces, temples and chhatris",
+    "difficulty": "easy",
+    "source": "Incredible India – Orchha"
+  },
+  {
+    "id": "quest_mp_033",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple makes Ujjain a major spiritual destination?",
+    "options": [
+      "Mahakaleshwar Temple",
+      "Lingaraj Temple",
+      "Jagannath Temple",
+      "Kandariya Mahadeva Temple"
+    ],
+    "answer": "Mahakaleshwar Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Ujjain"
+  },
+  {
+    "id": "quest_mp_034",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What type of sacred shrine is Mahakaleshwar?",
+    "options": [
+      "Buddhist stupa",
+      "Shakti Peetha only",
+      "Jyotirlinga",
+      "Jain tirtha"
+    ],
+    "answer": "Jyotirlinga",
+    "difficulty": "easy",
+    "source": "Incredible India – Ujjain"
+  },
+  {
+    "id": "quest_mp_035",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is strongly associated with Ujjain's religious identity?",
+    "options": [
+      "Bastar Dussehra",
+      "Durga Puja",
+      "Kumbh Mela",
+      "Rath Yatra"
+    ],
+    "answer": "Kumbh Mela",
+    "difficulty": "medium",
+    "source": "Incredible India – Ujjain"
+  },
+  {
+    "id": "quest_mp_036",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river is closely associated with Ujjain?",
+    "options": [
+      "Chambal",
+      "Shipra",
+      "Betwa",
+      "Narmada"
+    ],
+    "answer": "Shipra",
+    "difficulty": "medium",
+    "source": "Incredible India – Ujjain"
+  },
+  {
+    "id": "quest_mp_037",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which famous fort dominates the historic city of Gwalior?",
+    "options": [
+      "Gwalior Fort",
+      "Orchha Fort",
+      "Asirgarh Fort",
+      "Mandu Fort"
+    ],
+    "answer": "Gwalior Fort",
+    "difficulty": "easy",
+    "source": "Incredible India – Gwalior"
+  },
+  {
+    "id": "quest_mp_038",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Gwalior Fort described as?",
+    "options": [
+      "A Buddhist stupa",
+      "A colonial bridge",
+      "An architectural marvel",
+      "A rock shelter"
+    ],
+    "answer": "An architectural marvel",
+    "difficulty": "easy",
+    "source": "Incredible India – Gwalior"
+  },
+  {
+    "id": "quest_mp_039",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which musical tradition is strongly associated with Gwalior?",
+    "options": [
+      "Jaipur gharana",
+      "Patiala gharana",
+      "Benaras gharana",
+      "Gwalior gharana"
+    ],
+    "answer": "Gwalior gharana",
+    "difficulty": "medium",
+    "source": "Incredible India – Gwalior"
+  },
+  {
+    "id": "quest_mp_040",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which famous musician's memorial is associated with Gwalior?",
+    "options": [
+      "Swami Haridas",
+      "Baiju Bawra",
+      "Tansen",
+      "Amir Khusrau"
+    ],
+    "answer": "Tansen",
+    "difficulty": "easy",
+    "source": "Incredible India – Gwalior"
+  },
+  {
+    "id": "quest_mp_041",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which rulers governed Bhopal for more than 100 years?",
+    "options": [
+      "Rajputs",
+      "Marathas",
+      "Mughals",
+      "Begums"
+    ],
+    "answer": "Begums",
+    "difficulty": "easy",
+    "source": "Incredible India – Bhopal"
+  },
+  {
+    "id": "quest_mp_042",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which distinction does Incredible India give Bhopal regarding its women rulers?",
+    "options": [
+      "It had India's first women army",
+      "It was ruled by Begums for over 100 years",
+      "It was founded by a woman ruler",
+      "It was ruled by queens for 500 years"
+    ],
+    "answer": "It was ruled by Begums for over 100 years",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_043",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which lake is one of Bhopal's defining natural features?",
+    "options": [
+      "Dal Lake",
+      "Pichola Lake",
+      "Upper Lake",
+      "Chilika Lake"
+    ],
+    "answer": "Upper Lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Bhopal"
+  },
+  {
+    "id": "quest_mp_044",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city lies in the Malwa region of Madhya Pradesh?",
+    "options": [
+      "Sanchi",
+      "Gwalior",
+      "Khajuraho",
+      "Indore"
+    ],
+    "answer": "Indore",
+    "difficulty": "easy",
+    "source": "Incredible India – Indore"
+  },
+  {
+    "id": "quest_mp_045",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which historic palace is a major landmark of Indore?",
+    "options": [
+      "Rajwada",
+      "Gohar Mahal",
+      "Rai Praveen Mahal",
+      "Jai Vilas Palace"
+    ],
+    "answer": "Rajwada",
+    "difficulty": "easy",
+    "source": "Incredible India – Indore"
+  },
+  {
+    "id": "quest_mp_046",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which museum in Indore is described as a kaleidoscope of art and history?",
+    "options": [
+      "Tribal Museum",
+      "State Museum",
+      "Central Museum",
+      "Rail Museum"
+    ],
+    "answer": "Central Museum",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_047",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hill station is famous for waterfalls and ancient caves in Madhya Pradesh?",
+    "options": [
+      "Khajuraho",
+      "Orchha",
+      "Sanchi",
+      "Pachmarhi"
+    ],
+    "answer": "Pachmarhi",
+    "difficulty": "easy",
+    "source": "Incredible India – Pachmarhi"
+  },
+  {
+    "id": "quest_mp_048",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfalls are highlighted as an attraction of Madhya Pradesh alongside Pachmarhi?",
+    "options": [
+      "Jog Falls",
+      "Hogenakkal Falls",
+      "Chitrakote Falls",
+      "Dhuandhar Falls"
+    ],
+    "answer": "Dhuandhar Falls",
+    "difficulty": "medium",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_049",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which national parks are specifically highlighted for tiger safaris in Madhya Pradesh?",
+    "options": [
+      "Periyar and Bandipur",
+      "Kaziranga and Manas",
+      "Gir and Ranthambore",
+      "Kanha and Bandhavgarh"
+    ],
+    "answer": "Kanha and Bandhavgarh",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhya Pradesh"
+  },
+  {
+    "id": "quest_mp_050",
+    "state": "Madhya Pradesh",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple is described by Incredible India as having a spiritual aura in Madhya Pradesh?",
+    "options": [
+      "Lingaraj Temple",
+      "Mahakaleshwar Temple",
+      "Kandariya Mahadeva Temple",
+      "Jagannath Temple"
+    ],
+    "answer": "Mahakaleshwar Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Madhya Pradesh"
+  }
+]

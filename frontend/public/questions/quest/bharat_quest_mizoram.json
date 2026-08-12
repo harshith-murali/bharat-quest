@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "quest_mz_001",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What does the name Mizoram mean? ",
+    "options": [
+      "Land of blue rivers",
+      "Land of the rising sun",
+      "Land of the people of the hills",
+      "Land of forests"
+    ],
+    "answer": "Land of the people of the hills",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_002",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which nickname is used for Mizoram in Incredible India's state overview?",
+    "options": [
+      "Land of Mountains",
+      "Land of Rivers",
+      "Land of Deserts",
+      "Land of Palaces"
+    ],
+    "answer": "Land of Mountains",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_003",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which other nickname is used for Mizoram?",
+    "options": [
+      "Land of Golden Hills",
+      "Land of Red Hills",
+      "Land of Blue Mountains",
+      "Land of Seven Rivers"
+    ],
+    "answer": "Land of Blue Mountains",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_004",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Mizoram initially known as?",
+    "options": [
+      "Lushai Kingdom",
+      "Lushai Hills District",
+      "Mizo Valley District",
+      "Eastern Hills District"
+    ],
+    "answer": "Lushai Hills District",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_005",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the name Lushai Hills changed to Mizo Hills District?",
+    "options": [
+      "1954",
+      "1963",
+      "1947",
+      "1972"
+    ],
+    "answer": "1954",
+    "difficulty": "hard",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_006",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year did the Mizo Hills District become a Union Territory?",
+    "options": [
+      "1972",
+      "1987",
+      "1966",
+      "1954"
+    ],
+    "answer": "1972",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_007",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is the capital of Mizoram?",
+    "options": [
+      "Aizawl",
+      "Lunglei",
+      "Serchhip",
+      "Champhai"
+    ],
+    "answer": "Aizawl",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_008",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Aizawl is situated at approximately what elevation?",
+    "options": [
+      "732 metres",
+      "1,132 metres",
+      "2,132 metres",
+      "1,832 metres"
+    ],
+    "answer": "1,132 metres",
+    "difficulty": "medium",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_009",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which state borders Mizoram to the north?",
+    "options": [
+      "Nagaland",
+      "Tripura",
+      "Manipur",
+      "Assam"
+    ],
+    "answer": "Assam",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_010",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which two countries border Mizoram?",
+    "options": [
+      "Bangladesh and Nepal",
+      "Nepal and Bhutan",
+      "Myanmar and Bangladesh",
+      "Myanmar and Bhutan"
+    ],
+    "answer": "Myanmar and Bangladesh",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_011",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which community forms the majority of Mizoram's population according to Incredible India?",
+    "options": [
+      "Khasi people",
+      "Mizo people, predominantly the Lusei tribe",
+      "Garo people",
+      "Bodo people"
+    ],
+    "answer": "Mizo people, predominantly the Lusei tribe",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_012",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What ethical code is associated with Mizo society?",
+    "options": [
+      "Puan",
+      "Mizo Ram",
+      "Tlawmngaihna",
+      "Zawlbuk"
+    ],
+    "answer": "Tlawmngaihna",
+    "difficulty": "hard",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_013",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Tlawmngaihna broadly express?",
+    "options": [
+      "Being hospitable, kind, unselfish and helpful",
+      "Being skilled in hunting",
+      "Being devoted to farming",
+      "Being skilled in weaving"
+    ],
+    "answer": "Being hospitable, kind, unselfish and helpful",
+    "difficulty": "medium",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_014",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which language is described as the first language of Mizoram?",
+    "options": [
+      "Bengali",
+      "Meitei",
+      "Assamese",
+      "Lusei"
+    ],
+    "answer": "Lusei",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_015",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional art is especially associated with Mizo women?",
+    "options": [
+      "Metal casting",
+      "Stone carving",
+      "Pottery",
+      "Weaving"
+    ],
+    "answer": "Weaving",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_016",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which two materials are highlighted among Mizoram's handicrafts?",
+    "options": [
+      "Stone and marble",
+      "Clay and copper",
+      "Silk and leather",
+      "Bamboo and cane"
+    ],
+    "answer": "Bamboo and cane",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_017",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is a Khumbeu?",
+    "options": [
+      "A bamboo flute",
+      "A traditional drum",
+      "A ceremonial Mizo hat",
+      "A type of shawl"
+    ],
+    "answer": "A ceremonial Mizo hat",
+    "difficulty": "medium",
+    "source": "Incredible India – Shopping in Aizawl",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/things-to-do/shopping-in-aizawl.html"
+  },
+  {
+    "id": "quest_mz_018",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What leaves are used to make the Khumbeu ceremonial hat waterproof?",
+    "options": [
+      "Palm leaves",
+      "Banana leaves",
+      "Hnahthial leaves",
+      "Bamboo leaves"
+    ],
+    "answer": "Hnahthial leaves",
+    "difficulty": "hard",
+    "source": "Incredible India – Shopping in Aizawl",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/things-to-do/shopping-in-aizawl.html"
+  },
+  {
+    "id": "quest_mz_019",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which instrument is mentioned alongside the bamboo flute in Mizoram's traditional music?",
+    "options": [
+      "Tangmuri",
+      "Nadaswaram",
+      "Shehnai",
+      "Santoor"
+    ],
+    "answer": "Tangmuri",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_020",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which traditional village setup at Falkawn demonstrates Mizo life?",
+    "options": [
+      "Bara Bazaar",
+      "Zokhua",
+      "Dawrpui",
+      "Berawtlang"
+    ],
+    "answer": "Zokhua",
+    "difficulty": "easy",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_021",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which museum on Macdonald Hill offers a glimpse into Mizoram's heritage?",
+    "options": [
+      "District Museum",
+      "Mizoram State Museum",
+      "Don Bosco Museum",
+      "Tribal Arts Museum"
+    ],
+    "answer": "Mizoram State Museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_022",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the Mizoram State Museum established?",
+    "options": [
+      "1997",
+      "1967",
+      "1987",
+      "1977"
+    ],
+    "answer": "1977",
+    "difficulty": "hard",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram.html"
+  },
+  {
+    "id": "quest_mz_023",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does the Mizoram State Museum display?",
+    "options": [
+      "Only paintings",
+      "Only fossils",
+      "Only coins",
+      "Artefacts, costumes and historical relics"
+    ],
+    "answer": "Artefacts, costumes and historical relics",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_024",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Architecture",
+    "question": "Which Aizawl landmark is described as a gigantic architectural phenomenon?",
+    "options": [
+      "K.V. Paradise",
+      "Dawrpui Presbyterian Church",
+      "Solomon's Temple",
+      "Salvation Army Temple"
+    ],
+    "answer": "Solomon's Temple",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_025",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which hills offer panoramic views over Aizawl?",
+    "options": [
+      "Hmuifang Hills",
+      "Lunglei Hills",
+      "Champhai Hills",
+      "Durtlang Hills"
+    ],
+    "answer": "Durtlang Hills",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_026",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which market is described as Aizawl's central shopping hub?",
+    "options": [
+      "Bara Bazaar",
+      "Dawrpui Market",
+      "New Market",
+      "Ritz Market"
+    ],
+    "answer": "Bara Bazaar",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_027",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which area is described as a shopping hub containing Millennium Centre, Zion Street and Bara Bazar?",
+    "options": [
+      "Macdonald Hill",
+      "Berawtlang",
+      "Dawrpui",
+      "Durtlang"
+    ],
+    "answer": "Dawrpui",
+    "difficulty": "medium",
+    "source": "Incredible India – Shopping in Aizawl",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/things-to-do/shopping-in-aizawl.html"
+  },
+  {
+    "id": "quest_mz_028",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which products are sold in Aizawl's markets as examples of Mizo craftsmanship?",
+    "options": [
+      "Marble sculptures and carpets",
+      "Hand-woven garments, shawls, bags and bamboo handicrafts",
+      "Wooden masks and pottery only",
+      "Silk saris and brassware"
+    ],
+    "answer": "Hand-woven garments, shawls, bags and bamboo handicrafts",
+    "difficulty": "easy",
+    "source": "Incredible India – Shopping in Aizawl",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/things-to-do/shopping-in-aizawl.html"
+  },
+  {
+    "id": "quest_mz_029",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "On what kind of loom are traditional Mizo shawls and bags woven?",
+    "options": [
+      "Power loom",
+      "Loin-loom",
+      "Pit loom",
+      "Jacquard loom"
+    ],
+    "answer": "Loin-loom",
+    "difficulty": "hard",
+    "source": "Incredible India – Shopping in Aizawl",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/things-to-do/shopping-in-aizawl.html"
+  },
+  {
+    "id": "quest_mz_030",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which Aizawl landmark is called Mizoram's own 'Taj Mahal'?",
+    "options": [
+      "Reiek Tourist Resort",
+      "K.V. Paradise",
+      "Solomon's Temple",
+      "Martyrs Memorial"
+    ],
+    "answer": "K.V. Paradise",
+    "difficulty": "medium",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_031",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How high is Reiek Mountain?",
+    "options": [
+      "1,848 metres",
+      "1,548 metres",
+      "1,048 metres",
+      "2,048 metres"
+    ],
+    "answer": "1,548 metres",
+    "difficulty": "medium",
+    "source": "Incredible India – Reiek Tourist Resort",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/reiek-tourist-resort"
+  },
+  {
+    "id": "quest_mz_032",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What can sometimes be seen from the summit of Reiek on clear days?",
+    "options": [
+      "The Brahmaputra delta",
+      "The plains of Bangladesh",
+      "The Bay of Bengal",
+      "The Himalayas of Nepal"
+    ],
+    "answer": "The plains of Bangladesh",
+    "difficulty": "medium",
+    "source": "Incredible India – Reiek Tourist Resort",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/reiek-tourist-resort"
+  },
+  {
+    "id": "quest_mz_033",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is located at the base of Reiek Mountain?",
+    "options": [
+      "Sialsuk Village",
+      "Reiek Village",
+      "Zokhua Village",
+      "Falkawn Village"
+    ],
+    "answer": "Reiek Village",
+    "difficulty": "easy",
+    "source": "Incredible India – Reiek Tourist Resort",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/reiek-tourist-resort"
+  },
+  {
+    "id": "quest_mz_034",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Reiek Tourist Resort preserve through its traditional huts?",
+    "options": [
+      "Only British architecture",
+      "The architecture of Assam",
+      "Only Buddhist architecture",
+      "The heritage of various Mizo tribes"
+    ],
+    "answer": "The heritage of various Mizo tribes",
+    "difficulty": "medium",
+    "source": "Incredible India – Reiek Tourist Resort",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/reiek-tourist-resort"
+  },
+  {
+    "id": "quest_mz_035",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Whose residence can visitors see at Reiek Tourist Resort?",
+    "options": [
+      "Mizocho's Abode",
+      "Chana's House",
+      "Laldenga's House",
+      "Taitesena's House"
+    ],
+    "answer": "Mizocho's Abode",
+    "difficulty": "hard",
+    "source": "Incredible India – Reiek Tourist Resort",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/reiek-tourist-resort"
+  },
+  {
+    "id": "quest_mz_036",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What type of residence is preserved at Reiek for single people?",
+    "options": [
+      "A royal palace",
+      "A monastery",
+      "A schoolhouse",
+      "A dormitory for singles"
+    ],
+    "answer": "A dormitory for singles",
+    "difficulty": "medium",
+    "source": "Incredible India – Reiek Tourist Resort",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/reiek-tourist-resort"
+  },
+  {
+    "id": "quest_mz_037",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which other residence is specifically preserved at Reiek Tourist Resort?",
+    "options": [
+      "A blacksmith's house",
+      "A merchant's house",
+      "A priest's residence",
+      "A widow's residence"
+    ],
+    "answer": "A widow's residence",
+    "difficulty": "medium",
+    "source": "Incredible India – Reiek Tourist Resort",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/reiek-tourist-resort"
+  },
+  {
+    "id": "quest_mz_038",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "What is the main natural attraction visitors trek to from Reiek Village?",
+    "options": [
+      "Reiek Peak",
+      "Lunglei Peak",
+      "Hmuifang Peak",
+      "Durtlang Peak"
+    ],
+    "answer": "Reiek Peak",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_039",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How far south of Aizawl is Hmuifang Mountain according to the official overview?",
+    "options": [
+      "20 km",
+      "50 km",
+      "75 km",
+      "100 km"
+    ],
+    "answer": "50 km",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram.html"
+  },
+  {
+    "id": "quest_mz_040",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is the elevation of Hmuifang Mountain in the official overview?",
+    "options": [
+      "1,819 metres",
+      "1,619 metres",
+      "2,019 metres",
+      "1,219 metres"
+    ],
+    "answer": "1,619 metres",
+    "difficulty": "hard",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram.html"
+  },
+  {
+    "id": "quest_mz_041",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What is Tamdil known as in relation to Mizoram's man-made lakes?",
+    "options": [
+      "Mizoram's deepest natural lake",
+      "Mizoram's highest lake",
+      "Mizoram's oldest lake",
+      "Mizoram's largest man-made lake"
+    ],
+    "answer": "Mizoram's largest man-made lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl natural beauty",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/discover-a-paradise-of-hills-mountains-rivers-and-lakes-in-aizawl"
+  },
+  {
+    "id": "quest_mz_042",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Near which village is Tamdil Lake located?",
+    "options": [
+      "Thenzawl",
+      "Saitual",
+      "Falkawn",
+      "Sialsuk"
+    ],
+    "answer": "Saitual",
+    "difficulty": "medium",
+    "source": "Incredible India – Aizawl natural beauty",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/discover-a-paradise-of-hills-mountains-rivers-and-lakes-in-aizawl"
+  },
+  {
+    "id": "quest_mz_043",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Adventure",
+    "question": "Which activities are specifically mentioned at Tamdil Lake?",
+    "options": [
+      "Rafting, skiing and skating",
+      "Surfing, diving and sailing",
+      "Boating, fishing and camping",
+      "Horse riding, cycling and golf"
+    ],
+    "answer": "Boating, fishing and camping",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl natural beauty",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/discover-a-paradise-of-hills-mountains-rivers-and-lakes-in-aizawl"
+  },
+  {
+    "id": "quest_mz_044",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "How high is Vantawng Khawthla described as cascading from?",
+    "options": [
+      "1,000 feet",
+      "250 feet",
+      "750 feet",
+      "500 feet"
+    ],
+    "answer": "750 feet",
+    "difficulty": "medium",
+    "source": "Incredible India – Aizawl natural beauty",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/discover-a-paradise-of-hills-mountains-rivers-and-lakes-in-aizawl"
+  },
+  {
+    "id": "quest_mz_045",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which waterfall is described as the highest in Mizoram?",
+    "options": [
+      "Vantawng Khawthla",
+      "Tualchang Falls",
+      "Tuirihiau Falls",
+      "Phawngpui Falls"
+    ],
+    "answer": "Vantawng Khawthla",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_046",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where is Tuirihiau Falls located in relation to Vantawng Falls?",
+    "options": [
+      "Upstream",
+      "To the east",
+      "To the west",
+      "Downstream"
+    ],
+    "answer": "Upstream",
+    "difficulty": "hard",
+    "source": "Incredible India – Tuirihiau Falls",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/top-attraction-and-destinations/tuirihiau-falls-thenzawl-serchhip-district.html"
+  },
+  {
+    "id": "quest_mz_047",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "What unusual feature can visitors experience at Tuirihiau Falls?",
+    "options": [
+      "Crossing the falls by a rope bridge",
+      "Walking under a rock arch above the waterfall",
+      "Looking at the waterfall from behind the cascades",
+      "Seeing two separate rainbows every day"
+    ],
+    "answer": "Looking at the waterfall from behind the cascades",
+    "difficulty": "medium",
+    "source": "Incredible India – Tuirihiau Falls",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/top-attraction-and-destinations/tuirihiau-falls-thenzawl-serchhip-district.html"
+  },
+  {
+    "id": "quest_mz_048",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Tuirihiau Falls is located near which town?",
+    "options": [
+      "Lunglei",
+      "Mamit",
+      "Champhai",
+      "Thenzawl"
+    ],
+    "answer": "Thenzawl",
+    "difficulty": "easy",
+    "source": "Incredible India – Tuirihiau Falls",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram/top-attraction-and-destinations/tuirihiau-falls-thenzawl-serchhip-district.html"
+  },
+  {
+    "id": "quest_mz_049",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "In which year did the Mizoram Government set up Zokhua at Falkawn?",
+    "options": [
+      "1972",
+      "2002",
+      "1982",
+      "1992"
+    ],
+    "answer": "1992",
+    "difficulty": "hard",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_050",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far is Zokhua at Falkawn from Aizawl?",
+    "options": [
+      "28 km",
+      "38 km",
+      "18 km",
+      "8 km"
+    ],
+    "answer": "18 km",
+    "difficulty": "medium",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_051",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What kind of attraction is Zokhua?",
+    "options": [
+      "A mini live-museum",
+      "A botanical garden",
+      "A fort",
+      "A wildlife sanctuary"
+    ],
+    "answer": "A mini live-museum",
+    "difficulty": "easy",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_052",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is a Zawlbuk in the Zokhua display?",
+    "options": [
+      "A chief's house",
+      "A blacksmith's workshop",
+      "A memorial stone",
+      "A dormitory"
+    ],
+    "answer": "A dormitory",
+    "difficulty": "medium",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_053",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is Lal In in the Zokhua display?",
+    "options": [
+      "A blacksmith's workshop",
+      "The chief's house",
+      "A dormitory",
+      "A church"
+    ],
+    "answer": "The chief's house",
+    "difficulty": "medium",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_054",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Pum represent at Zokhua?",
+    "options": [
+      "A dormitory",
+      "A blacksmith's place",
+      "A chief's house",
+      "A market"
+    ],
+    "answer": "A blacksmith's place",
+    "difficulty": "hard",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_055",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which Mizo warrior is commemorated by a memorial stone at Zokhua?",
+    "options": [
+      "Laldenga",
+      "Taitesena",
+      "Lianchhiari",
+      "Zoramthanga"
+    ],
+    "answer": "Taitesena",
+    "difficulty": "hard",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_056",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Where is Dampa Tiger Reserve located within Mizoram?",
+    "options": [
+      "Eastern Mizoram",
+      "Southern Mizoram",
+      "Northern Mizoram",
+      "Western Mizoram"
+    ],
+    "answer": "Western Mizoram",
+    "difficulty": "easy",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_057",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Approximately how large is Dampa Tiger Reserve?",
+    "options": [
+      "500 square kilometres",
+      "250 square kilometres",
+      "1,000 square kilometres",
+      "750 square kilometres"
+    ],
+    "answer": "500 square kilometres",
+    "difficulty": "medium",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_058",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Dampa established?",
+    "options": [
+      "1985",
+      "2004",
+      "1975",
+      "1994"
+    ],
+    "answer": "1985",
+    "difficulty": "hard",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_059",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Dampa declared a Tiger Reserve?",
+    "options": [
+      "1994",
+      "1985",
+      "1973",
+      "2000"
+    ],
+    "answer": "1994",
+    "difficulty": "hard",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_060",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which conservation programme is Dampa part of?",
+    "options": [
+      "Project Dolphin",
+      "Project Elephant",
+      "Project Tiger",
+      "Project Snow Leopard"
+    ],
+    "answer": "Project Tiger",
+    "difficulty": "medium",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_061",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Into how many ranges is Dampa Tiger Reserve divided?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "answer": "Two",
+    "difficulty": "easy",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_062",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which two ranges form Dampa Tiger Reserve?",
+    "options": [
+      "Durtlang and Hnahthial",
+      "Mamit and Saitual",
+      "Reiek and Hmuifang",
+      "Teirei and Phuldungsei"
+    ],
+    "answer": "Teirei and Phuldungsei",
+    "difficulty": "hard",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_063",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which large cat is the principal animal protected by Dampa Tiger Reserve?",
+    "options": [
+      "Clouded leopard",
+      "Asiatic lion",
+      "Snow leopard",
+      "Bengal tiger"
+    ],
+    "answer": "Bengal tiger",
+    "difficulty": "easy",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_064",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which of these activities is specifically offered in Dampa?",
+    "options": [
+      "Desert camel safari",
+      "River rafting",
+      "Guided wildlife safari",
+      "Glacier trekking"
+    ],
+    "answer": "Guided wildlife safari",
+    "difficulty": "easy",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_065",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which activity allows visitors to observe plants and animals in their natural surroundings at Dampa?",
+    "options": [
+      "Scuba diving",
+      "Guided photography tour",
+      "Hot-air ballooning",
+      "Paragliding"
+    ],
+    "answer": "Guided photography tour",
+    "difficulty": "medium",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_066",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which nearby sanctuary is mentioned as a haven for birds and wildlife?",
+    "options": [
+      "Pobitora Sanctuary",
+      "Sariska Sanctuary",
+      "Kibber Sanctuary",
+      "Khawnglung Wildlife Sanctuary"
+    ],
+    "answer": "Khawnglung Wildlife Sanctuary",
+    "difficulty": "medium",
+    "source": "Incredible India – Dampa Tiger Reserve",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/dampa-tiger-reserve"
+  },
+  {
+    "id": "quest_mz_067",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival marks the onset of spring in Mizoram?",
+    "options": [
+      "Thalfavang Kut",
+      "Chapchar Kut",
+      "Mim Kut",
+      "Pawl Kut"
+    ],
+    "answer": "Chapchar Kut",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_068",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "When is Chapchar Kut celebrated according to Incredible India?",
+    "options": [
+      "November–December",
+      "April–May",
+      "February–March",
+      "June–July"
+    ],
+    "answer": "February–March",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_069",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is dedicated to harvest celebrations?",
+    "options": [
+      "Thalfavang Kut",
+      "Christmas Festival",
+      "Chapchar Kut",
+      "Mim Kut"
+    ],
+    "answer": "Mim Kut",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_070",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is celebrated in November in Mizoram?",
+    "options": [
+      "Pawl Kut",
+      "Chapchar Kut",
+      "Thalfavang Kut",
+      "Mim Kut"
+    ],
+    "answer": "Thalfavang Kut",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_071",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "What does Thalfavang Kut celebrate?",
+    "options": [
+      "The beginning of the monsoon",
+      "The arrival of winter",
+      "The founding of Aizawl",
+      "Mizoram's cultural diversity and traditions"
+    ],
+    "answer": "Mizoram's cultural diversity and traditions",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_072",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Festivals",
+    "question": "Which festival is specifically described as celebrating the bamboo shooting season?",
+    "options": [
+      "Ana Chachar Kut",
+      "Chapchar Kut",
+      "Mim Kut",
+      "Pawl Kut"
+    ],
+    "answer": "Ana Chachar Kut",
+    "difficulty": "medium",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_073",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which ingredient features prominently in Mizoram's bamboo shoot stew?",
+    "options": [
+      "Tamarind",
+      "Bamboo shoots",
+      "Banana flowers",
+      "Lotus stems"
+    ],
+    "answer": "Bamboo shoots",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_074",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which vegetable is used in Mizoram's pumpkin leaves stew?",
+    "options": [
+      "Pumpkin leaves",
+      "Colocasia leaves",
+      "Mustard leaves",
+      "Spinach"
+    ],
+    "answer": "Pumpkin leaves",
+    "difficulty": "easy",
+    "source": "Incredible India – Aizawl",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl"
+  },
+  {
+    "id": "quest_mz_075",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "What is a staple food in Mizoram?",
+    "options": [
+      "Wheat",
+      "Barley",
+      "Rice",
+      "Millet"
+    ],
+    "answer": "Rice",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_076",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Food / Cuisine",
+    "question": "Which combination is described as characteristic of Mizoram's cuisine?",
+    "options": [
+      "Corn and cheese with baked foods",
+      "Wheat and dairy with mild curries",
+      "Rice and maize with spicy meat or fish dishes",
+      "Millets with sweet fruit dishes"
+    ],
+    "answer": "Rice and maize with spicy meat or fish dishes",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_077",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town is featured in the official Mizoram itinerary as the 'abode of natural serenity'?",
+    "options": [
+      "Aizawl",
+      "Siaha",
+      "Champhai",
+      "Lunglei"
+    ],
+    "answer": "Lunglei",
+    "difficulty": "easy",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_078",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which park is highlighted in the Lunglei itinerary?",
+    "options": [
+      "Phan Nonglait Park",
+      "Kawmzawl Park",
+      "Lady Hydari Park",
+      "Malki Park"
+    ],
+    "answer": "Kawmzawl Park",
+    "difficulty": "medium",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_079",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which viewpoint is highlighted in Lunglei?",
+    "options": [
+      "Siaha View Point",
+      "Reiek View Point",
+      "Lunglei View Point",
+      "Durtlang View Point"
+    ],
+    "answer": "Lunglei View Point",
+    "difficulty": "easy",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_080",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which three attractions are highlighted for Siaha?",
+    "options": [
+      "Siaha View Point, Siaha Bazaar and Palak Lake",
+      "Reiek Peak, Bara Bazaar and Tamdil",
+      "Dawrpui, Durtlang and Solomon's Temple",
+      "K.V. Paradise, Zokhua and Hmuifang"
+    ],
+    "answer": "Siaha View Point, Siaha Bazaar and Palak Lake",
+    "difficulty": "medium",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_081",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which lake is highlighted near Siaha?",
+    "options": [
+      "Palak Lake",
+      "Tamdil Lake",
+      "Loktak Lake",
+      "Umiam Lake"
+    ],
+    "answer": "Palak Lake",
+    "difficulty": "easy",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_082",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Wildlife & Nature",
+    "question": "Which protected area is paired with Palak Lake in the Siaha itinerary?",
+    "options": [
+      "Tawi Wildlife Sanctuary",
+      "Khawnglung Wildlife Sanctuary",
+      "Palak Wildlife Sanctuary",
+      "Dampa Tiger Reserve"
+    ],
+    "answer": "Palak Wildlife Sanctuary",
+    "difficulty": "medium",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_083",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which viewpoint is the final stop on the official seven-day Mizoram itinerary?",
+    "options": [
+      "Berawtlang View Point",
+      "Siaha View Point",
+      "Lunglei View Point",
+      "Reiek View Point"
+    ],
+    "answer": "Berawtlang View Point",
+    "difficulty": "medium",
+    "source": "Incredible India – Journey through Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/trips/trip-listing/journey-through-mizoram-a-7-day-experience-of-life-in-the-hills"
+  },
+  {
+    "id": "quest_mz_084",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which village is described as having traditional Mizo stone monuments called Miseks?",
+    "options": [
+      "Baktawng",
+      "Saitual",
+      "Sialsuk",
+      "Falkawn"
+    ],
+    "answer": "Sialsuk",
+    "difficulty": "hard",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_085",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What are the stone monuments at Sialsuk called?",
+    "options": [
+      "Puans",
+      "Khumbeus",
+      "Miseks",
+      "Zawlbuks"
+    ],
+    "answer": "Miseks",
+    "difficulty": "hard",
+    "source": "Incredible India – Zokhua Falkawn",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl/zokhua-falkawn"
+  },
+  {
+    "id": "quest_mz_086",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which town is highlighted for its churches in the official Mizoram overview?",
+    "options": [
+      "Kolasib",
+      "Siaha",
+      "Mamit",
+      "Champhai"
+    ],
+    "answer": "Champhai",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.incredibleindia.gov.in/en/mizoram"
+  },
+  {
+    "id": "quest_mz_087",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which attraction is listed among Mizoram's official destinations in Vangchhia, Champhai district?",
+    "options": [
+      "Tamdil",
+      "Lianchhiari Lunglen Tlang",
+      "Kawtchhuah Ropui",
+      "K.V. Paradise"
+    ],
+    "answer": "Kawtchhuah Ropui",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram.html"
+  },
+  {
+    "id": "quest_mz_088",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What does Kawtchhuah Ropui literally mean?",
+    "options": [
+      "The royal road",
+      "The great entranceway",
+      "The great waterfall",
+      "The stone village"
+    ],
+    "answer": "The great entranceway",
+    "difficulty": "hard",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram.html"
+  },
+  {
+    "id": "quest_mz_089",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which district is associated with Vantawng Falls and Thenzawl?",
+    "options": [
+      "Serchhip District",
+      "Siaha District",
+      "Champhai District",
+      "Mamit District"
+    ],
+    "answer": "Serchhip District",
+    "difficulty": "medium",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram.html"
+  },
+  {
+    "id": "quest_mz_090",
+    "state": "Mizoram",
+    "category": "Quest",
+    "topic": "Important Places",
+    "question": "Which golf course is located at Thenzawl?",
+    "options": [
+      "Thenzawl Golf Course and Resort",
+      "Champhai Golf Course",
+      "Aizawl Golf Club",
+      "Reiek Golf Resort"
+    ],
+    "answer": "Thenzawl Golf Course and Resort",
+    "difficulty": "easy",
+    "source": "Incredible India – Mizoram",
+    "source_url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/states/mizoram.html"
+  }
+]

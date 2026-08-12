@@ -1,8 +1,8 @@
-import React, { createContext, useContext, useReducer, useCallback, useEffect } from 'react';
+import React, { createContext, useContext, useReducer, useCallback, useEffect, useRef } from 'react';
 import { v4 as uuidv4 } from 'uuid';
-import { Student, Section, Mission, Question, StudentWithSession, SessionState } from '../types';
-import { saveSessionState, getSessionState, addPendingAttempt } from '../db/idb';
-import { syncPendingQueue } from '../api/client';
+import { Student, Section, Mission, Question, StudentWithSession, SessionState, AppMode } from '../types';
+import { saveSessionState, getSessionState, getAllSessionStates, addPendingAttempt } from '../db/idb';
+import { syncPendingQueue, pushQuestProgress, fetchQuestProgress, fetchSection } from '../api/client';
 import missionsData from '../content/missions.json';
 import questionsData from '../content/questions.json';
 
@@ -12,6 +12,9 @@ const ALL_MISSIONS = missionsData as Mission[];
 const ALL_QUESTIONS = questionsData as Question[];
 
 // ─── State ────────────────────────────────────────────────────────────────────
+
+import { QuestProgressData } from '../types';
+import { CANONICAL_QUEST_STATES, QUEST_PASSING_SCORE } from '../loaders/questLoader';
 
 export interface AppState {
   // Section / session
@@ -24,6 +27,12 @@ export interface AppState {
   isSpinning: boolean;
   totalSessionXp: number;               // total XP earned in current session
 
+  // Classroom Context & Progression
+  selectedClass: number | null;         // 3 to 7
+  selectedSection: string | null;       // 'A', 'B', 'C', 'D'
+  classroomId: string | null;           // e.g. 'class_3_A'
+  questProgress: QuestProgressData;     // per-classroom quest progression
+
   // Mission / quiz
   currentMissionId: string | null;
   currentQuestionIndex: number;         // index into mission's questions
@@ -32,6 +41,10 @@ export interface AppState {
   // Sync
   isOnline: boolean;
   syncStatus: 'idle' | 'syncing' | 'success' | 'error';
+
+  // Mode & Navigation
+  appMode: AppMode | null;
+  selectedState: string | null;   // state name, chosen on the Quest map
 }
 
 const initialState: AppState = {
@@ -43,17 +56,41 @@ const initialState: AppState = {
   currentStudentIndex: -1,
   isSpinning: false,
   totalSessionXp: 0,
+
+  // Classroom Context & Progression
+  selectedClass: 3,
+  selectedSection: 'A',
+  classroomId: 'class_3_A',
+  questProgress: {
+    unlocked_states: ['Ladakh'],
+    completed_states: [],
+    current_state: 'Ladakh',
+  },
+
   currentMissionId: null,
   currentQuestionIndex: 0,
   answeredQuestionIds: [],
   isOnline: navigator.onLine,
   syncStatus: 'idle',
+
+  // Mode
+  appMode: null,
+  selectedState: 'Ladakh',
 };
 
 // ─── Actions ──────────────────────────────────────────────────────────────────
 
 type Action =
-  | { type: 'LOAD_SECTION'; section: Section; students: Student[]; answeredQuestionIds: string[] }
+  | {
+      type: 'LOAD_SECTION';
+      section: Section;
+      students: Student[];
+      answeredQuestionIds: string[];
+      grade?: number;
+      sectionLetter?: string;
+      questProgress?: QuestProgressData;
+    }
+  | { type: 'SET_CLASSROOM_CONTEXT'; grade: number; sectionLetter: string; classroomId: string }
   | { type: 'SET_ONLINE'; online: boolean }
   | { type: 'SET_SYNC_STATUS'; status: AppState['syncStatus'] }
   | { type: 'UPDATE_STUDENTS'; students: Student[] }
@@ -65,7 +102,15 @@ type Action =
   | { type: 'MARK_PRESENT'; studentId: string }
   | { type: 'ANSWER_QUESTION'; studentId: string; questionId: string; correct: boolean; xp: number }
   | { type: 'ADVANCE_MISSION' }
-  | { type: 'SET_TURN_QUEUE'; queue: string[] };
+  | { type: 'SET_TURN_QUEUE'; queue: string[] }
+  | { type: 'SET_APP_MODE'; mode: AppMode }
+  | { type: 'SET_SELECTED_CLASS'; classNum: number }
+  | { type: 'SET_SELECTED_SECTION'; sectionLetter: string }
+  | { type: 'SET_SELECTED_STATE'; stateName: string }
+  | { type: 'SET_QUEST_CURRENT_STATE'; stateName: string }
+  | { type: 'COMPLETE_QUEST_STATE'; stateName: string }
+  | { type: 'RESTORE_QUEST_PROGRESS'; questProgress: QuestProgressData }
+  | { type: 'RECORD_QUEST_ATTEMPT'; stateName: string; correctCount: number };
 
 // ─── Turn queue builder ───────────────────────────────────────────────────────
 
@@ -94,6 +139,10 @@ function reducer(state: AppState, action: Action): AppState {
     case 'LOAD_SECTION': {
       const absentIds = new Set<string>();
       const queue = buildTurnQueue(action.students, absentIds);
+      // Restore persisted quest progression. This was previously dropped, so
+      // unlocked/completed states reset to the Ladakh-only default on every
+      // reload and the player lost their journey after a refresh.
+      const restoredQuestProgress = action.questProgress ?? state.questProgress;
       return {
         ...state,
         section: action.section,
@@ -106,6 +155,8 @@ function reducer(state: AppState, action: Action): AppState {
         currentMissionId: action.section.current_mission_id,
         answeredQuestionIds: action.answeredQuestionIds,
         currentQuestionIndex: 0,
+        questProgress: restoredQuestProgress,
+        selectedState: restoredQuestProgress.current_state ?? state.selectedState,
       };
     }
 
@@ -234,6 +285,133 @@ function reducer(state: AppState, action: Action): AppState {
     case 'SET_TURN_QUEUE':
       return { ...state, turnQueue: action.queue, currentStudentIndex: -1 };
 
+    case 'SET_APP_MODE':
+      return { ...state, appMode: action.mode };
+
+    case 'SET_SELECTED_CLASS':
+      return { ...state, selectedClass: action.classNum };
+
+    case 'SET_SELECTED_SECTION':
+      return { ...state, selectedSection: action.sectionLetter };
+
+    case 'SET_SELECTED_STATE':
+      return { ...state, selectedState: action.stateName };
+
+    case 'SET_CLASSROOM_CONTEXT':
+      return {
+        ...state,
+        selectedClass: action.grade,
+        selectedSection: action.sectionLetter,
+        classroomId: action.classroomId,
+      };
+
+    case 'COMPLETE_QUEST_STATE': {
+      const stateName = action.stateName;
+      const completed = state.questProgress.completed_states.includes(stateName)
+        ? state.questProgress.completed_states
+        : [...state.questProgress.completed_states, stateName];
+
+      const idx = CANONICAL_QUEST_STATES.indexOf(stateName);
+      const nextStateName = idx >= 0 && idx < CANONICAL_QUEST_STATES.length - 1
+        ? CANONICAL_QUEST_STATES[idx + 1]
+        : null;
+
+      const unlocked = [...state.questProgress.unlocked_states];
+      if (nextStateName && !unlocked.includes(nextStateName)) {
+        unlocked.push(nextStateName);
+      }
+
+      const nextCurrentState = nextStateName || stateName;
+
+      return {
+        ...state,
+        selectedState: nextCurrentState,
+        questProgress: {
+          ...state.questProgress,
+          completed_states: completed,
+          unlocked_states: unlocked,
+          current_state: nextCurrentState,
+        },
+      };
+    }
+
+    case 'RECORD_QUEST_ATTEMPT': {
+      const { stateName, correctCount } = action;
+      const currentProg = state.questProgress.state_quiz_progress?.[stateName] ?? {
+        attempts: 0,
+        bestScore: 0,
+        lastScore: 0,
+        completed: false,
+      };
+
+      const attempts = currentProg.attempts + 1;
+      const lastScore = correctCount;
+      const bestScore = Math.max(currentProg.bestScore, correctCount);
+      const isCompleted = currentProg.completed || bestScore >= QUEST_PASSING_SCORE;
+
+      const completedStates = isCompleted && !state.questProgress.completed_states.includes(stateName)
+        ? [...state.questProgress.completed_states, stateName]
+        : state.questProgress.completed_states;
+
+      const updatedStateQuizProgress = {
+        ...(state.questProgress.state_quiz_progress ?? {}),
+        [stateName]: {
+          attempts,
+          bestScore,
+          lastScore,
+          completed: isCompleted,
+        },
+      };
+
+      // Passing unlocks the NEXT state in the canonical order. This is the single
+      // place progression is granted — previously unlocking lived only in
+      // COMPLETE_QUEST_STATE, which nothing dispatched, so unlocked_states was
+      // permanently stuck at ['Ladakh'].
+      //
+      // `current_state` is deliberately NOT advanced here: the map's car drive
+      // owns that transition, so the marker doesn't teleport ahead of the car.
+      const unlockedStates = [...state.questProgress.unlocked_states];
+      if (isCompleted) {
+        const idx = CANONICAL_QUEST_STATES.indexOf(stateName);
+        const nextStateName =
+          idx >= 0 && idx < CANONICAL_QUEST_STATES.length - 1
+            ? CANONICAL_QUEST_STATES[idx + 1]
+            : null;
+        if (nextStateName && !unlockedStates.includes(nextStateName)) {
+          unlockedStates.push(nextStateName);
+        }
+      }
+
+      return {
+        ...state,
+        questProgress: {
+          ...state.questProgress,
+          completed_states: completedStates,
+          unlocked_states: unlockedStates,
+          state_quiz_progress: updatedStateQuizProgress,
+        },
+      };
+    }
+
+    case 'RESTORE_QUEST_PROGRESS': {
+      return {
+        ...state,
+        questProgress: action.questProgress,
+        selectedState: action.questProgress.current_state ?? state.selectedState,
+      };
+    }
+
+    case 'SET_QUEST_CURRENT_STATE': {
+      return {
+        ...state,
+        selectedState: action.stateName,
+        questProgress: {
+          ...state.questProgress,
+          current_state: action.stateName,
+        },
+      };
+    }
+
     default:
       return state;
   }
@@ -252,6 +430,9 @@ interface SessionContextValue {
   canAdvanceMission: boolean;
   // Actions
   loadSection: (section: Section, students: Student[]) => Promise<void>;
+  /** Re-read students from the server (e.g. after an admin edit). */
+  refreshStudents: () => Promise<void>;
+  setSessionContext: (grade: number, sectionLetter: string, sectionObj: Section, studentsObj: Student[]) => Promise<void>;
   spinNext: () => void;
   landOnStudent: (studentId: string) => void;
   skipStudent: (studentId: string) => void;
@@ -260,6 +441,13 @@ interface SessionContextValue {
   answerQuestion: (questionId: string, correct: boolean, xp: number) => Promise<void>;
   advanceMission: () => void;
   buildNewQueue: () => void;
+  setAppMode: (mode: AppMode) => void;
+  setSelectedClass: (classNum: number) => void;
+  setSelectedSection: (sectionLetter: string) => void;
+  setSelectedState: (stateName: string) => void;
+  setQuestCurrentState: (stateName: string) => void;
+  completeQuestState: (stateName: string) => void;
+  recordQuestAttempt: (stateName: string, correctCount: number) => void;
 }
 
 const SessionContext = createContext<SessionContextValue | null>(null);
@@ -304,22 +492,109 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     }
   }, []);
 
+  // Rehydrate quest progression on a cold start (page refresh / deep link).
+  //
+  // The normal login flow calls setSessionContext(), but refreshing directly on
+  // /session/:id/map never runs it, so unlocked/completed states fell back to
+  // the Ladakh-only default and the player's journey appeared to reset.
+  // Runs once on mount. `classroomId` has a non-null default in initialState,
+  // so it cannot be used to detect a cold start — instead we restore whenever
+  // persisted progress is AHEAD of what's currently in memory. The normal login
+  // flow dispatches LOAD_SECTION with the same data, so this is idempotent.
+  // Restores progression for THIS classroom on a cold start (refresh / deep
+  // link), keyed on the section UUID in the URL.
+  //
+  // This deliberately does NOT fall back to "whichever saved classroom got
+  // furthest": doing so leaked one class's journey into another (opening
+  // Class 3-B could restore Class 7-B's unlocked states).
+  const rehydratedSectionRef = useRef<string | null>(null);
+  useEffect(() => {
+    const sectionKey = state.section?.id;
+    if (!sectionKey) return;
+    if (rehydratedSectionRef.current === sectionKey) return;
+    rehydratedSectionRef.current = sectionKey;
+
+    (async () => {
+      try {
+        // Postgres is the source of truth; the IndexedDB copy is an offline
+        // cache used only when the server is unreachable.
+        let resolved: QuestProgressData | undefined;
+
+        if (navigator.onLine) {
+          const server = await fetchQuestProgress(sectionKey);
+          if (server) {
+            resolved = {
+              unlocked_states: server.unlocked_states,
+              completed_states: server.completed_states,
+              current_state: server.current_state,
+              state_quiz_progress: (server.state_quiz_progress ??
+                {}) as QuestProgressData['state_quiz_progress'],
+            };
+          }
+        }
+
+        if (!resolved) {
+          const all = await getAllSessionStates();
+          resolved = all.find((s) => s.section_id === sectionKey)?.quest_progress;
+        }
+
+        if (resolved && resolved.unlocked_states.length > 1) {
+          dispatch({ type: 'RESTORE_QUEST_PROGRESS', questProgress: resolved });
+        }
+      } catch {
+        /* progression simply stays at defaults if restore fails */
+      }
+    })();
+  }, [state.section]);
+
+  // Push quest progression to Postgres (source of truth) whenever it changes.
+  // IndexedDB below remains as the offline cache, so a dropped network never
+  // blocks a lesson — the next successful push reconciles the server.
+  useEffect(() => {
+    // Key on the section UUID — the same identifier students are stored under.
+    // Using the synthetic `classroomId` here meant progress and rosters lived
+    // in two different key spaces that could never be joined.
+    //
+    // Deliberately no `classroomId` fallback: this effect can fire before
+    // LOAD_SECTION resolves, and falling back would write a duplicate
+    // `class_3_A`-keyed row that never joins to `sections`.
+    const key = state.section?.id;
+    if (!key || !navigator.onLine) return;
+
+    pushQuestProgress(key, {
+      unlocked_states: state.questProgress.unlocked_states,
+      completed_states: state.questProgress.completed_states,
+      current_state: state.questProgress.current_state,
+      state_quiz_progress: state.questProgress.state_quiz_progress ?? {},
+    }).catch(() => {
+      /* offline cache still holds the truth until the next push succeeds */
+    });
+  }, [state.questProgress, state.section, state.classroomId]);
+
   // Persist session state to IndexedDB whenever key state changes
   useEffect(() => {
-    if (!state.section) return;
+    const key = state.section?.id || state.classroomId;
+    if (!key) return;
     const sessionState: SessionState = {
-      section_id: state.section.id,
+      section_id: key,
+      classroom_id: state.classroomId || key,
+      grade: state.selectedClass || 3,
+      section_letter: state.selectedSection || 'A',
       turn_queue: state.turnQueue,
       turns_taken: state.turnsThisSession,
-      current_mission_id: state.currentMissionId ?? state.section.current_mission_id ?? '',
+      current_mission_id: state.currentMissionId ?? state.section?.current_mission_id ?? '',
       current_question_index: state.currentQuestionIndex,
       absent_student_ids: Array.from(state.absentIds),
       answered_question_ids: state.answeredQuestionIds,
       cached_students: state.students,
-      cached_section: state.section,
+      cached_section: state.section ?? ({ id: key, name: `${state.selectedClass}-${state.selectedSection}`, current_mission_id: null, map_position: 0 }),
+      quest_progress: state.questProgress,
     };
     saveSessionState(sessionState).catch(console.error);
   }, [
+    state.classroomId,
+    state.selectedClass,
+    state.selectedSection,
     state.section,
     state.turnQueue,
     state.turnsThisSession,
@@ -328,6 +603,7 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     state.absentIds,
     state.answeredQuestionIds,
     state.students,
+    state.questProgress,
   ]);
 
   // ─── Computed ───────────────────────────────────────────────────────────────
@@ -360,6 +636,19 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
 
   // ─── Actions ────────────────────────────────────────────────────────────────
 
+  // Re-reads the roster from the server. The admin page writes students
+  // directly through the API, so without this the in-memory roster (and the
+  // turn spinner) keeps showing a stale list until a full reload.
+  const refreshStudents = useCallback(async () => {
+    const id = state.section?.id;
+    if (!id || !navigator.onLine) return;
+    const res = await fetchSection(id);
+    if (res?.students) {
+      dispatch({ type: 'UPDATE_STUDENTS', students: res.students });
+      dispatch({ type: 'SET_TURN_QUEUE', queue: buildTurnQueue(res.students, new Set()) });
+    }
+  }, [state.section]);
+
   const loadSection = useCallback(async (section: Section, students: Student[]) => {
     // Check for persisted session state
     const saved = await getSessionState(section.id);
@@ -370,6 +659,7 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
       section,
       students,
       answeredQuestionIds: answeredIds,
+      questProgress: saved?.quest_progress,
     });
 
     // Attempt to sync any pending queue from previous session
@@ -377,6 +667,35 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
       await handleSync(section.id);
     }
   }, [handleSync]);
+
+  const setSessionContext = useCallback(
+    async (grade: number, sectionLetter: string, sectionObj: Section, studentsObj: Student[]) => {
+      const classroomId = `class_${grade}_${sectionLetter.toUpperCase()}`;
+      const saved = await getSessionState(classroomId);
+
+      dispatch({
+        type: 'LOAD_SECTION',
+        section: sectionObj,
+        students: studentsObj.length > 0 ? studentsObj : (saved?.cached_students ?? []),
+        answeredQuestionIds: saved?.answered_question_ids ?? [],
+        grade,
+        sectionLetter: sectionLetter.toUpperCase(),
+        questProgress: saved?.quest_progress ?? {
+          unlocked_states: ['Ladakh'],
+          completed_states: [],
+          current_state: 'Ladakh',
+        },
+      });
+
+      dispatch({
+        type: 'SET_CLASSROOM_CONTEXT',
+        grade,
+        sectionLetter: sectionLetter.toUpperCase(),
+        classroomId,
+      });
+    },
+    []
+  );
 
   const spinNext = useCallback(() => {
     if (state.isSpinning || state.turnQueue.length === 0) return;
@@ -437,6 +756,34 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     dispatch({ type: 'ADVANCE_MISSION' });
   }, []);
 
+  const setAppMode = useCallback((mode: AppMode) => {
+    dispatch({ type: 'SET_APP_MODE', mode });
+  }, []);
+
+  const setSelectedClass = useCallback((classNum: number) => {
+    dispatch({ type: 'SET_SELECTED_CLASS', classNum });
+  }, []);
+
+  const setSelectedSection = useCallback((sectionLetter: string) => {
+    dispatch({ type: 'SET_SELECTED_SECTION', sectionLetter });
+  }, []);
+
+  const setSelectedState = useCallback((stateName: string) => {
+    dispatch({ type: 'SET_SELECTED_STATE', stateName });
+  }, []);
+
+  const setQuestCurrentState = useCallback((stateName: string) => {
+    dispatch({ type: 'SET_QUEST_CURRENT_STATE', stateName });
+  }, []);
+
+  const completeQuestState = useCallback((stateName: string) => {
+    dispatch({ type: 'COMPLETE_QUEST_STATE', stateName });
+  }, []);
+
+  const recordQuestAttempt = useCallback((stateName: string, correctCount: number) => {
+    dispatch({ type: 'RECORD_QUEST_ATTEMPT', stateName, correctCount });
+  }, []);
+
   const value: SessionContextValue = {
     state,
     currentMission,
@@ -446,6 +793,8 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     studentsWithSession,
     canAdvanceMission,
     loadSection,
+    refreshStudents,
+    setSessionContext,
     spinNext,
     landOnStudent,
     skipStudent,
@@ -454,6 +803,13 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     answerQuestion,
     advanceMission,
     buildNewQueue,
+    setAppMode,
+    setSelectedClass,
+    setSelectedSection,
+    setSelectedState,
+    setQuestCurrentState,
+    completeQuestState,
+    recordQuestAttempt,
   };
 
   return <SessionContext.Provider value={value}>{children}</SessionContext.Provider>;

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "quest_mh_001",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many UNESCO World Heritage Sites does Maharashtra's official tourism page highlight?",
+    "options": [
+      "Five",
+      "Ten",
+      "Seven",
+      "Three"
+    ],
+    "answer": "Five",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism / Incredible India – Maharashtra"
+  },
+  {
+    "id": "quest_mh_002",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which festival is highlighted as being celebrated with great enthusiasm across Maharashtra?",
+    "options": [
+      "Durga Puja",
+      "Bihu",
+      "Onam",
+      "Ganesh Chaturthi"
+    ],
+    "answer": "Ganesh Chaturthi",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism / Incredible India – Maharashtra"
+  },
+  {
+    "id": "quest_mh_003",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which two caves are highlighted as UNESCO World Heritage Sites on Maharashtra Tourism's official page?",
+    "options": [
+      "Elephanta and Kanheri",
+      "Ajanta and Ellora",
+      "Bhaja and Karla",
+      "Kanheri and Ajanta"
+    ],
+    "answer": "Ajanta and Ellora",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism / Incredible India – Maharashtra"
+  },
+  {
+    "id": "quest_mh_004",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which city is described as India's Economic Capital?",
+    "options": [
+      "Nashik",
+      "Pune",
+      "Mumbai",
+      "Nagpur"
+    ],
+    "answer": "Mumbai",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_005",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Mumbai was historically formed from how many islands?",
+    "options": [
+      "Five",
+      "Seven",
+      "Twelve",
+      "Nine"
+    ],
+    "answer": "Seven",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_006",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year did Mumbai become the capital of Maharashtra State?",
+    "options": [
+      "1970",
+      "1947",
+      "1956",
+      "1960"
+    ],
+    "answer": "1960",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_007",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which Mumbai railway station is a UNESCO World Heritage Site?",
+    "options": [
+      "Dadar",
+      "Churchgate",
+      "Mumbai Central",
+      "Chhatrapati Shivaji Maharaj Terminus"
+    ],
+    "answer": "Chhatrapati Shivaji Maharaj Terminus",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_008",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Chhatrapati Shivaji Maharaj Terminus built?",
+    "options": [
+      "1887",
+      "1905",
+      "1924",
+      "1857"
+    ],
+    "answer": "1887",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_009",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which architectural styles are combined in CSMT according to the source?",
+    "options": [
+      "Victorian Gothic Revival and traditional Indian styles",
+      "Dravidian and Nagara",
+      "Indo-Islamic and Buddhist",
+      "Mughal and Rajput"
+    ],
+    "answer": "Victorian Gothic Revival and traditional Indian styles",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_010",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was the Gateway of India built?",
+    "options": [
+      "1947",
+      "1901",
+      "1924",
+      "1911"
+    ],
+    "answer": "1924",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_011",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which royal visit does the Gateway of India commemorate?",
+    "options": [
+      "Edward VIII in 1936",
+      "King George V and Queen Mary in 1911",
+      "Queen Victoria in 1857",
+      "George VI in 1947"
+    ],
+    "answer": "King George V and Queen Mary in 1911",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_012",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which shrine stands on an islet in the Arabian Sea and is dedicated to Pir Haji Ali?",
+    "options": [
+      "Gateway of India",
+      "Haji Ali Dargah",
+      "Elephanta Caves",
+      "Siddhivinayak Temple"
+    ],
+    "answer": "Haji Ali Dargah",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Mumbai City"
+  },
+  {
+    "id": "quest_mh_013",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many rock-cut caves are in the Ajanta group according to Maharashtra Tourism?",
+    "options": [
+      "20",
+      "34",
+      "29",
+      "12"
+    ],
+    "answer": "29",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_014",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "When did the first phase of Ajanta construction begin?",
+    "options": [
+      "Around the 2nd century BCE",
+      "Around the 5th century CE",
+      "Around the 18th century CE",
+      "Around the 10th century CE"
+    ],
+    "answer": "Around the 2nd century BCE",
+    "difficulty": "hard",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_015",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "During which period did the second major phase of Ajanta take place?",
+    "options": [
+      "Mughal period",
+      "Mauryan period",
+      "Gupta period",
+      "Chola period"
+    ],
+    "answer": "Gupta period",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_016",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which religious tradition is central to Ajanta's caves?",
+    "options": [
+      "Sikhism",
+      "Jainism",
+      "Buddhism",
+      "Islam"
+    ],
+    "answer": "Buddhism",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_017",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which stories are depicted in Ajanta's paintings?",
+    "options": [
+      "Ramayana only",
+      "Panchatantra only",
+      "Jataka tales",
+      "Mahabharata only"
+    ],
+    "answer": "Jataka tales",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_018",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which river do the Ajanta Caves overlook?",
+    "options": [
+      "Narmada",
+      "Godavari",
+      "Waghora",
+      "Krishna"
+    ],
+    "answer": "Waghora",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_019",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What shape is the ravine containing Ajanta Caves?",
+    "options": [
+      "Square",
+      "Triangular",
+      "Circular",
+      "Horseshoe-shaped"
+    ],
+    "answer": "Horseshoe-shaped",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_020",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year were the Ajanta Caves designated a UNESCO World Heritage Site?",
+    "options": [
+      "1987",
+      "2001",
+      "1983",
+      "1975"
+    ],
+    "answer": "1983",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Ajanta Caves"
+  },
+  {
+    "id": "quest_mh_021",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "How many caves are in the Ellora complex?",
+    "options": [
+      "12",
+      "34",
+      "29",
+      "64"
+    ],
+    "answer": "34",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Ellora Caves"
+  },
+  {
+    "id": "quest_mh_022",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which three religions are represented at Ellora?",
+    "options": [
+      "Hinduism, Sikhism and Buddhism",
+      "Hinduism, Buddhism and Jainism",
+      "Buddhism, Islam and Jainism",
+      "Jainism, Sikhism and Hinduism"
+    ],
+    "answer": "Hinduism, Buddhism and Jainism",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Ellora Caves"
+  },
+  {
+    "id": "quest_mh_023",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which famous temple is carved from a single rock at Ellora?",
+    "options": [
+      "Jagannath Temple",
+      "Mahabodhi Temple",
+      "Sun Temple",
+      "Kailasa Temple"
+    ],
+    "answer": "Kailasa Temple",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Ellora Caves"
+  },
+  {
+    "id": "quest_mh_024",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which cave contains the Kailasa Temple?",
+    "options": [
+      "Cave 10",
+      "Cave 34",
+      "Cave 16",
+      "Cave 1"
+    ],
+    "answer": "Cave 16",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Ellora Caves"
+  },
+  {
+    "id": "quest_mh_025",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What is distinctive about the Kailasa Temple?",
+    "options": [
+      "It is built entirely from wood",
+      "It is carved into a glacier",
+      "It is a floating temple",
+      "It is carved from a single rock"
+    ],
+    "answer": "It is carved from a single rock",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Ellora Caves"
+  },
+  {
+    "id": "quest_mh_026",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which group of Ellora caves is associated with Tirthankara sculptures?",
+    "options": [
+      "Buddhist caves",
+      "Hindu caves",
+      "Sikh caves",
+      "Jain caves"
+    ],
+    "answer": "Jain caves",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Ellora Caves"
+  },
+  {
+    "id": "quest_mh_027",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where are the Elephanta Caves located?",
+    "options": [
+      "Elephanta Island",
+      "Salsette Island",
+      "Diu Island",
+      "Majuli Island"
+    ],
+    "answer": "Elephanta Island",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Elephanta Caves"
+  },
+  {
+    "id": "quest_mh_028",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Approximately how far is Elephanta Island from Mumbai?",
+    "options": [
+      "100 km",
+      "10 km",
+      "50 km",
+      "2 km"
+    ],
+    "answer": "10 km",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Elephanta Caves"
+  },
+  {
+    "id": "quest_mh_029",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which deity are the Elephanta Caves primarily dedicated to?",
+    "options": [
+      "Lord Surya",
+      "Lord Vishnu",
+      "Lord Shiva",
+      "Lord Ganesha"
+    ],
+    "answer": "Lord Shiva",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Elephanta Caves"
+  },
+  {
+    "id": "quest_mh_030",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What is the famous three-headed sculpture at Elephanta called?",
+    "options": [
+      "Trimurti",
+      "Ardhanarishvara",
+      "Nataraja",
+      "Maheshvara"
+    ],
+    "answer": "Trimurti",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Elephanta Caves"
+  },
+  {
+    "id": "quest_mh_031",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What do the three faces of the Trimurti represent?",
+    "options": [
+      "Brahma, Vishnu and Krishna",
+      "Past, Present and Future",
+      "Earth, Water and Fire",
+      "Creator, Preserver and Destroyer"
+    ],
+    "answer": "Creator, Preserver and Destroyer",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Elephanta Caves"
+  },
+  {
+    "id": "quest_mh_032",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year were the Elephanta Caves designated a UNESCO World Heritage Site?",
+    "options": [
+      "1987",
+      "1975",
+      "1990",
+      "1983"
+    ],
+    "answer": "1987",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Elephanta Caves"
+  },
+  {
+    "id": "quest_mh_033",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which group named the island 'Elephanta' after finding a stone elephant statue?",
+    "options": [
+      "Mughals",
+      "Marathas",
+      "British",
+      "Portuguese"
+    ],
+    "answer": "Portuguese",
+    "difficulty": "hard",
+    "source": "Maharashtra Tourism – Elephanta Caves"
+  },
+  {
+    "id": "quest_mh_034",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "What was Raigad Fort the capital of?",
+    "options": [
+      "The Gupta Empire",
+      "The Mughal Empire",
+      "The Maratha Empire",
+      "The Mauryan Empire"
+    ],
+    "answer": "The Maratha Empire",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Forts"
+  },
+  {
+    "id": "quest_mh_035",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "In which year was Chhatrapati Shivaji Maharaj crowned at Raigad?",
+    "options": [
+      "1647",
+      "1707",
+      "1680",
+      "1674"
+    ],
+    "answer": "1674",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Forts"
+  },
+  {
+    "id": "quest_mh_036",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "In which mountain range is Raigad Fort located?",
+    "options": [
+      "Nilgiri Hills",
+      "Aravalli Range",
+      "Sahyadri Mountains",
+      "Vindhya Range"
+    ],
+    "answer": "Sahyadri Mountains",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Forts"
+  },
+  {
+    "id": "quest_mh_037",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "How many steps can visitors climb to reach Raigad Fort according to Maharashtra Tourism?",
+    "options": [
+      "Approximately 17,370",
+      "Approximately 1,737",
+      "Approximately 3,737",
+      "Approximately 737"
+    ],
+    "answer": "Approximately 1,737",
+    "difficulty": "hard",
+    "source": "Maharashtra Tourism – Forts"
+  },
+  {
+    "id": "quest_mh_038",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Who oversaw the construction of Raigad Fort with chief engineer Hiroji Indulkar?",
+    "options": [
+      "Bajirao I",
+      "Shivaji Maharaj",
+      "Sambhaji Maharaj",
+      "Rajaram I"
+    ],
+    "answer": "Shivaji Maharaj",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Forts"
+  },
+  {
+    "id": "quest_mh_039",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "For how long did Rajgad serve as the capital of the Maratha Empire?",
+    "options": [
+      "Over 26 years",
+      "50 years",
+      "10 years",
+      "5 years"
+    ],
+    "answer": "Over 26 years",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Rajgad Fort"
+  },
+  {
+    "id": "quest_mh_040",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "Which fort became the capital after Rajgad in 1674?",
+    "options": [
+      "Raigad Fort",
+      "Sinhagad Fort",
+      "Purandar Fort",
+      "Pratapgad Fort"
+    ],
+    "answer": "Raigad Fort",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Rajgad Fort"
+  },
+  {
+    "id": "quest_mh_041",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "What nickname is Pune known by?",
+    "options": [
+      "Queen of Hills",
+      "City of Lakes",
+      "Orange City",
+      "Oxford of the East"
+    ],
+    "answer": "Oxford of the East",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Pune"
+  },
+  {
+    "id": "quest_mh_042",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "History",
+    "question": "During which centuries did Pune become important in the emergence of the Maratha Empire?",
+    "options": [
+      "17th and 18th centuries",
+      "15th and 16th centuries",
+      "19th and 20th centuries",
+      "12th and 13th centuries"
+    ],
+    "answer": "17th and 18th centuries",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Pune"
+  },
+  {
+    "id": "quest_mh_043",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which plateau is Pune situated on?",
+    "options": [
+      "Deccan Plateau",
+      "Chota Nagpur Plateau",
+      "Mysore Plateau",
+      "Malwa Plateau"
+    ],
+    "answer": "Deccan Plateau",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Pune"
+  },
+  {
+    "id": "quest_mh_044",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which sacred river flows through Nashik?",
+    "options": [
+      "Narmada",
+      "Godavari",
+      "Krishna",
+      "Tapi"
+    ],
+    "answer": "Godavari",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Nashik"
+  },
+  {
+    "id": "quest_mh_045",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Nashik is one of how many cities that host the Kumbh Mela?",
+    "options": [
+      "Four",
+      "Six",
+      "Two",
+      "Twelve"
+    ],
+    "answer": "Four",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Nashik"
+  },
+  {
+    "id": "quest_mh_046",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Where does the Godavari begin according to Maharashtra Tourism?",
+    "options": [
+      "Panchgani",
+      "Trimbakeshwar Range",
+      "Mahabaleshwar",
+      "Sahyadri Fort"
+    ],
+    "answer": "Trimbakeshwar Range",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Nashik"
+  },
+  {
+    "id": "quest_mh_047",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which saint is Shirdi most closely associated with?",
+    "options": [
+      "Sant Tukaram",
+      "Samarth Ramdas",
+      "Sant Dnyaneshwar",
+      "Sai Baba"
+    ],
+    "answer": "Sai Baba",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Shirdi"
+  },
+  {
+    "id": "quest_mh_048",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Culture & Heritage",
+    "question": "Which temple near Nashik is one of the twelve Jyotirlingas?",
+    "options": [
+      "Siddhivinayak Temple",
+      "Trimbakeshwar Temple",
+      "Mahakaleshwar Temple",
+      "Baba Baidyanath Temple"
+    ],
+    "answer": "Trimbakeshwar Temple",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Shirdi"
+  },
+  {
+    "id": "quest_mh_049",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which coastal fort in Raigad district sits on an island about 1.5 km off Murud?",
+    "options": [
+      "Jaigad Fort",
+      "Sindhudurg Fort",
+      "Raigad Fort",
+      "Murud-Janjira Fort"
+    ],
+    "answer": "Murud-Janjira Fort",
+    "difficulty": "medium",
+    "source": "Maharashtra Tourism – Raigad District"
+  },
+  {
+    "id": "quest_mh_050",
+    "state": "Maharashtra",
+    "category": "Quest",
+    "topic": "Geography",
+    "question": "Which hill station in Raigad is known for a vehicle-free environment?",
+    "options": [
+      "Mahabaleshwar",
+      "Matheran",
+      "Panchgani",
+      "Lonavala"
+    ],
+    "answer": "Matheran",
+    "difficulty": "easy",
+    "source": "Maharashtra Tourism – Raigad District"
+  }
+]

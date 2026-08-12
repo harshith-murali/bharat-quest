@@ -1,34 +1,43 @@
-import { useState, useMemo, useRef, useEffect } from 'react';
-import { getPixelPoints } from '../../utils/CoordinateScaler';
-import { generateSvgPathString, generateRandomizedWaypoints } from '../../utils/RouteEngine';
-import PathRenderer from '../map/PathRenderer';
-import MarkerAnimator from '../map/MarkerAnimator';
+import { useState, useRef, useEffect, useMemo, useCallback } from 'react';
+import { STATE_COORDINATES } from '../../utils/CoordinateScaler';
+import { generateSeededRoutePath } from '../../utils/RouteEngine';
 import CarAnimator from '../map/CarAnimator';
 
 interface IndiaMapSceneProps {
-  currentMissionId: string;
-  mapPosition: number;
-  isTravelling: boolean;
-  travelProgress: number;
+  currentStateName?: string;
+  drivingLeg?: { fromState: string; toState: string } | null;
+  isDriving?: boolean;
+  driveProgress?: number;
+  classroomKey?: string;
+  isTravelling?: boolean;
+  travelProgress?: number;
+  currentMissionId?: string;
+  mapPosition?: number;
   hideOverlay?: boolean;
+  hideCityMarkers?: boolean;
 }
 
 export default function IndiaMapScene({
-  currentMissionId,
-  mapPosition,
-  isTravelling,
-  travelProgress,
-  hideOverlay = false,
+  currentStateName = 'Ladakh',
+  drivingLeg = null,
+  isDriving = false,
+  driveProgress = 0,
+  classroomKey = 'class_3_A',
 }: IndiaMapSceneProps) {
   const containerRef = useRef<HTMLDivElement>(null!);
-  const svgPathRef = useRef<SVGPathElement | null>(null);
 
   const [containerBounds, setContainerBounds] = useState<{ width: number; height: number }>({
     width: 1000,
     height: 700,
   });
 
-  const [totalPathLength, setTotalPathLength] = useState<number>(0);
+  // The measurement <path> element is held in STATE (not a ref) so that the
+  // render which first shows the driving car is guaranteed to already have a
+  // mounted, measurable path. Reading a ref during render is unreliable — on
+  // the render where isDriving flips true the ref is still null, which made
+  // the component fall through to the "parked" car and never animate.
+  const [measuredPath, setMeasuredPath] = useState<SVGPathElement | null>(null);
+  const [pathLength, setPathLength] = useState<number>(0);
 
   // ResizeObserver for dynamic image & container scaling on desktop, laptop, tablet, mobile
   useEffect(() => {
@@ -52,52 +61,39 @@ export default function IndiaMapScene({
     return () => resizeObserver.disconnect();
   }, []);
 
-  // Current Mission Route Leg with organic randomized waypoints
-  const waypointsRatio = useMemo(() => {
-    const fromCity =
-      currentMissionId === 'mission_1'
-        ? 'Delhi'
-        : currentMissionId === 'mission_2'
-        ? 'Agra'
-        : 'Varanasi';
-    const toCity =
-      currentMissionId === 'mission_1'
-        ? 'Agra'
-        : currentMissionId === 'mission_2'
-        ? 'Varanasi'
-        : 'Kerala';
+  // Compute driving Bezier path if driving leg is active
+  const drivingPathD = useMemo(() => {
+    if (!drivingLeg?.fromState || !drivingLeg?.toState) return '';
+    const coordA = STATE_COORDINATES[drivingLeg.fromState];
+    const coordB = STATE_COORDINATES[drivingLeg.toState];
+    if (!coordA || !coordB) return '';
 
-    return generateRandomizedWaypoints(fromCity, toCity, 4);
-  }, [currentMissionId]);
+    const p1 = { x: coordA.xRatio * containerBounds.width, y: coordA.yRatio * containerBounds.height };
+    const p2 = { x: coordB.xRatio * containerBounds.width, y: coordB.yRatio * containerBounds.height };
+    const seed = `${classroomKey}_${drivingLeg.fromState}_${drivingLeg.toState}`;
+    return generateSeededRoutePath(p1, p2, seed);
+  }, [drivingLeg, containerBounds, classroomKey]);
 
-  // Scaled Pixel Points matching container bounds
-  const pixelPoints = useMemo(() => {
-    return getPixelPoints(
-      waypointsRatio,
-      containerBounds.width,
-      containerBounds.height
-    );
-  }, [waypointsRatio, containerBounds]);
-
-  const svgPathD = useMemo(() => {
-    return generateSvgPathString(pixelPoints);
-  }, [pixelPoints]);
-
-  // Calculate SVG Path total length when path updates
-  useEffect(() => {
-    if (svgPathRef.current) {
-      setTotalPathLength(svgPathRef.current.getTotalLength() || 0);
+  // Callback ref: fires as soon as the <path> mounts/unmounts, committing both
+  // the element and its measured length to state so the driving branch below
+  // can rely on them being present.
+  const measurePathRef = useCallback((el: SVGPathElement | null) => {
+    setMeasuredPath(el);
+    if (el) {
+      const len = el.getTotalLength() || 0;
+      setPathLength((prev) => (prev !== len ? len : prev));
+    } else {
+      setPathLength(0);
     }
-  }, [svgPathD, containerBounds]);
+  }, []);
 
-  const currentRouteName =
-    currentMissionId === 'mission_1'
-      ? 'Delhi → Agra'
-      : currentMissionId === 'mission_2'
-      ? 'Agra → Varanasi'
-      : 'Varanasi → Kerala';
-
-  const isArrived = travelProgress >= 0.99;
+  // Re-measure whenever the path geometry itself changes (new leg, or the
+  // container resized so the path was regenerated at different pixel coords).
+  useEffect(() => {
+    if (!measuredPath) return;
+    const len = measuredPath.getTotalLength() || 0;
+    setPathLength((prev) => (prev !== len ? len : prev));
+  }, [measuredPath, drivingPathD]);
 
   return (
     <div
@@ -130,137 +126,35 @@ export default function IndiaMapScene({
         }}
       />
 
-      {/* 2. SVG Route Path & Illuminated Trail Layer */}
-      <svg
-        style={{
-          position: 'absolute',
-          inset: 0,
-          width: '100%',
-          height: '100%',
-          pointerEvents: 'none',
-          zIndex: 5,
-        }}
-      >
-        {/* Hidden measurement path ref */}
-        <path ref={svgPathRef} d={svgPathD} fill="none" opacity="0" />
-
-        <PathRenderer
-          pixelPoints={pixelPoints}
-          travelProgress={travelProgress}
-          totalLength={totalPathLength}
-        />
+      {/* Permanent SVG measurement path layer for driving animation */}
+      <svg style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', pointerEvents: 'none', opacity: 0, zIndex: 0 }}>
+        {drivingPathD && <path ref={measurePathRef} d={drivingPathD} fill="none" />}
       </svg>
 
-      {/* 3. Pulsing Destination & Visited City Markers Layer */}
-      <MarkerAnimator
-        currentMissionId={currentMissionId}
-        mapPosition={mapPosition}
-        containerWidth={containerBounds.width}
-        containerHeight={containerBounds.height}
-        isArrived={isArrived}
-      />
+      {/* 2. 60 FPS RAF Overlaid 3D Vehicle Animation (Parked or Driving) */}
+      {(() => {
+        if (isDriving && measuredPath) {
+          const totalLen = pathLength || measuredPath.getTotalLength() || 1;
+          if (totalLen > 0) {
+            return (
+              <CarAnimator
+                svgPathElement={measuredPath}
+                travelProgress={driveProgress}
+                isTravelling={true}
+                totalPathLength={totalLen}
+              />
+            );
+          }
+        }
 
-      {/* 4. 60 FPS RAF Overlaid 3D Vehicle Animation */}
-      <CarAnimator
-        svgPathElement={svgPathRef.current}
-        travelProgress={travelProgress}
-        isTravelling={isTravelling}
-        totalPathLength={totalPathLength}
-      />
+        const activeStateName = currentStateName || 'Ladakh';
+        const coord = STATE_COORDINATES[activeStateName] ?? STATE_COORDINATES['Ladakh'];
+        const carPos = coord
+          ? { x: coord.xRatio * containerBounds.width, y: coord.yRatio * containerBounds.height }
+          : undefined;
 
-      {/* Floating HUD Overlays (Hidden when hideOverlay is true) */}
-      {!hideOverlay && (
-        <>
-          <div
-            style={{
-              position: 'absolute',
-              top: 14,
-              left: 90,
-              background: 'rgba(15, 23, 42, 0.9)',
-              backdropFilter: 'blur(8px)',
-              border: '1.5px solid var(--color-saffron)',
-              borderRadius: '12px',
-              padding: '6px 16px',
-              fontSize: '13px',
-              fontWeight: 800,
-              fontFamily: 'var(--font-display)',
-              color: 'var(--color-saffron)',
-              pointerEvents: 'none',
-              boxShadow: '0 4px 16px rgba(0,0,0,0.5)',
-              display: 'flex',
-              alignItems: 'center',
-              gap: '8px',
-              zIndex: 600,
-            }}
-          >
-            <span>🏎️</span>
-            <span>TRAVEL MAP — {currentRouteName}</span>
-          </div>
-
-          <div
-            style={{
-              position: 'absolute',
-              top: 14,
-              right: 14,
-              background: 'rgba(15, 23, 42, 0.9)',
-              backdropFilter: 'blur(8px)',
-              border: '1px solid var(--color-border)',
-              borderRadius: '12px',
-              padding: '6px 16px',
-              fontSize: '12px',
-              fontWeight: 800,
-              fontFamily: 'var(--font-display)',
-              color: 'var(--color-text-primary)',
-              pointerEvents: 'none',
-              boxShadow: '0 4px 16px rgba(0,0,0,0.5)',
-              display: 'flex',
-              alignItems: 'center',
-              gap: '14px',
-              zIndex: 600,
-            }}
-          >
-            <span style={{ color: isTravelling ? 'var(--color-green-light)' : 'var(--color-text-secondary)' }}>
-              🏎️ {isTravelling ? '140 KM/H' : '0 KM/H'}
-            </span>
-            <span style={{ color: 'var(--color-gold)' }}>
-              ⛽ 78% FUEL
-            </span>
-            <span style={{ color: 'var(--color-cyan)' }}>
-              ⏱️ ETA: 05:15 PM
-            </span>
-          </div>
-
-          <div
-            style={{
-              position: 'absolute',
-              bottom: 14,
-              right: 14,
-              zIndex: 600,
-            }}
-          >
-            <div
-              style={{
-                background: 'linear-gradient(135deg, #ff9933 0%, #e07000 100%)',
-                color: '#1a0a00',
-                border: '1.5px solid var(--color-gold)',
-                borderRadius: '10px',
-                padding: '6px 14px',
-                fontSize: '12px',
-                fontWeight: 900,
-                fontFamily: 'var(--font-display)',
-                boxShadow: '0 0 16px rgba(255, 153, 51, 0.4), 0 4px 12px rgba(0,0,0,0.5)',
-                backdropFilter: 'blur(8px)',
-                display: 'flex',
-                alignItems: 'center',
-                gap: '6px',
-              }}
-            >
-              <span>🏎️</span>
-              <span>Driver View</span>
-            </div>
-          </div>
-        </>
-      )}
+        return <CarAnimator position={carPos} isTravelling={false} />;
+      })()}
     </div>
   );
 }

@@ -60,10 +60,26 @@ export interface Question {
   xp_value: number;
 }
 
-// ─── IndexedDB / Session Types ────────────────────────────────────────────────
+export interface StateProgress {
+  attempts: number;
+  bestScore: number;
+  lastScore: number;
+  completed: boolean;
+}
+
+export interface QuestProgressData {
+  unlocked_states: string[];
+  completed_states: string[];
+  current_state: string;
+  state_quiz_progress?: Record<string, StateProgress>;
+}
+
 
 export interface SessionState {
   section_id: string;
+  classroom_id?: string;
+  grade?: number;
+  section_letter?: string;
   /** Ordered array of student IDs for the current round */
   turn_queue: string[];
   /** student_id → number of turns taken this session */
@@ -78,9 +94,37 @@ export interface SessionState {
   cached_students: Student[];
   /** Cached section (for offline use) */
   cached_section: Section;
+  /** Persistent quest progression data */
+  quest_progress?: QuestProgressData;
 }
 
 export type PendingSyncAttempt = QuizAttempt;
+
+// ─── App Mode ────────────────────────────────────────────────────────────────
+
+export type AppMode = 'quest';
+
+// ─── Real Quest Question (from docs/questions/quest/bharat_quest_*.json or class{N}.json) ─────
+// Fields: id, state (required for state files, optional for class-filtered pool), category, topic/subject,
+//         question, options, answer, difficulty, source, source_page/source_url (optional),
+//         class (optional, for class-filtered textbook-derived questions)
+
+export interface QuestQuestion {
+  id: string;
+  state?: string;                                                           // optional for class-filtered pool
+  category: string;
+  topic?: string;                                                           // quest state files use "topic"
+  subject?: string;                                                         // textbook-derived may use "subject"
+  chapter?: string;                                                         // textbook-derived: chapter name
+  question: string;
+  options: string[];
+  answer: string;                                                           // the correct answer text
+  difficulty: 'easy' | 'medium' | 'hard' | string;
+  source: string;
+  source_page?: number;                                                     // textbook-derived have page numbers
+  source_url?: string;                                                      // state files may have URLs
+  class?: number;                                                           // class 5-8 for textbook-derived
+}
 
 // ─── UI-only Types ────────────────────────────────────────────────────────────
 

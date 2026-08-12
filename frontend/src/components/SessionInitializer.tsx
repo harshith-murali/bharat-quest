@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useSession } from '../store/sessionStore';
+import LoadingScreen from './LoadingScreen';
 import { fetchSection } from '../api/client';
 import { getSessionState } from '../db/idb';
 import { Section, Student } from '../types';
@@ -60,10 +61,10 @@ export default function SessionInitializer({ children }: Props) {
 
   if (loading) {
     return (
-      <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column', gap: '1rem', background: '#090d16' }}>
-        <div className="spinner-ring" />
-        <p style={{ color: 'var(--color-saffron)', fontWeight: 800, fontFamily: 'var(--font-display)' }}>Loading classroom session…</p>
-      </div>
+      <LoadingScreen
+        message="Loading classroom session…"
+        hint="Fetching students and quest progress"
+      />
     );
   }
 

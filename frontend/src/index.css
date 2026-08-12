@@ -3,8 +3,9 @@
 
 /* ─── Design Tokens ─────────────────────────────────────────────────────────── */
 :root {
-  --font-body: 'Nunito', sans-serif;
+  --font-body: 'Nunito', 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif;
   --font-display: 'Baloo 2', cursive;
+  --font-emoji: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', 'Segoe UI Symbol', sans-serif;
 
   /* Palette — Rich Game Theme */
   --color-bg: #05070a;
@@ -135,17 +136,7 @@ p { color: var(--color-text-secondary); }
   white-space: nowrap;
 }
 
-.hud-pill-coin {
-  background: rgba(255, 193, 7, 0.12);
-  border: 1px solid rgba(255, 193, 7, 0.35);
-  color: var(--color-gold);
-}
 
-.hud-pill-gem {
-  background: rgba(6, 186, 212, 0.12);
-  border: 1px solid rgba(6, 186, 212, 0.35);
-  color: var(--color-cyan);
-}
 
 .hud-pill-xp {
   background: rgba(255, 153, 51, 0.12);
