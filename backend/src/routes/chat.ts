@@ -5,22 +5,26 @@ import { STATE_FACTS } from '../data/stateFacts';
 /**
  * Talk / chat endpoint.
  *
- * Provider-agnostic by design: point HF_API_KEY + HF_MODEL at any Hugging Face
- * inference model and it works. When no key is configured the endpoint still
- * responds — it falls back to answering from the seeded state facts — so the
- * classroom experience never hard-fails on a missing key or lost network.
+ * AWS Hugging Face SageMaker / Hugging Face Inference:
+ * Point HF_ENDPOINT (or SAGEMAKER_ENDPOINT_URL) + HF_MODEL at any AWS Hugging Face
+ * SageMaker real-time endpoint or Hugging Face Deep Learning Container (TGI).
+ * When no remote endpoint is configured or network is lost, the endpoint gracefully
+ * falls back to answering from seeded state facts — so the classroom experience
+ * never hard-fails or stalls.
  *
- * Guardrails (all four requested):
+ * Guardrails:
  *   1. System prompt scoped to Indian geography/history for the active state.
  *   2. Per-section rate limit.
  *   3. Full transcript persisted to Postgres for teacher review.
- *   4. Student names are NEVER included in the outbound payload.
+ *   4. Student names are NEVER included in the outbound payload (100% PII privacy).
  */
 
 const HF_API_KEY = process.env.HF_API_KEY;
 const HF_MODEL = process.env.HF_MODEL ?? 'meta-llama/Llama-3.2-3B-Instruct';
 const HF_ENDPOINT =
-  process.env.HF_ENDPOINT ?? 'https://router.huggingface.co/v1/chat/completions';
+  process.env.SAGEMAKER_ENDPOINT_URL ??
+  process.env.HF_ENDPOINT ??
+  'https://router.huggingface.co/v1/chat/completions';
 
 // ─── Guardrail 2: simple in-memory rate limit, per section ───────────────────
 const RATE_LIMIT_MAX = parseInt(process.env.CHAT_RATE_LIMIT ?? '20', 10);
