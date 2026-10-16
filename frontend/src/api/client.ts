@@ -1,5 +1,6 @@
 import { Section, Student, QuizAttempt, LeaderboardEntry } from '../types';
 import { getAllPendingAttempts, removePendingAttempts } from '../db/idb';
+import { STATE_FACTS } from '../content/stateFacts';
 
 const BASE_URL = import.meta.env.VITE_API_URL || '/api';
 
@@ -122,8 +123,25 @@ export interface StateFact {
   sort_order: number;
 }
 
+/** Convert bundled SeedFact[] → StateFact[] so the shape matches the API response. */
+function localFacts(stateName: string): StateFact[] {
+  const facts = STATE_FACTS[stateName] ?? [];
+  return facts.map((f, i) => ({
+    id: `local-${i}`,
+    state_name: stateName,
+    fact: f.fact,
+    category: f.category,
+    sort_order: i,
+  }));
+}
+
 export async function fetchStateFacts(stateName: string): Promise<StateFact[] | null> {
-  return apiFetch<StateFact[]>(`/facts/${encodeURIComponent(stateName)}`);
+  const apiRows = await apiFetch<StateFact[]>(`/facts/${encodeURIComponent(stateName)}`);
+  // If the backend is unavailable (Vercel frontend-only deploy) fall back to
+  // the bundled data so the Facts panel always has content.
+  if (apiRows !== null) return apiRows;
+  const bundled = localFacts(stateName);
+  return bundled.length > 0 ? bundled : null;
 }
 
 // ─── Talk / Chat ──────────────────────────────────────────────────────────────
@@ -145,15 +163,41 @@ export interface ChatReply {
   source: 'model' | 'facts';
 }
 
+/** Keyword-overlap fact fallback — mirrors the backend's factFallback(). */
+function clientFactFallback(message: string, stateName?: string): string {
+  const facts = stateName ? STATE_FACTS[stateName] : undefined;
+  if (!facts?.length) {
+    return "I'm still learning about this place! Try the Facts tab to discover more. 🦁";
+  }
+  const words = message
+    .toLowerCase()
+    .split(/\W+/)
+    .filter((w) => w.length > 3);
+  let best = facts[0];
+  let bestScore = 0;
+  for (const f of facts) {
+    const lower = f.fact.toLowerCase();
+    const score = words.reduce((n, w) => n + (lower.includes(w) ? 1 : 0), 0);
+    if (score > bestScore) { bestScore = score; best = f; }
+  }
+  return bestScore > 0
+    ? `Great question! ${best.fact} 🦁`
+    : `Here's something interesting about ${stateName}: ${best.fact} 🦁`;
+}
+
 export async function sendChatMessage(
   sectionId: string,
   message: string,
   stateName?: string
 ): Promise<ChatReply | null> {
-  return apiFetch<ChatReply>('/chat', {
+  const res = await apiFetch<ChatReply>('/chat', {
     method: 'POST',
     body: JSON.stringify({ sectionId, message, stateName }),
   });
+  // If the backend is unreachable (Vercel frontend-only deploy) answer from
+  // bundled state facts so the guide chat never hard-fails.
+  if (res !== null) return res;
+  return { reply: clientFactFallback(message, stateName), source: 'facts' };
 }
 
 // ─── Admin ────────────────────────────────────────────────────────────────────
