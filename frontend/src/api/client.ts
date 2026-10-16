@@ -1,7 +1,7 @@
 import { Section, Student, QuizAttempt, LeaderboardEntry } from '../types';
 import { getAllPendingAttempts, removePendingAttempts } from '../db/idb';
 
-const BASE_URL = '/api';
+const BASE_URL = import.meta.env.VITE_API_URL || '/api';
 
 // ─── Online check ─────────────────────────────────────────────────────────────
 

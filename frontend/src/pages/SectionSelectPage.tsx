@@ -33,13 +33,41 @@ export default function SectionSelectPage() {
         if (online && online.length > 0) {
           setSections(online);
           setSelectedSectionId(online[0].id);
-        } else if (!navigator.onLine) {
-          setError('You are offline. Connecting to local cached session data.');
         } else {
-          setError('No sections found. Please ensure backend is running.');
+          // Generate standalone classrooms (Grades 3-7 x Sections A-D) so the app works standalone on Vercel
+          const standaloneSections: Section[] = [];
+          for (let g = 3; g <= 7; g++) {
+            for (const l of ['A', 'B', 'C', 'D']) {
+              standaloneSections.push({
+                id: `class_${g}_${l}`,
+                name: `Grade ${g} - ${l}`,
+                current_mission_id: null,
+                map_position: 0,
+                grade: g,
+                section_letter: l,
+              } as Section);
+            }
+          }
+          setSections(standaloneSections);
+          setSelectedSectionId(standaloneSections[0].id);
         }
       } catch {
-        setError('Failed to load sections from server.');
+        // Fallback to standalone classrooms if backend is unreachable
+        const standaloneSections: Section[] = [];
+        for (let g = 3; g <= 7; g++) {
+          for (const l of ['A', 'B', 'C', 'D']) {
+            standaloneSections.push({
+              id: `class_${g}_${l}`,
+              name: `Grade ${g} - ${l}`,
+              current_mission_id: null,
+              map_position: 0,
+              grade: g,
+              section_letter: l,
+            } as Section);
+          }
+        }
+        setSections(standaloneSections);
+        setSelectedSectionId(standaloneSections[0].id);
       } finally {
         setLoading(false);
       }
