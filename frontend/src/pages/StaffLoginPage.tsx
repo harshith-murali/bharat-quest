@@ -59,6 +59,7 @@ export default function StaffLoginPage() {
           maxWidth: 420,
           boxShadow: '0 0 40px rgba(255,153,51,0.25)',
           position: 'relative',
+          overflow: 'hidden',
         }}
       >
         <div
@@ -67,9 +68,8 @@ export default function StaffLoginPage() {
             top: 0,
             left: 0,
             right: 0,
-            height: 6,
-            borderRadius: 'var(--radius-xl) var(--radius-xl) 0 0',
-            background: 'linear-gradient(90deg, #ff9933, #ffffff, #10b981)',
+            height: 5,
+            background: 'linear-gradient(90deg, #ff9933 0%, #ffffff 50%, #10b981 100%)',
           }}
         />
 
