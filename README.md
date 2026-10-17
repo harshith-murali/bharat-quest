@@ -1,101 +1,128 @@
-# Bharat Quest AI
+<p align="center">
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-An educational quiz game for classroom smartboards. Students take turns exploring a 3D map of India, answering geography/history/civics questions state-by-state, guided by a lion mascot. Tracks XP, quest progression, and a weekly leaderboard. Works fully **offline** — syncs to the backend when the network is restored.
+# Bharat Quest AI — Offline-First 3D Classroom Learning Platform
 
----
+> An educational 3D quiz and adventure platform designed for Indian classroom smartboards. Students take turns exploring a 3D interactive map of India, answering geography, history, and civics questions state-by-state guided by a lion mascot. Features an **offline-first** architecture with IndexedDB client caching and idempotent PostgreSQL sync, turn fairness algorithms, and an AI conversational tutor with offline fact fallbacks.
 
-## Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | React 18 + Vite + TypeScript |
-| 3D | react-three-fiber + drei + Three.js (India map, car animation, lion mascot) |
-| Backend | Node.js + Fastify + TypeScript |
-| Database | PostgreSQL |
-| Auth | JWT in an httpOnly cookie + bcrypt, role-based (admin / teacher) |
-| AI Chat | Any OpenAI-compatible Hugging Face inference model, with an offline fact-based fallback |
-| Offline | IndexedDB via `idb` (client cache; Postgres is the source of truth) |
-| Testing | Vitest (backend + frontend), Testing Library |
-| Deployment | Docker Compose (nginx + Fastify + Postgres), designed for ECS/Fargate + RDS |
+🔗 **Live Demo:** [bharat-quest-one.vercel.app](https://bharat-quest-one.vercel.app)  
+📦 **Repository:** [github.com/harshith-murali/bharat-quest](https://github.com/harshith-murali/bharat-quest)
 
 ---
 
-## Prerequisites
+## 🛠️ Tech Stack
 
-- **Node.js** v20+ (with npm)
-- **PostgreSQL** running locally (default port 5432) — or use Docker (see below)
+| Layer | Technology | Purpose |
+|---|---|---|
+| **Frontend** | React 18 + Vite + TypeScript | High-performance SPA optimized for smartboard touch screens |
+| **3D Rendering** | Three.js + React Three Fiber + `@react-three/drei` | Interactive 3D India map, animated mascot, and spline navigation |
+| **Backend API** | Node.js + Fastify + TypeScript | Lightweight, low-overhead REST API with schema validation |
+| **Database** | PostgreSQL | Authoritative data store for classrooms, rosters, attempts, and XP |
+| **Authentication** | JWT in `HttpOnly` cookie + bcrypt | Role-based access control (Admin / Teacher); students do not need accounts |
+| **Offline Engine** | IndexedDB via `idb` | Complete offline playability: quiz, queue, turn fairness, and optimistic XP |
+| **AI Mascot** | Hugging Face Router / OpenAI compatible | Topic-guarded educational dialogue with keyword-based offline fallback |
+| **Testing** | Vitest + React Testing Library | Unit and integration test coverage across frontend and backend |
+| **Deployment** | Docker Compose + Nginx reverse proxy | Production-ready stack designed for AWS ECS/Fargate + RDS |
 
 ---
 
-## Setup Instructions
+## 🌟 Key Architecture & Highlights
 
-### 1. Clone & enter project
+### 1. Offline-First Resilience & Idempotent Sync
+Classrooms often face intermittent connectivity. Bharat Quest handles this transparently:
+- **Client Cache**: Student rosters, quest checkpoints, and turn state are cached locally in IndexedDB.
+- **Optimistic Progression**: Quizzes and XP increments execute instantly on the client with UUIDv4 attempt keys stored in `pending_sync_queue`.
+- **Idempotent Sync**: Upon network reconnection, cached attempts flush to `POST /sections/:id/sync-attempts`. The backend query executes:
+  ```sql
+  INSERT INTO quiz_attempts (id, student_id, question_id, correct, xp_awarded, answered_at)
+  VALUES ($1, $2, $3, $4, $5, $6)
+  ON CONFLICT (id) DO NOTHING;
+  ```
+  Only newly inserted rows update server-side student XP totals, completely preventing duplicate points on retries.
 
+### 2. Fair Turn Scheduler (No Child Left Behind)
+A classroom smartboard requires engaging every student equitably:
+- Students with `last_turn_at = NULL` receive top priority.
+- Remaining students are sorted ascending by `last_turn_at` (longest wait time goes first) with minute random jitter to break ties.
+- Absent students are skipped without updating their timestamp, giving them natural priority when they return.
+
+### 3. Topic-Guarded AI Mascot with Offline Fallback
+- The lion mascot answers questions about state history, culture, and civics.
+- Prompts are strictly guarded against off-topic queries and student PII is never transmitted.
+- If network access is down or `HF_API_KEY` is omitted, the engine falls back deterministically to seeded `state_facts` using keyword extraction.
+
+---
+
+## 🚀 Quick Start (Local Development)
+
+### Prerequisites
+- **Node.js** ≥ 20.x
+- **PostgreSQL** ≥ 14.x (or Docker)
+
+### 1. Clone & Enter Project
 ```bash
+git clone https://github.com/harshith-murali/bharat-quest.git
 cd bharat-quest
 ```
 
-### 2. Set up the backend
-
+### 2. Configure Backend
 ```bash
 cd backend
 npm install
 cp .env.example .env
-# Edit .env — set DATABASE_URL to your Postgres connection string
-# Example: postgresql://postgres:yourpassword@localhost:5432/bharat_quest
 ```
 
-Create the database (first time only):
-
+Create the PostgreSQL database:
 ```bash
 psql -U postgres -c "CREATE DATABASE bharat_quest;"
 ```
 
-Run migrations, then seed demo data:
-
+Run migrations and seed demo data:
 ```bash
-npm run migrate         # creates/updates all tables (idempotent)
-npm run seed             # 1 demo section + 6 students
-npm run seed:classrooms  # Class 3-7 × Section A-D classroom rows
-npm run seed:facts       # state facts used by the Facts panel + chat fallback
+npm run migrate         # Idempotent table creation
+npm run seed             # 1 demo section + 6 student profiles
+npm run seed:classrooms  # Class 3-7 × Section A-D classrooms
+npm run seed:facts       # State facts for Facts panel & AI fallback
 
-# Create the first admin account (required to sign in to the admin panel)
+# Seed the first administrator
 ADMIN_EMAIL=head@school.test ADMIN_PASSWORD='choose-a-strong-password' npm run seed:admin
-```
 
-Start the backend dev server:
-
-```bash
+# Start backend dev server
 npm run dev
-# Runs on http://localhost:3001
+# Server running at http://localhost:3001
 ```
 
-### 3. Set up the frontend
-
+### 3. Configure Frontend
 ```bash
 cd ../frontend
 npm install
 npm run dev
-# Runs on http://localhost:5173 (proxies /api → localhost:3001)
+# Frontend running at http://localhost:5173 (proxies /api → localhost:3001)
 ```
 
 Open **http://localhost:5173** in your browser.
 
 ---
 
-## Running with Docker (production-parity stack)
+## 🐳 Docker Deployment (Production Parity)
+
+A complete multi-container stack with Nginx reverse proxy, Fastify backend, and PostgreSQL:
 
 ```bash
 cp .env.docker.example .env
-# Edit .env — set JWT_SECRET (openssl rand -base64 48) and POSTGRES_PASSWORD
-
-docker compose up --build
-# Frontend: http://localhost:8080 (nginx, proxies /api to the backend)
-# Backend:  internal only, reachable via the frontend's /api proxy
+docker compose up --build -d
 ```
+- **Web App (Nginx)**: `http://localhost:8080` (routes `/api` to the backend)
+- **Backend**: Internal service network
 
-Seed the freshly created database from inside the running backend container:
-
+Seed the containerized database:
 ```bash
 docker compose exec backend npm run seed
 docker compose exec backend npm run seed:classrooms
@@ -103,201 +130,45 @@ docker compose exec backend npm run seed:facts
 docker compose exec backend env ADMIN_EMAIL=head@school.test ADMIN_PASSWORD='choose-a-strong-password' npm run seed:admin
 ```
 
-`docker-compose.prod.yml` is the single-host production variant — no bundled Postgres (points `DATABASE_URL` at RDS or another managed instance instead):
-
-```bash
-docker compose -f docker-compose.prod.yml up -d --build
-```
-
-See `backend/.env.example` and `.env.docker.example` for every configuration option (CORS origin, cookie security, chat rate limits, HF model settings, etc.).
-
 ---
 
-## Core Flows
-
-### Sign-in
-
-1. From the home screen, pick a classroom (Class 3-7 × Section A-D)
-2. Staff (teachers/admins) sign in via **Staff Login** to reach the Dashboard and Admin panel; students never authenticate — they're chosen via the turn spinner on a shared smartboard
-
-### Quest Mode (primary experience)
-
-1. From the Dashboard, select **Quest** to open the 3D map of India
-2. The mascot (lion guide) drives a car between states as the class progresses
-3. At each state: view **Facts**, **Talk** to the mascot (AI chat, topic-guarded to Indian geography/history/culture), or take the state's quiz
-4. Answering questions correctly unlocks the next state and awards XP; a monument-reveal modal celebrates milestones
-5. Completing all quest states triggers the Game Victory modal
-
-### Admin Panel
-
-Signed-in teachers manage students in their assigned classroom(s); admins manage every classroom and staff account, from `/session/:sectionId/admin`.
-
-### Testing Offline Mode
-
-1. Open DevTools → Network tab → set throttling to "Offline"
-2. Keep playing — quiz, XP, and turns all work locally (IndexedDB)
-3. The orange banner confirms offline mode
-4. Re-enable network → the sync indicator flashes as data syncs automatically
-5. Leaderboard and quest progress update with the synced results
-
----
-
-## Project Structure
-
-```
-bharat-quest/
-├── backend/
-│   └── src/
-│       ├── server.ts           # Fastify entry point (CORS, helmet, rate limit, JWT cookie)
-│       ├── db.ts                # PostgreSQL pool
-│       ├── auth.ts              # Session verification + RBAC helpers
-│       ├── migrate.ts           # Idempotent schema migration
-│       ├── seed.ts / seedClassrooms.ts / seedFacts.ts / seedAdmin.ts
-│       ├── data/stateFacts.ts   # Seeded facts (chat fallback + Facts panel)
-│       └── routes/
-│           ├── auth.ts          # login/logout/me + staff account management
-│           ├── sections.ts      # GET /sections, GET /sections/:id
-│           ├── sync.ts          # POST sync-attempts, GET leaderboard
-│           ├── progress.ts      # Server-authoritative quest progression
-│           ├── facts.ts         # Per-state facts
-│           ├── chat.ts          # AI "Talk" endpoint + offline fallback
-│           └── admin.ts         # Student CRUD, classroom lookup (RBAC-scoped)
-└── frontend/
-    └── src/
-        ├── App.tsx              # Routes
-        ├── content/             # Quest state landmarks, mascot dialogue
-        ├── db/idb.ts             # IndexedDB (session_state, pending_sync_queue)
-        ├── store/sessionStore.tsx  # React Context + useReducer (core state)
-        ├── api/client.ts        # Typed fetch wrappers
-        ├── loaders/             # Quest/question content loaders
-        ├── utils/               # Coordinate scaling, route engine
-        ├── components/
-        │   ├── 3d/              # India map scene, car, lion mascot, route spline
-        │   ├── FactsPanel.tsx / TalkPanel.tsx
-        │   ├── QuizCard.tsx / GenericQuizCard.tsx / Spinner.tsx / RosterDrawer.tsx
-        │   └── *Modal.tsx       # Monument reveal, state arrival, game victory
-        └── pages/
-            ├── SectionSelectPage.tsx / StaffLoginPage.tsx
-            ├── DashboardPage.tsx / MapScreen.tsx / QuestStatePage.tsx
-            ├── QuizScreen.tsx / LeaderboardPage.tsx / AdminPage.tsx
-            └── NotFoundPage.tsx
-```
-
----
-
-## API Endpoints
+## 📡 REST API Reference
 
 | Method | Path | Auth | Description |
 |---|---|---|---|
-| GET | `/sections` | — | List all sections |
-| GET | `/sections/:id` | — | Section + students with XP/level |
-| POST | `/sections/:id/sync-attempts` | — | Deduped insert of quiz attempts, returns updated students |
-| GET | `/sections/:id/leaderboard?week=current` | — | Weekly XP leaderboard (SQL-computed) |
-| GET | `/progress/:sectionId` | — | Quest progression (unlocked/completed states) |
-| PUT | `/progress/:sectionId` | — | Upsert quest progression |
-| GET | `/facts/:stateName` | — | Facts for one state |
-| GET | `/facts` | — | All facts, grouped by state |
-| POST | `/chat` | — | Send a message to the mascot; persists transcript, rate-limited per section |
-| GET | `/chat/:sectionId` | — | Chat transcript for a section |
-| POST | `/auth/login` / `/auth/logout` | — | Staff sign-in / sign-out |
-| GET | `/auth/me` | staff | Current signed-in user |
-| GET/POST/PATCH/DELETE | `/auth/users*` | admin | Manage staff accounts |
-| GET/POST/PATCH/DELETE | `/admin/students*` | staff (RBAC-scoped) | Manage students |
-| GET | `/admin/sections` / `/admin/sections/lookup` | staff | Classroom lookup |
-| GET | `/health` | — | Liveness check |
-| GET | `/ready` | — | Readiness check (verifies DB connectivity) |
-
-### Sync Endpoint — Deduplication
-
-`POST /sync-attempts` is idempotent — if you POST the same attempt UUID twice, the second insert is silently ignored (`ON CONFLICT DO NOTHING`). Safe to retry from the client.
-
-### Auth Model
-
-- **Students are never authenticated.** The app runs on a shared classroom smartboard; students are chosen by the turn spinner.
-- **Staff accounts** (`admin` / `teacher`) sign in via `/auth/login`; the session is a JWT in an httpOnly cookie (`bq_session`, 12h expiry — a school day).
-- **admin** manages every classroom and all staff accounts. **teacher** manages students only within classrooms they're assigned to (`user_sections`).
-- Every request re-checks `is_active` so a deactivated or role-changed account loses access immediately, not at token expiry.
-
-### Talk / Chat Guardrails
-
-- System prompt scoped to Indian geography/history/culture/civics for the active quest state; off-topic questions are steered back.
-- Per-section rate limit (`CHAT_RATE_LIMIT`, default 20/min).
-- Full transcript persisted to Postgres for teacher review.
-- Student names/identifiers are never included in the outbound model payload.
-- With no `HF_API_KEY` configured, the endpoint still answers — it falls back to the seeded `state_facts` by keyword match — so Talk never hard-fails on a missing key or lost network.
+| `GET` | `/sections` | Public | List all school sections (Class 3-7) |
+| `GET` | `/sections/:id` | Public | Section details with roster, student XP, and levels |
+| `POST` | `/sections/:id/sync-attempts` | Public | Idempotent bulk sync of offline quiz attempts |
+| `GET` | `/sections/:id/leaderboard` | Public | Weekly XP leaderboard computed via SQL |
+| `GET` | `/progress/:sectionId` | Public | Query authoritative quest map checkpoints |
+| `PUT` | `/progress/:sectionId` | Public | Upsert unlocked and completed states |
+| `GET` | `/facts/:stateName` | Public | Fetch curated NCERT facts for a state |
+| `POST` | `/chat` | Public | Ask mascot a question; rate-limited per classroom |
+| `POST` | `/auth/login` | Public | Staff authentication (Admin / Teacher) |
+| `GET` | `/auth/me` | Staff | Validate current session and retrieve permissions |
+| `GET/POST`| `/admin/students` | Staff | CRUD management for classroom rosters |
+| `GET` | `/health` | Public | Service liveness health probe |
+| `GET` | `/ready` | Public | Database readiness health probe |
 
 ---
 
-## Data Model
-
-### Postgres Tables
-
-```sql
-sections        -- id, name, grade, section_letter, current_mission_id, map_position
-students        -- id, section_id, name, avatar, level, total_xp, coins, gems, badges, last_turn_at
-quiz_attempts   -- id (client UUID), student_id, question_id, correct, xp_awarded, answered_at, synced_at
-quest_progress  -- section_id, unlocked_states, completed_states, current_state, state_quiz_progress
-state_facts     -- id, state_name, fact, category, sort_order
-chat_messages   -- id, section_id, state_name, role (user/assistant), content, created_at
-users           -- id, email, password_hash, name, role (admin/teacher), is_active, last_login_at
-user_sections   -- user_id, section_id (which classrooms a teacher may manage)
-```
-
-### IndexedDB Stores (browser)
-
-```
-session_state      -- keyed by section_id; holds turn queue, mission state, cached students
-pending_sync_queue -- keyed by attempt UUID; cleared after successful sync
-```
-
----
-
-## Turn Fairness Logic
-
-- Students with `last_turn_at = NULL` (never had a turn) are **highest priority**
-- Then sorted by `last_turn_at` **ascending** (longest time since last turn = earlier in queue)
-- Small random jitter breaks ties among students with equal recency
-- After all present students complete a round, the queue rebuilds using the updated `last_turn_at` values
-- **Absent students**: `last_turn_at` is never updated while absent → they gain natural priority on return
-- **Skip**: moves student to end of current round without changing their `last_turn_at`
-
----
-
-## Testing
+## 🧪 Testing Suite
 
 ```bash
-# Backend
+# Backend unit & integration tests
 cd backend
-npm test              # run once
-npm run test:watch    # watch mode
+npm test
 npm run test:coverage
 
-# Frontend
-cd frontend
+# Frontend unit & component tests
+cd ../frontend
 npm test
-npm run test:watch
 npm run test:coverage
 ```
 
-3D scenes (`components/3d/**`, `components/map/**`) are excluded from automated coverage — jsdom has no WebGL context — and are verified visually instead.
+*(Note: Three.js WebGL scenes are visually verified as jsdom has no native hardware WebGL context).*
 
 ---
 
-## Development Notes
-
-- Backend proxied via Vite (`/api` → `localhost:3001`) in dev, and via nginx (`/api` → `backend:3001`) in the Docker stack — no CORS issues in either.
-- All seed scripts (`seed`, `seed:classrooms`, `seed:facts`, `seed:admin`) and `migrate` are **idempotent** — safe to run multiple times.
-- XP level formula: `level = floor(total_xp / 100) + 1` (same on server and client).
-- Optimistic UI: XP updates locally on answer, then authoritative server values overwrite on sync.
-- Postgres is the source of truth for quest progression; IndexedDB is purely an offline cache that pushes to `/progress/:sectionId` when online.
-- `JWT_SECRET` and `DATABASE_URL` are required at boot in production (`NODE_ENV=production`) — the server fails fast rather than serving requests it can't secure.
-
----
-
-## Content
-
-Quest mode covers the 30 canonical states/UTs on the map (see `frontend/src/loaders/questLoader.ts`), each with:
-- A set of NCERT-aligned quiz questions (Grade 1-7 appropriate)
-- Seeded facts (`state_facts`, via `npm run seed:facts`) used by the Facts panel and the Talk chat fallback
-- Mascot dialogue and a monument to reveal on completion (`frontend/src/content/`)
-
+## 📄 License
+MIT License. Built for Bharat Quest AI.
